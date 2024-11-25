@@ -4,9 +4,10 @@ draft = false
 title = 'About'
 +++
 
-Julian West is a North Texas network engineer, musician, and writer.
+# _Julian West is a North Texas network engineer, musician, and writer._
 
-Trivial stuff…
+*Trivial stuff…*  
+
 I am a working-glass geek into technology, art, and good design.
 I was raised in rural Texas by parents who were both born before 1931 (I am late for everything).
 I am a self-made man with all the past mistakes to prove it. I keep growing and learning every day.
