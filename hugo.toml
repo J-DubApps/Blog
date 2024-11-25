@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'julianwest.me.blog'
 theme = 'ananke'
 weight = 1
-
+pluralizeListTitles = false
 
 defaultContentLanguage = "en"
 sectionPagesMenu = "main"
@@ -26,7 +26,7 @@ featured_image_class = "cover bg-top"
 # choose a color dimming class for the page or site header from any on this page: https://tachyons.io/docs/themes/skins/, preface it with "bg-" and add the value such as "-X0" where X is in [1,9]
 cover_dimming_class = "bg-black-60"
 recent_posts_number = 5
-pluralizeListTitles = false
+
 
 [params.ananke.social.share]
 networks = [

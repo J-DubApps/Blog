@@ -4,7 +4,9 @@ draft = false
 title = 'About'
 +++
 
-## _Julian West is a North Texas network engineer, musician, and writer._
+## _Julian West is a North Texas network engineer, musician, and writer._\  
+
+![Alt text](julian-about.jpeg)
 
 *Trivial stuff…*  
 

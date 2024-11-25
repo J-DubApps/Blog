@@ -2,7 +2,7 @@ title = 'julianwest.me.blog'
 baseURL = 'http://julianwest.me/Blog/'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
-
+pluralizeListTitles = false
 
 defaultContentLanguage = "en"
 sectionPagesMenu = "main"
