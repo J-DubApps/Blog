@@ -1,6 +1,4 @@
 baseURL = 'http://julianwest.me/Blog/'
-languageCode = 'en-us'
-title = 'julianwest.me.blog'
 theme = 'ananke'
 
 resourceDir = "../resources"
@@ -15,14 +13,8 @@ pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a h
 contentDir = "content/en"
 languageCode = 'en-US'
 weight = 1
-title = "Ananke"
+title = 'julianwest.me.blog'
 # languageDirection = 'rtl' for Right-To-Left languages
-
-[languages.fr]
-contentDir = "content/fr"
-languageCode = 'fr-FR'
-weight = 2
-title = "Ananke Fr"
 
 [sitemap]
 changefreq = "monthly"
