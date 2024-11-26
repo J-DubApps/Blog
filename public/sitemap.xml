@@ -3,13 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://julianwest.me/Blog/</loc>
-    <lastmod>2024-11-24T23:17:51-06:00</lastmod>
+    <lastmod>2024-11-25T15:04:18-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://julianwest.me/Blog/site-disclosure/site-disclosure/</loc>
+    <lastmod>2024-11-25T15:04:18-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://julianwest.me/Blog/site-disclosure/</loc>
+    <lastmod>2024-11-25T15:04:18-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://julianwest.me/Blog/contact/</loc>
+    <lastmod>2024-11-25T15:00:09-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://julianwest.me/Blog/contact/contacting/</loc>
+    <lastmod>2024-11-25T15:00:09-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://julianwest.me/Blog/colophon/</loc>
+    <lastmod>2024-11-25T14:57:42-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://julianwest.me/Blog/colophon/colophon/</loc>
+    <lastmod>2024-11-25T14:57:42-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://julianwest.me/Blog/about/</loc>
+    <lastmod>2024-11-25T14:57:32-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://julianwest.me/Blog/about/about/</loc>
+    <lastmod>2024-11-25T14:57:32-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://julianwest.me/Blog/posts/</loc>
     <lastmod>2024-11-24T23:17:51-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://julianwest.me/Blog/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://julianwest.me/Blog/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
