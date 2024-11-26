@@ -27,8 +27,12 @@ pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a h
     weight = 30
   [[menus.main]]
     name = 'Contact'
-    pageRef = '/contact/contact'
+    pageRef = '/contact/contacting'
     weight = 40
+  [[menus.main]]
+    identifier = "github"
+    url = "https://github.com/J-DubApps"
+    weight = 50
   [[menus.footer]]
     name = 'Colophon'
     pageRef = '/colophon'
