@@ -18,13 +18,13 @@ pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a h
     url = "https://julianwest.me"
     weight = 10
   [[menus.main]]
+    name = 'Main'
+    url = "https://julianwest.me/Blog"
+    weight = 15
+  [[menus.main]]
     name = 'Posts'
     pageRef = '/posts'
     weight = 20
-  [[menus.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 25
   [[menus.main]]
     name = 'About'
     pageRef = '/about/about'
@@ -33,6 +33,10 @@ pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a h
     name = 'Contact'
     pageRef = '/contact/contacting'
     weight = 40
+  [[menus.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 45
   [[menus.main]]
     mame = 'Github'
     identifier = "github"
