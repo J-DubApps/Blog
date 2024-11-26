@@ -23,11 +23,11 @@ pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a h
     weight = 20
   [[menus.main]]
     name = 'About'
-    pageRef = '/about'
+    pageRef = '/about/about'
     weight = 30
   [[menus.main]]
     name = 'Contact'
-    pageRef = '/contact'
+    pageRef = '/contact/contact'
     weight = 40
   [[menus.footer]]
     name = 'Colophon'
