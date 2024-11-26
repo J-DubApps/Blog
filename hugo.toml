@@ -7,11 +7,36 @@ pluralizeListTitles = false
 enableRobotsTXT = true
 
 defaultContentLanguage = "en"
-sectionPagesMenu = "main"
+#sectionPagesMenu = "main"
 
 [pagination]
 pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 
+[menus]
+  [[menus.main]]
+    name = 'Blog Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Blog Posts'
+    pageRef = '/posts'
+    weight = 20
+  [[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 30
+  [[menus.main]]
+    name = 'Contact'
+    pageRef = '/contact'
+    weight = 40
+  [[menus.footer]]
+    name = 'Colophon'
+    pageRef = '/colophon'
+    weight = 10
+  [[menus.footer]]
+    name = 'Terms'
+    pageRef = '/site-disclosure'
+    weight = 20
 
 [sitemap]
 changefreq = "monthly"
