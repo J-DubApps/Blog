@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on julianwest.me.blog</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in About on julianwest.me.blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Nov 2024 14:57:32 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Mon, 25 Nov 2024 14:57:32 -0600</pubDate>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>&lt;h3 id=&#34;_julian-west-is-a-north-texas-network-engineer-musician-and-writer_&#34;&gt;&lt;em&gt;Julian West is a North Texas network engineer, musician, and writer.&lt;/em&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;julian-about.jpeg&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;_trivial-stuff_&#34;&gt;&lt;em&gt;Trivial stuff&lt;/em&gt;&lt;/h4&gt;&#xA;&lt;p&gt;I am a working-glass geek into technology, art, and good design.&lt;!-- raw HTML omitted --&gt;&lt;br&gt;&#xA;I was raised in rural Texas by parents who were both born before 1931 (I am late for everything).&lt;!-- raw HTML omitted --&gt;&lt;br&gt;&#xA;I am a self-made man with all the past mistakes to prove it. I keep growing and learning every day.&lt;!-- raw HTML omitted --&gt;&lt;br&gt;&#xA;I endured a term of poverty growing up, including a very brief period of homelessness. It was an education I wouldn’t trade for anything.&lt;!-- raw HTML omitted --&gt;  &lt;br&gt;&#xA;Writing code changed my life along with curiosity, Macs, and PCs.&lt;!-- raw HTML omitted --&gt;&lt;br&gt;&#xA;Myers-Briggs says I am INTP, but I like people. At least the cool ones.&lt;!-- raw HTML omitted --&gt;&lt;br&gt;&#xA;My close friends call me “Jules”, maybe seven people. The cool ones.&lt;!-- raw HTML omitted --&gt;&lt;br&gt;&#xA;For a living I’m an ops nerd and I manage IT network projects &amp;amp; deployments.&lt;!-- raw HTML omitted --&gt;&lt;br&gt;&#xA;I am, despite the Cisco/Microsoft/Linux IT gig, a huge Apple geek. This is not an uncommon thing nowadays.&lt;!-- raw HTML omitted --&gt;&lt;br&gt;&#xA;I drive an electric car built in California which unfortunately transformed an autistic immigant billionaire into a problematic Oligarch. Still pondering that one.&lt;!-- raw HTML omitted --&gt;&lt;br&gt;&#xA;For hobbies I write and strum a guitar and develop messy PowerShell and Python code.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

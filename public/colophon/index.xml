@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Colophon on julianwest.me.blog</title>
+    <link>http://localhost:1313/colophon/</link>
+    <description>Recent content in Colophon on julianwest.me.blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Nov 2024 14:57:42 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/colophon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Colophon</title>
+      <link>http://localhost:1313/colophon/colophon/</link>
+      <pubDate>Mon, 25 Nov 2024 14:57:42 -0600</pubDate>
+      <guid>http://localhost:1313/colophon/colophon/</guid>
+      <description>&lt;p&gt;This is the personal blog and web site of Julian West. More about Julian &lt;a href=&#34;https://example.com&#34;&gt;here.&lt;/a&gt; Site Disclosure &lt;a href=&#34;https://example.com&#34;&gt;here.&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;julian.jpeg&#34; alt=&#34;Alt text&#34;&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hosting = Github Pages.&lt;!-- raw HTML omitted --&gt;&#xA;Blog CMS is Hugo static site generator framework, running as a GitHub Pages workflow.&lt;!-- raw HTML omitted --&gt;&#xA;Articles are typically drafted in Scrivener, archived in Day One journal.&lt;!-- raw HTML omitted --&gt;&#xA;julianwest.me is best-viewed in a standards-compliant web browser (Safari or Chrome/Edge/etc).&lt;!-- raw HTML omitted --&gt;&#xA;If you’re using a recent browser and have problems navigating my site or blog, do let me know.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

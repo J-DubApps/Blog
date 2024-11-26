@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Site-Disclosure on julianwest.me.blog</title>
+    <link>http://localhost:1313/site-disclosure/</link>
+    <description>Recent content in Site-Disclosure on julianwest.me.blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Nov 2024 15:04:18 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/site-disclosure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Site Disclosure</title>
+      <link>http://localhost:1313/site-disclosure/site-disclosure/</link>
+      <pubDate>Mon, 25 Nov 2024 15:04:18 -0600</pubDate>
+      <guid>http://localhost:1313/site-disclosure/site-disclosure/</guid>
+      <description>&lt;p&gt;The opinions expressed on julianwest.me are solely my own and do not reflect the views of my employer, my friends and relatives, or any other carbon-based lifeform.&lt;/p&gt;&#xA;&lt;p&gt;I may occasionally review products that I personally purchased or already own. I will not respond to solicitations to review products, nor do I accept loaner/demo products to review or blog about.&lt;/p&gt;&#xA;&lt;p&gt;I own, or have owned, some stock in a few of the tech companies I routinely blog, brag, or rant about including: Microsoft, Cisco, Apple, IBM, Solar City, and Tesla.&lt;br&gt;&#xA;As an information technology professional who often works under various NDAs, I adhere to employer policies governing blogging. Consequently I do not discuss my employers, projects, nor will I comment on past or present matters protected by attorney/client privelege.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

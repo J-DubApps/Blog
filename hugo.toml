@@ -1,4 +1,4 @@
-baseURL = 'http://julianwest.me/Blog/'
+baseURL = 'http://localhost:1313'
 languageCode = 'en-us'
 title = 'julianwest.me.blog'
 theme = 'ananke'

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact on julianwest.me.blog</title>
+    <link>http://localhost:1313/contact/</link>
+    <description>Recent content in Contact on julianwest.me.blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Nov 2024 15:00:09 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/contact/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/contacting/</link>
+      <pubDate>Mon, 25 Nov 2024 15:00:09 -0600</pubDate>
+      <guid>http://localhost:1313/contact/contacting/</guid>
+      <description>&lt;h1 id=&#34;contacting-me-br-br-&#34;&gt;Contacting Me… &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/h1&gt;&#xA;&lt;p&gt;I welcome and look forward to questions or comments (good or bad) about julianwest.me, so feel free to write me, DM, etc.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&#xA;I do receive a fair amount of email every day. If I don’t respond to your email quickly, or if my response is indefinitely delayed, please don’t be offended. It’s possible I may missed your email, but try to read all email and chances are I will see it.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&#xA;Note to IT job recruiters: please do not write to me at my personal email address (unless you’re Apple, Google, or Cisco you’ll probably hit a filter), and instead please make any unsolicited correspondence via my LinkedIn profile. I answer all messages eventually. Thanks.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
