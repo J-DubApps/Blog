@@ -7,7 +7,7 @@ pluralizeListTitles = false
 enableRobotsTXT = true
 
 defaultContentLanguage = "en"
-# sectionPagesMenu = "main"
+sectionPagesMenu = "main"
 
 [pagination]
 pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a higher number
