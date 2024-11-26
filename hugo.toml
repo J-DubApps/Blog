@@ -34,6 +34,7 @@ pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a h
     pageRef = '/contact/contacting'
     weight = 40
   [[menus.main]]
+    mame = 'Github'
     identifier = "github"
     url = "https://github.com/J-DubApps"
     weight = 50
@@ -71,8 +72,11 @@ featured_image_class = "cover bg-top"
 cover_dimming_class = "bg-black-60"
 recent_posts_number = 5
 
+accentColor = "#FF4D4D"
+showPostsOnHomePage = "recent"
+showBackToTopButton = true
 avatarAltText = "avatar"
-avatarSize = "size-m"
+avatarSize = "size-l"
 avatarURL = "/images/avatar.jpeg"
 footer = "julianwest.me"
 metaKeywords = ["blog", "julianwest.me", "julian west"]
