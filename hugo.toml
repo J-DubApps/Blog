@@ -18,9 +18,13 @@ pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a h
     pageRef = '/'
     weight = 10
   [[menus.main]]
-    name = 'Blog Posts'
+    name = 'Posts'
     pageRef = '/posts'
     weight = 20
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 25
   [[menus.main]]
     name = 'About'
     pageRef = '/about/about'
