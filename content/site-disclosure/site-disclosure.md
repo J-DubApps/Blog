@@ -5,9 +5,12 @@ title = 'Site Disclosure'
 +++
 
 The opinions expressed on julianwest.me are solely my own and do not reflect the views of my employer, my friends and relatives, or any other carbon-based lifeform.  
-I may occasionally review products that I personally purchased or already own. I will not respond to solicitations to review products, nor do I accept loaner/demo products to review or blog about.
+
+I may occasionally review products that I personally purchased or already own. I will not respond to solicitations to review products, nor do I accept loaner/demo products to review or blog about.  
+
 I own, or have owned, some stock in a few of the tech companies I routinely blog, brag, or rant about including: Microsoft, Cisco, Apple, IBM, Solar City, and Tesla.  
-As an information technology professional who often works under various NDAs, I adhere to employer policies governing blogging. Consequently I do not discuss my employers, projects, nor will I comment on past or present matters protected by attorney/client privelege.
+As an information technology professional who often works under various NDAs, I adhere to employer policies governing blogging. Consequently I do not discuss my employers, projects, nor will I comment on past or present matters protected by attorney/client privelege.  
+
 If anyone believes any content on this site violates any policy or ethical guidelines, I invite them to contact me immediately.
 
 ## Site Conditions
