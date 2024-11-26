@@ -3,6 +3,8 @@ date = '2024-11-25T14:57:32-06:00'
 draft = false
 menus = 'main'
 title = 'About'
+type: "post"
+tags: ["blog"]
 +++
 
 ### _Julian West is a North Texas network engineer, musician, and writer._
