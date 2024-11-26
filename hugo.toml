@@ -74,6 +74,7 @@ recent_posts_number = 5
 
 accentColor = "#FF4D4D"
 showPostsOnHomePage = "recent"
+numberPostsOnHomePage = 4
 showBackToTopButton = true
 avatarAltText = "avatar"
 avatarSize = "size-l"
@@ -83,4 +84,4 @@ metaKeywords = ["blog", "julianwest.me", "julian west"]
 showBackToTopButton = true # true or false for "back to top" button on posts and pages
 
 [minify]
-    minifyOutput = true
+minifyOutput = true
