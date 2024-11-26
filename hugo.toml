@@ -1,33 +1,42 @@
 baseURL = 'http://localhost:1313'
 languageCode = 'en-us'
 title = 'julianwest.me.blog'
-theme = 'ananke'
+theme = 'gokarna'
 weight = 1
 pluralizeListTitles = false
+enableRobotsTXT = true
 
 defaultContentLanguage = "en"
-# sectionPagesMenu = "main"
+#sectionPagesMenu = "main"
 
 [pagination]
 pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 
 [menus]
   [[menus.main]]
-    name = 'Blog Home'
+    name = 'Main'
     pageRef = '/'
     weight = 10
   [[menus.main]]
-    name = 'Blog Posts'
+    name = 'Posts'
     pageRef = '/posts'
     weight = 20
   [[menus.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 25
+  [[menus.main]]
     name = 'About'
-    pageRef = '/about'
+    pageRef = '/about/about'
     weight = 30
   [[menus.main]]
     name = 'Contact'
-    pageRef = '/contact'
+    pageRef = '/contact/contacting'
     weight = 40
+  [[menus.main]]
+    identifier = "github"
+    url = "https://github.com/J-DubApps"
+    weight = 50
   [[menus.footer]]
     name = 'Colophon'
     pageRef = '/colophon'
@@ -55,29 +64,3 @@ featured_image_class = "cover bg-top"
 # choose a color dimming class for the page or site header from any on this page: https://tachyons.io/docs/themes/skins/, preface it with "bg-" and add the value such as "-X0" where X is in [1,9]
 cover_dimming_class = "bg-black-60"
 recent_posts_number = 5
-
-
-[params.ananke.social.share]
-networks = [
-  "email",
-  "facebook",
-  "bluesky",
-  "linkedin"
-]
-
-[params.ananke.social.follow]
-networks = [
-  "facebook",
-  "bluesky",
-  "linkedin"
-]
-
-[params.ananke.social.facebook]
-username = "west.julian"
-# profilelink = "https://www.facebook.com/west.julian"
-
-[params.ananke.social.linkedin]
-username = "julianwest"
-
-[params.ananke.social.bluesky]
-username = "julianwest.me"
