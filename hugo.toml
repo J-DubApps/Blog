@@ -46,6 +46,12 @@ pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a h
     pageRef = '/site-disclosure'
     weight = 20
 
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 4
+    ordered = false
+
 [sitemap]
 changefreq = "monthly"
 priority = 0.5
@@ -68,3 +74,7 @@ recent_posts_number = 5
 avatarAltText = "avatar"
 avatarSize = "size-m"
 avatarURL = "/images/avatar.jpeg"
+footer = "julianwest.me"
+
+[minify]
+    minifyOutput = true
