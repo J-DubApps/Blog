@@ -1,7 +1,6 @@
 +++
 date = '2024-11-25T15:00:09-06:00'
 draft = false
-menus = ['main', 'footer']
 title = 'Contact'
 +++
 
