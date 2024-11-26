@@ -7,7 +7,7 @@ type = 'page'
 
 ### _Julian West is a North Texas network engineer, musician, and writer._
 
-![Alt text](/about/julian-about.jpeg)
+![Alt text](https://julianwest.me/Blog/about/julian-about.jpeg)
 
 #### _Trivial stuff_
 
