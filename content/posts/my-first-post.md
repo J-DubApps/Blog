@@ -1,11 +1,12 @@
----
-title: "Hello, world!"
-date: 2021-01-01
-description: "A blog post"
-image: "/path/to/image.png"
-type: "post"
-tags: ["blog"]
----
++++
+date = '2024-11-24T21:34:18-06:00'
+draft = true
+title = 'My First Post'
+type = 'post'
++++
 
-# Hello World!
-This is my blog.
+## Introduction
+
+This is **bold** text, and this is *emphasized* text.
+
+Visit the [Hugo](https://gohugo.io) website!
