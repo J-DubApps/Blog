@@ -72,16 +72,9 @@ featured_image_class = "cover bg-top"
 cover_dimming_class = "bg-black-60"
 recent_posts_number = 5
 
-accentColor = "#FF4D4D"
-showPostsOnHomePage = "recent"
-numberPostsOnHomePage = 4
-showBackToTopButton = true
+
 avatarAltText = "avatar"
 avatarSize = "size-l"
 avatarURL = "/images/avatar.jpeg"
 footer = "julianwest.me"
 metaKeywords = ["blog", "julianwest.me", "julian west"]
-showBackToTopButton = true # true or false for "back to top" button on posts and pages
-
-[minify]
-minifyOutput = true
