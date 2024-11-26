@@ -2,6 +2,7 @@
 date = '2024-11-25T15:04:18-06:00'
 draft = false
 title = 'Site Disclosure'
+type = 'page'
 +++
 
 The opinions expressed on julianwest.me are solely my own and do not reflect the views of my employer, my friends and relatives, or any other carbon-based lifeform.  
