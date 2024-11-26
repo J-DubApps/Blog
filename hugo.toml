@@ -14,8 +14,8 @@ pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a h
 
 [menus]
   [[menus.main]]
-    name = 'Main'
-    pageRef = '/'
+    name = 'Home'
+    url = "https://julianwest.me"
     weight = 10
   [[menus.main]]
     name = 'Posts'
