@@ -75,6 +75,8 @@ avatarAltText = "avatar"
 avatarSize = "size-m"
 avatarURL = "/images/avatar.jpeg"
 footer = "julianwest.me"
+metaKeywords = ["blog", "julianwest.me", "julian west"]
+showBackToTopButton = true # true or false for "back to top" button on posts and pages
 
 [minify]
     minifyOutput = true
