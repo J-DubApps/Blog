@@ -2,7 +2,7 @@
 date = '2024-11-25T14:57:32-06:00'
 draft = false
 title = 'About'
-type = 'post'
+type = 'page'
 +++
 
 ### _Julian West is a North Texas network engineer, musician, and writer._
