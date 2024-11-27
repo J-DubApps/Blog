@@ -11,7 +11,7 @@ type = 'page'
 
 #### _Trivial stuff_
 
-<div style="font-size: 8px;">
+<div style="font-size: 12px;">
 I am into technology, art, and good design...and also random geekery (board gaming, etc).<br />  
 I was born in rural Texas, to parents both born before 1930 (I am late for everything).<br />     
 I was raised in poverty and my small family even briefly experienced homelessness. My earliest education.<br />
