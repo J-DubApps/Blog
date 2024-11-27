@@ -9,7 +9,7 @@ type = 'page'
 
 This is the personal blog and web site of Julian West. More about Julian [here.](https://example.com) Site Disclosure [here.](https://example.com)<br><br>
 
-![Alt text](julian.jpeg)<br><br>
+![Alt text](https://julianwest.me/Blog/colophon/julian.jpeg)<br><br>
 
 <div style="font-size: 14px;">
 Hosting = Github Pages.<br>
