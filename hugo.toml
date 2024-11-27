@@ -12,6 +12,9 @@ defaultContentLanguage = "en"
 [pagination]
 pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
+  
 [menus]
   [[menus.main]]
     name = 'Home'
