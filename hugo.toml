@@ -4,7 +4,7 @@ title = 'julianwest.me.blog'
 theme = 'gokarna'
 weight = 1
 pluralizeListTitles = false
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 defaultContentLanguage = "en"
 #sectionPagesMenu = "main"
