@@ -5,6 +5,7 @@ title = 'Site Disclosure'
 type = 'page'
 +++
 
+<div style="font-size: 14px;">
 The opinions expressed on julianwest.me are solely my own and do not reflect the views of my employer, my friends and relatives, or any other carbon-based lifeform.  
 
 I may occasionally review products that I personally purchased or already own. I will not respond to solicitations to review products, nor do I accept loaner/demo products to review or blog about.  
@@ -21,3 +22,4 @@ All content provided on julianest.me is for my personal journaling purposes only
 You are free to share content from this site provided you always include a link back to the original content and never reproduce more than 200 words at a time without my permission. If you would like to use my content, ask first.  
 
 Site terms and conditions are subject to change at anytime without notice. Please contact me if you need additional information.
+</div>
