@@ -14,7 +14,7 @@ type = 'page'
 <div style="font-size: 14px;">
 I am into technology, art, and good design...and also random geekery (board gaming, etc).<br />  
 I was born in rural Texas, to parents both born before 1930 (I am late for everything).<br />     
-I was raised in poverty and my small family even briefly experienced homelessness. An education I wouldn't trade for anything.<br />
+I was raised in poverty, and my small family even briefly experienced homelessness. But I wouldn't trade those days for anything.<br />
 I am a self-made man with the past mistakes to prove it. I keep growing and learning every day.<br />      
 Writing code changed my life along with curiosity, Macs, and PCs.<br />   
 Myers-Briggs says I am INTP, but I like people. At least the cool ones.<br />   
