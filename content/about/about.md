@@ -11,7 +11,7 @@ type = 'page'
 
 #### _Trivial stuff_
 
-
+<div style="font-size: 8px;">
 I am into technology, art, and good design...and also random geekery (board gaming, etc).<br />  
 I was born in rural Texas, to parents both born before 1930 (I am late for everything).<br />     
 I was raised in poverty and my small family even briefly experienced homelessness. My earliest education.<br />
@@ -23,3 +23,4 @@ For a living I’m an ops nerd and I manage IT network projects & deployments.<b
 Despite managing Cisco/Microsoft/Linux systems, I am a huge Apple geek. This is not an uncommon thing nowadays.<br />   
 I drive an electric car built in California which unfortunately transformed an autistic immigant billionaire into a problematic Oligarch. Still pondering that one.<br />   
 For hobbies I write and strum a guitar and develop messy PowerShell and Python code.
+</div>
