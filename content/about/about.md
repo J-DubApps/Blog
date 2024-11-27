@@ -13,7 +13,7 @@ type = 'page'
 
 <div style="font-size: 14px;">
 I love technology, art, and good design...and the random board game.<br />
-For a living I’m an ops nerd and I manage IT network projects & deployments.<br />   
+For a living I’m an ops nerd working IT network projects & cloud deployments.<br />   
 I was born in rural Texas, to parents both born before 1930 (I am late for everything).<br />
 I grew up in poverty, nothing unique but those humble experiences helped shaped me.<br />
 I am a self-made man with the past mistakes to prove it. I keep growing and learning every day.<br />      
