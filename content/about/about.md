@@ -15,12 +15,12 @@ type = 'page'
 I love technology, art, and good design...and random board game geekery.<br />
 For a living I’m an ops nerd and I manage IT network projects & deployments.<br />   
 I was born in rural Texas, to parents both born before 1930 (I am late for everything).<br />
-I was raised in poverty and my small family even briefly experienced homelessness. Wouldn't trade those days for anything.<br />
+I grew up in poverty, nothing unique but those humble experiences helped shaped me.<br />
 I am a self-made man with the past mistakes to prove it. I keep growing and learning every day.<br />      
-Writing code changed my life along with curiosity, Macs, and PCs.<br />   
-Myers-Briggs says I am INTP, but I like people. At least the cool ones.<br />   
-My close friends call me “Jules”, maybe seven people. The cool ones.<br /> 
+Writing code changed my life, along with tech and curiosity.<br />   
+Myers-Briggs says I am INTP, but I do like people. At least the cool ones.<br />   
+My close earliest friends call me “Jules”, lately "JDub" is the nickname and <a href="https://github.com/J-DubApps" style="text-decoration: none;">GitHub username</a><br /> 
 Despite managing Cisco/Microsoft/Linux systems, I am a huge Apple geek. This is not an uncommon thing nowadays.<br />   
-I drive a California EV that unfortunately is synonymous with an autistic immigant Oligarch.<br />   
+I am an EV fan. Was a Tesla early-adopter, thoguh unfortunately the car is now synonymous with an autistic immigant Oligarch.<p>&#129335;</p><br />   
 For hobbies I write and strum a guitar and develop messy PowerShell and Python code.
 </div>
