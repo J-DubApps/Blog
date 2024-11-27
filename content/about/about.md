@@ -12,7 +12,7 @@ type = 'page'
 #### _Trivial trivia_
 
 <div style="font-size: 14px;">
-I love technology, art, and good design...and random board game geekery.<br />
+I love technology, art, and good design...and the random board game.<br />
 For a living I’m an ops nerd and I manage IT network projects & deployments.<br />   
 I was born in rural Texas, to parents both born before 1930 (I am late for everything).<br />
 I grew up in poverty, nothing unique but those humble experiences helped shaped me.<br />
@@ -21,6 +21,6 @@ Writing code changed my life, along with tech and curiosity.<br />
 Myers-Briggs says I am INTP, but I do like people. At least the cool ones.<br />   
 My close earliest friends call me “Jules”, lately "JDub" is the nickname and <a href="https://github.com/J-DubApps" style="text-decoration: none;">GitHub username</a><br /> 
 Despite managing Cisco/Microsoft/Linux systems, I am a huge Apple geek. This is not an uncommon thing nowadays.<br />   
-I am an EV fan and Tesla early-adopter. Unfortunately the car is now synonymous with a certain autistic immigant Oligarch.&#129335;<br />   
+I am an EV fan and Tesla early-adopter. Nice car despite its unfortunate association with a certain autistic immigant Oligarch.&#129335;<br />   
 For hobbies I write and strum a guitar and develop messy PowerShell and Python code.
 </div>
