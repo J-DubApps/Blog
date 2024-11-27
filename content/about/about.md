@@ -12,10 +12,10 @@ type = 'page'
 #### _Trivial stuff_
 
 
-I am a working-glass geek into technology, art, and good design.<br />  
-I was raised in rural Texas by parents who were both born before 1931 (I am late for everything).<br />   
-I am a self-made man with all the past mistakes to prove it. I keep growing and learning every day.<br />   
-I was raised in poverty and my small family experienced a brief period of homelessness. Sadly not unheard of, but was an education I wouldn’t trade for anything.<br />     
+I am into technology, art, and good design. And various geekery (board gaming, etc).<br />  
+I was born in rural Texas, to parents who were both born before 1931 (I am late for everything).<br />   
+I am a self-made man with the past mistakes to prove it. I keep growing and learning every day.<br />   
+I was raised in poverty and my small family briefly experienced homelessness. It was an education I wouldn’t trade for anything.<br />     
 Writing code changed my life along with curiosity, Macs, and PCs.<br />   
 Myers-Briggs says I am INTP, but I like people. At least the cool ones.<br />   
 My close friends call me “Jules”, maybe seven people. The cool ones.<br />   
