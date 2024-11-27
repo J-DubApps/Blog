@@ -21,6 +21,6 @@ Writing code changed my life, along with tech and curiosity.<br />
 Myers-Briggs says I am INTP, but I do like people. At least the cool ones.<br />   
 My close earliest friends call me “Jules”, lately "JDub" is the nickname and <a href="https://github.com/J-DubApps" style="text-decoration: none;">GitHub username</a><br /> 
 Despite managing Cisco/Microsoft/Linux systems, I am a huge Apple geek. This is not an uncommon thing nowadays.<br />   
-I am an EV fan and Tesla early-adopter. Unfortunately the car is now synonymous with a certain autistic immigant Oligarch.<p>&#129335;</p><br />   
+I am an EV fan and Tesla early-adopter. Unfortunately the car is now synonymous with a certain autistic immigant Oligarch.&#129335;<br />   
 For hobbies I write and strum a guitar and develop messy PowerShell and Python code.
 </div>
