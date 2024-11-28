@@ -13,8 +13,8 @@ This is the personal blog of [Julian West.](http://julianwest.me/Blog/about/abou
 
 <div style="font-size: 14px;">
 Hosting = Github Pages.<br>
-Blog CMS is Hugo static site generator framework, running as a GitHub Pages workflow.<br>
+Blog CMS is <b><a href="https://gohugo.io">Hugo</a></b> static site generator framework, running as a GitHub Pages workflow.<br>
 Articles drafted in Scrivener, archived in Day One journal.<br>
 julianwest.me is best-viewed in a standards-compliant web browser (Safari or Chrome/Edge/etc).<br>
-If you’re using a recent browser and have problems navigating or something looks wrong, <i><a href="http://julianwest.me/Blog/contact/contacting/" style="text-decoration: none;">do let me know.</a></i>
+If you’re using a recent browser and have problems navigating or something looks wrong, <i><a href="https://julianwest.me/Blog/contact/contacting/">do let me know.</a></i>
 </div>

@@ -22,5 +22,5 @@ My close earliest friends call me “Jules”, lately "JDub" is the nickname and
 Despite managing Cisco/Microsoft/Linux systems, I am a huge Apple geek. This is not an uncommon thing nowadays.<br />   
 I am an EV fan and Tesla early-adopter. Nice car despite the association with a certain autistic immigant Oligarch.&#129335;<br />   
 For hobbies I write, play guitar/ukelele, and develop messy PowerShell and Python code. <br />
-<a href ="http://julianwest.me/Blog/contact/contacting/"><i><b>How to reach me</a></i></b> 
+<a href ="https://julianwest.me/Blog/contact/contacting/"><i><b>How to reach me</a></i></b> 
 </div>
