@@ -4,12 +4,18 @@ draft = false
 title = 'Contact'
 type = 'page'
 +++
+  <style type="text/css">
+        .e-mail:before {
+            content: attr(data-website) "\0040" attr(data-user);
+            unicode-bidi: bidi-override;
+            direction: rtl;
+        }
+    </style>
+
 
 <i>Contacting Me… </i><br />
 
-  <a href="mailto:west.julian@gmail.com" class="home_link">
-                                        <i class="fa-solid fa-envelope home_icon"></i> west.julian@gmail.com
-                                    </a><br />
+ <span class="e-mail" data-user="nailuj.tsew" data-website="moc.liamg"></span><br />
   <a href="https://github.com/J-DubApps" target="_blank" class="social_link">
                                 <i class="fa-brands fa-github social_icon"></i> @J-DubApps
                             </a><br />
