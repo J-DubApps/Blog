@@ -22,5 +22,6 @@ Myers-Briggs says I am INTP, but I do like people. At least the cool ones.<br />
 My close earliest friends call me “Jules”, lately "JDub" is the nickname and <a href="https://github.com/J-DubApps" style="text-decoration: none;">GitHub username</a><br /> 
 Despite managing Cisco/Microsoft/Linux systems, I am a huge Apple geek. This is not an uncommon thing nowadays.<br />   
 I am an EV fan and Tesla early-adopter. Nice car despite the association with a certain autistic immigant Oligarch.&#129335;<br />   
-For hobbies I write and strum a guitar and develop messy PowerShell and Python code.
+For hobbies I write, play guitar/ukelele, and develop messy PowerShell and Python code. 
+<a href ="http://julianwest.me/Blog/contact/contacting/"><i><b>How to reach me</a></i></b> 
 </div>
