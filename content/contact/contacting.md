@@ -21,10 +21,10 @@ type = 'page'
   <a href="https://github.com/J-DubApps" target="_blank" class="social_link">GitHub
                                 <i class="fa-brands fa-github social_icon"></i> @J-DubApps
                             </a><br />
-                            <a href="https://bsky.app/profile/julianwest.me" target="_blank" class="social_link">
+                            <a href="https://bsky.app/profile/julianwest.me" target="_blank" class="social_link">BlueSky
                                 <i class="fa-brands fa-bluesky social_icon"></i> @julianwest.me
                             </a><br />
-                            <a href="https://www.linkedin.com/in/julianwest/" target="_blank" class="social_link">
+                            <a href="https://www.linkedin.com/in/julianwest/" target="_blank" class="social_link">LinkedIn
                                 <i class="fa-brands fa-linkedin social_icon"></i> julianwest
                             </a><br />
 <br />
