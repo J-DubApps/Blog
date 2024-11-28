@@ -13,7 +13,7 @@ type = 'page'
             direction: rtl;
         }
     </style>
-</div>
+
 
 <i>Contacting Me… </i><br />
 
@@ -27,6 +27,7 @@ type = 'page'
                             <a href="https://www.linkedin.com/in/julianwest/" target="_blank" class="social_link">LinkedIn
                                 <i class="fa-brands fa-linkedin social_icon"></i> julianwest
                             </a><br />
+</div>
 <br />
 <div style="font-size: 14px;">
 I welcome and look forward to questions or comments (good or bad) about posts or content @ julianwest.me, so feel free to write me, DM, etc.<br /><br />
