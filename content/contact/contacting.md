@@ -5,8 +5,11 @@ title = 'Contact'
 type = 'page'
 +++
 
-<i>Contacting Me… </i><br /><br />
+<i>Contacting Me… </i><br />
 
+  <a href="mailto:west.julian@gmail.com" class="home_link">
+                                        <i class="fa-solid fa-envelope home_icon"></i> west.julian@gmail.com
+                                    </a><br />
   <a href="https://github.com/J-DubApps" target="_blank" class="social_link">
                                 <i class="fa-brands fa-github social_icon"></i> @J-DubApps
                             </a><br />
@@ -17,7 +20,6 @@ type = 'page'
                                 <i class="fa-brands fa-linkedin social_icon"></i> julianwest
                             </a>
 
-<br />
 <div style="font-size: 14px;">
 I welcome and look forward to questions or comments (good or bad) about posts or content @ julianwest.me, so feel free to write me, DM, etc.<br /><br />
 I do receive a fair amount of email, so if I don’t respond to your email right away please don’t be offended. I do eventually see all of my non-spam email, and my average time-to-response is 45 days.<br /><br />
