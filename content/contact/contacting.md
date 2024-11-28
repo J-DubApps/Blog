@@ -9,6 +9,6 @@ type = 'page'
 
 <div style="font-size: 14px;">
 I welcome and look forward to questions or comments (good or bad) about julianwest.me, so feel free to write me, DM, etc.<br /><br />
-I do receive a fair amount of email every day. If I don’t respond to your email quickly, or if my response is indefinitely delayed, please don’t be offended. It’s possible I may missed your email, but try to read all email and chances are I will see it.<br /><br />
+I do receive a fair amount of email, so if I don’t respond to your email right away please don’t be offended. I do try to keep up with email, chances are I will see it.<br /><br />
 Note to IT job recruiters: please do not write to me at my personal email address unless we've already been corresponding, I monitor my LinkedIn profile and respond to smessages pretty quickly. Thanks.
 </div>
