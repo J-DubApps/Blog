@@ -7,7 +7,7 @@ type = 'page'
 
 
 
-This is the personal blog of Julian West. More about Julian [here.](http://julianwest.me/Blog/about/about/) Site Disclosure [here.](https://julianwest.me/Blog/site-disclosure/site-disclosure/)
+This is the personal blog of [Julian West.](http://julianwest.me/Blog/about/about/) Site Disclosure [here.](https://julianwest.me/Blog/site-disclosure/site-disclosure/)
 
 <img src="https://julianwest.me/Blog/colophon/julian.jpeg" alt="Alt text" width="100" height="75">
 

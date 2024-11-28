@@ -7,7 +7,7 @@ type = 'page'
 
 ### _Julian West is a North Texas systems architect, musician, and writer._
 
-<img src="https://julianwest.me/Blog/about/julian-about.jpeg" alt="Alt text" width="300" height="200">
+<img src="https://julianwest.me/Blog/about/julian-about.jpeg" alt="Alt text" width="275" height="175">
 
 #### _Trivial trivia_
 <div style="font-size: 14px;">
