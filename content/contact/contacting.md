@@ -5,7 +5,7 @@ title = 'Contact'
 type = 'page'
 +++
 
-<div style="font-size: 13px;">
+
   <style type="text/css">
         .e-mail:before {
             content: attr(data-website) "\0040" attr(data-user);
@@ -16,7 +16,7 @@ type = 'page'
 
 
 <i>Contacting Me… </i><br />
-
+<div style="font-size: 13px;">
  <a href="mailto:%77%65%73%74%2E%6A%75%6C%69%61%6E%40%67%6D%61%69%6C%2E%63%6F%6D"><span class="e-mail" data-user="nailuj.tsew" data-website="moc.liamg"></span></a><br />
   <a href="https://github.com/J-DubApps" target="_blank" class="social_link">GitHub
                                 <i class="fa-brands fa-github social_icon"></i> @J-DubApps
