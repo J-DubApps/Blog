@@ -9,9 +9,8 @@ type = 'page'
 
 <img src="https://julianwest.me/Blog/about/julian-about.jpeg" alt="Alt text" width="300" height="200">
 
-<div style="font-size: 14px;">
 #### _Trivial trivia_
-
+<div style="font-size: 14px;">
 I love technology, art, and good design...and the random board game.<br />
 For a living I’m an ops nerd working IT network projects & cloud deployments.<br />   
 I was born in rural Texas, to parents both born before 1930 (I am late for everything).<br />
