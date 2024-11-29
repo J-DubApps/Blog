@@ -19,8 +19,9 @@ Then there is <a href="https://panic.com/prompt">Prompt 2</a> which has a great 
 
 This is where vSSH for iPad comes into play — a basic SSH solution offering full sync of sessions between their Mac and iPad/iPhone apps, which makes quickly moving between devices much easier. I can be in the middle of a lab and go right from my MacBook or iMac over to my iPad Pro, and not miss a beat.<br /> <br />
 
-
+<div class="image-row">
 <img src="https://julianwest.me/Blog/posts/The-Multipad-Lifestyle/ipad-lab.jpeg" alt="Alt text" width="300" height="65"><img src="https://julianwest.me/Blog/posts/The-Multipad-Lifestyle/ipad-lab2.jpeg" alt="Alt text" width="300" height="65">
+</div>
 <br /> <br />
 
 vSSH is a little more stripped-down than SecureCRT or Prompt 2, but extremely maleable to my labbing needs. I like to think of it as “Putty for iOS”.<br /> <br />
