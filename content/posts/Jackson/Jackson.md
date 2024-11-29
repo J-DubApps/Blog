@@ -13,9 +13,9 @@ tags = ["family"]
 </style>
 
 <div class="image-row">
-  <img src="https://julianwest.me/Blog/posts/Jackson/jackson_meet_day1.jpeg" alt="Alt text" width="175" height="100">
-  <img src="https://julianwest.me/Blog/posts/Jackson/jackson_meet_day2.jpeg" alt="Alt text" width="175" height="100">
-  <img src="https://julianwest.me/Blog/posts/Jackson/jackson_meet_day3.jpeg" alt="Alt text" width="175" height="100">
+  <img src="https://julianwest.me/Blog/posts/Jackson/jackson_meet_day1.jpeg" alt="Alt text" width="200" height="125">
+  <img src="https://julianwest.me/Blog/posts/Jackson/jackson_meet_day2.jpeg" alt="Alt text" width="200" height="125">
+  <img src="https://julianwest.me/Blog/posts/Jackson/jackson_meet_day3.jpeg" alt="Alt text" width="200" height="125">
 </div><br /> <br />
 
 Dearest Jackson,
