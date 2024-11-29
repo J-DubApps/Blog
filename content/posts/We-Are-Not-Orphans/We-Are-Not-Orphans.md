@@ -3,6 +3,7 @@ date = '2019-04-28T23:04:22-06:00'
 draft = false
 title = 'We Are Not Orphans, We are Champions'
 type = 'post'
+tags: ["family"]
 +++
 
 In February 2019, I took a DNA test. I took the DNA test for my mother. And as it turned out, I would unexpectedly unlock a family connection that I wondered about for over 35 years.<br /><br />
