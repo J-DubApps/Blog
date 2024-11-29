@@ -30,3 +30,28 @@ I remember the first few days when you settled into your new home. You were pret
 </div><br /> <br />
 
 You were so whip-smart. You could fetch those toys just by hearing their nicknames. It took all of 20 minutes to teach you to sit and speak, though I am pretty sure you stretched it out a bit for the extra treats. And we learned just how strong and wild you could really be when you discovered squirrels and rabbits on those early neighborhood walks.<br /><br />
+
+<div class="image-row">
+  <img src="https://julianwest.me/Blog/posts/Jackson/jackson_gazing.jpeg" alt="Alt text">
+</div><br /> <br />
+
+Speaking of nicknames, Mommy gave you many, and you answered them them all: Pumpkin, Pookie Bear, Little One. You were very generous and never offended at the names, you even wagged your tail at hearing them.<br /><br />
+You knew whenever I called out “Mister Jukes!!” from across the house it was play-time, and I would hear your paws scampering down the hallway. I can hear those paws making tracks RIGHT NOW, clear as day. Mommy loved to play hide & seek all the time with you around the house, and you ALWAYS found her. I remember how you always hated loud thunder or fireworks, and how you barked and whimpered at the noise. Hold the puppy, hold the scary noise at bay, live for that thankful face lick when the storm passes. Even when storms were no longer scary, you still gave out those licks. It was so fun watching you figure stuff out and see you grow up.<br /><br />
+And we grew up with you, too, Jackson. You were there for our big life changes: getting married, buying our first house, getting through losing two parents. And you changed one guy’s cold heart, during all those firsts. You and Mommy got me out of my own head, settled me down and made me loosen-up and live a little. And you filled our house with such great noise: collar tag jingles, proud and loud barks, the zoom-runs across the floor when it was time for a walk. You helped us make our house a home. Thank you.<br /><br />
+
+
+<div class="image-row">
+  <img src="https://julianwest.me/Blog/posts/Jackson/jackson_young.jpeg" alt="Alt text" width="400" height="65">
+  <img src="https://julianwest.me/Blog/posts/Jackson/jackson_coat.jpeg" alt="Alt text" width="300" height="65">
+</div><br />
+
+<div class="image-row">
+  <img src="https://julianwest.me/Blog/posts/Jackson/jackson_gazing2.jpeg" alt="Alt text" width="400" height="65">
+  <img src="https://julianwest.me/Blog/posts/Jackson/jackson_sun.jpeg" alt="Alt text" width="300" height="65">
+</div><br /> <br />
+
+And that bark! I can still hear your bark right here and now, as I struggle to write this. “Time to go for a walk!” and your excitement was vocal. You had an attention bark, a snack-request bark, a Mailman bark, you name it. You never had a problem getting our attention. You also never had a problem getting anybody else’s attention either: you took your watchdog duties very seriously. Inspection of all guests was mandatory, and woe to anybody who made sudden or odd movements around your pack, they got checked. You could be serious, goofy, and loving within the span of a few minutes. You made us laugh and smile so much all these years, Jackson.<br /> <br />
+
+<div class="image-row">
+  <img src="https://julianwest.me/Blog/posts/Jackson/jackson_blanket.jpeg" alt="Alt text">
+</div><br /> <br />
