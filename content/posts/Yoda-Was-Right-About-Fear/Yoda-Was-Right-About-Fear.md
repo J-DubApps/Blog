@@ -37,5 +37,5 @@ All we can do is try to not run through the door that â€œconstant fear of lossâ€
 <div class="image-row">
   <img src="https://julianwest.me/Blog/posts/Yoda-Was-Right-About-Fear/fear-anger-hate-suffering.jpeg" alt="Alt text">
 </div>
-<div style="font-size: 8px;"><p>Constant fear leads you to anger. Being a fearful angry person leads you to hate. Being hateful leads you to suffer.</p>
+<div style="font-size: 9px;"><p style="text-align:center;">Constant fear leads you to anger. Being a fearful angry person leads you to hate. Being hateful leads you to suffer.</p>
 </div>
