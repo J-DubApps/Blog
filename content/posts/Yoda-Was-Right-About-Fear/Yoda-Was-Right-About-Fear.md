@@ -6,11 +6,15 @@ type = 'post'
 tags = ["thought"]
 +++
 
-Although the Star Wars prequels are among the least-enjoyed George Lucas works among geeks, there is this fantastic Zen observation in Episode I which few people notice. Putting aside the poorly-scripted dialog & Jar-Jar scenes, there is a part I enjoy where Yoda discusses fear and attachment and hints at a fundamentally powerful way to be in life.<br /> <br />
+<div class="image-row">
+  <img src="https://julianwest.me/Blog/posts/Yoda-Was-Right-About-Fear/yoda.jpeg" alt="Alt text">
+</div><br /> <br />
 
-It’s the scene where Yoda asks Anakin how he feels. He observes Anakin’s fears about losing his mother, and Anakin asks what fear has to do with anything — to which Yoda answers:<br /> <br />
+Although the Star Wars prequels were among the least-enjoyed among Gen-X and older fans, there is this fantastic Zen observation in Episode I which few people notice. Putting aside the poorly-scripted dialog & Jar-Jar scenes, there is a part I enjoy where Yoda discusses fear and attachment and hints at a fundamentally powerful way to be in life.<br /> <br />
 
-“Everything! Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering.”<br /> <br />
+It’s that scene where Yoda asks Anakin how he feels. He observes Anakin’s fears about losing his mother, and Anakin asks what fear has to do with anything — to which Yoda answers:<br /> <br />
+
+>“Everything! Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering.”<br /> <br />
 
 Yoda’s dimestore-buddhism actually offers huge insights into how we experience attachment, loss, and how we fear loss in general. We all know (or should know) that constantly fearing loss can ruin your life and, while you may not turn into Darth Vader, it’s no way to live. Living in fear of losing something or someone will turn you into one of those glass-half-empty cynical a**holes who only see negative. It’s a dark way to experience your life, a darker side of things if you will (pun). It seems obvious fear of loss makes you anxious and angry, but indulge me here, brave Star Wars fan.<br /> <br />
 
@@ -27,4 +31,10 @@ I had hateful and cynical moments in the weeks and months after this, and I didn
 
 All we can do is try to not run through the door that “constant fear of loss” opens wide for us. Whether we learn it from a Zen Master or a flawed George Lucas movie, fear really does lead to anger and suffering.<br /> <br />
 
-Correct, Yoda was.
+<i>Correct</i>, Yoda was.<br /> <br />
+
+<div class="image-row">
+  <img src="https://julianwest.me/Blog/posts/Yoda-Was-Right-About-Fear/yoda.jpeg" alt="Alt text">
+</div>
+<div style="font-size: 8px;">Constant fear leads you to anger. Being a fearful angry person leads you to hate. Being hateful leads you to suffer.
+</div>
