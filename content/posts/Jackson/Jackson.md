@@ -24,4 +24,9 @@ You were maybe 8 or 9 months old. Just quietly hanging out, while all the other 
 I called that shelter twice a day for a week. Your reservation date came and went…and we drove two hours to come get you and take you home with us. I am still trying to find words, to explain just how happy you made us that day nearly 15 years ago. I will never forget it.<br /><br />
 I remember the first few days when you settled into your new home. You were pretty quiet and reserved for a puppy. Too quiet, until we found those perfect chew toys and tug-ropes for you. Then you really let loose. I think Mr Carrot, and his 4 incarnations over the years, will miss you especially. Pink Pig and Blue Snake will miss you as well.<br /><br />
 
+<div class="image-row">
+  <img src="https://julianwest.me/Blog/posts/Jackson/jackson_toy.jpeg" alt="Alt text" width="250" height="65">
+  <img src="https://julianwest.me/Blog/posts/Jackson/jackson_winter1.jpeg" alt="Alt text" width="300" height="65">
+</div><br /> <br />
+
 You were so whip-smart. You could fetch those toys just by hearing their nicknames. It took all of 20 minutes to teach you to sit and speak, though I am pretty sure you stretched it out a bit for the extra treats. And we learned just how strong and wild you could really be when you discovered squirrels and rabbits on those early neighborhood walks.<br /><br />
