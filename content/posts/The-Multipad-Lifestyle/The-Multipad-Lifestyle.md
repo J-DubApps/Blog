@@ -6,6 +6,11 @@ type = 'post'
 tags = ["tech"]
 +++
 
+<style>
+  .image-row {
+    display: flex;
+  }
+</style>
 
 I recently heard the term <b><i>“multipad lifestyle”</b></i> on <a href="http://atp.fm/episodes/212">Accidental Tech</a> in relation to CGPGrey and the holy-grail of what Apple will do with window-mangement on the iPad. It seems to be a good term describing my use-case with my iPad Pro lately.<br /> <br />
 

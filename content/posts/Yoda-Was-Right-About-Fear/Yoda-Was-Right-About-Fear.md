@@ -6,6 +6,12 @@ type = 'post'
 tags = ["thought"]
 +++
 
+<style>
+  .image-row {
+    display: flex;
+  }
+</style>
+
 <div class="image-row">
   <img src="https://julianwest.me/Blog/posts/Yoda-Was-Right-About-Fear/yoda.jpeg" alt="Alt text">
 </div><br />
