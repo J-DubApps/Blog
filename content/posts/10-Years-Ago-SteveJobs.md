@@ -1,6 +1,6 @@
 +++
 date = '2017-01-11T23:17:32-06:00'
-draft = true
+draft = false
 title = '10 Years Ago...'
 type = 'post'
 tags = ["tech"]
