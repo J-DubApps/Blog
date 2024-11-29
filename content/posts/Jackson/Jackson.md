@@ -1,6 +1,6 @@
 +++
 date = '2024-11-24T23:17:51-06:00'
-draft = true
+draft = false
 title = 'A Letter to our Dog'
 type = 'post'
 tags = ["family"]
