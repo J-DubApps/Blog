@@ -19,8 +19,8 @@ I am a self-made man with the past mistakes to prove it. I keep growing and lear
 Writing code changed my life, along with tech and curiosity.<br />   
 Myers-Briggs says I am INTP, but I do like people. At least the cool ones.<br />   
 My close earliest friends call me “Jules”, lately "JDub" is the nickname and <a href="https://github.com/J-DubApps" style="text-decoration: none;">GitHub username</a><br /> 
-Despite managing Cisco/Microsoft/Linux systems, I am a huge Apple geek. This is not an uncommon thing nowadays.<br />   
-I am an EV fan and Tesla early-adopter. Nice car despite the association with a certain autistic immigant Oligarch.&#129335;<br />   
+Despite managing Cisco/Microsoft/Linux systems, I am a huge Apple geek. Not an uncommon thing nowadays.<br />   
+I am an EV fan and Tesla early-adopter. Was a great car, in spite of a certain autistic immigant Oligarch.&#129335;<br />   
 For hobbies I write, play guitar/ukelele, and develop messy PowerShell and Python code. <br />
 <a href ="https://julianwest.me/Blog/contact/contacting/"><i><b>How to reach me</a></i></b> 
 </div>

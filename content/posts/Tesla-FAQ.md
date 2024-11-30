@@ -88,4 +88,6 @@ By the way, that is the same Bob Lutz who went on to launch a little car at GM c
 
 Myths. Busted.<br /> <br />
 
-<i>Full disclosure: In addition to owning a Model S I am a bullish, long-term investor in Tesla Motors (TSLA)</i>.
+<i>Full disclosure: In addition to owning a Model S I am a long-term investor in Tesla Motors (TSLA)</i>.
+
+<i>Originally published at julianwest.me's previous blog in 2015.</i>
