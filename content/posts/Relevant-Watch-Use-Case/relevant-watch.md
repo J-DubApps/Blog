@@ -12,16 +12,9 @@ tags = ["tech", "cars"]
 
 Checking the AC, opening the sunroof. You know, just regular car stuff.<br /> <br />
 
-<span class="text-truncate" style="max-width: 15px;">
+<div>
     .   .   .
-</span>
+</div>
 
 <i>Originally published at julianwest.me on May 1, 2015.</i>
 
-.text-truncate {
-  display: inline-block;
-  max-width: 150px;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
