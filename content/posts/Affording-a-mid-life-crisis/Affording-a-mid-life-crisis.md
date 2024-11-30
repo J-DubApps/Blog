@@ -14,13 +14,13 @@ I won’t mince words: this is not a cheap car, no two ways about it. Looking at
 
 Secondly, there is that well-known federal EV tax-credit, which takes $7,500 off the vehicle’s sticker price. When leasing it comes out immediately, making the payment lower (but beware most leasing companies put that $7,500 into the car’s residual value). When buying, you recoup this tax-credit at a later date when you file your taxes. Also some states have additional EV tax or rebate incentives of their own. All of this can come together to drop the net price of a Tesla Model S substantially. And just in case you were wondering if that federal EV tax-credit is funded by deductions from your paychecks? It is, and I thank you for your support!<br />
 
-The next common way to save on a Model S is to buy or lease it from your regional Tesla inventory. A Model S “Inventory car” is brand-new with full warranty, but simply comes with 2000–6000 miles on it as would any typical demo car or loaner. The kicker is that Inventory car discounts fall between $10,000 and $18,000, a big savings when you factor in tax rebates or other incentives. Tesla stores can offer you a list of currently-available Inventory cars; however, Inventory cars go very quickly soon after they hit the list so you need to be planning to buy when you start looking at these lists. Another caveat: you must be flexible on the color and interior when buying an Inventory car.<br /><br />
+The next common way to save on a Model S is to buy or lease it from your regional Tesla inventory. A Model S “Inventory car” is brand-new with full warranty, but simply comes with 2000–6000 miles on it as would any typical demo car or loaner. The kicker is that Inventory car discounts fall between $10,000 and $18,000, a big savings when you factor in tax rebates or other incentives. Tesla stores can offer you a list of currently-available Inventory cars; however, Inventory cars go very quickly soon after they hit the list so you need to be planning to buy when you start looking at these lists. Another caveat: you must be flexible on the color and interior when buying an Inventory car.<br />
 
 <div>
   <img src="https://julianwest.me/Blog/posts/Affording-a-mid-life-crisis/tesla-inventory.jpeg" alt="Alt text">
-</div><br /><br />
-<div style="font-size: 8px;">
-<i>Inventory cars like this are a good way to save…</i>
+</div><br />
+<div style="font-size: 9px;">
+<p><i>Inventory cars like this are a good way to save…</i></p>
 </div>
 
 Inventory car shopping is the route I took when I began seriously looking and, by the time I was ready to buy, I was just fine with getting Tesla’s somewhat low-end entry-level Model S “70D”. I also stuck with one of the least costly colors. Let’s just say I steered clear of Tesla’s high-end “P85D” which is already a house-payment before adding any options! Fortunately the 70D is already in a class by itself and better than most gas cars, so the more basic configuration is a great choice and helped with affordability when I decided to pull the trigger.<br />
