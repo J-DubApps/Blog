@@ -18,13 +18,13 @@ When I opened the Apple Watch, configured it, and slapped it on I immediately co
 
 The Apple Watch can take all those silent notifications, if properly configured, and allow you to review and clear them them with a simple “force touch”. The watch is otherwise chatty out of the box, with quite a few notifications enabled by default. Once you turn all that junk off, and configure the alerts with intent (which ones are important, which aren’t) the watch is a lot more useful.<br />
 
-I’m not seeing the problem with battery-life all the tech bloggers are concerned about, but I know this probably won’t make it 2 whole days before going into “Power Reserve” mode either. I didn’t think I would like it, but the screen does look good and cleaner than I thought it would. And I also like the overall look of the case. I usually prefer a round watch case, but this form-factor just makes sense to me the more I use it. So I really think Mr Ive & designers got it right.<br /> <br />
+I’m not seeing the problem with battery-life all the tech bloggers are concerned about, but I know this probably won’t make it 2 whole days before going into “Power Reserve” mode either. I didn’t think I would like it, but the screen does look good and cleaner than I thought it would. And I also like the overall look of the case. I usually prefer a round watch case, but this form-factor just makes sense to me the more I use it. So I really think Mr Ive & designers got it right.<br />
 
 I haven’t really done much else with the watch yet, so this isn’t really any kind of review. Just a first-impression after a week. But I have connected it to my Phillips Hue plain lights around the house. Kind of fun to control the lights from your wrist.<br />
 
 My only complaint, so far, is that there aren’t enough watch faces. The stock ones from Apple are really great-looking, so it’s easy to overlook this. But if Apple <a href="http://daringfireball.net/2015/04/custom_watch_faces">isn’t allowing third-party watch faces</a> then I am hoping they come up with some more variety or offer more customization options. But all-in-all I like it so far, and I think it will be my main watch and notifications-gateway for some time to come.<br />
 
-<div>
+<div style="font-size: 14px;">
     .   .   .
 </div>
 
