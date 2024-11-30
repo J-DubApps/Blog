@@ -1,18 +1,11 @@
 +++
-date = '2024-11-24T23:12:42-06:00'
+date = '2015-05-01T23:12:42-06:00'
 draft = false
 title = 'Apple Watch—One Week In'
 type = 'post'
 tags = ["tech"]
 +++
 
-.text-truncate {
-  display: inline-block;
-  max-width: 150px;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
 ]<div>
   <img src="https://julianwest.me/Blog/posts/Apple-Watch-One-week-in/apple-watch.jpeg" alt="Alt text">
 </div><br />
@@ -31,8 +24,8 @@ I haven’t really done much else with the watch yet, so this isn’t really any
 
 My only complaint, so far, is that there aren’t enough watch faces. The stock ones from Apple are really great-looking, so it’s easy to overlook this. But if Apple <a href="http://daringfireball.net/2015/04/custom_watch_faces">isn’t allowing third-party watch faces</a> then I am hoping they come up with some more variety or offer more customization options. But all-in-all I like it so far, and I think it will be my main watch and notifications-gateway for some time to come.<br />
 
-<span class="text-truncate" style="max-width: 15px;">
+<div>
     .   .   .
-</span>
+</div>
 
 <i>Originally published at julianwest.me on May 1, 2015.</i>
