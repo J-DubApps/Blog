@@ -26,7 +26,7 @@ The Boosted board is what they call a “Last Mile” vehicle: transportation us
 Last month I added another last-mile vehicle to my garage, an E-TWOW S2 Booster kick-scooter. It’s a little safer on some streets than the Boosted board, and folds making it just as convenient (if somewhat heavier at 29 pounds) to carry onto DART trains and buses. Like the Boosted board, the E-TWOW has good range and a quick speed of up to 21 miles-per-hour. Unlike the Boosted board, the E-TWOW can go up to 20+ miles on a single charge. More places you can go with that extra juice, and be somewhat safer in the process. Of course, to me the Boosted board is a bit more fun — but due to the safety angle, both of these rides are getting the love.<br />
 
 <div class="image-row">
-<img src="https://julianwest.me/Blog/posts/Last-Mile-Mobility/etwowjpeg" alt="Alt text" width="500" height="150">
+<img src="https://julianwest.me/Blog/posts/Last-Mile-Mobility/etwow.jpeg" alt="Alt text" width="500" height="150">
 <img src="https://julianwest.me/Blog/posts/Last-Mile-Mobility/boosted1.jpeg" alt="Alt text" width="500" height="150">
 </div><br />
 
