@@ -22,8 +22,9 @@ I don’t really have a plan. Just following my interests and making observation
 
 Dr. Ian Sussman (Elliot Gould) — Contagion<br /> <br />
 
+<p>
 <span class="text-truncate" style="max-width: 15px;">
-    .   .   .
+.   .   .   
 </span>
-
+</p>
 <i>Originally published at julianwest.me on June 5, 2012.</i>
