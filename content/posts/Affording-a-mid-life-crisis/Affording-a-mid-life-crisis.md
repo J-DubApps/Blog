@@ -18,7 +18,7 @@ The next common way to save on a Model S is to buy or lease it from your regiona
 
 <div>
   <img src="https://julianwest.me/Blog/posts/Affording-a-mid-life-crisis/tesla-inventory.jpeg" alt="Alt text">
-</div><br />
+</div>
 <div style="font-size: 9px;">
 <p style="text-align: center;"><i>Inventory cars like this are a good way to save…</i></p>
 </div>
