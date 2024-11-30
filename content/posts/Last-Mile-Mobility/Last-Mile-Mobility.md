@@ -1,8 +1,9 @@
 +++
 date = '2016-05-06T23:04:49-06:00'
 draft = false
-title = 'Last-Mile Vehicles & Using Them In a City that isn’t NYC, San Francisco, or Los Angeles.'
+title = '&quot;Last-Mile&quot;  Vehicles & Using Them In a City that isn’t NYC, San Francisco, or Los Angeles.'
 subtitle = '$1400 To Break a Rib…'
+type = 'post'
 tags = ["transport"]
 +++
 
