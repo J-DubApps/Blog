@@ -6,7 +6,7 @@ type = 'post'
 tags = ["tech", "cars"]
 +++
 
-]<div>
+<div>
   <img src="https://julianwest.me/Blog/posts/final-word-on-my-Chevy-Volt/volt.jpeg" alt="Alt text">
 </div><br />
 
