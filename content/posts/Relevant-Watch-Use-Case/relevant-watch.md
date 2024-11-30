@@ -1,6 +1,6 @@
 +++
 date = '2015-05-06T23:12:42-06:00'
-draft = true
+draft = false
 title = 'One Relevant Watch Use-Case'
 type = 'post'
 tags = ["tech", "cars"]
