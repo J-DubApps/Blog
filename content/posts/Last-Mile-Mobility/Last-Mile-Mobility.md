@@ -1,6 +1,6 @@
 +++
-date = '2024-11-24T23:04:49-06:00'
-draft = true
+date = '2016-05-06T23:04:49-06:00'
+draft = false
 title = '&quot;Last-Mile&quot;  Vehicles & Using Them In a City that isn’t NYC, San Francisco, or Los Angeles.'
 subtitle = '$1400 To Break a Rib…'
 tags = ["transport"]
