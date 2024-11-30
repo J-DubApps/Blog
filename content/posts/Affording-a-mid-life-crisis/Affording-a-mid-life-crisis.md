@@ -3,7 +3,7 @@ date = '2015-04-28T23:12:16-06:00'
 draft = false
 title = 'Affording a mid-life crisis'
 type = 'post'
-tags = ["tech", "cars"]
+tags = ["tech", "cars", "EVs", "transport"]
 +++
 
 I have already been asked if I robbed a bank or something to be driving a Tesla (for the record, no). Among questions I get from people (How far can you go?, How does it drive? etc), the majority center on affordability. Even though my close friends and family won’t ask for for details, and I am kind of a low-key and private guy, I get the impression people want to know more. So here is a a quick post on how relatively-affordable a Tesla Model S may actually be.<br />

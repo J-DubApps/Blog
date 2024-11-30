@@ -3,7 +3,7 @@ date = '2015-04-27T23:11:47-06:00'
 draft = false
 title = 'Teslanomics'
 type = 'post'
-tags = ["tech", "cars", "EVs"]
+tags = ["tech", "cars", "EVs", "transport"]
 +++
 
 Let’s forget the higher price of Model S cars for a moment and look at its long-term costs, broken down using the dark arts of <a href="http://www.investopedia.com/articles/active-trading/041515/economics-owning-tesla-car.asp"><i>“Teslanomics”</i></a> or, as I like to call it, <i>rationalizing</i>.<br />
