@@ -55,7 +55,7 @@ I’m a nerd, what do <i>you</i> think? Hell yes I did!! ;)<br /> <br />
 
 # Myth-Debunking<br /> <br />
 
-“You burn more coal and other energy to produce the battery, the car components, and other materials with Model S than traditional steel gas cars — so you would need to drive the car for decades to recover the energy spent building it.”<br /> <br />
+><b>“You burn more coal and other energy to produce the battery, the car components, and other materials with Model S than traditional steel gas cars — so you would need to drive the car for decades to recover the energy spent building it.”</b><br /> <br />
 
 We have heard this ridiculolous falsehood, based on questionable analysis, many times before. In response Tesla performed a lengthy study of their entire production process right down to each individual lithium ion cell in the car, and the energy expended to build a Model S is actually very close in comparison to that of building gas cars. Less in some ways.<br /> <br />
 
