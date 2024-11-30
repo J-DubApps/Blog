@@ -14,11 +14,11 @@ tags = ["blog"]
   text-overflow: ellipsis;
 }
 
-Hello. My name is Julian West. I just started a blog.<br /> <br />
+Hello. My name is Julian West. I just started a blog.<br />
 
-I don’t really have a plan. Just following my interests and making observations, seeing where it takes me. For now, I’ll leave you with a deep comment on the state of the Personal Blog:<br /> <br />
+I don’t really have a plan. Just following my interests and making observations, seeing where it takes me. For now, I’ll leave you with a deep comment on the state of the Personal Blog:<br />
 
->“Blogging is not writing. It’s just graffiti with punctuation.”<br /> <br />
+>“Blogging is not writing. It’s just graffiti with punctuation.”<br />
 
 Dr. Ian Sussman (Elliot Gould) — Contagion<br /> <br />
 
