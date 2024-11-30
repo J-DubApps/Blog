@@ -12,9 +12,9 @@ tags = ["tech", "cars"]
 
 Checking the AC, opening the sunroof. You know, just regular car stuff.<br /> <br />
 
-<div>
+<div style="font-size: 14px;"><p>
     .   .   .
-</div>
+</p></div>
 
 <i>Originally published at julianwest.me on May 1, 2015.</i>
 
