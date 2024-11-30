@@ -53,7 +53,7 @@ As for water, I know that the highly-sealed battery and car components have had 
 
 I’m a nerd, what do <i>you</i> think? Hell yes I did!! ;)<br />
 
-# Myth-Debunking<br /> <br /><br />
+# Myth-Debunking<br /> <br />
 
 ><b>“You burn more coal and other energy to produce the battery, the car components, and other materials with Model S than traditional steel gas cars — so you would need to drive the car for decades to recover the energy spent building it.”</b><br />
 
