@@ -12,7 +12,7 @@ My next EV…<br /><br />
   <img src="https://julianwest.me/Blog/posts/images/model_s.jpeg" alt="Alt text">
 </div><br />
 
-…is a <a href="http://www.julianwest.me/2015/04/28/tesla-faq-myth-debunkery/">Tesla Model S.</a><br />
+…is a <a href="http://julianwest.me/Blog/posts/tesla-faq/">Tesla Model S.</a><br />
 
 ?!!<br />
 
@@ -21,4 +21,13 @@ No joke. In spite of my pragmatic miserly nature, I did in fact adopt a Tesla Mo
 whiskey. tango. foxtrot. It’s still sinking in…<br />
 
 I loved driving Bob Lutz’s brainchild these past few years, and I am looking forward to driving Elon Musk’s brainchild next.
-God Bless America.
+<i>Gawd Bless 'Murica.</i>
+
+<div>
+  <img src="https://julianwest.me/Blog/posts/images/musk-lutz.jpeg" alt="Alt text">
+</div>
+<div style="font-size: 9px;">
+<p style="text-align: center;"><i>Fathers of the Model S & Chevy Volt</i></p>
+</div><br />
+
+More later. In the meantime, here is my <b><a href="http://theoatmeal.com/comics/tesla_model_s">favorite summary of the car</a></b>. (Warning for NSFW language).
