@@ -1,11 +1,10 @@
 +++
 date = '2014-12-10T23:10:16-06:00'
-draft = true
+draft = false
 title = 'PMI Certified PMP'
-+++
 type = 'post'
 tags = ["career", "project-mgmt"]
-
++++
 
 
 This past weekend I passed the <a href="http://www.pmi.org/Certification/Project-Management-Professional-PMP.aspx">Project Management Professional</a> exam to earn the certification awarded by <a href="http://www.pmi.org/default.aspx">PMI</a>. Feels really good to have it done. The PMP is one of the most difficult designations to obtain in my industry, so it was a worthwhile effort and I studied for it on and off for the better part of a year. Project management is a valued skill for network architects and senior engineers, but to me it was a great way to personally validate my own knowledge that have I developed these past 15 years managing IT projects.<br /
