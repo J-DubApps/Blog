@@ -16,11 +16,11 @@ My next EV…<br /><br />
 
 ?!!<br />
 
-No joke. In spite of my pragmatic miserly nature, I did in fact adopt a Tesla Model S <a href="http://www.teslamotors.com/en_EU/blog/introducing-all-wheel-drive-model-s-70d">70D</a> with Autopilot a couple weeks ago. Tesla: the very same energy storage tech start-up that also <i>just happens to build</i> amazing electric cars. Crazy. It arrives in about 4 weeks.<br />
+No joke. In spite of my pragmatic miserly nature, I did in fact adopt a Tesla Model S <a href="http://www.teslamotors.com/en_EU/blog/introducing-all-wheel-drive-model-s-70d">70D</a> with Autopilot a couple weeks ago. <i>Tesla</i>: the very same <a href="http://www.wired.com/2015/04/tesla-isnt-car-company-battery-company">energy storage tech start-up</a> that also <i>just happens to build</i> amazing electric cars. Crazy. It arrives in about 4 weeks.<br />
 
 whiskey. tango. foxtrot. It’s still sinking in…<br />
 
-I loved driving Bob Lutz’s brainchild these past few years, and I am looking forward to driving Elon Musk’s brainchild next.
+I loved driving <b>Bob Lutz’s</b> <a href="http://en.wikipedia.org/wiki/Chevrolet_Volt">brainchild</a> these past few years, and I guess I am looking forward to driving Elon Musk’s <a href="http://en.wikipedia.org/wiki/Tesla_Model_S">brainchild</a> next.<br />
 <i>Gawd Bless 'Murica.</i>
 
 <div>
