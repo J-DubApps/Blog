@@ -1,5 +1,5 @@
 +++
-date = '2024-11-24T23:10:16-06:00'
+date = '2014-12-10T23:10:16-06:00'
 draft = true
 title = 'PMI Certified PMP'
 +++
@@ -13,6 +13,5 @@ This past weekend I passed the <a href="http://www.pmi.org/Certification/Project
 Next it’s on to planning my PDU opportunities to maintain my certification (60 PDUs required every 3 years), and figuring out what my next certification objective should be. CCIE is in the top-running. Or maybe Scrum Master although my Agile experience is somewhat limited. CCIE requires as much time-investement as the PMP, perhaps even more.<br />
 
 For now, a little rest and celebration is in order!<br />
-
 
 <i>Originally published at julianwest.me on December 10, 2014.</i>
