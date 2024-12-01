@@ -40,4 +40,6 @@ And how does my mom feel today about Oswald acting alone or if it was a conspira
 
 “Nobody will ever ever know, but I think he did it by himself”, mom told me some time ago. “He was just too odd and undependable, bit of a loose cannon to be in cahoots with any organized group of people.” (cahoots, a classic term Mom uses to great affect). Despite the temptation to give into conspiracy theories, I agree with her assessment.<br />
 
-After all, how could I disagree with my mom? She was there.
+After all, how could I disagree with my mom? She was there.<br />
+
+<i>Originally published at julianwest.me on November 21, 2013.</i>
