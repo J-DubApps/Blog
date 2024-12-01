@@ -1,5 +1,5 @@
 +++
-date = '2015-04-27T23:04:49-06:00'
+date = '2015-06-29T23:04:49-06:00'
 draft = false
 title = 'He&#39;ll Be Himself'
 type = 'post'
