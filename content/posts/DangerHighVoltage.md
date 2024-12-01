@@ -28,6 +28,6 @@ I loved driving <b>Bob Lutz’s</b> <a href="http://en.wikipedia.org/wiki/Chevro
 </div>
 <div style="font-size: 9px;">
 <p style="text-align: center;"><i>Fathers of the Model S & Chevy Volt</i></p>
-</div><br />
+</div>
 
 More later. In the meantime, here is my <b><a href="http://theoatmeal.com/comics/tesla_model_s">favorite summary of the car</a></b>. (Warning for NSFW language).

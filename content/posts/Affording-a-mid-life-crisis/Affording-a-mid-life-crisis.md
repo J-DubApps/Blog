@@ -21,7 +21,7 @@ The next common way to save on a Model S is to buy or lease it from your regiona
 </div>
 <div style="font-size: 9px;">
 <p style="text-align: center;"><i>Inventory cars like this are a good way to save…</i></p>
-</div>
+</div><br />
 
 Inventory car shopping is the route I took when I began seriously looking and, by the time I was ready to buy, I was just fine with getting Tesla’s somewhat low-end entry-level Model S “70D”. I also stuck with one of the least costly colors. Let’s just say I steered clear of Tesla’s high-end “P85D” which is already a house-payment before adding any options! Fortunately the 70D is already in a class by itself and better than most gas cars, so the more basic configuration is a great choice and helped with affordability when I decided to pull the trigger.<br />
 
@@ -52,6 +52,6 @@ So here begins a possible decade of me driving a single electric car, the Tesla 
 
 <div>
   <img src="https://julianwest.me/Blog/posts/Affording-a-mid-life-crisis/tesla-model-s-70d.jpeg" alt="Alt text">
-</div><br /><br />
+</div><br />
 
 <u>Originally published at julianwest.me on April 28, 2015.</i>
