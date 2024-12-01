@@ -17,7 +17,7 @@ pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a h
   
 [menus]
   [[menus.main]]
-    name = 'Home'
+    name = 'Julianwest.me'
     url = "https://julianwest.me"
     weight = 10
   [[menus.main]]
