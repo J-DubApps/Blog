@@ -3,7 +3,7 @@ date = '2012-06-24T23:10:16-06:00'
 draft = false
 title = 'When Dallas Rocked'
 type = 'post'
-tags = ["music", "dallas"]
+tags = ["music", "dallas", "history"]
 +++
 
 
