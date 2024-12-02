@@ -1,7 +1,7 @@
 +++
 date = '2013-05-25T23:07:36-06:00'
 draft = false
-title = 'Mom's 1973 &quot;Tumor&quot;'
+title = 'Mom&apos;s 1973 &quot;Tumor&quot;'
 type = 'post'
 tags = ["life-event", "family"]
 +++
