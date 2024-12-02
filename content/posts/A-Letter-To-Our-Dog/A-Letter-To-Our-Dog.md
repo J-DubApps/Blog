@@ -3,7 +3,7 @@ date = '2018-05-18T23:17:51-06:00'
 draft = false
 title = 'A Letter to our Dog'
 type = 'post'
-tags = ["family"]
+tags = ["family", "video", "rip"]
 +++
 
 <style>
