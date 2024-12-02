@@ -7,7 +7,7 @@ tags = ["tech", "legal"]
 +++
 
 
-Good article on Google’s new aggressive stance. After the Samsung verdict last week, expect Google to do stuff like this as “defensive” measures.<br />
+<a href="http://parislemon.com/post/29654656418/googles-motorola-files-new-case-against-apple-not">Good article on Google’s new aggressive stance</a>. After the Samsung verdict last week, expect Google to do stuff like this as “defensive” measures.<br />
 
 
 <i>Originally published at julianwest.me on August 28, 2012.</i>
