@@ -3,7 +3,7 @@ date = '2015-07-29T23:12:16-06:00'
 draft = false
 title = 'False Flag'
 type = 'post'
-tags = ["usa"]
+tags = ["usa", "opinion"]
 +++
 
 It isn’t wrong to place a flag of a long-dead and short-lived nation into a museum, and let it be only allowed at federal government battlefield monuments. As a Texan, I don’t agree with the Southern Revisionism of the past 50 years where the historic Confederate flag was mis-used as a self-identification of southern pride. The flag was not viewed that way by the <a href="http://www.historyplace.com/civilwar/">Civil War</a> veterans from the South after <a href="https://en.wikipedia.org/wiki/Reconstruction_Era">Reconstruction</a>: it was only used by veterans during battleground anniversary cermonies and parades commemorating the end of the war. Each parade with Southern vets made damn sure the <a href="https://en.wikipedia.org/wiki/Flag_of_the_United_States">United States flag</a> was first ahead of the Confederate flag — and always held higher than the Confderate flag. And then it was put away, either in family heirlooms or museums. It wasn’t until about 80 years after the war, in the 1940s, when Southern “Dixiecrat” politicians used the Confederate flag as a symbol to rally people to support racial-segregation laws. From the 40s right up through the Civil Rights protests, the flag began to adorn state and government flagpoles. It’s use as a symbol of racism only increased tenfold since then.<br />

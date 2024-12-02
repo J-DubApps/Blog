@@ -3,7 +3,7 @@ date = '2012-08-04T23:07:36-06:00'
 draft = false
 title = 'Day Jobs, Gilded Cages, and (not broken, but delayed) Dreams.'
 type = 'post'
-tags = ["career", "tech"]
+tags = ["career", "tech", "opinion"]
 +++
 
 

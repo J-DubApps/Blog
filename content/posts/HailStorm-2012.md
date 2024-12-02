@@ -3,7 +3,7 @@ date = '2012-06-14T23:07:36-06:00'
 draft = false
 title = '&quot;Definitely a Multimillion-dollar hail storm&quot;'
 type = 'post'
-tags = ["cars", "dfw", "weather-climate"]
+tags = ["cars", "dallas", "weather-climate"]
 +++
 
 

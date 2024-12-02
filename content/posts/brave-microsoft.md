@@ -3,7 +3,7 @@ date = '2012-06-18T23:12:42-06:00'
 draft = false
 title = 'A Brave Microsoft, Unable To Let Go of the Past'
 type = 'post'
-tags = ["tech", "microsoft", "windows", "opinion"]
+tags = ["tech", "microsoft", "windows", "opinion", "apple"]
 +++
 
 If Apple were to observe and opine on today’s announcement (which they never do) they would tell you how they cut the cord of desktop OS concepts in mobile: they took the kernel of OSX and made iOS for mobile, threw out any x86 OSX app-compatibility, and strictly kept it that way for iPad as well. Only one of Microsoft’s announced tablets can say that today.<br />

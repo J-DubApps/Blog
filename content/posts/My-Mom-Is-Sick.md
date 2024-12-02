@@ -3,7 +3,7 @@ date = '2015-10-30T23:14:48-06:00'
 draft = false
 title = 'My Mom Is Sick'
 type = 'post'
-tags = ["family"]
+tags = ["family", "life-event"]
 +++
 
 I don’t know how to start this blog post, except to say that my mom is in the hospital with kidney failure. She has been in a slow but steady decline these past 4 months, having had 2 falls, and her balance had worsened. What led to the hospital stay is the faster decline this past two weeks: her appetite has been nonexistent and she has lost weight and energy, so I called 911 and they took her to Parkland.<br />
