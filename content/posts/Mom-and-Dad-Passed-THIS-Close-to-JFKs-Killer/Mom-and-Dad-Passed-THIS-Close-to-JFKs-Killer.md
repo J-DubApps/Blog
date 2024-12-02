@@ -1,7 +1,7 @@
 +++
 date = '2013-11-21T23:08:47-06:00'
 draft = false
-title = 'My Mom and Dad Passed THIS Close to JFKs Killer. Three times.'
+title = 'My Mom and Dad Passed THIS Close to JFK&apos;s Killer. Three times.'
 type = 'post'
 tags = ["usa", "history", "dallas"]
 +++
