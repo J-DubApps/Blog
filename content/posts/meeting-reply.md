@@ -3,7 +3,7 @@ date = '2012-06-12T23:10:16-06:00'
 draft = false
 title = 'The Meeting Reply…'
 type = 'post'
-tags = ["funny"]
+tags = ["funny", "project-mgmt", "career", "opinion"]
 +++
 
 …saw this linked today on the Simplicity Is Bliss blog and it’s making the rounds, for obvious reasons, with various Knowledge Worker sites:<br /><br />

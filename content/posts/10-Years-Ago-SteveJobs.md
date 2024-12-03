@@ -3,7 +3,7 @@ date = '2017-01-11T23:17:32-06:00'
 draft = false
 title = '10 Years Ago...'
 type = 'post'
-tags = ["tech"]
+tags = ["tech", "apple"]
 +++
 
 <a href="https://www.youtube.com/watch?v=vN4U5FqrOdQ">Steve Jobs introduced iPhone</a> (if you haven’t ever seen this video, or if it’s been more than 5 years, give it an hour and be amazed at Jobs in his prime Apple-comeback era).<br />

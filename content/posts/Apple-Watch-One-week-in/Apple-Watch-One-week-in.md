@@ -3,7 +3,7 @@ date = '2015-05-01T23:12:42-06:00'
 draft = false
 title = 'Apple Watch—One Week In'
 type = 'post'
-tags = ["tech"]
+tags = ["tech", "apple"]
 +++
 
 <div>
