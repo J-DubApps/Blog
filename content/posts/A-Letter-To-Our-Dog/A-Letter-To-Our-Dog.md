@@ -13,9 +13,9 @@ tags = ["family", "video", "rip", "life-event"]
 </style>
 
 <div class="image-row">
-  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/jackson_meet_day1.jpeg" alt="Alt text" width="250" height="65">
-  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/jackson_meet_day2.jpeg" alt="Alt text" width="300" height="65">
-  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/jackson_meet_day3.jpeg" alt="Alt text" width="250" height="65">
+  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/jackson-meeting-1.jpeg" alt="Alt text" width="250" height="65">
+  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/jackson-meeting-2.jpeg" alt="Alt text" width="300" height="65">
+  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/jackson-meeting-3.jpeg" alt="Alt text" width="250" height="65">
 </div><br /> <br />
 
 Dearest Jackson,
@@ -27,14 +27,14 @@ I called that <a href="https://fuzzyfriendsrescue.com">rescue shelter</a> twice 
 I remember the first few days when you settled into your new home. You were pretty quiet and reserved for a puppy. <i>Too quiet</i>, until we found those perfect chew toys and tug-ropes for you. Then you really let loose. I think Mr Carrot, and his 4 incarnations over the years, will miss you especially. Pink Pig and Blue Snake will miss you as well.<br /><br />
 
 <div class="image-row">
-  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/jackson_toy.jpeg" alt="Alt text" width="400" height="65">
+  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/jackson-toy.jpeg" alt="Alt text" width="400" height="65">
   <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/jackson_winter1.jpeg" alt="Alt text" width="300" height="65">
 </div><br /> <br />
 
 You were so whip-smart. You could fetch those toys just by hearing their nicknames. It took all of 20 minutes to teach you to sit and speak, though I am pretty sure you stretched it out a bit for the extra treats. And we learned just how strong and wild you could really be when you discovered squirrels and rabbits on those early neighborhood walks.<br /><br />
 
 <div class="image-row">
-  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/jackson_gazing.jpeg" alt="Alt text">
+  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/jackson-gazing.jpeg" alt="Alt text">
 </div><br /> <br />
 
 Speaking of nicknames, Mommy gave you many, and you answered them them all: Pumpkin, Pookie Bear, Little One. You were very generous and never offended at the names, you even wagged your tail at hearing them.<br /><br />
@@ -47,13 +47,13 @@ Even when storms were no longer scary, you still gave out those licks. <b>It was
 
 
 <div class="image-row">
-  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/jackson_young.jpeg" alt="Alt text" width="400" height="65">
+  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/jackson-young.jpeg" alt="Alt text" width="400" height="65">
   <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/jackson_coat.jpeg" alt="Alt text" width="300" height="65">
 </div><br />
 
 <div class="image-row">
-  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/jackson_gazing2.jpeg" alt="Alt text" width="400" height="65">
-  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/jackson_sun.jpeg" alt="Alt text" width="300" height="65">
+  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/jackson-gazing2.jpeg" alt="Alt text" width="400" height="65">
+  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/jackson-sun.jpeg" alt="Alt text" width="300" height="65">
 </div><br /> <br />
 
 And <i><b>that bark!</i></b> I can still hear your bark right here and now, as I struggle to write this. <b><i>“Time to go for a walk!”</b></i> and your excitement was vocal. You had an attention bark, a snack-request bark, a Mailman bark, you name it. You never had a problem getting our attention. You also never had a problem getting anybody else’s attention either: you took your watchdog duties very seriously. Inspection of all guests was mandatory, and woe to anybody who made sudden or odd movements around your pack, they got checked. You could be serious, goofy, and loving within the span of a few minutes. You made us laugh and smile so much all these years, Jackson.<br /> <br />
@@ -66,7 +66,7 @@ Oh and <i>Mister Jukes</i>? I never knew a dog who mastered human eye-contact as
 
 
 <div class="image-row">
-  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/jackson_looking_up.jpeg" alt="Alt text">
+  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/jackson-looking-up.jpeg" alt="Alt text">
 </div><br /> <br />
 
 You were always down for a last-minute road trip or adventure. So many trips that by any time you saw bags being packed, you got excited. We took you everywhere across the country with us. You would sit high in our laps, wanting a commanding view of the road. Other times you liked to just nap and let the miles roll by. We knew who was in charge of those vacations. You loved seeing our family and parents, and you generously welcomed them into our little pack.<br /> <br />
@@ -80,7 +80,7 @@ And when our pack members were sick, or sad, you were always there to help them 
 I remember when Kimberly cried at news of Grandma’s illness, and you jumping up and nuzzling her and furiously licking away her tears. You accompanied her to Michigan, standing guard during the flurry of doctor and hospice visits. And the day her mother passed, you were right there at our side. Calm, settled, you kept watch over the pack during vulnerable times. And when we kept vigil over you these past few months of illness, and especially this heartbreaking week, I hope you feel we somehow lived-up to your boundless affection and loyalty…as should any good pack member. Everybody should have a friend as faithful and giving as you are.<br /> <br />
 
 <div class="image-row">
-  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/Jackson_His_Last_Year.jpeg" alt="Alt text">
+  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/Jackson-older.jpeg" alt="Alt text">
 </div><br /> <br />
 
 As the years went on, you got a little slower. A little less agile. Your fur greyed a bit. You knew times were changing, but you were still always down for playtime or a road-trip. Lap-time also became more of an intense interest on your part, along with naps. And we loved being “those people” who wanted to do nothing on a Saturday but hang around the house with our dog napping in our laps.<br /> <br />
@@ -88,7 +88,7 @@ As the years went on, you got a little slower. A little less agile. Your fur gre
 You were still every bit as loving and fun even as you grew into our <i>Little Old Man</i>, Jackson. Your pack rallied to keep life comfortable, even if you felt our adjustments around the house were probably silly. We were only too happy to be two settled-down Humans enjoying time with our Little Old Man.<br /> <br />
 
 <div class="image-row">
-  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/Jackson_His_Last_Year2.jpeg" alt="Alt text">
+  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/Jackson-older2.jpeg" alt="Alt text">
 </div><br /> <br />
 
 And did you know you were a Zen Master in your older years, Jackson? You were! When you gave up the squirrel-chasing hobby, I recall times when you would just sit quiet and still in a sunbeam. Your eyes closed, like some meditating K9 monk. We would sometimes sit right there with you, waiting for you to open your eyes, look up, and wag that tail when you saw us.<br /> <br />

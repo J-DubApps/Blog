@@ -6,11 +6,11 @@ type = 'post'
 tags = ["transport", "cars", "EVs"]
 +++
 
-My next EV…<br /><br />
+My next EV…<br /
 
 <div>
   <img src="https://julianwest.me/Blog/posts/images/model_s.jpeg" alt="Alt text">
-</div><br />
+</div>
 
 …is a <a href="http://julianwest.me/Blog/posts/tesla-faq/">Tesla Model S.</a><br />
 
