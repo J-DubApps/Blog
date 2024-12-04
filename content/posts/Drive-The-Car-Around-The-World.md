@@ -8,7 +8,7 @@ tags = ["tech", "cars", "ev"]
 
 Emjoying the new <a href="http://julianwest.me/Blog/posts/dangerhighvoltage/">Model S</a>, and I figured I would throw together a little video with one of my favorite <a href="https://en.wikipedia.org/wiki/World_Party">World Party</a> (Karl Wallinger) songs. <br />
 
-EVs could very well be the way.  Enjoy...<br />
+EVs could very well be the way.  Enjoy...
 
 
 <div class="video">

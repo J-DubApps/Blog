@@ -109,7 +109,7 @@ I like to think you’re on the other side, hanging out with your Grandma and my
 
 <i>Good boy, Jackson.</i><br /> <br />
 
-Mommy and Daddy<br /> <br />
+Mommy and Daddy
 
 <div class="video">
 {{< youtube 3_fsflffND4 >}}
