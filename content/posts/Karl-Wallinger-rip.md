@@ -12,7 +12,7 @@ tags = ["art", "music", "rip"]
 
 Today I heard the very sad news that <a href="https://www.theguardian.com/music/2024/mar/13/karl-wallinger-obituary">we lost Karl Wallinger this week</a>.<br />
 
-Karl was one of the reasons I ever picked up a guitar, in the first place.  <a href="http://julianwest.me/Blog/posts/karl-wallinger/karl-wallinger/v">I met him in June of 2015</a> and got to hang out with him for a bit.  One of the most humble, wisest, and most witty people I ever met.  <br />
+Karl was one of the reasons I ever picked up a guitar, in the first place.  <a href="http://julianwest.me/Blog/posts/karl-wallinger/karl-wallinger">I met him in June of 2015</a> and got to hang out with him for a bit.  One of the most humble, wisest, and most witty people I ever met.  <br />
 
 Rest in Peace good man.  And thank you for the music.
 
