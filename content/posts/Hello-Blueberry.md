@@ -14,7 +14,7 @@ My next EV…<br />
 Our second Tesla is headed our way in a couple months, after manufacturing. Meet Blueberry:
 
 <div class="image-row">
-  <img src="https://julianwest.me/Blog/posts/images/model-x-order.jpeg" alt="Alt text" width="250" height="65">
+  <img src="https://julianwest.me/Blog/posts/images/model-x-order.jpeg" alt="Alt text" width="250" height="65"><br />
   <img src="https://julianwest.me/Blog/posts/images/two-teslas.jpeg" alt="Alt text" width="300" height="65">
 </div>
 
