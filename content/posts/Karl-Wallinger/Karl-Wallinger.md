@@ -1,6 +1,6 @@
 +++
 date = '2015-06-26T23:03:26-06:00'
-draft = true
+draft = false
 title = 'Karl Wallinger'
 type = 'post'
 tags = ["art", "music"]
@@ -24,4 +24,4 @@ I also mentioned my Youtube video to Karl, which I threw together using his song
 
 Take my advice, when Karl and World Party go on-tour again…do yourself a favor buy tickets and go see him. <br />
 
-<i>Originally published at julianwest.me on June 26, 2015.</i>
+<i>Originally published at julianwest.me on June 26, 2015.  Since then we sadly lost <a href="https://www.theguardian.com/music/2024/mar/13/karl-wallinger-obituary">Karl Wallinger</a> in March of 2024.</i>

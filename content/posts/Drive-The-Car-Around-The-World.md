@@ -16,4 +16,4 @@ EVs could very well be the way.  Enjoy...<br />
 </div>
 
 
-<i>Originally published at julianwest.me on May 10th, 2015.  Since then we sadly lost <a href="https://en.wikipedia.org/wiki/Karl_Wallinger">Karl Wallinger</a> in March of 2024.</i>
+<i>Originally published at julianwest.me on May 10th, 2015.  Since then we sadly lost <a href="https://www.theguardian.com/music/2024/mar/13/karl-wallinger-obituary">Karl Wallinger</a> in March of 2024.</i>
