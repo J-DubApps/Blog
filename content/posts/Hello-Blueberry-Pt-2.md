@@ -1,7 +1,7 @@
 +++
 date = '2018-06-20T23:17:51-06:00'
 draft = false
-title = 'Hello, Blueberry...'
+title = 'Hello, Blueberry...Pt 2'
 type = 'post'
 tags = ["family", "cars", "ev", "tech"]
 +++
