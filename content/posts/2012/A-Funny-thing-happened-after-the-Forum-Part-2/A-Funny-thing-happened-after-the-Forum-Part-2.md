@@ -7,7 +7,7 @@ tags = ["thought", "philosophy", "special-write-up"]
 +++
 
 <div>
-  <img src="https://julianwest.me/Blog/posts/A-Funny-thing-happened-after-the-Forum-Part-2/seminar.jpeg" alt="Alt text">
+  <img src="https://julianwest.me/Blog/posts/2012/A-Funny-thing-happened-after-the-Forum-Part-2/seminar.jpeg" alt="Alt text">
 </div>
 <div style="font-size: 9px;">
 <p style="text-align: center;"><i>Hey, this presenter doesn’t appear to have a head or hands.</i></p>

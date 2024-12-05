@@ -13,7 +13,7 @@ tags = ["thought", "scifi", "philosophical", "movies-tv"]
 </style>
 
 <div class="image-row">
-  <img src="https://julianwest.me/Blog/posts/Yoda-Was-Right-About-Fear/yoda.jpeg" alt="Alt text">
+  <img src="https://julianwest.me/Blog/posts/2013/Yoda-Was-Right-About-Fear/yoda.jpeg" alt="Alt text">
 </div><br />
 
 Although the Star Wars prequels were among the least-enjoyed among Gen-X and older fans, there is this fantastic Zen observation in Episode I which few people notice. Putting aside the poorly-scripted dialog & Jar-Jar scenes, there is a part I enjoy where Yoda discusses fear and attachment and hints at a fundamentally powerful way to be in life.<br />
@@ -41,7 +41,7 @@ All we can do is try to not run through the door that â€œconstant fear of lossâ€
 <i>Correct</i>, Yoda was.<br />
 
 <div class="image-row">
-  <img src="https://julianwest.me/Blog/posts/Yoda-Was-Right-About-Fear/fear-anger-hate-suffering.jpeg" alt="Alt text">
+  <img src="https://julianwest.me/Blog/posts/2013/Yoda-Was-Right-About-Fear/fear-anger-hate-suffering.jpeg" alt="Alt text">
 </div>
 <div style="font-size: 9px;"><p style="text-align:center;">Constant fear leads you to anger. Being a fearful angry person leads you to hate. Being hateful leads you to suffer.</p>
 </div>

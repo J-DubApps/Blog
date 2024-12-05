@@ -7,7 +7,7 @@ tags = ["thought", "philosophy", "special-write-up"]
 +++
 
 <div>
-  <img src="https://julianwest.me/Blog/posts/A-Funny-thing-happened-after-the-Forum-Part-3/seminar-seats.jpeg" alt="Alt text">
+  <img src="https://julianwest.me/Blog/posts/2012/A-Funny-thing-happened-after-the-Forum-Part-3/seminar-seats.jpeg" alt="Alt text">
 </div>
 <br />
 

@@ -7,7 +7,7 @@ tags = ["thought", "philosophy", "special-write-up"]
 +++
 
 <div>
-  <img src="https://julianwest.me/Blog/posts/A-Funny-thing-happened-after-the-Forum-Part-1/seats.jpeg" alt="Alt text">
+  <img src="https://julianwest.me/Blog/posts/2012/A-Funny-thing-happened-after-the-Forum-Part-1/seats.jpeg" alt="Alt text">
 </div> <br />
 
 <i>This is from a 3-part mini-memoir about the Landmark Forum from my old blog in March 2009. It received tens of thousands of views and I still hear from people about it…</i><br />
