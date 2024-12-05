@@ -34,7 +34,7 @@ Soon my cousins and I connected, and they sent me photos of my biological grandp
 
 It turns out Mom had 7 other siblings, from a family wracked by the Great Depression and numerous challenges of the era. Those siblings would be surrendered by my birth grandparents to the Waco State School, where they could be fed, clothed, and educated. Many children in central, north, and south Texas would experience such a fate between 1929 and 1939. It was harsh times. For my mother, not yet born, her parents felt adoption was the only way.<br />
 
-![Description of image](/Blog/posts/We-Are-Not-Orphans/robertsons.jpeg)<br />
+![Description of image](/Blog/posts/2019/We-Are-Not-Orphans/robertsons.jpeg)<br />
 
 I would learn of many trials, tribulations, and successes in the Robertson family from that era with the Waco State Home. Hearing my cousins tell the stories, I fell in love with this strong family. A family who had roots in the history of Missouri and going further all the way back to Scotland in the 1300s.<br />
 
@@ -56,4 +56,4 @@ I may be a technology professional, operating in logic and code, but I am also a
 
 A family’s energy surrounded us, was within us, as if we all knew each other for years. Robertsons! A family with deep roots going back to Scotland and the Middle Ages. A family with judges and public servants, who served in the Civil War and beyond. Our own branch of this noble family, who survived the Great Depression and all its destruction experienced by the previous generation….these Robertsons persisted, and thrived despite impossible odds. And we are living testatments to this.<br />
 
-![Description of image](/Blog/posts/We-Are-Not-Orphans/mom-and-new-fam.jpg)
+![Description of image](/Blog/posts/2019/We-Are-Not-Orphans/mom-and-new-fam.jpg)
