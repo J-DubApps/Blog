@@ -1,7 +1,7 @@
 +++
 date = '2012-09-16T23:02:36-06:00'
 draft = false
-title = 'A Funny Thing Happened After the Forum -- Part 3'
+title = 'A Funny Thing Happened After the Forum -- Pt 3'
 type = 'post'
 tags = ["thought", "philosophy", "special-write-up"]
 +++
@@ -15,7 +15,7 @@ tags = ["thought", "philosophy", "special-write-up"]
 
 It’s “Day 3”, or, life after the Landmark Forum. Here I will give my final thoughts and opinions on the Forum and how it operates. I think I’ve recalled this subject in an informative manner, and I hope it’s helpful for anyone researching it.<br />
 
-## What the Forum is/is not:<br />
+### What the Forum is/is not:<br />
 
 After a few years to reflect on my experience with the Landmark Forum, from this distance I can tell people what the Forum truly is, and what it is not. The Forum definitely is NOT a theology or religion. The Forum is also NOT a psychiatric program;however, it does use the power of a group to offer and drive home specific concepts that can relate to mental health. This can be equated to therapy, as people are wont to do with most LGAT programs; however, I don’t believe traditional group therapy lasts just 3 days and smacks your ego around!<br />
 

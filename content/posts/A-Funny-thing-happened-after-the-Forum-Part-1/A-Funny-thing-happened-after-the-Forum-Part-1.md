@@ -1,7 +1,7 @@
 +++
 date = '2012-09-14T23:02:29-06:00'
 draft = false
-title = 'A Funny Thing Happened After the Forum -- Part 1'
+title = 'A Funny Thing Happened After the Forum -- Pt 1'
 type = 'post'
 tags = ["thought", "philosophy", "special-write-up"]
 +++
