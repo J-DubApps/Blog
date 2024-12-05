@@ -14,6 +14,6 @@ tags = ["family", "life-event", "rip"]
 </style>
 
 <div class="image-row">
-  <img src="https://julianwest.me/Blog/posts/images/joywest-obit1.jpeg" alt="Alt text">  
-  <img src="https://julianwest.me/Blog/posts/images/joywest-obit2.jpg" alt="Alt text">
+  <img src="https://julianwest.me/Blog/posts/images/joywest-obit1.jpeg" alt="Alt text" width="250" height="65">  
+  <img src="https://julianwest.me/Blog/posts/images/joywest-obit2.jpg" alt="Alt text" width="250" height="65">
 </div>

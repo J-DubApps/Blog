@@ -24,6 +24,6 @@ We are still planning her memorial which I will post here when I know more.
 </style>
 
 <div class="image-row">
-  <img src="https://julianwest.me/Blog/posts/images/momyoung.jpg" alt="Alt text">  
-  <img src="https://julianwest.me/Blog/posts/images/mom-hs.jpg" alt="Alt text">
+  <img src="https://julianwest.me/Blog/posts/images/momyoung.jpg" alt="Alt text" width="250" height="65">  
+  <img src="https://julianwest.me/Blog/posts/images/mom-hs.jpg" alt="Alt text" width="250" height="65">
 </div>
