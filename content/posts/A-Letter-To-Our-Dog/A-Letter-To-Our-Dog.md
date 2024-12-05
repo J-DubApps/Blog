@@ -48,7 +48,7 @@ Even when storms were no longer scary, you still gave out those licks. <b>It was
 
 <div class="image-row">
   <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/jackson-young.jpeg" alt="Alt text" width="400" height="65">
-  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/jackson_coat.jpeg" alt="Alt text" width="300" height="65">
+  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/jackson-coat.jpeg" alt="Alt text" width="300" height="65">
 </div><br />
 
 <div class="image-row">
