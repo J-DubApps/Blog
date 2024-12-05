@@ -7,6 +7,13 @@ tags = ["family", "life-event", "rip"]
 +++
 
 
-<div>
-  <img src="https://julianwest.me/Blog/posts/images/joywest-obit1.jpeg" alt="Alt text">  <img src="https://julianwest.me/Blog/posts/images/joywest-obit2.jpg" alt="Alt text">
+<style>
+  .image-row {
+    display: flex;
+  }
+</style>
+
+<div class="image-row">
+  <img src="https://julianwest.me/Blog/posts/images/joywest-obit1.jpeg" alt="Alt text">  
+  <img src="https://julianwest.me/Blog/posts/images/joywest-obit2.jpg" alt="Alt text">
 </div>
