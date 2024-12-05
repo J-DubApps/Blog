@@ -1,0 +1,12 @@
++++
+date = '2024-01-22T23:22:51-06:00'
+draft = false
+title = 'Joy Pennybacker West Obituary: 1930-2022'
+type = 'post'
+tags = ["family", "life-event", "rip"]
++++
+
+
+<div>
+  <img src="https://julianwest.me/Blog/posts/images/joywest-obit1.jpeg" alt="Alt text">  <img src="https://julianwest.me/Blog/posts/images/joywest-obit2.jpg" alt="Alt text">
+</div>
