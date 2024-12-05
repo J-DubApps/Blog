@@ -1,7 +1,7 @@
 +++
 date = '2012-09-14T23:02:29-06:00'
 draft = false
-title = 'A Funny Thing Happened After the Forum -- Part 1'
+title = 'A Funny Thing Happened After the Forum -- Pt 1'
 type = 'post'
 tags = ["thought", "philosophy", "special-write-up"]
 +++
@@ -22,13 +22,13 @@ If you are not familiar with <b><a href="http://en.wikipedia.org/wiki/Large-grou
 
 In covering the Landmark Forum in 3 parts over the next two days, I want to discuss some of the specific Forum tenets that I actually use in my professional career, and the aspects I wholly reject. I hope to give an even-handed review, though my aim is not to satisfy Forum critics or Forum evangelists. That is a good thing. If nothing else, if you are considering the Forum perhaps these articles can help you in your own research.<br />
 
-## My “story” <br />
+### My “story” <br />
 
 Over 15 years ago the owner of the company I worked for asked employees to attend the Forum tuition-free, on his dime. My Forum experience started like most, at one of those infamous “Tuesday night ceremonies”. There I found myself and several co-workers enduring the “hard sell” sign-up pitches, and testimonies of enthusiastic recent Forum grads. To this day, my biggest criticism of the Landmark Forum are those “Tuesday Night” sessions. I will discuss a bit more on those later on.<br />
 
 Our Tuesday night Intro Session was full of lively and excited people, all discussing their breakthroughs gained after their recent Forum sessions. Some of the benefits were detailed to us should we decide to sign-up. We were to sign-up of our own volition, of course, not because of our generous CEO’s offer to pay or because of the euphoric Forum grads, either. No, signing up for the Forum was, as they say, a “commitment to ourselves” to obtain new insights on being an effective person, and nothing more. Sounded weird and self-helpy, sure, but this was the first of several exercises the Forum undertakes if you sign-up.<br />
 
-## History of the Landmark Forum <br />
+### History of the Landmark Forum <br />
 
 Like anything new involving a group, I followed my own individualistic skepticism gave a firm “no” to signing on to attend or participate. Over the next few days that became a qualified “no”…which in the end became a tentative “yes” after prodding from my boss and CEO. Such was the convincing nature of our CEO Jerry Federico. Jerry could sell ice to Eskimos, and he made a powerful case for the Landmark Forum. I told him he would get my answer after I had time to hit the public library and read up on them. Yes this was 1994 and there was no real public Internet or Wikipedia: you had Microfiche and magazine archive CDs with “search engines” at the library back in the day. Good times. I miss them, actually.<br />
 
@@ -38,7 +38,7 @@ Throughout the 1970s and 80s people flocked to Werner Erhard’s est training. Y
 
 Plagued with controversies and tax issues into the late 80s, Erhard/Rosenberg retired from public life and sold the Forum to his employees and est graduates who were led by his brother Harry Rosenberg. From that purchase they established Landmark Education Corporation and the original “Forum/est” publicly faded away. The Forum remains probably the largest and most successful personal-growth workshop to come from the Human Potential Movements of the 70s.<br />
 
-## Deciding to go… <br />
+### Deciding to go… <br />
 
 The more I learned about Erhard and est and the media coverage, the less interested I was in doing the Forum. On the surface it reminded me of Scientology; however, I later learned Scientology is actually a big enemy of Erhard and Landmark Education, with L. Ron Hubbard claiming that Erhard simply stole his concepts and ideas and re-branded them. When you make an enemy of an entity like Scientology, maybe you are doing something right or, worse, you’re doing something wrong.<br />
 
@@ -49,7 +49,7 @@ That first day I arrived at the convention facilities of a nondescript hotel in 
 
 Within about 30 minutes a relaxed individual came forward and introduced himself to us. This person was going to be our “Forum Leader” during of the seminar, and he began explaining the ground rules and what we would get out of the next 3 days.<br />
 
-## Nuts & Bolts: How the Forum <i>Works</i> <br />
+### Nuts & Bolts: How the Forum <i>Works</i> <br />
 
 The Landmark Forum is, simply put, an ongoing 3-day rigorous conversation.  It is facillitated with a 75–250 person group, and is then followed by a final Tuesday weeknight graduation session. It gets intensely philosophical, dialogic, and incurs a deep inquiry of questions that have been of interest to human beings for eons. The Forum usually takes place in or near a hotel meeting facility because of the long hours, which are usually 9AM until about 11PM at night. Even with breaks about every 2 or 3 hours (no bathroom breaks, either — just the afternoon/early evening meal break) the pace is constant and you will lose all track of time. You basically go from what was a 9–11 hour grind right to your hotel room, usually physically and mentally-spent. Then you start right up the next day because the rhythm they set is intense and focused for each day.
 The Forum basically espouses a “Technology”, or knowledge, that can be applied to daily living. This “technology” pulls together practical concepts offered by various philosophers like Socrates, Sartre, and Heidegger (there’s a metric ton of Heidegger in the Forum). There is nothing mechanical about the Forum’s “technology”, their technological angle is the “application of a specific knowledge”.<br />

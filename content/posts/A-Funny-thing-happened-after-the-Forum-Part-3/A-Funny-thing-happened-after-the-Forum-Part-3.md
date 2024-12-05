@@ -1,7 +1,7 @@
 +++
 date = '2012-09-16T23:02:36-06:00'
 draft = false
-title = 'A Funny Thing Happened After the Forum -- Part 3'
+title = 'A Funny Thing Happened After the Forum -- Pt 3'
 type = 'post'
 tags = ["thought", "philosophy", "special-write-up"]
 +++
@@ -15,7 +15,7 @@ tags = ["thought", "philosophy", "special-write-up"]
 
 It’s “Day 3”, or, life after the Landmark Forum. Here I will give my final thoughts and opinions on the Forum and how it operates. I think I’ve recalled this subject in an informative manner, and I hope it’s helpful for anyone researching it.<br />
 
-## What the Forum is/is not:<br />
+### What the Forum is/is not:<br />
 
 After a few years to reflect on my experience with the Landmark Forum, from this distance I can tell people what the Forum truly is, and what it is not. The Forum definitely is NOT a theology or religion. The Forum is also NOT a psychiatric program;however, it does use the power of a group to offer and drive home specific concepts that can relate to mental health. This can be equated to therapy, as people are wont to do with most LGAT programs; however, I don’t believe traditional group therapy lasts just 3 days and smacks your ego around!<br />
 
@@ -23,7 +23,7 @@ As for what the Landmark Forum really is: it is an ongoing 3-day intense convers
 
 The aim seems like a relatively general one. Who wouldn’t want to live in the now, avoid your past experiences affecting your present thoughts and decisions, and stop struggling with others about who is right or wrong. The aims of most Human Potential movements deal with these issues, and addressing them successfully is the lofty goal of all of them. I know people living in the past, ruining their future, with one self-dwelling pain after another. I also know people who try to dominate, or avoid domination (the Forum says humans usually do one of the two), by trying to “make other people wrong”. Human beings naturally get a bit turned-around during the course of a life, so I think it’s a valiant aim to help people find better ways of being; however, many self-help groups miss their target. I believe no LGAT or seminar is a natural or perfect way to learn these things, including the Landmark Forum. But, ultimately, neither is religion or a host of other philosophies concerning “being”, and our experience of it.<br />
 
-## The “Cult” of the Forum?<br />
+### The “Cult” of the Forum?<br />
 
 Obviously the Landmark Forum is frequently branded a self-help machine, harsher critics label the Forum a cult. My take? It’s light on the cult, but heavy on the pushy sell. Sure, they didn’t ask me to leave my family and friends or sell all of my possessions. And, true, they (no longer) can be said to have a single charismatic leader. They never asked me to make a pilgrimage to a foreign countries or mix kool-aid in large bins. Seriously, though, is the Forum actually a cult? No. Are they cult-like? In one singular key way, yes: the <b>Tuesday night session</b>. Those enthusiastic graduates proselytizing the Forum at the Tuesday night “introductory session” just creeps people out. It smacks of zealotry from recent grads, backed by Landmark Education volunteers, and so this hard-sell of the Forum pretty much earns it the cult moniker. But, ultimately, those Tuesday sessions are really more like Amway than they are a cult.<br />
 
@@ -57,7 +57,7 @@ The Landmark Forum states forcefully that its own language, insights, and lesson
 
 Those distinctions, to me, relieve the Forum actually being any kind of cult. Still, Landmark Education does not market the Forum much beyond the word of mouth of “Enrolling”. You can have all the powerful ideas in the world, but the tragedy of Human Potential movements and LGATs is simple: outsiders and insiders often make them more than they are. No powerful ideas are perfect, and imperfect humans blow them out of proportion, and perspective gets skewed. Thus cult or snake-oil claims will happen, real or perceived.<br />
 
-## Final thoughts
+### Final thoughts
 
 Would I ever recommend the Landmark Forum? I have never gone out of my way to recommend it in the 15+ years since I attended. If their Tuesday night recruitment sessions go away? Yes, then I could recommend the Forum to some. I must honestly admit the insights and distinctions from my own experience helped me be more confident in my work. The concepts I gained helped me be better at communicating and taking personal responsibility for my relationships, as well. Good or bad. Did it make me a better person? Nah. I do that myself, day by day, learning from my experiences and with help from family and friends. I just have some nice tools to use, to help me continue in my journey and growth.<br />
 
