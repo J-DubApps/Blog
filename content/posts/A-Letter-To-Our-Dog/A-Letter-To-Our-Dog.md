@@ -80,7 +80,7 @@ And when our pack members were sick, or sad, you were always there to help them 
 I remember when Kimberly cried at news of Grandma’s illness, and you jumping up and nuzzling her and furiously licking away her tears. You accompanied her to Michigan, standing guard during the flurry of doctor and hospice visits. And the day her mother passed, you were right there at our side. Calm, settled, you kept watch over the pack during vulnerable times. And when we kept vigil over you these past few months of illness, and especially this heartbreaking week, I hope you feel we somehow lived-up to your boundless affection and loyalty…as should any good pack member. Everybody should have a friend as faithful and giving as you are.<br /> <br />
 
 <div class="image-row">
-  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/Jackson-older.jpeg" alt="Alt text">
+  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/jackson-older.jpeg" alt="Alt text">
 </div><br /> <br />
 
 As the years went on, you got a little slower. A little less agile. Your fur greyed a bit. You knew times were changing, but you were still always down for playtime or a road-trip. Lap-time also became more of an intense interest on your part, along with naps. And we loved being “those people” who wanted to do nothing on a Saturday but hang around the house with our dog napping in our laps.<br /> <br />
@@ -88,7 +88,7 @@ As the years went on, you got a little slower. A little less agile. Your fur gre
 You were still every bit as loving and fun even as you grew into our <i>Little Old Man</i>, Jackson. Your pack rallied to keep life comfortable, even if you felt our adjustments around the house were probably silly. We were only too happy to be two settled-down Humans enjoying time with our Little Old Man.<br /> <br />
 
 <div class="image-row">
-  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/Jackson-older2.jpeg" alt="Alt text">
+  <img src="https://julianwest.me/Blog/posts/A-Letter-To-Our-Dog/jackson-older2.jpeg" alt="Alt text">
 </div><br /> <br />
 
 And did you know you were a Zen Master in your older years, Jackson? You were! When you gave up the squirrel-chasing hobby, I recall times when you would just sit quiet and still in a sunbeam. Your eyes closed, like some meditating K9 monk. We would sometimes sit right there with you, waiting for you to open your eyes, look up, and wag that tail when you saw us.<br /> <br />
