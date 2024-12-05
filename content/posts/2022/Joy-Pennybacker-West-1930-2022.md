@@ -1,5 +1,5 @@
 +++
-date = '2022-01-22T23:22:51-06:00'
+date = '2022-01-16T23:22:51-06:00'
 draft = false
 title = 'Joy Pennybacker West: 1930-2022'
 type = 'post'
@@ -7,7 +7,7 @@ tags = ["family", "life-event", "rip"]
 +++
 
 
-My mother Joy Pennybacker West passed from this world earlier this evening.  I was with her as she gently passed, and we were listening to her favorite music.<br />
+My mother Joy Pennybacker West passed from this world earlier this evening.  I was holding my mother, as she took her last breaths and passed.  Her favorite music was playing.<br />
 
 She was a great mom to me, and a light in the world for those who knew her.  I am unable to find the words right now.  I just want to thank my mom, for everything she gave me in life. <br />
 

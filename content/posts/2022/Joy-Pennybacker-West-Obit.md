@@ -1,5 +1,5 @@
 +++
-date = '2022-01-24T23:22:51-06:00'
+date = '2022-01-18T23:22:51-06:00'
 draft = false
 title = 'Joy Pennybacker West Obituary: 1930-2022'
 type = 'post'
