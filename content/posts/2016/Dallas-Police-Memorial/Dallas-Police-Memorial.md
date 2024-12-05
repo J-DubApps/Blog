@@ -3,7 +3,7 @@ date = '2016-07-12T23:16:02-06:00'
 draft = false
 title = 'Dallas Police Memorial'
 type = 'post'
-tags = ["usa"]
+tags = ["usa", "dallas", "history"]
 +++
 
 Today was the memorial for our fallen DPD officers.<br />

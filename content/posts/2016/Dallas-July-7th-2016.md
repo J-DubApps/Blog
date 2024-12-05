@@ -3,7 +3,7 @@ date = '2016-07-09T23:04:49-06:00'
 draft = false
 title = 'Dallas July 7th 2016'
 type = 'post'
-tags = ["dallas", "history"]
+tags = ["dallas", "history", "usa"]
 +++
 
 My city is in shock. 5 Officers dead and 11 people wounded.<br />
