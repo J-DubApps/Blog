@@ -16,7 +16,7 @@ And we will just wait for it to happen again. The debate will cool, and we’ll 
 
 I believe in the right to bear arms as defined in our Constitution.  I don’t believe in the right to easily obtain the ability to mow crowds down on a mass scale.<br />
 
-For more insightful reading on this than I can give, I recommend <a href="http://www.nytimes.com/2012/07/21/opinion/weve-seen-this-movie-before.html">Roger Ebert’s</a>take.<br />
+For more insightful reading on this than I can give, I recommend <a href="http://www.nytimes.com/2012/07/21/opinion/weve-seen-this-movie-before.html">Roger Ebert’s take</a>.<br />
 
 <i>Originally published at julianwest.me on July 23, 2012.</i>
 
