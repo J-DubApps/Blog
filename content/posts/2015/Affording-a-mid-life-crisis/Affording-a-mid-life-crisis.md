@@ -17,7 +17,7 @@ Secondly, there is that well-known federal EV tax-credit, which takes $7,500 off
 The next common way to save on a Model S is to buy or lease it from your regional Tesla inventory. A Model S “Inventory car” is brand-new with full warranty, but simply comes with 2000–6000 miles on it as would any typical demo car or loaner. The kicker is that Inventory car discounts fall between $10,000 and $18,000, a big savings when you factor in tax rebates or other incentives. Tesla stores can offer you a list of currently-available Inventory cars; however, Inventory cars go very quickly soon after they hit the list so you need to be planning to buy when you start looking at these lists. Another caveat: you must be flexible on the color and interior when buying an Inventory car.<br />
 
 <div>
-  <img src="https://julianwest.me/Blog/posts/Affording-a-mid-life-crisis/tesla-inventory.jpeg" alt="Alt text">
+  <img src="https://julianwest.me/Blog/posts/2015/Affording-a-mid-life-crisis/tesla-inventory.jpeg" alt="Alt text">
 </div>
 <div style="font-size: 9px;">
 <p style="text-align: center;"><i>Inventory cars like this are a good way to save…</i></p>
@@ -51,7 +51,7 @@ In the end there is little practicality in wanting a Model S. There is no ration
 So here begins a possible decade of me driving a single electric car, the Tesla Model S 70D. Will I change cars in 3 years, or will I drive this one so long that I must replace the battery in the next-decade? Check back with me in about one thousand days to find out! In the meantime, I will be that guy passing you in the left lane with a stupid grin on his face.<br />
 
 <div>
-  <img src="https://julianwest.me/Blog/posts/Affording-a-mid-life-crisis/tesla-model-s-70d.jpeg" alt="Alt text">
+  <img src="https://julianwest.me/Blog/posts/2015/Affording-a-mid-life-crisis/tesla-model-s-70d.jpeg" alt="Alt text">
 </div><br />
 
 <u>Originally published at julianwest.me on April 28, 2015.</i>

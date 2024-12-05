@@ -25,8 +25,8 @@ Then there is <a href="https://panic.com/prompt">Prompt 2</a> which has a great 
 This is where vSSH for iPad comes into play — a basic SSH solution offering full sync of sessions between their Mac and iPad/iPhone apps, which makes quickly moving between devices much easier. I can be in the middle of a lab and go right from my MacBook or iMac over to my iPad Pro, and not miss a beat.<br />
 
 <div class="image-row">
-<img src="https://julianwest.me/Blog/posts/The-Multipad-Lifestyle/ipad-lab.jpeg" alt="Alt text" width="500" height="150">
-<img src="https://julianwest.me/Blog/posts/The-Multipad-Lifestyle/ipad-lab2.jpeg" alt="Alt text" width="500" height="150">
+<img src="https://julianwest.me/Blog/posts/2017/The-Multipad-Lifestyle/ipad-lab.jpeg" alt="Alt text" width="500" height="150">
+<img src="https://julianwest.me/Blog/posts/2017/The-Multipad-Lifestyle/ipad-lab2.jpeg" alt="Alt text" width="500" height="150">
 </div>
 <br /> <br />
 
@@ -37,5 +37,5 @@ Using an app like <b><a href="http://www.velestar.com/Pages/VSSHIOSPage.aspx">vS
 I typically lab in my home office standing desk with a 5K iMac and 4K companion screen — but more often I am either working on my MBP or (if traveling) lugging my iPad Pro around meetings or for other quick-trip tasks. With my iPad Pro I can kick-start a lab on a moment’s notice during those down times, and the more speed and proficiency I gain with various configuration tasks IOS, the easier CCIE study gets for me on this platform.<br />
 
 <div class="image-row">
-  <img src="https://julianwest.me/Blog/posts/The-Multipad-Lifestyle/ipad-pro.jpeg" alt="Alt text">
+  <img src="https://julianwest.me/Blog/posts/2017/The-Multipad-Lifestyle/ipad-pro.jpeg" alt="Alt text">
 </div><br /> <br />

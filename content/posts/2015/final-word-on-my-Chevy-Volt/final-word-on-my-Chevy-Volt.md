@@ -7,7 +7,7 @@ tags = ["tech", "cars"]
 +++
 
 <div>
-  <img src="https://julianwest.me/Blog/posts/final-word-on-my-Chevy-Volt/volt.jpeg" alt="Alt text">
+  <img src="https://julianwest.me/Blog/posts/2015/final-word-on-my-Chevy-Volt/volt.jpeg" alt="Alt text">
 </div><br />
 
 As I said a couple weeks ago, I truly loved and enjoyed my Volt every day I drove it. It may not quite be in the same class as a Model S, but the car still gets looks and questions from interested people regularly. If it would be practical to have a third car once my Model S arrives, I would keep the Volt no question. Chevy Volt remains an amazing car with highly-innovative and affordable plug-in EV powertrain technology, which absolutely bests other plug-in hybrid EVs coming from anyone else right now (my opinion). The Volt has driven me to work, roundtrip, for over 30,000 all electric miles. I may be driving a Tesla soon but I will always be a huge fan of, and rooting for, this car.<br />

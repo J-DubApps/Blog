@@ -7,7 +7,7 @@ tags = ["art", "music"]
 +++
 
 <div>
-  <img src="https://julianwest.me/Blog/posts/Karl-Wallinger/karl-wallinger-and-me.jpeg" alt="Alt text">
+  <img src="https://julianwest.me/Blog/posts/2015/Karl-Wallinger/karl-wallinger-and-me.jpeg" alt="Alt text">
 </div><br />
 
 Last night I met one of my musical heroes for the second time, Welsh singer-songwriter Karl Wallinger who is the well-known frontman and genius behind <a href="https://en.wikipedia.org/wiki/World_Party">World Party</a>. I owe Chris Cannon, another singer-songwriter and one of my best friends, for the tip that Wallinger was headed to Dallas. I grabbed tickets for the show the second I heard about it, and even managed to meet Karl after the show (thanks to another tip from Chris — Karl is cool and happy about meeting fans when he can).  Same guy I saw all those years ago, just a little older.  Like me.<br />

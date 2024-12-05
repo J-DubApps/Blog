@@ -7,7 +7,7 @@ tags = ["tech", "apple"]
 +++
 
 <div>
-  <img src="https://julianwest.me/Blog/posts/Apple-Watch-One-week-in/apple-watch.jpeg" alt="Alt text">
+  <img src="https://julianwest.me/Blog/posts/2015/Apple-Watch-One-week-in/apple-watch.jpeg" alt="Alt text">
 </div><br />
 
 I am a watch guy. Whatever I’ve done in my crazy life I almost always would be wearing some kind of timepiece. I am unashamed to say I wore a Casio calculator watch in the 80s way, way past when it stopped being cool. If it ever was. This is quite a bit different than that, yet also <a href="http://www.noodlewerk.com/blog/calculator-apple-watch-tutorial/">similar.</a><br />

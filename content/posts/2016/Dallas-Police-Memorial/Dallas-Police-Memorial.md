@@ -17,8 +17,8 @@ I walked down to the sidewalk at work, and watched the motorcade as it came righ
 I walked further down the street, and around the corner to Klyde Warren park. There gathered were people around a large screen watching the memorial. Our police chief Brown has been nothing short of amazing these past few days, and his remarks help.<br />
 
 <div class="image-row">
-<img src="https://julianwest.me/Blog/posts/Dallas-Police-Memorial/memorial1.jpeg" alt="Alt text" width="500" height="150">
-<img src="https://julianwest.me/Blog/posts/Dallas-Police-Memorial/memorial2.jpeg" alt="Alt text" width="500" height="150">
+<img src="https://julianwest.me/Blog/posts/2016/Dallas-Police-Memorial/memorial1.jpeg" alt="Alt text" width="500" height="150">
+<img src="https://julianwest.me/Blog/posts/2016/Dallas-Police-Memorial/memorial2.jpeg" alt="Alt text" width="500" height="150">
 </div>
 <br />
 
