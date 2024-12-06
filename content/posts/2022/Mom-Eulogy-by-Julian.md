@@ -82,6 +82,6 @@ Created February 2019, and revised July 27, 2019 - when we thought we would lose
 <i>Momma Joy passed-away peacefully in her son Julian’s arms at 8:23pm on January 16th, 2022.</i>
 
 <div class="image-row">
-  <img src="https://julianwest.me/Blog/posts/images/memorial1.jpeg" alt="Alt text" width="250" height="65">  
-  <img src="https://julianwest.me/Blog/posts/images/memorial2.jpg" alt="Alt text" width="250" height="65">
+  <img src="https://julianwest.me/Blog/posts/images/memorial1.jpeg" alt="Alt text" width="325" height="165">  
+  <img src="https://julianwest.me/Blog/posts/images/memorial2.jpg" alt="Alt text" width="325" height="165">
 </div>
