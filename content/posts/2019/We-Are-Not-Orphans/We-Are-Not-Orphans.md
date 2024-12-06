@@ -36,7 +36,7 @@ It turns out Mom had 7 other siblings, from a family wracked by the Great Depres
 
 ![Description of image](/Blog/posts/2019/We-Are-Not-Orphans/robertsons.jpeg)<br />
 
-I would learn of many trials, tribulations, and successes in the Robertson family from that era with the Waco State Home. Hearing my cousins tell the stories, I fell in love with this strong family. A family who had roots in the history of Missouri and going further all the way back to Scotland in the 1300s.<br />
+I would learn of many trials, tribulations, and successes in the Robertson family from that era with the Waco State Home. I read <a href="https://www.wewerenotorphans.com/about_author.php">Sherry Matthews</a>' book <i><b>"<a href="https://www.wewerenotorphans.com/about_book.php">We Were Not Orphans: Stories from the Waco State Home</a>"</b></i> Hearing my cousins tell the stories, I came to admire this strong family. A family who had roots in the history of Missouri and going further all the way back to Scotland in the 1300s.<br />
 
 But of all the discoveries — there was one huge kicker: one of my two First Cousin DNA matches was also an adopted child, from Hope Cottage, like my mom! We discovered that his half-sister was the first cousin that I spoke with. And yesterday John and Pat both met for the first time. I don’t think I have never witnessed such a beautiful moment in my whole life.<br />
 
