@@ -12,6 +12,10 @@ tags = ["family", "life-event", "rip", "special-write-up"]
   }
 </style>
 
+<div class="image-row">
+  <img src="https://julianwest.me/Blog/posts/images/mom-memorial.jpeg" alt="Alt text" width="325" height="165">
+</div>
+
 <b>Eulogy for Joy Pennybacker West</b><br />
 <i>As spoken by her son Julian at her memorial on January 21, 2022</i><br /><br />
 
@@ -83,5 +87,5 @@ Created February 2019, and revised July 27, 2019 - when we thought we would lose
 
 <div class="image-row">
   <img src="https://julianwest.me/Blog/posts/images/memorial1.jpeg" alt="Alt text" width="325" height="165">  
-  <img src="https://julianwest.me/Blog/posts/images/memorial2.jpg" alt="Alt text" width="325" height="165">
+  <img src="https://julianwest.me/Blog/posts/images/memorial2.jpg" alt="Alt text" width="425" height="200">
 </div>
