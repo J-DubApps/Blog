@@ -1,0 +1,19 @@
++++
+date = '2021-01-06T23:17:51-06:00'
+draft = false
+title = 'When They Raided The Capitol...'
+type = 'post'
+tags = ["usa", "history", "special-write-up"]
++++
+
+This isn't the title to some kind of 1860s Civil War tale.  No, it was the scene earlier today at our nation's Capitol Building.  Apparently a lot of MAGA people, along with various other kindred groups, crashed barriers and broke into the building causing pandomonium and injuries to several police officers and killing one protestor. All due to an unproven theory that the 2020 Election was somehow stolen. <br /> 
+
+The logic here, if there was any, was that if Trump supporters could halt the Electoral College count and validation then Congress could send the matter back to the states for a do-over complete with <i>alternate Electors</i>.  The theory and attempted actions of a few, really feels a lot like a Coup attempt based on technicality. People smarter and more lippy than me will talk about that aspect of today's riot on the Capitol, but I heard people were chanting "Hang Mike Pence" and that is not a good look.  Apparently the ask from Trump to Pence was to have him somehow abuse his ceremonial role to stop the count, and ask Congress to vote first on sending the matter back to the states.  Or something along those lines.  The reporting is very early and thin, but all I know is: in 4 years of "unprecedented" happenings in Trump's Presidency, I am still surprised and a bit shocked even going into his last week in office.<br /> 
+
+I don't know exactly where we go from here.  Both houses of Congress are talking about Impeachment.  Again.  How do you Impeach someone who is about to leave high-office?  Congress doesn't do <i>anything</i> that fast.  <br />
+
+A lot of the nation is hurting after what we saw today, and embarassed.  I ended up un-friending and blocking a relative on Facebook who was victory-lapping this event from a religious point-of-view.  I love and care about all of my Trump-supporting relatives, and I never have allowed politics to affect my relationships...but cheering on what occured today was a bridge too far, for me.  First time I have ever done that, but I just couldn't go with what she was saying.<br />
+
+These Culture Wars or "national divorce", or whatever they're calling it, has got to end.  And politicians making grand unprovable claims, to stir-up people into rioting, shouldn't really ever get to hold office again.  At the least.<br />
+
+But something tells me this isn't going to change anything.  I hope I am wrong, but I wouldn't be surprised to see 45 run again.  Even has he's leaving office with blood on the doorstep.
