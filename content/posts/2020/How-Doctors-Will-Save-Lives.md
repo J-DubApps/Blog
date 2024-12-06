@@ -72,8 +72,8 @@ COVID-19 will be downright deadly for some people by next month, but our amazing
 
 Let me say that again: <b>WE can HELP doctors have enough ventilators!</b> And all we have to do, is remain distant from others and stay at home as much as we can. Distance ourselves from people at work, at the store, and anywhere else we have to go. Refrain from going out in crowded places, and be cautious. It’s just for a little while.<br />
 
-<b>I have an 89 year-old mother who turns 90 on April 5th.</b> Her skilled-nursing facility is in total lockdown right now. I want her safe. I want all of our vulnerable safe. So even if you aren’t sure social distancing will save lives, do it anyway. Do it for my Mom, and our elderly everywhere. <b>Practice social distancing this week, and next week.</b><br />
+<b>I have an 89 year-old mother who turns 90 on April 5th.</b> Her skilled-nursing facility is in total lockdown right now. I want her safe. I want <i>all</i> of our vulnerable safe. So even if you aren’t sure social distancing will save lives, maybe <i>do it anyway</i>. Do it for my Mom, and our elderly everywhere. <b>Practice social distancing this week, and next week.</b><br />
 
 Doing this <b><i>will</i></b> save lives.<br />
 
-Together, we can arm our doctors and medical professionals with the best possible tool to beat COVID-19 in the US: time.
+Together, we can arm our doctors and medical professionals with the <i>best possible tool</i> to beat COVID-19 in the US: <b><i>time</b></i>.
