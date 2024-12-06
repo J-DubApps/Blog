@@ -81,8 +81,6 @@ I <i>sincerely</i> want to thank everyone for coming to hear me honor and celebr
 
 Rest easy, Mom.  And <i><b>thank you</i></b>. <br />
 
-Created February 2019, and revised July 27, 2019 - when we thought we would lose Momma Joy. A precious gift of time we got, before I had to finally read this at her memorial.<br />
-
 <i>Momma Joy passed-away peacefully in her son Julian’s arms at 8:23pm on January 16th, 2022.</i>
 
 <div class="image-row">
