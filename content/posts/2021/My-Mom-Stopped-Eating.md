@@ -1,7 +1,7 @@
 +++
 date = '2021-12-15T23:17:51-06:00'
 draft = false
-title = 'My Mom Stopped Eating...'
+title = 'My Mom Stopped Eating'
 type = 'post'
 tags = ["family", "life-event"]
 +++
