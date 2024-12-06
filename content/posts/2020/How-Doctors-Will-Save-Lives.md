@@ -47,9 +47,9 @@ The doctor’s discuss the care plan ahead. The patient overhears them. They sou
 
 3. Next the doctors will place the patient into a prone (laying down) position for 18 hours a day.<br />
 
-![Description of image](/Blog/posts/images/covid-ventilator.jpeg)<br />
+![Description of image](/Blog/posts/images/covid-ventilator.jpeg)
 <div style="font-size: 9px;">
-<p style="text-align: center;"><i>Hey, this presenter doesn’t appear to have a head or hands.</i></p>
+<p style="text-align: center;"><i>A patient receiving prone and Low Tidal Volume ventilation</i></p>
 </div><br />
 
 Together, the above 3 treatments while on the ventilator give our patient the best chance at survival. Our heroic doctors today are using new knowledge, advanced-technology, and intensive-care to save vulnerable patients like this in Italy. And it is how they will do it in America, if we can mitigate the coming spike in patients and avoid hospital overwhelm.<br />

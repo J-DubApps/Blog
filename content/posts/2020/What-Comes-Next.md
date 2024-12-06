@@ -8,7 +8,10 @@ tags = ["health", "usa", "history"]
 
 <b>Here is some data comparing US and Italy cases during each country’s ramp-up...</b>
 
-![Description of image](/Blog/posts/images/covid.jpeg)<br />
+![Description of image](/Blog/posts/images/covid.jpeg)
+<div style="font-size: 9px;">
+<p style="text-align: center;"><i>From <a href="https://www.reddit.com/r/dataisbeautiful/">DataIsBeautiful</a> Reddit user <a href="https://www.reddit.com/user/brnko/">brnko</a>.</i></p>
+</div><br />
 
 Based on this chart we are approximately 11 days behind Italy’s first experiences of extreme Healthcare System stress. And, yes, our rates are currently higher at this stage than Italy; <b><i>however</i></b>: this chart does not yet account for per capita rates or population-variance per region — so my hope here is that our staying-home continues to DELAY and/or LESSEN the coming inevitable wave of emergency-care surges. What we are doing, right now, is about to finally be measurable in a few days.<br />
 
