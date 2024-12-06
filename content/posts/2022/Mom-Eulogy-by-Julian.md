@@ -1,7 +1,7 @@
 +++
 date = '2022-01-21T23:22:51-06:00'
 draft = false
-title = 'Joy Pennybacker West Eulogy, by her son Julian'
+title = 'Eulogy for Joy Pennybacker West, by her son Julian'
 type = 'post'
 tags = ["family", "life-event", "rip", "special-write-up"]
 +++
