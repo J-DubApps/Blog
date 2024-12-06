@@ -11,7 +11,7 @@ tags = ["thought", "philosophy", "special-write-up"]
 </div>
 <div style="font-size: 9px;">
 <p style="text-align: center;"><i>Hey, this presenter doesn’t appear to have a head or hands.</i></p>
-</div><br />
+</div>
 
 <i>This is from a 3-part mini-memoir about the Landmark Forum from my old blog in March 2009. It received thousands of views, and I still hear from people about it. You can read Part 1 here…</i><br />
 
