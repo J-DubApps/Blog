@@ -21,10 +21,12 @@ Use '-Confirm' and '-WhatIf' for dry runs and testing of functions, just as you 
 
 In the above example you can see what 'Remove-Item' would have done if you hadn't provided the '-WhatIf' switch.<br />
 
-And you can use the '-Confirm' switch will cause PowerShell to pause before each and every action, and interactively prompt you asking to <b>confirm</b> the action before moving on to the next action.<br />
+And you can use the '-Confirm' switch to make PowerShell pause before each and every action, interactively prompting you asking to <b>confirm</b> each action, before moving on to the next action.<br />
 
-For PS functions, you can only use '-Confirm' and '-WhatIf' when writing <i>advanced functions</i> in PowerShell.  So let's talk about advanced functions next.<br />
+'''Get-ChildItem -Path C:\Temp\CSV_Files\ -File *.csv -Recurse | Remove-Item -Confirm
 
+For PS functions, you can only use '-Confirm' and '-WhatIf' when writing <i><b>advanced functions</b></i> in PowerShell.  So let's talk about advanced functions next.<br />
 
+PowerShell offers a great array of features that you can leverage in your functions, almost effortlessly if you write them as <i>advanced functions</i>.
 
 <a href="https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_functions_advanced_parameters?view=powershell-7.4&viewFallbackFrom=powershell-6">Advanced parameters in PowerShell</a>
