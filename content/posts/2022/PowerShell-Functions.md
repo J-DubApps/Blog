@@ -80,8 +80,7 @@ What I mean here is:
 Below is a code example I just threw together to illustrate this.
 
 <div class="code-block">
-
- function Get-FormattedDate {
+function Get-FormattedDate {
 
     [CmdletBinding()]
     param (
