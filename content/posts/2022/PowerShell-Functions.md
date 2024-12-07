@@ -79,9 +79,9 @@ What I mean here is:
 
 Below is a code example I just threw together to illustrate this.
 
-<span class="mono">
 <div class="code-block">
 function Get-FormattedDate {
+    
     [CmdletBinding()]
     param (
         [Parameter(Mandatory)]
@@ -102,13 +102,11 @@ function Get-FormattedDate {
 \# Example usage:
 \# Get-FormattedDate -InputDate (Get-Date) -DateFormat "MM/dd/yyyy"
 </div>
-</span>
 
 As you can see this PS function is doing one single thing, formatting the date in Output, and the logic and error-handling is done completely within the function itself.<br /> 
 
-A quick & dirty function, often might not do this.  That's okay, but isn't easily testable and may not be clear to anyone coming in behind you to support your code. <br />
+A quick & dirty function, often might not do this is usually this instead:<br />
 
-<p>
 <div class="code-block">
 function FormatDate {
     # Relies on a global variable
@@ -116,7 +114,8 @@ function FormatDate {
     Write-Output $FormattedDate
 }
 </div>
-</p>
+
+...and that's okay, but isn't necessarily testable or reads clearly for anyone coming in behind you, to support your code. 😉 <br />
 
 ### Don't sleep on -WhatIf and -Confirm
 
