@@ -103,10 +103,11 @@ function Get-FormattedDate {
 
 </div>
 
-As you can see this PS function is doing one single job (formatting the date in Output), and the logic and error-handling is done completely within the function itself.<br />
+As you can see this PS function is doing one single thing, formatting the date in Output, and the logic and error-handling is done completely within the function itself.<br /> 
 
 A quick & dirty function, often might not do this.  That's okay, but isn't easily testable and may not be clear to anyone coming in behind you to support your code. <br />
 
+<p>
 <div class="code-block">
 function FormatDate {
     # Relies on a global variable
@@ -114,6 +115,7 @@ function FormatDate {
     Write-Output $FormattedDate
 }
 </div>
+</p>
 
 ### Don't sleep on -WhatIf and -Confirm
 
