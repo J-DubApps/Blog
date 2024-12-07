@@ -3,7 +3,7 @@ date = '2024-12-06T23:17:51-06:00'
 draft = false
 title = 'A Health Insurance Company CEO Was Shot'
 type = 'post'
-tags = ["usa", "crime", "rip"]
+tags = ["usa", "crime", "rip", "thought"]
 +++
 
 ...and he <a href="https://www.nytimes.com/2024/12/06/nyregion/unitedhealthcare-brian-thompson-shooting.html">died</a>. <br />
