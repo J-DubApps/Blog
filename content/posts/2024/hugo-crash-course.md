@@ -6,7 +6,7 @@ type = 'post'
 tags = ["blog", "tech", "code"]
 +++
 
-I've been tired of the </i></b><a href="https://en.wikipedia.org/wiki/Enshittification">enshittification</a></b></i> of <b><a href="https://medium.com">Medium</a></b> for quite some time now, so I decided to move away from it <br />
+I've been tired of the </i></b><a href="https://en.wikipedia.org/wiki/Enshittification">enshittification</a></b></i> of <b><a href="https://medium.com">Medium</a></b> for quite some time now, so I decided to move away from using it for <a href="https://julianwest.me/Blog">this blog</a>.<br />
 
 But I just wasn't sure what would be a good enough replacement.  My goals were to simplify this thing, and not be depending on some 3rd party blog-publishing platform anymore. Over the years this blog has resided on a local PHP solution, WordPress, SquareSpace, and finally Medium.  For better or worse, each solution was fantastic early-on, but then time passes and "value-extraction" causes the afforementioned <a href="https://en.wikipedia.org/wiki/Enshittification">enshittification</a>.  Every 3rd party solution, given enough time, will suck.  It's just gravity, which ignores the good intentions of blog platform founders.  So, what to do?  Where else can I move this blog to? <br />
 
