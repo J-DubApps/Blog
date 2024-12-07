@@ -90,7 +90,7 @@ function Get-FormattedDate {
         [string]$DateFormat = "yyyy-MM-dd"
     )
 
-    # Core logic
+    \# Core logic
     try {
         $FormattedDate = $InputDate.ToString($DateFormat)
         return $FormattedDate
@@ -99,8 +99,8 @@ function Get-FormattedDate {
     }
 }
 
-# Example usage:
-# Get-FormattedDate -InputDate (Get-Date) -DateFormat "MM/dd/yyyy"
+\# Example usage:
+\# Get-FormattedDate -InputDate (Get-Date) -DateFormat "MM/dd/yyyy"
 
 </div>
 
@@ -110,7 +110,7 @@ A quick & dirty function, often might not do this.  That's okay, but isn't easil
 
 <div class="code-block">
 function FormatDate {
-    # Relies on a global variable
+    \# Relies on a global variable
     $FormattedDate = $Global:Date.ToString("yyyy-MM-dd")
     Write-Output $FormattedDate
 }
