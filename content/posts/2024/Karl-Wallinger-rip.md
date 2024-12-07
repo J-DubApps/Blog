@@ -7,7 +7,7 @@ tags = ["art", "music", "rip"]
 +++
 
 <div>
-  <img src="https://julianwest.me/Blog/posts/Karl-Wallinger/karl-wallinger-and-me.jpeg" alt="Alt text">
+  <img src="https://julianwest.me/Blog/posts/Karl-Wallinger/karl-wallinger-and-me.jpeg" alt="Alt text" width="250" height="65">
 </div><br />
 
 Today I heard the very sad news that <a href="https://www.theguardian.com/music/2024/mar/13/karl-wallinger-obituary">we lost Karl Wallinger this week</a>.<br />
@@ -20,5 +20,3 @@ Rest in Peace good man.  And thank you for the music.
 <div class="video">
 {{< youtube 8rXQ5Ye-ZwI >}}
 </div>
-
-
