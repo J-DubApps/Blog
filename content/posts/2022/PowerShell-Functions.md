@@ -139,6 +139,37 @@ Get-ChildItem -Path C:\Temp\CSV_Files\ -File *.csv -Recurse | Remove-Item -Confi
 
 For PS functions, you can only use <span class="mono">-Confirm</span> and <span class="mono">-WhatIf</span> switches when writing <i><b>advanced functions</b></i> in PowerShell.  So let's talk about advanced functions next.<br />
 
-PowerShell offers a great array of features that you can leverage in your functions, almost effortlessly if you write them as <i>advanced functions</i>.
+PowerShell offers a great array of features that you can leverage in your functions, almost effortlessly if you write them as <i>advanced functions</i>.  One advanced function I like to use is if I am doing something destructive to data within an interactive script.  I will use the <span class="mono">SupportsShouldProcess</span> and <span class="mono">ConfirmImpact</span> params, so that I can then use <span class="mono">-WhatIf</span> and <span class="mono">-Confirm</span> switches when calling a function:
+
+<div class="code-block">
+function Remove-SampleFile {
+    [CmdletBinding(SupportsShouldProcess = $true, ConfirmImpact = 'High')]
+    param (
+        [Parameter(Mandatory)]
+        [string]$Path
+    )
+
+    process {
+        if (-Not (Test-Path -Path $Path)) {
+            Write-Warning "The file '$Path' does not exist."
+            return
+        }
+
+        # SupportsShouldProcess enables the use of -Confirm
+        if ($PSCmdlet.ShouldProcess($Path, "Delete the file")) {
+            try {
+                Remove-Item -Path $Path -Force
+                Write-Host "File '$Path' deleted successfully." -ForegroundColor Green
+            } catch {
+                Write-Error "Failed to delete the file. Error: $_"
+            }
+        }
+    }
+  }
+
+\# Example usage:
+\# Remove-SampleFile -Path "C:\Temp\example.txt" -Confirm
+</div>
+
 
 <a href="https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_functions_advanced_parameters?view=powershell-7.4&viewFallbackFrom=powershell-6">Advanced parameters in PowerShell</a>
