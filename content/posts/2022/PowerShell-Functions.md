@@ -64,22 +64,70 @@ By using functions, we bundle our PowerShell logic into manageable units that ca
 
 <b>So here are some tips I wanna share for writing functions in PowerShell.</b>  Some are even useful when <i>not</i> writing functions!<br />
 
+### Use PS Naming Convensions <br />
 
-Use '-Confirm' and '-WhatIf' for dry runs and testing of functions, just as you would with CLI sessions in PowerShell.  For recap of these PowerShell switches: the '-WhatIf' switch is you telling PowerShell to show you what your code will do, without actually doing it. Example:<br />
+You should name your functions by what <i>action</i> they are doing + the <i>thing</i> involved, aka the <span class="mono">verb-noun</span> syntax that PowerShell commands have always used. Go ahead and issue the <span class="mono">get-verb</span> command in a PS session, to see the list of approved verbs (actions) that I am talking about.  I use this command all the time when I start banging out a quick function.<br />
+
+Consistency is king when writing supportable scripts and functions. So use what PowerShell gives us to maintain consistency and readability.  When I see a function named <span class="mono">"Function IPAddress-Display"</span><br />
+
+### Keep your functions Singular in purpose, and keep them Self-Contained <br />
+
+What I mean here is: 
+
+- A function in PowerShell should do only <i>one thing</i> (and one thing <i>only</i>) and do it well.
+- A function in PS should be modular, or self-contained, so that it has well-defined input parameters, produces output, and doesn’t rely on external variables unless explicitly passed.  
+
+Below is a code example I just threw together to illustrate this.
+
+<div class="code-block">
+function Get-FormattedDate {
+    [CmdletBinding()]
+    param (
+        [Parameter(Mandatory)]
+        [datetime]$InputDate,
+
+        [Parameter()]
+        [string]$DateFormat = "yyyy-MM-dd"
+    )
+
+    # Core logic
+    try {
+        $FormattedDate = $InputDate.ToString($DateFormat)
+        return $FormattedDate
+    } catch {
+        Write-Error "Failed to format date. Error: $_"
+    }
+}
+
+# Example usage:
+# Get-FormattedDate -InputDate (Get-Date) -DateFormat "MM/dd/yyyy"
+
+# Testability:
+# Test 1: Valid input
+# $result = Get-FormattedDate -InputDate (Get-Date) -DateFormat "dd/MM/yyyy"
+# Test 2: Invalid input
+# Get-FormattedDate -InputDate "InvalidDate"
+</div>
+
+As you can see this PS function is doing one single job (formatting the date in Output), and the logic and error-handling is done completely within the function itself.
+
+### Don't sleep on -WhatIf and -Confirm
+
+Use <span class="mono">-Confirm</span> and <span class="mono">-WhatIf</span> switches, for dry runs and testing of functions, just as you might in PowerShell CLI sessions.  For a recap let's start with <span class="mono">-WhatIf<span>.  This is you telling PowerShell to show you what your code will do, without actually <i>doing it</i>. Example:<br />
 
 <div class="code-block">
 Get-ChildItem -Path C:\Temp\CSV_Files\ -File *.csv -Recurse | Remove-Item -WhatIf
 </div>
 
-In the above example you can see what 'Remove-Item' would have done if you hadn't provided the '-WhatIf' switch.<br />
+In the above one-liner, you can see what <span class="mono">Remove-Item</span> would have done if you hadn't provided the <span class="mono">-WhatIf<span> switch.<br />
 
-And you can use the '-Confirm' switch to make PowerShell pause before each and every action, interactively prompting you asking to <b>confirm</b> each action, before moving on to the next action.<br />
+And you can use the <span class="mono">-Confirm</span> switch to make PowerShell pause before <i>each</i> and <i>every</i> action, interactively prompting you asking to <b>confirm</b> an action, before moving to the very next action.<br />
 
 <div class="code-block">
 Get-ChildItem -Path C:\Temp\CSV_Files\ -File *.csv -Recurse | Remove-Item -Confirm
 </div>
 
-For PS functions, you can only use '-Confirm' and '-WhatIf' when writing <i><b>advanced functions</b></i> in PowerShell.  So let's talk about advanced functions next.<br />
+For PS functions, you can only use <span class="mono">-Confirm</span> and <span class="mono">-WhatIf</span> switches when writing <i><b>advanced functions</b></i> in PowerShell.  So let's talk about advanced functions next.<br />
 
 PowerShell offers a great array of features that you can leverage in your functions, almost effortlessly if you write them as <i>advanced functions</i>.
 
