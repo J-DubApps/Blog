@@ -6,6 +6,27 @@ type = 'post'
 tags = ["tech", "powershell", "code"]
 +++
 
+<style>
+/* Style for code blocks */
+.code-block {
+    background-color: #f5f5f5;       /* Light gray background */
+    border: 1px solid #ddd;          /* Light border */
+    padding: 15px;                    /* Padding around the code */
+    font-family: 'Courier New', Courier, monospace; /* Monospace font */
+    white-space: pre-wrap;            /* Preserve whitespace and wrap lines */
+    border-radius: 5px;               /* Rounded corners */
+    overflow-x: auto;                 /* Horizontal scroll if needed */
+    margin: 20px 0;                   /* Vertical spacing */
+}
+
+/* Style for inline monospace text */
+.mono {
+    font-family: 'Courier New', Courier, monospace; /* Monospace font */
+    background-color: #f0f0f0;       /* Optional: light background to highlight */
+    padding: 2px 4px;                 /* Optional: padding around text */
+    border-radius: 3px;               /* Optional: rounded corners */
+}
+</style>
 
 Creating functions is among the most frequent tasks you will run int, when working with PowerShell long enough. PS Functions serve a fundamental role, as a component that helps us organize and encapsulate our code. Without them, scripts would become overly complex, cluttered with numerous 'if/else' statements or loops or other repetitive code segments.<br />
 
@@ -16,9 +37,9 @@ By using functions, we bundle our PowerShell logic into manageable units that ca
 
 Use '-Confirm' and '-WhatIf' for dry runs and testing of functions, just as you would with CLI sessions in PowerShell.  For recap of these PowerShell switches: the '-WhatIf' switch is you telling PowerShell to show you what your code will do, without actually doing it. Example:<br />
 
-'''
+<div class="code-block">
 Get-ChildItem -Path C:\Temp\CSV_Files\ -File *.csv -Recurse | Remove-Item -WhatIf
-'''
+</div>
 
 In the above example you can see what 'Remove-Item' would have done if you hadn't provided the '-WhatIf' switch.<br />
 
