@@ -79,8 +79,7 @@ What I mean here is:
 
 Below is a code example I just threw together to illustrate:
 
-<div class="code-block">
-   
+<div class="code-block">   
     function Get-FormattedDate {
     [CmdletBinding()]
     param (
@@ -99,8 +98,8 @@ Below is a code example I just threw together to illustrate:
         Write-Error "Failed to format date. Error: $_"
     }
  }
- # Example usage:
- # Get-FormattedDate -InputDate (Get-Date) -DateFormat "MM/dd/yyyy"
+ \# Example usage:
+ \# Get-FormattedDate -InputDate (Get-Date) -DateFormat "MM/dd/yyyy"
 </div>
 
 This PS function is doing one single thing, formatting the date in Output, and the logic and error-handling is done completely within the function itself.<br /> 
@@ -108,12 +107,11 @@ This PS function is doing one single thing, formatting the date in Output, and t
 A quick & dirty function, often might not do this is usually this instead:<br />
 
 <div class="code-block">
-
-function FormatDate {
+    function FormatDate {
     # Relies on a global variable
     $FormattedDate = $Global:Date.ToString("yyyy-MM-dd")
     Write-Output $FormattedDate
-}
+ }
 
 </div>
 
