@@ -80,8 +80,7 @@ What I mean here is:
 Below is a code example I just threw together to illustrate:
 
 <div class="code-block">
-
-
+.
 
 function Get-FormattedDate {
 
@@ -103,7 +102,6 @@ function Get-FormattedDate {
     }
 
 }
-
 
  \# Example usage:
  \# Get-FormattedDate -InputDate (Get-Date) -DateFormat "MM/dd/yyyy"
