@@ -1,6 +1,6 @@
 +++
 date = '2022-06-20T23:17:51-06:00'
-draft = true
+draft = false
 title = 'Writing Good Resusable PowerShell Code'
 type = 'post'
 tags = ["tech", "powershell", "code"]
@@ -11,7 +11,7 @@ Creating functions is among the most frequent tasks you will run int, when worki
 
 By using functions, we bundle our PowerShell logic into manageable units that can be invoked as needed. They allow us to pass parameters to modify their behavior and promote code reuse. To me, code reuse is EVERYTHING in every coding lang, adhering to the DRY (Don’t Repeat Yourself) principle.<br />
 
-Here are some tips when writing functions in PowerShell.  Some are even useful when <i>not</i> writing functions.<br />
+<b>So here are some tips I wanna share for writing functions in PowerShell.</b>  Some are even useful when <i>not</i> writing functions!<br />
 
 
 

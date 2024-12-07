@@ -12,9 +12,9 @@ This is the personal blog of [Julian West](http://julianwest.me/Blog/about/about
 <img src="https://julianwest.me/Blog/colophon/julian.jpeg" alt="Alt text" width="215" height="125">
 
 <div style="font-size: 14px;">
-Hosting = Github Pages.<br>
-Blog CMS is <b><a href="https://gohugo.io">Hugo</a></b> static site generator framework, running as a GitHub Pages workflow.<br>
-Articles drafted in Scrivener, archived in Day One journal.<br>
-julianwest.me is best-viewed in a standards-compliant web browser (Safari or Chrome/Edge/etc).<br>
+Hosting = <a href="https://pages.github.com">Github Pages</a>.<br>
+Blog is a modified setup of <b><a href="https://gohugo.io">Hugo</a></b> static site generator framework (published via GitHub Actions workflow).<br>
+Articles drafted in Markdown (vim), archived in <a href="https://dayoneapp.com">Day One</a> journal. Big write-ups I draft in <a href="https://www.literatureandlatte.com/scrivener/overview">Scrivener</a><br>
+<b>julianwest.me</b> is best-viewed in a standards-compliant web browser (Safari/Chrome/Edge/etc).<br>
 If you’re using a recent browser and have problems navigating or something looks wrong, <i><a href="https://julianwest.me/Blog/contact/contacting/">do let me know.</a></i>
 </div>
