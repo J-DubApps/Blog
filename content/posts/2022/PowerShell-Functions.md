@@ -98,7 +98,9 @@ Below is a code example I just threw together to illustrate:
     } catch {
         Write-Error "Failed to format date. Error: $_"
     }
- }
+ }   
+       
+ 
  \# Example usage:
  \# Get-FormattedDate -InputDate (Get-Date) -DateFormat "MM/dd/yyyy"
 </div>
