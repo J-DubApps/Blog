@@ -1,7 +1,7 @@
 +++
 date = '2020-03-15T23:17:51-06:00'
 draft = false
-title = 'How Our Doctors Will Save The Vulnerable in April 2020 (If We Help Them Now)'
+title = 'How Our Doctors Might Save The Vulnerable in April 2020 (If We Lockdown through summmer)'
 type = 'post'
 tags = ["health", "usa", "history"]
 +++
