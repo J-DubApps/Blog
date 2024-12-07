@@ -81,10 +81,11 @@ Below is a code example I just threw together to illustrate this.
 
 <div class="code-block">
 function Get-FormattedDate {
-        [CmdletBinding()]
-        param (
+    [CmdletBinding()]
+    param (
         [Parameter(Mandatory)]
-        [datetime]$InputDate,<br />
+        [datetime]$InputDate,
+
         [Parameter()]
         [string]$DateFormat = "yyyy-MM-dd"
     )
@@ -97,7 +98,6 @@ function Get-FormattedDate {
         Write-Error "Failed to format date. Error: $_"
     }
 }
-
 \# Example usage:
 \# Get-FormattedDate -InputDate (Get-Date) -DateFormat "MM/dd/yyyy"
 
