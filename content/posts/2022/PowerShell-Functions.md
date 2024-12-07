@@ -79,7 +79,7 @@ What I mean here is:
 
 Below is a code example I just threw together to illustrate this.
 
-{{< nomarkdown >}}
+<span class="mono">
 <div class="code-block">
 function Get-FormattedDate {
     [CmdletBinding()]
@@ -101,9 +101,8 @@ function Get-FormattedDate {
 }
 \# Example usage:
 \# Get-FormattedDate -InputDate (Get-Date) -DateFormat "MM/dd/yyyy"
-
 </div>
-{{< /nomarkdown >}}
+</span>
 
 As you can see this PS function is doing one single thing, formatting the date in Output, and the logic and error-handling is done completely within the function itself.<br /> 
 
