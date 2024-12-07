@@ -6,6 +6,7 @@ type = 'post'
 tags = ["blog"]
 +++
 
+<style>
 .text-truncate {
   display: inline-block;
   max-width: 150px;
@@ -13,6 +14,7 @@ tags = ["blog"]
   overflow: hidden;
   text-overflow: ellipsis;
 }
+</style>
 
 Hello. My name is Julian West. I just started a blog.<br />
 
