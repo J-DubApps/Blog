@@ -102,14 +102,19 @@ function Get-FormattedDate {
 # Example usage:
 # Get-FormattedDate -InputDate (Get-Date) -DateFormat "MM/dd/yyyy"
 
-# Testability:
-# Test 1: Valid input
-# $result = Get-FormattedDate -InputDate (Get-Date) -DateFormat "dd/MM/yyyy"
-# Test 2: Invalid input
-# Get-FormattedDate -InputDate "InvalidDate"
 </div>
 
-As you can see this PS function is doing one single job (formatting the date in Output), and the logic and error-handling is done completely within the function itself.
+As you can see this PS function is doing one single job (formatting the date in Output), and the logic and error-handling is done completely within the function itself.<br />
+
+A quick & dirty function, often might not do this.  That's okay, but isn't easily testable and may not be clear to anyone coming in behind you to support your code. <br />
+
+<div class="code-block">
+function FormatDate {
+    # Relies on a global variable
+    $FormattedDate = $Global:Date.ToString("yyyy-MM-dd")
+    Write-Output $FormattedDate
+}
+</div>
 
 ### Don't sleep on -WhatIf and -Confirm
 
