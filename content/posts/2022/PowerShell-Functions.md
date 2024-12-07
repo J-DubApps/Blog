@@ -81,7 +81,6 @@ Below is a code example I just threw together to illustrate this.
 
 <div class="code-block">
 
-
 function Get-FormattedDate {
 
     [CmdletBinding()]
