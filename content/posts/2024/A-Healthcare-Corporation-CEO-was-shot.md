@@ -10,7 +10,7 @@ tags = ["usa", "crime", "rip"]
 
 He was murdered. Assasinated.<br />
 
-The killer is at large, and social media is rife with the video of the assainsation and alarming commentary.  The commentary ranges from <a href="https://www.npr.org/sections/shots-health-news/2024/12/06/nx-s1-5217736/brian-thompson-unitedhealthcare-ceo-social-media">venting</a> to indifference or worse, as there have also been gross celebrations of this tragic event. <br />
+The killer is at large, and social media is rife with the video and alarming commentary.  The commentary ranges from <a href="https://www.npr.org/sections/shots-health-news/2024/12/06/nx-s1-5217736/brian-thompson-unitedhealthcare-ceo-social-media">venting</a> to indifference or worse, as there have also been gross celebrations of this tragic event. <br />
 
 I don't agree with the common response, but I also cannot ignore that claim denials by health insurance companies may have been a factor (as observed by people much smarter than I).  It doesn't justify what this murderer did at all. Also, two terrible things can be true: murder is wrong. And some activities health insurance companies engage in, day-to-day, may be wrong as well. <br />
 
