@@ -81,7 +81,7 @@ Below is a code example I just threw together to illustrate this.
 
 <div class="code-block">
 
-function Get-FormattedDate {
+ function Get-FormattedDate {
 
     [CmdletBinding()]
     param (
@@ -101,8 +101,8 @@ function Get-FormattedDate {
     }
 }
 
-\# Example usage:
-\# Get-FormattedDate -InputDate (Get-Date) -DateFormat "MM/dd/yyyy"
+ \# Example usage:
+ \# Get-FormattedDate -InputDate (Get-Date) -DateFormat "MM/dd/yyyy"
 
 </div>
 
