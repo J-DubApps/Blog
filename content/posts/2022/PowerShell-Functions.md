@@ -58,7 +58,7 @@ tags = ["tech", "powershell", "code"]
 }
 </style>
 
-Creating functions is among the most frequent tasks you will run int, when working with PowerShell long enough. PS Functions serve a fundamental role, as a component that helps us organize and encapsulate our code. Without them, scripts would become overly complex, cluttered with numerous 'if/else' statements or loops or other repetitive code segments.<br />
+Creating functions is among the most frequent tasks you will run int, when working with PowerShell long enough. PS Functions serve a fundamental role, as a component that helps us organize and encapsulate our code. Without them, scripts would become overly complex, cluttered with numerous <span class="mono">if/else</span> statements or loops or other repetitive code segments.<br />
 
 By using functions, we bundle our PowerShell logic into manageable units that can be invoked as needed. They allow us to pass parameters to modify their behavior and promote code reuse. To me, code reuse is EVERYTHING in every coding lang, adhering to the DRY (Don’t Repeat Yourself) principle.<br />
 
@@ -75,9 +75,9 @@ In the above example you can see what 'Remove-Item' would have done if you hadn'
 
 And you can use the '-Confirm' switch to make PowerShell pause before each and every action, interactively prompting you asking to <b>confirm</b> each action, before moving on to the next action.<br />
 
-'''
+<div class="code-block">
 Get-ChildItem -Path C:\Temp\CSV_Files\ -File *.csv -Recurse | Remove-Item -Confirm
-'''
+</div>
 
 For PS functions, you can only use '-Confirm' and '-WhatIf' when writing <i><b>advanced functions</b></i> in PowerShell.  So let's talk about advanced functions next.<br />
 
