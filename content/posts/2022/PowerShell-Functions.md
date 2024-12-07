@@ -77,9 +77,12 @@ What I mean here is:
 - A function in PowerShell should do only <i>one thing</i> (and one thing <i>only</i>) and do it well.
 - A function in PS should be modular, or self-contained, so that it has well-defined input parameters, produces output, and doesn’t rely on external variables unless explicitly passed.  
 
-Below is a code example I just threw together to illustrate this.
+Below is a code example I just threw together to illustrate:
 
 <div class="code-block">
+
+
+
 function Get-FormattedDate {
 
     [CmdletBinding()]
@@ -98,14 +101,16 @@ function Get-FormattedDate {
     } catch {
         Write-Error "Failed to format date. Error: $_"
     }
+
 }
+
 
  \# Example usage:
  \# Get-FormattedDate -InputDate (Get-Date) -DateFormat "MM/dd/yyyy"
 
 </div>
 
-As you can see this PS function is doing one single thing, formatting the date in Output, and the logic and error-handling is done completely within the function itself.<br /> 
+This PS function is doing one single thing, formatting the date in Output, and the logic and error-handling is done completely within the function itself.<br /> 
 
 A quick & dirty function, often might not do this is usually this instead:<br />
 
