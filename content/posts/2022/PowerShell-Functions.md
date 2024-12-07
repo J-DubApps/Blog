@@ -84,8 +84,7 @@ function Get-FormattedDate {
     [CmdletBinding()]
     param (
         [Parameter(Mandatory)]
-        [datetime]$InputDate,
-        
+        [datetime]$InputDate,<br />
         [Parameter()]
         [string]$DateFormat = "yyyy-MM-dd"
     )
@@ -110,7 +109,7 @@ A quick & dirty function, often might not do this.  That's okay, but isn't easil
 
 <div class="code-block">
 function FormatDate {
-    \# Relies on a global variable
+    # Relies on a global variable
     $FormattedDate = $Global:Date.ToString("yyyy-MM-dd")
     Write-Output $FormattedDate
 }
