@@ -79,7 +79,8 @@ What I mean here is:
 
 Below is a code example I just threw together to illustrate:
 
-<div class="code-block">   
+<div class="code-block">
+   
     function Get-FormattedDate {
     [CmdletBinding()]
     param (
@@ -107,6 +108,7 @@ This PS function is doing one single thing, formatting the date in Output, and t
 A quick & dirty function, often might not do this is usually this instead:<br />
 
 <div class="code-block">
+
     function FormatDate {
     # Relies on a global variable
     $FormattedDate = $Global:Date.ToString("yyyy-MM-dd")
