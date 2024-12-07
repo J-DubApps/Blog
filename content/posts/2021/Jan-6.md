@@ -14,6 +14,6 @@ I don't know exactly where we go from here.  Both houses of Congress are talking
 
 A lot of the nation is hurting after what we saw today, and embarassed.  I ended up un-friending and blocking a relative on Facebook who was victory-lapping this event from a religious point-of-view.  I love and care about all of my Trump-supporting relatives, and I never have allowed politics to affect my relationships...but cheering on what occured today was a bridge too far, for me.  First time I have ever done that.<br />
 
-These Culture Wars or "national divorce", or whatever they're calling our country's dysfunction this month, has got to end.  And politicians making grand unprovable claims, to stir-up people into rioting, shouldn't really ever get to hold office again.  At the least.<br />
+These Culture Wars or "national divorce", or whatever they're calling our country's dysfunction this month, has got to end.  And politicians making grand unprovable claims, to stir-up people into rioting, shouldn't really ever get to hold office again.<br />
 
-But something tells me this isn't going to change anything.  I hope I am wrong, but I wouldn't be surprised to see 45 run again.  Even as he's leaving office with blood on the doorstep.
+But something tells me this isn't going to change anything. I hope I am wrong, but I wouldn't be surprised to see 45 run again.  Even as he's leaving office with blood on the doorstep.
