@@ -6,14 +6,15 @@ type = 'page'
 +++
 
 <div style="font-size: 12px;">
-The opinions expressed on <a href="https://julianwest.me">julianwest.me</a> are solely my own and do not reflect the views of my employer, my friends and relatives, or any other carbon-based lifeform.  
+The opinions expressed on <a href="https://julianwest.me">julianwest.me</a> are solely my own and do not reflect the views of my employer, my friends and relatives, or any other carbon-based lifeform.<br />
 
-I may occasionally review products but only those I personally purchase or already own. I will not respond to solicitations to review products, nor do I plan to do loaner/demo reviews.  
+As an information technology professional who often works under various NDAs, I adhere to employer policies governing blogging. Consequently I do not discuss my employers, projects, nor will I comment on past or present matters protected by attorney/client privelege. <br />
 
-I own, or have owned, some stock in a few of the tech companies I routinely talk about including: Microsoft, Cisco, Apple, IBM, Solar City, and Tesla.  
-As an information technology professional who often works under various NDAs, I adhere to employer policies governing blogging. Consequently I do not discuss my employers, projects, nor will I comment on past or present matters protected by attorney/client privelege.  
+I may occasionally review products but only those I personally purchase or already own. I will not respond to solicitations to review products.<br />
 
-If anyone believes any content on this site violates any policy or ethical guidelines, I ask / invite them to <a href="mailto:%77%65%73%74%2E%6A%75%6C%69%61%6E%40%67%6D%61%69%6C%2E%63%6F%6D">contact me</a> immediately.
+I own / have owned stock in a few of the tech companies I may routinely talk about including: Microsoft, Cisco, Apple, IBM, Solar City, and Tesla.<br />
+
+If anyone believes any content on this site violates any policy or ethical guidelines, I ask / invite them to <a href="mailto:%77%65%73%74%2E%6A%75%6C%69%61%6E%40%67%6D%61%69%6C%2E%63%6F%6D">contact me</a> immediately. <br />
 
 ## Site Conditions - Terms
 
