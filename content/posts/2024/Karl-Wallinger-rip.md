@@ -16,7 +16,6 @@ Karl was one of the reasons I ever picked up a guitar, in the first place.  <a h
 
 Rest in Peace good man.  And thank you for the music.
 
-
 <div class="video">
 {{< youtube 8rXQ5Ye-ZwI >}}
 </div>
