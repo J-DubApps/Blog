@@ -22,5 +22,5 @@ All content provided on <a href="https://julianwest.me">julianwest.me</a> is for
 
 You are free to share content from this site provided you always include a link back to the original content and never reproduce more than 200 words at a time without permission. I'm easy: if you wanna use my content, ask first.  
 
-Site terms and conditions are subject to change at anytime without notice. Please <a href="mailto:%77%65%73%74%2E%6A%75%6C%69%61%6E%40%67%6D%61%69%6C%2E%63%6F%6D">contact me</a> if you have questions or need additional info! 🙂
+Site terms and conditions are subject to change at anytime without notice. Please <a href="mailto:%77%65%73%74%2E%6A%75%6C%69%61%6E%40%67%6D%61%69%6C%2E%63%6F%6D">contact me</a> if you have questions. 🙂
 </div>
