@@ -3,7 +3,7 @@ date = '2014-12-25T23:10:38-06:00'
 draft = false
 title = 'Hello From a Stack of Books'
 type = 'post'
-tags = ["tech", "career", "proj-mgmt"]
+tags = ["tech", "career", "project-mgmt"]
 +++
 
 
