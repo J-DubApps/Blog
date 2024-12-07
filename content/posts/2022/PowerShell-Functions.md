@@ -85,12 +85,12 @@ function Get-FormattedDate {
     param (
         [Parameter(Mandatory)]
         [datetime]$InputDate,
-
+        
         [Parameter()]
         [string]$DateFormat = "yyyy-MM-dd"
     )
 
-    \# Core logic
+    # Core logic
     try {
         $FormattedDate = $InputDate.ToString($DateFormat)
         return $FormattedDate
