@@ -18,13 +18,13 @@ type = 'page'
 <i>Contacting Me… </i><br />
 <div style="font-size: 13px;">
  <a href="mailto:%77%65%73%74%2E%6A%75%6C%69%61%6E%40%67%6D%61%69%6C%2E%63%6F%6D"><span class="e-mail" data-user="nailuj.tsew" data-website="moc.liamg"></span></a><br />
-  <span data-feather=github></span> <a href="https://github.com/J-DubApps">GitHub
+  <span data-feather="github"></span> <a href="https://github.com/J-DubApps">GitHub
                                 @J-DubApps
                             </a><br />
-<span data-feather=bluesky></span> <a href="https://bsky.app/profile/julianwest.me">BlueSky
+<span data-feather="bluesky"></span> <a href="https://bsky.app/profile/julianwest.me">BlueSky
                                 @julianwest.me
                             </a><br />
- <span data-feather=linkedin></span> <a href="https://www.linkedin.com/in/julianwest/">LinkedIn
+ <span data-feather="linkedin"></span> <a href="https://www.linkedin.com/in/julianwest/">LinkedIn
                                 </a><br />
 </div>
 <br />
