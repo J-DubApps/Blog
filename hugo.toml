@@ -11,9 +11,6 @@ defaultContentLanguage = "en"
 
 [pagination]
 pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-
-[markup.goldmark.renderer]
-  unsafe = true # Allow HTML in md files
   
 [menus]
   [[menus.main]]
@@ -99,8 +96,37 @@ pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a h
   type = 'fragments'
   weight = 80
 
+# -------------------------------------------------------------------------------------
+# Markup related configuration in Hugo
+# See: https://gohugo.io/getting-started/configuration-markup/
+# -------------------------------------------------------------------------------------
+
+
 [markup]
-  [markup.tableOfContents]
+  [markup.highlight]
+    ########## necessary configurations ##########
+    # https://github.com/hugo-fixit/FixIt/issues/43
+    codeFences = true
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = false
+    ########## necessary configurations ##########
+    guessSyntax = true
+  # Goldmark is from Hugo 0.60 the default library used for Markdown
+[markup.goldmark]
+[markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+  [markup.goldmark.renderer]
+  # whether to use HTML tags directly in the document
+    unsafe = true # Allow HTML in md files
+# Table Of Contents settings
+[markup.tableOfContents]
     startLevel = 1
     endLevel = 4
     ordered = false
