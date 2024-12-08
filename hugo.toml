@@ -26,6 +26,7 @@ pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a h
     weight = 15
   [[menus.main]]
     name = 'Posts'
+    pre = "<i class='fa fa-list' aria-hidden='true'></i>"
     pageRef = '/posts'
     weight = 20
   [[menus.main]]
