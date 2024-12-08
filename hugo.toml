@@ -5,7 +5,7 @@ theme = "gokarna"
 weight = 1
 pluralizeListTitles = false
 # whether to use robots.txt
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 defaultContentLanguage = "en"
 #sectionPagesMenu = "main"
