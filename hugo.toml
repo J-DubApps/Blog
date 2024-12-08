@@ -267,7 +267,7 @@ author = "Julian West"
 favicon = "/images/favicon/favicon.ico"
 site_logo = ""
 # site description
-description = "tech&nbsp;&nbsp;|&nbsp;&nbsp;devops&nbsp;&nbsp;|&nbsp;&nbsp;cloud&nbsp;&nbsp;|&nbsp;&nbsp;life"
+description = "tech   |   devops    |   cloud   |   life"
 showMenu = true  # Show navigation menu
 showRSSButton = true # Show rss button in navigation
 # site keywords
