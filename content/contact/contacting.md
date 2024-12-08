@@ -21,7 +21,8 @@ type = 'page'
   <span data-feather="github"></span> <a href="https://github.com/J-DubApps">GitHub
                                 @J-DubApps
                             </a><br />
-<span data-feather="bluesky"></span> <a href="https://bsky.app/profile/julianwest.me">BlueSky
+<span data-feather="bluesky"></span> <a href="https://bsky.app/profile/julianwest.me" <img class="svg-inject" src="{{ relURL "svg/icons/" }}bluesky.svg" alt="">
+            </a>>BlueSky
                                 @julianwest.me
                             </a><br />
  <span data-feather="linkedin"></span> <a href="https://www.linkedin.com/in/julianwest/">LinkedIn
