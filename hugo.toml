@@ -252,7 +252,12 @@ text_color = ""
 author = "Julian West"
 favicon = "/images/favicon/favicon.ico"
 site_logo = ""
-description = "tech | devops | cloud | life"
+# site description
+description = "tech  |  devops  |  cloud  |  life"
+# site keywords
+  keywords = []
+# site default theme ["light", "dark", "auto"]
+  defaultTheme = "auto"
 # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
 background_color_class = "bg-black"
 # choose fitting and alignment styles for the featured image using Tachyons classes such as "cover|contain" for fitting and "bg-top|bg-center|bg-bottom" for alignment, or add any other class space-separated to customize further
@@ -260,10 +265,13 @@ featured_image_class = "cover bg-top"
 # choose a color dimming class for the page or site header from any on this page: https://tachyons.io/docs/themes/skins/, preface it with "bg-" and add the value such as "-X0" where X is in [1,9]
 cover_dimming_class = "bg-black-60"
 recent_posts_number = 5
-
-
 avatarAltText = "avatar"
 avatarSize = "size-l"
 avatarURL = "/images/avatar.jpeg"
 footer = "julianwest.me"
 metaKeywords = ["blog", "julianwest.me", "julian west"]
+socialIcons = [
+      {name = "twitter", url = "https://example.com"},
+      {name = "linkedin", url = "https://example.com"},
+      {name = "stackoverflow", url = "https://example.com"},
+    ]
