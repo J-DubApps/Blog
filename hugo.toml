@@ -22,45 +22,7 @@ defaultContentLanguage = "en"
 #     url     = "/blog/"
 #     weight  = 1
 
-[menus]
-  [[menus.main]]
-    name = 'Julianwest.me'
-    url = "https://julianwest.me"
-    weight = 10
-  [[menus.main]]
-    name = 'Main'
-    url = "https://julianwest.me/Blog"
-    weight = 15
-  [[menus.main]]
-    identifier = "posts"
-    parent = ""
-    name = 'Posts'
-    pre = "<i class='fa fa-list' aria-hidden='true'></i>"
-    pageRef = '/posts'
-    weight = 20
-  [[menus.main]]
-    name = 'About'
-    pageRef = '/about/about'
-    weight = 30
-  [[menus.main]]
-    name = 'Contact'
-    pageRef = '/contact/contacting'
-    weight = 40
-  [[menus.main]]
-    identifier = "tags"
-    name = "Tags"
-    parent = ""
-    pre = "<i class='fa fa-tags' aria-hidden='true'></i>"
-    url = "/tags/"
-    weight = 45
-  [[menus.footer]]
-    name = 'Colophon'
-    pageRef = '/colophon/colophon'
-    weight = 10
-  [[menus.footer]]
-    name = 'Terms'
-    pageRef = '/site-disclosure'
-    weight = 20
+
 
 # -------------------------------------------------------------------------------------
 # Related content Configuration
