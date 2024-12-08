@@ -42,7 +42,7 @@ defaultContentLanguage = "en"
   [[menus.main]]
     name = 'About'
     pageRef = '/about/about'
-    Pre = "<span data-feather='book'></span>"
+    Pre = "<span data-feather='list'></span>"
     weight = 30
   [[menus.main]]
     name = 'Contact'
