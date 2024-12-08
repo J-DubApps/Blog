@@ -3,7 +3,7 @@ date = '2022-06-20T23:17:51-06:00'
 draft = false
 title = 'Writing Good Resusable PowerShell Code'
 type = 'post'
-tags = ["tech", "powershell", "code"]
+tags = ["tech", "powershell", "code", "best-practice"]
 +++
 
 <style>
@@ -62,22 +62,27 @@ Creating functions is among the most frequent tasks you will run int, when worki
 
 By using functions, we bundle our PowerShell logic into manageable units that can be invoked as needed. They allow us to pass parameters to modify their behavior and promote code reuse. To me, code reuse is EVERYTHING in every coding lang, adhering to the DRY (Don’t Repeat Yourself) principle.<br />
 
-<b>So here are some tips I wanna share for writing functions in PowerShell.</b>  Some are even useful when <i>not</i> writing functions!<br />
+<b>So here are a couple of tips I wanna share for writing functions in PowerShell.</b>  <br />
 
 ### Use PS Naming Convensions <br />
 
 You should name your functions by what <i>action</i> they are doing + the <i>thing</i> involved, aka the <span class="mono">verb-noun</span> syntax that PowerShell commands have always used. Go ahead and issue the <span class="mono">get-verb</span> command in a PS session, to see the list of approved verbs (actions) that I am talking about.  I use this command all the time when I start banging out a quick function.<br />
 
-Consistency is king when writing supportable scripts and functions. So use what PowerShell gives us to maintain consistency and readability.  When I see a function named <span class="mono">"Function IPAddress-Display"</span><br />
+Consistency is king when writing supportable scripts and functions. So use what PowerShell gives us to maintain consistency and readability.  When I see a function named <span class="mono">"Function IPAddress-Display"</span>I cringe.  To display or report something, I would tell that person to immediate rewrite it using the <span class="mono">Get-</span> verb. <br />
 
-### Keep your functions Singular in purpose, and keep them Self-Contained <br />
+Equally important, are if the verb's action is reading/writing something.  Use <span class="mono">Get-"</span> for reading something in to Display, or later act on.  And use <span class="mono">Set-</span> when <i>changing</i> data or <i>writing</i>making any kind of change.  Especially if your function is making some kind of system change. <br /> 
+
+If you remember nothing else about what I say here, just remember PowerShell's <span class="mono">verb-noun</span> naming standard for your functions and you will save yourself (and your colleagues) from troubles in the future.  <br />
+
+### Keep your functions Singular in purpose, and Self-Contained <br />
 
 What I mean here is: 
 
 - A function in PowerShell should do only <i>one thing</i> (and one thing <i>only</i>) and do it well.
-- A function in PS should be modular, or self-contained, so that it has well-defined input parameters, produces output, and doesn’t rely on external variables unless explicitly passed.  
+- A function in PS should be modular, or self-contained.<br> 
+A good self-contained function will have: well-defined input parameters, produces output, and doesn’t rely on external variables to work.<br />  
 
-Below is a code example I just threw together to illustrate:
+Below is a an example I threw together, to illustrate:
 
 <div class="code-block">
    
@@ -105,9 +110,9 @@ Below is a code example I just threw together to illustrate:
  \# Get-FormattedDate -InputDate (Get-Date) -DateFormat "MM/dd/yyyy"
 </div>
 
-This PS function is doing one single thing, formatting the date in Output, and the logic and error-handling is done completely within the function itself.<br /> 
+This PS function is doing <i>one single thing</i>, formatting the date in Output, and the logic and error-handling is done completely within the function itself.<br /> 
 
-A quick & dirty function, often might not do this is usually this instead:<br />
+A quick & dirty function, often might not do this is, instead:<br />
 
 <div class="code-block">
 
@@ -119,27 +124,19 @@ A quick & dirty function, often might not do this is usually this instead:<br />
 
 </div>
 
-...and that's okay, but isn't necessarily testable or reads clearly for anyone coming in behind you, to support your code. 😉 <br />
-
+...and that is technically <i>okay</i>, but isn't necessarily testable and relies on external state to populate a variable.  Again, nothing wrong with that but it may not scale for reuse or future needs, being written that way. <br /
+>
 ### Don't sleep on -WhatIf and -Confirm
 
-Use <span class="mono">-Confirm</span> and <span class="mono">-WhatIf</span> switches, for dry runs and testing of functions, just as you might in PowerShell CLI sessions.  For a recap let's start with <span class="mono">-WhatIf<span>.  This is you telling PowerShell to show you what your code will do, without actually <i>doing it</i>. Example:<br />
+Did you know that you can use <span class="mono">-Confirm</span> and <span class="mono">-WhatIf</span> switches, for dry runs and testing of your functions? Just as you might in a one-liner in a PowerShell session, you can use -WhatIf to see what your function might <i>do</i>, without actually <i>doing it</i>.
 
-<div class="code-block">
-Get-ChildItem -Path C:\Temp\CSV_Files\ -File *.csv -Recurse | Remove-Item -WhatIf
-</div>
+Note: using <span class="mono">-Confirm</span> and <span class="mono">-WhatIf</span> switches only works when writing <i><b>advanced functions</b></i> that use <span class="mono">-WhatIfSupportsShouldProcess</span> argument.  So let's talk about advanced functions next.<br />
 
-In the above one-liner, you can see what <span class="mono">Remove-Item</span> would have done if you hadn't provided the <span class="mono">-WhatIf<span> switch.<br />
+### Advanced functions
 
-And you can use the <span class="mono">-Confirm</span> switch to make PowerShell pause before <i>each</i> and <i>every</i> action, interactively prompting you asking to <b>confirm</b> an action, before moving to the very next action.<br />
+PowerShell offers a great array of features that you can leverage in your functions, almost effortlessly if you write them as <i>advanced functions</i>. <br /> 
 
-<div class="code-block">
-Get-ChildItem -Path C:\Temp\CSV_Files\ -File *.csv -Recurse | Remove-Item -Confirm
-</div>
-
-For PS functions, you can only use <span class="mono">-Confirm</span> and <span class="mono">-WhatIf</span> switches when writing <i><b>advanced functions</b></i> in PowerShell.  So let's talk about advanced functions next.<br />
-
-PowerShell offers a great array of features that you can leverage in your functions, almost effortlessly if you write them as <i>advanced functions</i>.  One advanced function I like to use is if I am doing something destructive to data within an interactive script.  I will use the <span class="mono">SupportsShouldProcess</span> and <span class="mono">ConfirmImpact</span> params, so that I can then use <span class="mono">-WhatIf</span> and <span class="mono">-Confirm</span> switches when calling a function:
+One advanced function I like to use is if I am doing something destructive to data within an interactive script. As I mentioned above, I can use the <span class="mono">SupportsShouldProcess</span> and <span class="mono">ConfirmImpact</span> params, so that I can then use <span class="mono">-WhatIf</span> or <span class="mono">-Confirm</span> switches when calling a function:
 
 <div class="code-block">
 function Remove-SampleFile {
@@ -173,3 +170,6 @@ function Remove-SampleFile {
 
 
 <a href="https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_functions_advanced_parameters?view=powershell-7.4&viewFallbackFrom=powershell-6">Advanced parameters in PowerShell</a>
+
+
+Also, it's harder to know what a basic function like this is needed for or reads clearly for anyone else maintaining your code. 😉 <br />
