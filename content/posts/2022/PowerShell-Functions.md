@@ -1,7 +1,7 @@
 +++
 date = '2022-06-20T23:17:51-06:00'
 draft = false
-title = 'Writing Good Resusable PowerShell Code'
+title = 'Writing Resusable PS Code: Function Tips'
 type = 'post'
 tags = ["tech", "powershell", "code", "best-practice"]
 +++
@@ -58,7 +58,7 @@ tags = ["tech", "powershell", "code", "best-practice"]
 }
 </style>
 
-Creating functions is among the most frequent tasks you will run int, when working with PowerShell long enough. PS Functions serve a fundamental role, as a component that helps us organize and encapsulate our code. Without them, scripts would become overly complex, cluttered with numerous <span class="mono">if/else</span> statements or loops or other repetitive code segments.<br />
+Creating functions is among the most frequent tasks you will run into when working in PowerShell long enough. PS functions serve a fundamental role, as a component to help us organize and encapsulate our code, and reuse it. Without functions scripts would become overly complex, cluttered with numerous <span class="mono">if/else</span> statements or loops or other repetitive code segments.<br />
 
 By using functions, we bundle our PowerShell logic into manageable units that can be invoked as needed. They allow us to pass parameters to modify their behavior and promote code reuse. To me, code reuse is EVERYTHING in every coding lang, adhering to the DRY (Don’t Repeat Yourself) principle.<br />
 
@@ -95,7 +95,6 @@ Below is a an example I threw together, to illustrate:
         [Parameter()]
         [string]$DateFormat = "yyyy-MM-dd"
     )
-
     # Core logic
     try {
         $FormattedDate = $InputDate.ToString($DateFormat)
