@@ -1,6 +1,6 @@
 baseURL = 'http://julianwest.me/Blog/' # Your domain name. Must end with "/"
 languageCode = 'en-us'
-title = 'julianwest.me'
+title = 'julianwest.me.blog'
 theme = "gokarna"
 weight = 1
 pluralizeListTitles = false
@@ -24,10 +24,12 @@ defaultContentLanguage = "en"
 
 [menus]
   [[menus.main]]
+    identifier = "main"
+    parent = ""
     name = ''
     url = "https://julianwest.me/Blog"
-     Pre = "<span data-feather='home'></span>"
-    weight = 15
+    Pre = "<span data-feather='home'></span>"
+    weight = 10
   [[menus.main]]
     identifier = "posts"
     parent = ""
