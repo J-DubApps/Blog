@@ -1,7 +1,7 @@
 +++
 date = '2022-06-20T23:17:51-06:00'
 draft = false
-title = 'Writing Resusable PS Code: Function Tips'
+title = 'Writing Resusable Code: PS Function Tips'
 type = 'post'
 tags = ["tech", "powershell", "code", "best-practice"]
 +++
@@ -68,11 +68,11 @@ By using functions, we bundle our PowerShell logic into manageable units that ca
 
 You should name your functions by what <i>action</i> they are doing + the <i>thing</i> involved, aka the <span class="mono">verb-noun</span> syntax that PowerShell commands have always used. Go ahead and issue the <span class="mono">get-verb</span> command in a PS session, to see the list of approved verbs (actions) that I am talking about.  I use this command all the time when I start banging out a quick function.<br />
 
-Consistency is king when writing supportable scripts and functions. So use what PowerShell gives us to maintain consistency and readability.  When I see a function named <span class="mono">"Function IPAddress-Display"</span>I cringe.  To display or report something, I would tell that person to immediate rewrite it using the <span class="mono">Get-</span> verb. <br />
+Consistency is king when writing supportable scripts and functions. So use what PowerShell gives us to maintain consistency and readability.  When I see a function named <span class="mono">Function IPAddress-Display</span>I cringe.  To display or report something, I would tell that person to immediate rewrite it using the <span class="mono">Get-</span> verb. <br />
 
-Equally important, are if the verb's action is reading/writing something.  Use <span class="mono">Get-"</span> for reading something in to Display, or later act on.  And use <span class="mono">Set-</span> when <i>changing</i> data or <i>writing</i>making any kind of change.  Especially if your function is making some kind of system change. <br /> 
+Equally important, are if the verb's action is reading/writing something.  Use <span class="mono">Get-</span> for reading something in to Display, or later act on.  And use <span class="mono">Set-</span> when <i>changing</i> data or <i>writing</i>making any kind of change.  Especially if your function is making some kind of system change. <br /> 
 
-If you remember nothing else about what I say here, just remember PowerShell's <span class="mono">verb-noun</span> naming standard for your functions and you will save yourself (and your colleagues) from troubles in the future.  <br />
+If you remember nothing else from this blogpost, just remember using PowerShell's <span class="mono">verb-noun</span> naming standard for your functions (and script names, too) will save yourself and your colleagues problems in the future.  <br />
 
 ### Keep your functions Singular in purpose, and Self-Contained <br />
 
@@ -101,12 +101,14 @@ Below is a an example I threw together, to illustrate:
         return $FormattedDate
     } catch {
         Write-Error "Failed to format date. Error: $_"
-    }
- }   
-       
+         }   
+       }
  
  \# Example usage:
  \# Get-FormattedDate -InputDate (Get-Date) -DateFormat "MM/dd/yyyy"
+    
+
+
 </div>
 
 This PS function is doing <i>one single thing</i>, formatting the date in Output, and the logic and error-handling is done completely within the function itself.<br /> 
