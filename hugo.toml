@@ -275,3 +275,28 @@ socialIcons = [
       {name = "linkedin", url = "https://example.com"},
       {name = "stackoverflow", url = "https://example.com"},
     ]
+[params.social]
+    GitHub = "J-DubApps"
+    Linkedin = "julianwest"
+    Twitter = ""
+    Instagram = ""
+    Facebook = ""
+    Telegram = ""
+    Medium = ""
+    Gitlab = ""
+    Youtubelegacy = ""
+    Youtubecustom = ""
+    Youtubechannel = ""
+    Tumblr = ""
+    Quora = ""
+    Keybase = ""
+    Pinterest = ""
+    Reddit = ""
+    Codepen = ""
+    FreeCodeCamp = ""
+
+[params.page.share]
+      enable = true
+      Twitter = false
+      Facebook = false
+      Linkedin = true
