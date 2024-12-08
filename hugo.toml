@@ -247,8 +247,9 @@ socialIcons = [
       {name = "bluesky", url = "https://bsky.app/profile/julianwest.me"},
       {name = "Email", url = "http://julianwest.me/Blog/contact/contacting/"},
     ]
+
 # Configure the home page
-    [params.home]
+[params.home]
         introHeight              = "fullheight"            # Input either "medium" or "large" or "fullheight"
         showLatest               = true                    # Show latest blog post summary
         showAllPosts             = false                   # Set true to list all posts on home page, or set false to link to separate blog list page
@@ -257,6 +258,9 @@ socialIcons = [
         localTime                = true                    # Show your current local time in contact section
         timeZone                 = "America/Chicago"    # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
         timeFormat               = "en-US"                 # Language specific format to use
+ [params.projects]
+        useTwoColumns            = false                   # Use a layout with two columns instead of three
+        
  # Share buttons on blog post pages
 [params.share]
       Twitter = false
