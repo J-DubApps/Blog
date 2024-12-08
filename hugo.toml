@@ -41,7 +41,7 @@ defaultContentLanguage = "en"
   [[menus.main]]
     name = 'About'
     pageRef = '/about/about'
-    Pre = "<i class='fa-info-circle' aria-hidden='true'></i>"
+    Pre = "<i class='fa-info-circle' aria-hidden='false'></i>"
     weight = 30
   [[menus.main]]
     name = 'Contact'
