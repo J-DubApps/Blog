@@ -69,6 +69,13 @@ defaultContentLanguage = "en"
     name = 'Terms'
     pageRef = '/site-disclosure'
     weight = 20
+  [[menus.footer]]
+  identifier = "rss"
+    name = ""
+    parent = ""
+    pre = "<span data-feather='rss'></span>"
+    url = "https://julianwest.me/Blog/index.xml"
+    weight = 25
 
 
 # -------------------------------------------------------------------------------------
