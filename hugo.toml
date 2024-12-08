@@ -1,7 +1,7 @@
-baseURL = 'http://localhost:1313'
+baseURL = 'http://julianwest.me/Blog/'
 languageCode = 'en-us'
 title = 'julianwest.me.blog'
-theme = 'gokarna'
+theme = ["github.com/J-DubApps/Blog/tree/main/themes/gokarna"]
 weight = 1
 pluralizeListTitles = false
 enableRobotsTXT = false
