@@ -3,7 +3,7 @@ date = '2012-07-03T23:07:36-06:00'
 draft = false
 title = 'RIP Andy Griffith'
 type = 'post'
-tags = ["movies-tv", "rip"]
+tags = ["film-tv", "rip"]
 +++
 
 

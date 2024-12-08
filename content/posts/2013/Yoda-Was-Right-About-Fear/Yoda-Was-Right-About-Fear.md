@@ -3,7 +3,7 @@ date = '2013-09-26T23:06:05-06:00'
 draft = false
 title = 'Yoda Was Right About Fear'
 type = 'post'
-tags = ["thought", "scifi", "philosophical", "movies-tv"]
+tags = ["thought", "scifi", "philosophical", "film-tv"]
 +++
 
 <style>
