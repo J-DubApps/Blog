@@ -4,7 +4,6 @@ title = 'julianwest.me.blog'
 theme = "gokarna"
 weight = 1
 pluralizeListTitles = false
-# whether to use robots.txt
 enableRobotsTXT = false
 
 defaultContentLanguage = "en"
@@ -15,12 +14,10 @@ pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a h
   
 [menus]
   [[menus.main]]
-    parent = ""
     name = 'Julianwest.me'
     url = "https://julianwest.me"
     weight = 10
   [[menus.main]]
-    parent = ""
     name = 'Main'
     url = "https://julianwest.me/Blog"
     weight = 15
@@ -41,7 +38,6 @@ pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a h
     weight = 40
   [[menus.main]]
     identifier = "tags"
-    parent = ""
     name = "Tags"
     parent = ""
     pre = "<i class='fa fa-tags' aria-hidden='true'></i>"
@@ -275,12 +271,11 @@ avatarURL = "/images/avatar.jpeg"
 footer = "julianwest.me"
 metaKeywords = ["blog", "julianwest.me", "julian west"]
 socialIcons = [
-      {name = "github", url = "https://github.com/J-DubApps"},
-      {name = "resume", url = "https://github.com/J-DubApps/Resume"},
+      {name = "GitHub", url = "https://github.com/J-DubApps"},
+      {name = "Resume", url = "https://github.com/J-DubApps/Resume"},
       {name = "linkedin", url = "https://www.linkedin.com/in/julianwest/"},
-      {name = "instagram", url = "https://www.instagram.com/mrjdub/"},
       {name = "bluesky", url = "https://bsky.app/profile/julianwest.me"},
-      {name = "email", url = "http://julianwest.me/Blog/contact/contacting/"},
+      {name = "Email", url = "http://julianwest.me/Blog/contact/contacting/"},
     ]
 [params.social]
     GitHub = "J-DubApps"
