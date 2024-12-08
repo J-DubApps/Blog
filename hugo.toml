@@ -12,8 +12,6 @@ paginate = 75
 enableEmoji = true
 # copyright description used only for seo schema
 copyright = ""
-# whether to use git commit log
-enableGitInfo = true
 
 defaultContentLanguage = "en"
 #sectionPagesMenu = "main"
