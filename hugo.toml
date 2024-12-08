@@ -54,6 +54,7 @@ defaultContentLanguage = "en"
     parent = ""
     pre = "<span data-feather='tag'></span>"
     url = "/tags/"
+     weight = 42
   [[menus.main]]
     identifier = "rss"
     name = ""
