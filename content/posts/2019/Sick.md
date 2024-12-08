@@ -16,4 +16,4 @@ I had a great team, but a lot of these projects and timelines fell on me and my 
 
 But there's hope because the fever broke yesterday! And my energy is such that I was able to have breakfast with family today, and write this blog post. This is one of the worst illnesses I recall having, right up there with 2002 when I had walking pneumonia.  But feels like I turned a corner.  Which is good, because I have to fly home in a couple days for New Years. <br /> <br />
 
-<i><b>Note from February 2020:</b> It has since been told to me by my doctor that I very well may have had Covid-19. The virus tearing accross the globe right now. In two words, holy sh**.</i> 😳😬 
+<i><b>Note from February 2020:</b> I have since been told by my doctor that I very well may have had <a href="https://en.wikipedia.org/wiki/COVID-19">Covid-19</a>. The virus tearing accross the globe right now. In two words, holy sh**.</i> 😳😬 
