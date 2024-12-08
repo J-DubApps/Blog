@@ -1,6 +1,6 @@
 baseURL = 'http://julianwest.me/Blog/' # Your domain name. Must end with "/"
 languageCode = 'en-us'
-title = 'julianwest.me.blog'
+title = 'julianwest.me'
 theme = "gokarna"
 weight = 1
 pluralizeListTitles = false
