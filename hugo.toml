@@ -6,12 +6,6 @@ weight = 1
 pluralizeListTitles = false
 # whether to use robots.txt
 enableRobotsTXT = true
-# default amount of posts in each pages
-paginate = 75
-# whether to use emoji code
-enableEmoji = true
-# copyright description used only for seo schema
-copyright = ""
 
 defaultContentLanguage = "en"
 #sectionPagesMenu = "main"
