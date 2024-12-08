@@ -1,4 +1,4 @@
-baseURL = 'http://julianwest.me/Blog/'
+baseURL = 'http://julianwest.me/Blog/' # Your domain name. Must end with "/"
 languageCode = 'en-us'
 title = 'julianwest.me.blog'
 theme = "gokarna"
@@ -254,6 +254,8 @@ favicon = "/images/favicon/favicon.ico"
 site_logo = ""
 # site description
 description = "tech  |  devops  |  cloud  |  life"
+showMenu = true  # Show navigation menu
+showRSSButton = true # Show rss button in navigation
 # site keywords
   keywords = []
 # site default theme ["light", "dark", "auto"]
@@ -278,6 +280,16 @@ socialIcons = [
       {name = "bluesky", url = "https://bsky.app/profile/julianwest.me"},
       {name = "Email", url = "http://julianwest.me/Blog/contact/contacting/"},
     ]
+# Configure the home page
+    [params.home]
+        introHeight              = "fullheight"            # Input either "medium" or "large" or "fullheight"
+        showLatest               = true                    # Show latest blog post summary
+        showAllPosts             = false                   # Set true to list all posts on home page, or set false to link to separate blog list page
+        allPostsArchiveFormat    = true                    # show all posts in an archive format
+        numberOfProjectsToShow   = 3                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
+        localTime                = true                    # Show your current local time in contact section
+        timeZone                 = "America/Chicago"    # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+        timeFormat               = "en-US"                 # Language specific format to use
 [params.social]
     GitHub = "J-DubApps"
     Linkedin = "julianwest"
