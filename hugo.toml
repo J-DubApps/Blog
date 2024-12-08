@@ -35,14 +35,13 @@ defaultContentLanguage = "en"
     identifier = "posts"
     parent = ""
     name = 'Posts'
-    pre = "<i class='fa fa-list' aria-hidden='true'></i>"
+    Pre = "<i class='fa fa-list' aria-hidden='true'></i>"
     pageRef = '/posts'
     weight = 20
   [[menus.main]]
     name = 'About'
     pageRef = '/about/about'
-    Pre = 'fa-info-circle'
-    Post= 'Basic information about'
+    Pre = "<i class='fa-info-circle' aria-hidden='true'></i>"
     weight = 30
   [[menus.main]]
     name = 'Contact'
