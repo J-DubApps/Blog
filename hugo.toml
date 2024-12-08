@@ -41,7 +41,7 @@ defaultContentLanguage = "en"
   [[menus.main]]
     name = 'About'
     pageRef = '/about/about'
-    Pre = ""<span data-feather='github'></span>""
+    Pre = "<img class='svg-inject' src='/icons/github.svg' />"
     weight = 30
   [[menus.main]]
     name = 'Contact'
