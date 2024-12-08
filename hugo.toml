@@ -54,13 +54,6 @@ defaultContentLanguage = "en"
     pre = "<span data-feather='tag'></span>"
     url = "/tags/"
      weight = 42
-  [[menus.main]]
-    identifier = "rss"
-    name = ""
-    parent = ""
-    pre = "<span data-feather='rss'></span>"
-    url = "https://julianwest.me/Blog/index.xml"
-    weight = 45
   [[menus.footer]]
     name = 'Colophon'
     pageRef = '/colophon/colophon'
