@@ -30,18 +30,19 @@ defaultContentLanguage = "en"
   [[menus.main]]
     name = 'Main'
     url = "https://julianwest.me/Blog"
+     Pre = "<span data-feather='home'></span>"
     weight = 15
   [[menus.main]]
     identifier = "posts"
     parent = ""
     name = 'Posts'
-    Pre = "<i class='fa fa-list' aria-hidden='true'></i>"
+    Pre = "<span data-feather='book'></span>"
     pageRef = '/posts'
     weight = 20
   [[menus.main]]
     name = 'About'
     pageRef = '/about/about'
-    Pre = "<span data-feather='github'></span>"
+    Pre = "<span data-feather='book'></span>"
     weight = 30
   [[menus.main]]
     name = 'Contact'
@@ -51,8 +52,14 @@ defaultContentLanguage = "en"
     identifier = "tags"
     name = "Tags"
     parent = ""
-    pre = "<i class='fa fa-tags' aria-hidden='true'></i>"
+    pre = "<span data-feather='tag'></span>"
     url = "/tags/"
+  [[menus.main]]
+    identifier = "rss"
+    name = ""
+    parent = ""
+    pre = "<span data-feather='rss'></span>"
+    url = "https://julianwest.me/Blog/index.xml"
     weight = 45
   [[menus.footer]]
     name = 'Colophon'
