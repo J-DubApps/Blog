@@ -69,7 +69,7 @@ In pressing my team to devlop some basic scripting experience, for automating mu
 Get-ChildItem -Path C:\Temp\CSV_Files\ -File *.csv -Recurse | Remove-Item -WhatIf
 </div>
 
-In the above one-liner I provided to my team, you can see that <span class="mono">-WhatIf<span> allows you to quickly see what the <span class="mono">Remove-Item</span> action would have <i>done</i>, if they hadn't provided the <span class="mono">-WhatIf</span> switch.<br /> This allowed my team to quickly build confidence in testing: you needn't feel like you are taking risks, just use <span class="mono">-WhatIf<span>.<br />  
+In the above one-liner I provided to my team, you can see that <span class="mono">-WhatIf</span> allows you to quickly see what the <span class="mono">Remove-Item</span> action would have <i>done</i>, if they hadn't provided the <span class="mono">-WhatIf</span> switch.<br /> This allowed my team to quickly build confidence in testing: you needn't feel like you are taking risks, just use <span class="mono">-WhatIf<span>.<br />  
 
 And it's a similar story with the <span class="mono">-Confirm</span> switch: <br />
 <div class="code-block">
