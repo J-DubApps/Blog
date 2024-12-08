@@ -9,7 +9,7 @@ tags = ["tech", "powershell", "code", "best-practice"]
 <style>
 /* Base style for code blocks */
 .code-block {
-    padding: 15px;                    /* Padding around the code */
+ 
     font-family: 'Courier New', Courier, monospace; /* Monospace font */
     white-space: pre-wrap;            /* Preserve whitespace and wrap lines */
     border-radius: 5px;               /* Rounded corners */
@@ -58,11 +58,11 @@ tags = ["tech", "powershell", "code", "best-practice"]
 }
 </style>
 
-Creating functions is among the most frequent tasks you will run into when working in PowerShell long enough. PS functions serve a fundamental role, as a component to help us organize and encapsulate our code, and reuse it. Without functions scripts would become overly complex, cluttered with numerous <span class="mono">if/else</span> statements or loops or other repetitive code segments.<br />
+Creating functions is among the most frequent tasks you will run into when working in PowerShell long enough. PS functions serve a fundamental role, as a component to help us organize and encapsulate our code, and reuse it. Without functions scripts would become overly complex, cluttered with numerous <span class="mono">if/else</span> statements or loops and repetitive code segments.<br />
 
 By using functions, we bundle our PowerShell logic into manageable units that can be invoked as needed. They allow us to pass parameters to modify their behavior and promote code reuse. To me, code reuse is EVERYTHING in every coding lang, adhering to the DRY (Don’t Repeat Yourself) principle.<br />
 
-<b>So here are a couple of tips I wanna share for writing functions in PowerShell.</b>  <br />
+<b>So here are a couple of tips I want to share for writing functions in PowerShell.</b>  <br />
 
 ### Use PS Naming Convensions <br />
 
@@ -76,7 +76,7 @@ If you remember nothing else about what I say here, just remember PowerShell's <
 
 ### Keep your functions Singular in purpose, and Self-Contained <br />
 
-What I mean here is: 
+What I mean here is:
 
 - A function in PowerShell should do only <i>one thing</i> (and one thing <i>only</i>) and do it well.
 - A function in PS should be modular, or self-contained.<br> 
