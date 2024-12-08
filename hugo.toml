@@ -7,7 +7,7 @@ pluralizeListTitles = false
 enableRobotsTXT = false
 
 defaultContentLanguage = "en"
-#sectionPagesMenu = "main"
+sectionPagesMenu = "main"
 
 # [pagination]
 # pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a higher number
@@ -21,6 +21,7 @@ defaultContentLanguage = "en"
 #     name    = "Blog"
 #     url     = "/blog/"
 #     weight  = 1
+
 
 
 
@@ -260,7 +261,7 @@ socialIcons = [
         timeFormat               = "en-US"                 # Language specific format to use
  [params.projects]
         useTwoColumns            = false                   # Use a layout with two columns instead of three
-        
+
  # Share buttons on blog post pages
 [params.share]
       Twitter = false
