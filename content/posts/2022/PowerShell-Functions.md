@@ -14,7 +14,7 @@ tags = ["tech", "powershell", "code", "best-practice"]
     white-space: pre-wrap;            /* Preserve whitespace and wrap lines */
     border-radius: 5px;               /* Rounded corners */
     overflow-x: auto;                 /* Horizontal scroll if needed */
-    margin: 25px 0;                   /* Vertical spacing */
+    margin: 5px 0;                   /* Vertical spacing */
     /* Default colors (light mode) */
     background-color: #f5f5f5;        /* Light gray background */
     border: 1px solid #ddd;           /* Light border */
