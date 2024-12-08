@@ -272,7 +272,7 @@ footer = "julianwest.me"
 metaKeywords = ["blog", "julianwest.me", "julian west"]
 socialIcons = [
       {name = "GitHub", url = "https://github.com/J-DubApps"},
-      {name = "Resume", url = "https://github.com/J-DubApps/Resume"},
+      {name = "Resume", url = "https://julianwest.me/Resume"},
       {name = "linkedin", url = "https://www.linkedin.com/in/julianwest/"},
       {name = "Instagram", url = "https://www.instagram.com/mrjdub/"},
       {name = "bluesky", url = "https://bsky.app/profile/julianwest.me"},
