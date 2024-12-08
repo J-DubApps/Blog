@@ -9,7 +9,7 @@ tags = ["tech", "powershell", "code", "best-practice"]
 <style>
 /* Base style for code blocks */
 .code-block {
-    padding: 5px;                    /* Padding around the code */
+    padding: 10px;                    /* Padding around the code */
     font-family: 'Courier New', Courier, monospace; /* Monospace font */
     white-space: pre-wrap;            /* Preserve whitespace and wrap lines */
     border-radius: 5px;               /* Rounded corners */
@@ -107,7 +107,7 @@ Below is a an example I threw together, to illustrate:
  \# Example usage:
  \# Get-FormattedDate -InputDate (Get-Date) -DateFormat "MM/dd/yyyy"
     
-
+<!-- You will not be able to see this text.-->
 
 </div>
 
