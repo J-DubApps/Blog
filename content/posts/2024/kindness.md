@@ -10,13 +10,13 @@ People like to say (myself included) that “<i>it costs nothing to be kind...�
 
 I 💯 believe this; however... <br />
 
-...depending on where a person is in their life and circumstances, the daily grind has a way leaving us almost zero energy for making effort to stop and express kindness or empathy. People don't really have a deep well of compassion when their plate is full and they're trying to just keep it together. Mental health, and maintaining it in a tough world, is a thing after all. <br />
+...depending on where a person is in their life circumstances, the daily grind has a way sucking the energy it takes to stop and express kindness or empathy. People may not have a deep well of compassion, when their plate is full and they're just trying to keep it together. Mental health, and maintaining it in a dark world, is a daily struggle for some people.  Even strong people. <br />
 
-So, yeah, being kind isn't always "free" when you're stressed-out or you just have little in the proverbial tank for it. But the thing about kindness, is this: if you dig deep and find the energy to be kind, you get something back the instant you express it. Compassion is a two-way flow, and you get back what you give.  If you don't believe me, maybe just give it a shot anyway?  You may discover being kind actually reduces stress, and recharge your batteries a bit. Maybe the net effect is it ultimately DID cost you nothing to be kind.  <br />
+So, yeah, being kind isn't always "free" if you're stressed-out or got little in the proverbial tank for express it. But the thing about kindness, is <b>this</b>: if you dig deep and summon the energy to be kind, you get something <i>back</i> the instant you express it. Compassion is a two-way flow, and you get back what you give. If you don't believe me, maybe just give it a shot anyway.  You may discover what other humans know: being kind reduces anxiety and stress, and even recharges your batteries a bit. Costing you nothing, after all.  <br />
 
-You have to try it, to see. <br />
+But you have to try it, to see. You have nothing to lose, but maybe a little stress.  <br />
 
-Being helpful or kind in life is a strength, not a weakness. In life that ultimately goes double for being kind to yourself.
+Being helpful or kind is a strengt in life, not a weakness. That ultimately goes double for being kind to yourself.
 
 <div>
   <img src="https://julianwest.me/Blog/posts/images/robin-williams.jpg" alt="Alt text">
