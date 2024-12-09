@@ -3,7 +3,7 @@ date = '2022-06-20T23:17:51-06:00'
 draft = false
 title = 'Writing Resusable Code: PS Function Tips'
 type = 'post'
-tags = ["tech", "powershell", "code", "best-practice"]
+tags = ["tech", "powershell", "code", "best-practice", "devops"]
 +++
 
 <style>
@@ -162,7 +162,40 @@ function Remove-SampleFile {
 # Remove-SampleFile -Path "C:\Temp\example.txt" -Confirm
 ~~~
 
+In addition to parameters and using arguments like <span class="mono">SupportsShouldProcess</span> to enable -WhatIf capabilities in functions, you can also another one-liner tool in functions: <a href="https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_pipelines?view=powershell-7.4">Piplines</a> are another tool and technique you can use in advanced PS functions.<br />
+
+Pipelines in PowerShell advanced functions enable seamless chaining of commands in your scripts, much like they do in interactive PS Sessions. This allows a cmdlet's output to feed directly into a function, without the need for intermediate variables or complex data handling. This approach simplifies scripts by promoting modularity, reducing code clutter, and making complex tasks more readable and maintainable.  Here's an example:
+
+~~~
+function Get-Example {
+    [CmdletBinding()]
+    param(
+        [Parameter(ValueFromPipeline=$true)]
+        [string]$Name
+    )
+
+    Begin {
+        # Set up any required resources before processing
+    }
+
+    Process {
+        # Process each pipeline input object (in this case, each $Name)
+        "Hello, $Name!"
+    }
+
+    End {
+        # Cleanup or finalize any processing if needed
+    }
+}
+
+# Usage:
+"Server1","Server2" | Get-Example
+~~~
+
+In the example above, each input string (Server1 and Server2) is passed directly to <span class="mono">Get-Example</span> through the pipeline. The Process block runs once for each item, simplifying how you handle individual objects. This approach enables your advanced functions to integrate smoothly into larger scripts, toolchains, and DevOps workflows.
+
 <a href="https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_functions_advanced_parameters?view=powershell-7.4&viewFallbackFrom=powershell-6">Advanced parameters in PowerShell</a>
+
 
 
 Also, it's harder to know what a basic function like this is needed for or reads clearly for anyone else maintaining your code. 😉 <br />
