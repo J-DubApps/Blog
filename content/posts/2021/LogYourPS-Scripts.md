@@ -1,5 +1,5 @@
 +++
-date = '2020-05-20T23:17:51-06:00'
+date = '2021-05-20T23:17:51-06:00'
 draft = false
 title = 'Log Your Scripts'
 type = 'post'

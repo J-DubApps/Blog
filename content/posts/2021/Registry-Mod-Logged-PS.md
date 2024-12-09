@@ -1,5 +1,5 @@
 +++
-date = '2020-05-22T23:17:51-06:00'
+date = '2021-05-22T23:17:51-06:00'
 draft = false
 title = 'Log Your Scripts Pt 2 - A Registry Use-Case'
 type = 'post'
@@ -28,6 +28,7 @@ Function Get-RegistryValue($RegPath, $Property) {
 And here's a recap of the Writelog function <a href="http://julianwest.me/Blog/logyourps-scripts/">I wrote about the other day</a>: <br />
 
 <div class="code-block">
+
 Function WriteLog($LogString) {
     ##########################################################################
     ## Writes a timestamped entry to a log file defined by $LogFile variable
