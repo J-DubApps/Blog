@@ -26,6 +26,4 @@ Voila. The benefits of standing AND moving:<br />
 </div>
 
 
-
-
 <i>Originally published at julianwest.me on June 21, 2012.</i>

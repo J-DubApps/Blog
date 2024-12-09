@@ -3,7 +3,7 @@ date = '2024-10-29T23:03:26-06:00'
 draft = false
 title = 'Kindness'
 type = 'post'
-tags = ["thought", "philosophy", "opinion", "health", "culture"]
+tags = ["thought", "philosophy", "opinion", "health", "culture", "special-write-up"]
 +++
 
 People like to say (myself included) that “<i>it costs nothing to be kind...”</i> <br /> 
