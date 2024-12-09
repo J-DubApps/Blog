@@ -16,7 +16,7 @@ I own / have owned stock in a few of the tech companies I may routinely talk abo
 
 If anyone believes any content on this site violates any policy or ethical guidelines, I ask / invite them to <a href="mailto:%77%65%73%74%2E%6A%75%6C%69%61%6E%40%67%6D%61%69%6C%2E%63%6F%6D">contact me</a> immediately. <br />
 
-## Site Conditions - Terms
+## Terms of Use
 
 All content provided on <a href="https://julianwest.me">julianwest.me</a> is for my personal journaling purposes only. I make no representations as to the accuracy or completeness of any information found on this site, or by following any links posted here. I further take no responsibility for damages, losses, or distress resulting from following any of the advice or information made available here. </lawyerspeak-mode>  
 

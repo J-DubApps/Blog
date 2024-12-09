@@ -20,7 +20,8 @@ type = 'page'
                             <a href="https://www.linkedin.com/in/julianwest/" target="_blank" class="social_link">LinkedIn
                                 <i class="fa-brands fa-linkedin social_icon"></i></a>&nbsp;/&nbsp;<a href="https://github.com/J-DubApps" target="_blank" class="social_link">GitHub
                                 <i class="fa-brands fa-github social_icon"></i></a><br />
-                            More Contact Options <a href="http://julianwest.me/Blog/contact/contacting/">Here</a>...
+                            Please refer to this site's <b><a href="https://julianwest.me/Blog/colophon/colophon/">Colophon</a> & <a href="https://julianwest.me/Blog/site-disclosure/site-disclosure/">Terms</a></b>, for more info.
+                            More Contact Options <b></i><a href="http://julianwest.me/Blog/contact/contacting/">here</a></b></i>...
 </div>
 
 #### _Trivial trivia_
