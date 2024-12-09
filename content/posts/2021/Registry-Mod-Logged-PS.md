@@ -12,7 +12,7 @@ The other day <a href="http://julianwest.me/Blog/logyourps-scripts/">I posted a 
 
 For many automation tasks, you’ll need to retrieve configurations from the Windows Registry. The Get-RegistryValue function allows you to read a specific property from the Registry without cluttering your code. Errors are cleanly handled (returning $false if a value can’t be found), making it easy to integrate error-checking and logging.
 
-<div class="code-block">
+~~~
 Function Get-RegistryValue($RegPath, $Property) {
     Try {
         $Item = Get-ItemProperty -Path $RegPath -Name $Property -ErrorAction Stop
@@ -23,7 +23,7 @@ Function Get-RegistryValue($RegPath, $Property) {
         Return $false
     }
 }
-</div>
+ ~~~
 
 And here's a recap of the Writelog function <a href="http://julianwest.me/Blog/logyourps-scripts/">I wrote about the other day</a>: <br />
 
