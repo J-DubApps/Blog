@@ -6,7 +6,7 @@ type = 'post'
 tags = ["thought", "philosophy", "opinion", "health", "culture"]
 +++
 
-People like to say (myself included) that “it costs nothing to be kind…” <br /> 
+People like to say (myself included) that “<i>it costs nothing to be kind...”</i> <br /> 
 
 I do 💯 believe this; however... <br />
 
