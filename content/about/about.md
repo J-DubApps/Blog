@@ -14,17 +14,17 @@ type = 'page'
 
 ### _Julian West is a North Texas systems architect, musician, and writer._
 
-<img src="https://julianwest.me/Blog/about/julian-about.jpeg" alt="Alt text" width="275" height="175"><br />
+<img src="https://julianwest.me/Blog/about/julian-about.jpeg" alt="Alt text" width="250" height="125"><br />
 
 <div style="font-size: 10px;">
                             <a href="https://www.linkedin.com/in/julianwest/" target="_blank" class="social_link">LinkedIn
                                 <i class="fa-brands fa-linkedin social_icon"></i></a>&nbsp;/&nbsp;<a href="https://github.com/J-DubApps" target="_blank" class="social_link">GitHub
                                 <i class="fa-brands fa-github social_icon"></i></a><br />
                             Please refer to this site's <b><a href="https://julianwest.me/Blog/colophon/colophon/">Colophon</a> & <a href="https://julianwest.me/Blog/site-disclosure/site-disclosure/">Terms</a></b> for more info.<br />
-                            More Contact Options <b></i><a href="http://julianwest.me/Blog/contact/contacting/">here</a></b></i>...
+                            More Contact Options <b><i><a href="http://julianwest.me/Blog/contact/contacting/">here</a></b></i>...
 </div>
 
-#### _Trivial trivia_
+#### _Trivial trivia_ 
 <div style="font-size: 14px;">
 I love technology, art, and good design...and the occasional board game.<br />
 For a living I’m an ops nerd working IT network projects & cloud deployments.<br />   
