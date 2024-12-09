@@ -21,3 +21,5 @@ I recall in 2010, a lifetime ago, insurance companies lobbied to convince Americ
 None of the above justifies happened this past week. By pointing out the reality of our dysfunctional health insurance system I just think it deserves thought, and merits discussion, while the authorities pursue the murderer.  In observing our world as it exists, in reality, maybe it's worth discussing a healthcare system that has actually gotten <i>worse</i> in the past decade...when we were told by so many politicians that getting better.<br />  
 
 I hope they catch and punish the killer.  It was an evil, horrific act. So was hearing about acts of health insurance companies and our claim-denial mini-industry, shoved into the spotlight this week. Two terrible things can be horrific, at the same time.<br />
+
+<b>UPDATE:</b>A person-of-interest <a href="https://www.theguardian.com/us-news/live/2024/dec/09/unitedhealthcare-ceo-shooting-brian-thompson-suspect-police-latest-updates">was arrested</a> on December 9th. Luigi Mangione.  And apparently he had a manifesto.
