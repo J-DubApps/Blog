@@ -3,7 +3,7 @@ date = '2012-06-21T23:05:44-06:00'
 draft = false
 title = 'The Case for A Treadmill Desk'
 type = 'post'
-tags = ["tech", "health"]
+tags = ["tech", "health","remote-work"]
 +++
 
 Everybody is nuts about <a href="http://en.wikipedia.org/wiki/Standing_desk">Standing desks</a> the last few years.<br />

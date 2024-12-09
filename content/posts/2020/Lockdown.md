@@ -3,7 +3,7 @@ date = '2020-03-05T23:17:51-06:00'
 draft = false
 title = 'Lockdown'
 type = 'post'
-tags = ["health", "usa", "history"]
+tags = ["health", "usa", "history", "remote-work"]
 +++
 
 Well <a href="https://en.wikipedia.org/wiki/COVID-19">Covid-19</a>'s spread is upon us, already having hit Canada and parts of the US.  Meanwhile <a href="http://julianwest.me/Blog/i-may-have-had-covid-already/">my doctor tells me I probably already had this</a>, upon his reviewing <a href="http://julianwest.me/Blog/sick/">my mystery illness from December last year</a>. This thing was probably already over here, in certain areas, just not at the level it is now. At this age I *think* I have lived through two pandemics?  But they seemed like tiny bumps in the road, given what CDC and others say is upon us for the next few weeks. <br />

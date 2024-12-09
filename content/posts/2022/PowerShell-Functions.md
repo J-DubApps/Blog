@@ -60,7 +60,7 @@ tags = ["tech", "powershell", "code", "best-practice", "devops"]
 
 Creating functions is among the most frequent tasks you will run into when working in PowerShell long enough. PS functions serve a fundamental role, as a component to help us organize and encapsulate our code, and reuse it. Without functions scripts would become overly complex, cluttered with numerous <span class="mono">if/else</span> statements or loops and repetitive code segments.<br />
 
-By using functions, we bundle our PowerShell logic into manageable units that can be invoked as needed. They allow us to pass parameters to modify their behavior and promote code reuse. To me, code reuse is EVERYTHING in every coding lang, adhering to the DRY (Don’t Repeat Yourself) principle.<br />
+By using functions, we bundle our PowerShell logic into manageable units that can be invoked as needed. They allow us to pass parameters to modify their behavior and promote code reuse. To me, code reuse is EVERYTHING in every coding lang, adhering to the DRY (<a href="https://en.wikipedia.org/wiki/Don%27t_repeat_yourself">Don’t Repeat Yourself) principle</a>.<br />
 
 <b>So here are a couple of tips I want to share for writing functions in PowerShell.</b>  <br />
 
@@ -119,7 +119,8 @@ A quick & dirty function, often might not do this is, instead:
  }
 ~~~
 
-...and that is technically <i>okay</i>, but isn't necessarily testable and relies on external state to populate a variable.  Again, nothing wrong with that but it may not scale for reuse or future needs, being written that way.
+...and that is technically <i>okay</i>, but isn't necessarily testable and relies on external state to populate a variable.  Again, nothing wrong with that but it may not scale for reuse or future needs, being written that way. Also, it's harder to know what a basic function like this is needed for or reads clearly for anyone else maintaining your code. 😉
+
 ### Don't sleep on -WhatIf and -Confirm
 
 Did you know that you can use <span class="mono">-Confirm</span> and <span class="mono">-WhatIf</span> switches, for dry runs and testing of your functions? Just as you might in a one-liner in a PowerShell session, you can use -WhatIf to see what your function might <i>do</i>, without actually <i>doing it</i>.
@@ -192,10 +193,8 @@ function Get-Example {
 "Server1","Server2" | Get-Example
 ~~~
 
-In the example above, each input string (Server1 and Server2) is passed directly to <span class="mono">Get-Example</span> function through the pipeline. The Process block runs once for each item, simplifying how you handle individual objects. This approach enables your advanced functions to integrate smoothly into larger scripts, toolchains, and DevOps workflows.
+In the example above, each input string (Server1 and Server2) is passed directly to <span class="mono">Get-Example</span> function through the pipeline. The Process block runs once for each item, simplifying how you handle individual objects. This approach enables your advanced functions to integrate smoothly into larger scripts, toolchains, and DevOps workflows.<br />
 
-<a href="https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_functions_advanced_parameters?view=powershell-7.4&viewFallbackFrom=powershell-6">Advanced parameters in PowerShell</a>
+Here's a good link you can refer to on <a href="https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_functions_advanced_parameters?view=powershell-7.4&viewFallbackFrom=powershell-6">Advanced parameters in PowerShell</a>, but there are a ton of write-ups out to help.<br />
 
-
-
-Also, it's harder to know what a basic function like this is needed for or reads clearly for anyone else maintaining your code. 😉 <br />
+I hope this helped you consider ways to simplify your code, even if PS function writing is still an advanced topic for you.  Essentially observing the <a href="https://en.wikipedia.org/wiki/Don%27t_repeat_yourself">DRY principle</a> will lead you to want to get better at writing functions, and having clean readable code.  Happy coding!  
