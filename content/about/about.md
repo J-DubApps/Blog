@@ -25,7 +25,7 @@ type = 'page'
 </div>
 
 #### _Trivial trivia_ 
-<div style="font-size: 14px;">
+<div style="font-size: 12px;">
 I love technology, art, and good design...and the occasional board game.<br />
 For a living I’m an ops nerd working IT network projects & cloud deployments.<br />   
 I was born in rural Texas, to parents both born before 1930 (I am late for everything).<br />
@@ -36,6 +36,6 @@ Myers-Briggs says I am INTP, but I do like people. At least the cool ones.<br />
 My close earliest friends call me “Jules”, lately "JDub" is the nickname and <a href="https://github.com/J-DubApps" style="text-decoration: none;">GitHub username</a><br /> 
 Despite managing Cisco/Microsoft/Linux systems, I am a huge Apple geek. Not an uncommon thing nowadays.<br />   
 I am an EV fan and Tesla early-adopter. Was a great car, in spite of a certain autistic immigant Oligarch.&#129335;<br />   
-For hobbies I write, play guitar/ukelele, and develop messy PowerShell and Python code. <br />
+For hobbies I write, play guitar/ukelele, and develop messy PowerShell and Python code. <br /><br />
 <a href ="https://julianwest.me/Blog/contact/contacting/"><i><b>How to reach me</a></i></b> 
 </div>
