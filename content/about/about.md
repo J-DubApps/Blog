@@ -24,7 +24,7 @@ type = 'page'
                             More Contact Options <b><i><a href="http://julianwest.me/Blog/contact/contacting/">here</a></b></i>...
 </div>
 
-#### _Trivial trivia_ 
+<b><i>Trivial trivia</b></i> 
 <div style="font-size: 12px;">
 I love technology, art, and good design...and the occasional board game.<br />
 For a living I’m an ops nerd working IT network projects & cloud deployments.<br />   
