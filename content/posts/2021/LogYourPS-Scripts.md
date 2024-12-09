@@ -82,21 +82,20 @@ PowerShell’s built-in Start-Transcript and Stop-Transcript cmdlets offer a sim
 
 <b>Example</b>: <br />
 
-<div class="code-block">
+~~~
 # Start transcript with a specified output file
 Start-Transcript -Path "C:\Logs\MyPSSession.log"
 
 \# ... run various commands here ...
 
 Stop-Transcript
-</div>
+~~~
 
 Once stopped, you have a neat record of every command entered and response returned during that session. This approach is perfect for one-off sessions or documenting the execution of a large script that you run interactively. <br />
 
 ___However___, when creating highly automated, unattended scripts, you may want more structured control over what gets logged. That’s where a custom logging function can be invaluable.<br />
 
-<div class="code-block">
-
+~~~
 Function WriteLog($LogString) {
     ##########################################################################
     ## Writes a timestamped entry to a log file defined by $LogFile variable
@@ -106,7 +105,7 @@ Function WriteLog($LogString) {
     $LogMessage = "$Stamp $LogString"
     Add-Content $LogFile -Value $LogMessage
 }
-</div>
+~~~
 
 **How It Works**: <br />
 
@@ -116,21 +115,21 @@ Function WriteLog($LogString) {
 
 **Example Usage**: <br />
 
-<div class="code-block">
+~~~
 # Define where you want your log
 $LogFile = "C:\Logs\MyScriptActions.log"
 
 WriteLog "Starting configuration tasks..."
 \# Run some complex script actions here
 WriteLog "Configuration tasks completed successfully."
-</div>
+~~~
 
 When you inspect MyScriptActions.log, you’ll see entries like: <br />
 
-<div class="code-block">
+~~~
 2024/12/09 09:15:00 Starting configuration tasks...
-2024/12/09 09:16:10 Configuration tasks completed successfully.
-</div>
+2024/12/09 09:16:10 Configuration tasks completed successfully. 
+~~~
 
 This selective approach to logging is particularly useful in automation scripts, where every executed step can be logged methodically. <br />
 
