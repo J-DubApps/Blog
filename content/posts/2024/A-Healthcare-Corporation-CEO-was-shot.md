@@ -22,4 +22,4 @@ None of the above justifies happened this past week. By pointing out the reality
 
 I hope they catch and punish the killer.  It was an evil, horrific act. So was hearing about acts of health insurance companies and our claim-denial mini-industry, shoved into the spotlight this week. Two terrible things can be horrific, at the same time.<br />
 
-<b>UPDATE:</b>A person-of-interest <a href="https://www.theguardian.com/us-news/live/2024/dec/09/unitedhealthcare-ceo-shooting-brian-thompson-suspect-police-latest-updates">was arrested</a> on December 9th. Luigi Mangione.  And apparently he had a manifesto.
+<b>UPDATE:</b>A person-of-interest <a href="https://www.theguardian.com/us-news/live/2024/dec/09/unitedhealthcare-ceo-shooting-brian-thompson-suspect-police-latest-updates">was arrested</a> on December 9th.
