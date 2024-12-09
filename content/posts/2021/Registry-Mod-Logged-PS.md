@@ -1,12 +1,12 @@
 +++
 date = '2021-05-22T23:17:51-06:00'
 draft = false
-title = 'Log Your Scripts Pt 2 - A Registry Use-Case'
+title = 'Log Your Scripts! Pt 2 - Live Use-Case'
 type = 'post'
 tags = ["tech", "devops", "endpoint-mgmt", "powershell", "code", "fundamentals", "best-practice"]
 +++
 
-The other day <a href="http://julianwest.me/Blog/logyourps-scripts/">I posted a quick primer</a> on logging in our PS scripts.  Here I will expand on that, with a use-case example I just wrote code for yesterday. Here is a helpful registry-reading function, allowing you to keep a thorough, auditable record of registry changes during an automation task. <br />
+The other day <a href="http://julianwest.me/Blog/logyourps-scripts/">I posted a quick primer</a> on logging in our PS scripts.  Here I will expand on that, with a use-case example I just wrote code for yesterday. Here is a registry-reading function I bashed together, as but one example of something I needed to accomplish in reading in a setting and logging it.  Thus allowing me to keep a thorough, auditable record of registry changes during an automation task.
 
 ## Reading Registry Values with <span class="mono">Get-RegistryValue</span>
 
@@ -25,10 +25,9 @@ Function Get-RegistryValue($RegPath, $Property) {
 }
  ~~~
 
-And here's a recap of the Writelog function <a href="http://julianwest.me/Blog/logyourps-scripts/">I wrote about the other day</a>: <br />
+And here's a recap of the Writelog function <a href="http://julianwest.me/Blog/logyourps-scripts/">I wrote about the other day</a>:
 
 ~~~
-
 Function WriteLog($LogString) {
     ##########################################################################
     ## Writes a timestamped entry to a log file defined by $LogFile variable
@@ -40,7 +39,7 @@ Function WriteLog($LogString) {
 }
 ~~~
 
-**Example Usage**: <br />
+**Example Usage**:
 
 ~~~
 $SomeValue = Get-RegistryValue 'HKLM:\SOFTWARE\MyApp' 'InstallPath'
@@ -52,4 +51,6 @@ If ($SomeValue) {
 }
 ~~~
 
-You should log everything you're doing your PS script, and this example shows a combination of <span class="mono">Get-RegistryValue</span> and <i>WriteLog function</i> to demonstrate the benefits. You can retrieve configurations, make decisions based on those values, and log both the successes and failures in a neatly timestamped manner.
+You should log <i>everything</i> you're reading-in, or changes you're making (files written, etc) during any scheduled or automated run of your PS scripts.  This example shows a combination of <span class="mono">Get-RegistryValue</span> and <i>WriteLog function</i> to demonstrate a use-case, and the benefit becomes obvious once you make this a coding practice: you can retrieve configurations, make decisions based on those values, and log both the successes and failures in a neatly timestamped manner. <br />
+
+Happy scripting...
