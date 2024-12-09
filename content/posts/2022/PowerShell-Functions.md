@@ -80,7 +80,7 @@ What I mean here is:
 
 - A function in PowerShell should do only <i>one thing</i> (and one thing <i>only</i>) and do it well.
 - A function in PS should be modular, or self-contained.<br> 
-A good self-contained function will have: well-defined input parameters, produces output, and doesn’t rely on external variables to work.<br />  
+A good self-contained function will have: well-defined input parameters, produces output, and doesn’t rely on external variables to work.<br /> 
 
 Below is a an example I threw together, to illustrate:
 
@@ -109,7 +109,7 @@ Below is a an example I threw together, to illustrate:
 
 This PS function is doing <i>one single thing</i>, formatting the date in Output, and the logic and error-handling is done completely within the function itself.<br /> 
 
-A quick & dirty function, often might not do this is, instead:<br />
+A quick & dirty function, often might not do this is, instead:
 
 ~~~
     function FormatDate {
@@ -119,13 +119,12 @@ A quick & dirty function, often might not do this is, instead:<br />
  }
 ~~~
 
-...and that is technically <i>okay</i>, but isn't necessarily testable and relies on external state to populate a variable.  Again, nothing wrong with that but it may not scale for reuse or future needs, being written that way. <br /
->
+...and that is technically <i>okay</i>, but isn't necessarily testable and relies on external state to populate a variable.  Again, nothing wrong with that but it may not scale for reuse or future needs, being written that way.
 ### Don't sleep on -WhatIf and -Confirm
 
 Did you know that you can use <span class="mono">-Confirm</span> and <span class="mono">-WhatIf</span> switches, for dry runs and testing of your functions? Just as you might in a one-liner in a PowerShell session, you can use -WhatIf to see what your function might <i>do</i>, without actually <i>doing it</i>.
 
-Note: using <span class="mono">-Confirm</span> and <span class="mono">-WhatIf</span> switches only works when writing <i><b>advanced functions</b></i> that use <span class="mono">-WhatIfSupportsShouldProcess</span> argument.  So let's talk about advanced functions next.<br />
+Note: using <span class="mono">-Confirm</span> and <span class="mono">-WhatIf</span> switches only works when writing <i><b>advanced functions</b></i> that use <span class="mono">-WhatIfSupportsShouldProcess</span> argument.  So let's talk about advanced functions next.
 
 ### Advanced functions
 
