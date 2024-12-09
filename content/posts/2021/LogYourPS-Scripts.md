@@ -68,11 +68,11 @@ PowerShell makes it straightforward to keep track of your work by leveraging bui
 
 ## Why Log?
 
-Before diving into code, it’s worth understanding the importance of logging. Logging provides:
-	•	Traceability: Know exactly which commands were executed and when.
-	•	Accountability: Provide an audit trail for compliance and troubleshooting.
-	•	Debugging Aid: Easily identify what went wrong when a script doesn’t behave as expected.
-	•	Documenting Changes: Keep a historical record of environment modifications for reference.
+Before diving into code, it’s worth understanding the importance of logging. Logging provides:<br />
+	•	Traceability: Know exactly which commands were executed and when.<br />
+	•	Accountability: Provide an audit trail for compliance and troubleshooting.<br />
+	•	Debugging Aid: Easily identify what went wrong when a script doesn’t behave as expected.<br />
+	•	Documenting Changes: Keep a historical record of environment modifications for reference. <br />
 
 Especially in enterprise environments, maintaining robust logs can save countless hours of guesswork and improve your operational integrity.
 
@@ -135,24 +135,24 @@ This selective approach to logging is particularly useful in automation scripts,
 
 ## Best Practices for Logging in Your Scripts
 
-	1.	Use Consistent, Centralized Logs:
-Keep logs in a known, consistent directory structure. Consider naming logs by date or by the script that generated them for quick reference.
-	2.	Log Important Steps and Results:
-Don’t flood your logs with every tiny detail—log the big steps, decision points, errors, and completion states. Your logs should tell a story of what your script did, not overwhelm you with noise.
-	3.	Secure Your Logs:
-Logs can contain sensitive information. Ensure that the directories storing them have appropriate file system permissions. In some cases, consider encrypting or obfuscating sensitive data.
-	4.	Periodically Review and Rotate Logs:
-Large logs become unmanageable. Consider archiving old logs and rotating them monthly or after a certain size threshold.
+	1. Use Consistent, Centralized Logs:<br />
+Keep logs in a known, consistent directory structure. Consider naming logs by date or by the script that generated them for quick reference.<br />
+	2. Log Important Steps and Results:<br />
+Don’t flood your logs with every tiny detail—log the big steps, decision points, errors, and completion states. Your logs should tell a story of what your script did, not overwhelm you with noise.<br />
+	3. Secure Your Logs:<br />
+Logs can contain sensitive information. Ensure that the directories storing them have appropriate file system permissions. In some cases, consider encrypting or obfuscating sensitive data.<br />
+	4. Periodically Review and Rotate Logs:<br />
+Large logs become unmanageable. Consider archiving old logs and rotating them monthly or after a certain size threshold.<br />
 
 ## Putting It All Together
 
-A robust logging approach might look like this:
-	1.	Begin Transcript for Full Visibility:
-Use Start-Transcript at the start of an interactive session or a run-once script to capture a full record.
-	2.	Use WriteLog in Your Script Logic:
-Throughout your script, insert calls to WriteLog to highlight key steps, confirm registry values read, and record errors or decisions.
-	3.	Stop Transcript at the End (If Applicable):
-When the script is done, run Stop-Transcript to finalize your console-based logging.
+A robust logging approach might look like this:<br />
+	1.	Begin Transcript for Full Visibility:<br />
+Use Start-Transcript at the start of an interactive session or a run-once script to capture a full record.<br />
+	2.	Use WriteLog in Your Script Logic:<br />
+Throughout your script, insert calls to WriteLog to highlight key steps, confirm registry values read, and record errors or decisions.<br />
+	3.	Stop Transcript at the End (If Applicable):<br />
+When the script is done, run Stop-Transcript to finalize your console-based logging.<br />
 
 By combining these techniques, you get both broad-stroke session logging and fine-grained, contextual logging of critical actions. Whether you’re troubleshooting an issue or proving compliance with your organization’s policies, these logs become invaluable assets.<br />
 
