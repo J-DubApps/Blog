@@ -19,7 +19,7 @@ So I read up on <a href="http://www.macworld.com/article/1156988/treadmilldesk.h
 Voila. The benefits of standing AND moving:<br />
 
 <div>
-  <img src="https://julianwest.me/Blog/posts/images/treadmill_desk.jpeg" alt="Alt text">
+  <img src="https://julianwest.me/Blog/posts/images/treadmill_desk.jpg" alt="Alt text">
 </div>
 <div style="font-size: 9px;">
 <p style="text-align: center;"><i>Let the healthier computing commence...</i></p>
