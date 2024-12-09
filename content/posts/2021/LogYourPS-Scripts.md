@@ -110,9 +110,9 @@ Function WriteLog($LogString) {
 
 **How It Works**: <br />
 
-	1.	Timestamping: The function prefixes each message with a date/time stamp for clear sequencing.<br />
-	2.	Custom Messages: You have fine control over what gets logged. You can log progress, error messages, or summary statements at key points.<br />
-	3.	Predefined Log File Variable: By setting $LogFile before you call WriteLog, you control the output location without modifying the function itself each time.
+1.  Timestamping: The function prefixes each message with a date/time stamp for clear sequencing.<br />
+2.  Custom Messages: You have fine control over what gets logged. You can log progress, error messages, or summary statements at key points.<br />
+3.  Predefined Log File Variable: By setting $LogFile before you call WriteLog, you control the output location without modifying the function itself each time.
 
 **Example Usage**: <br />
 
