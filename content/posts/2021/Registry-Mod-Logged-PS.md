@@ -27,7 +27,7 @@ Function Get-RegistryValue($RegPath, $Property) {
 
 And here's a recap of the Writelog function <a href="http://julianwest.me/Blog/logyourps-scripts/">I wrote about the other day</a>: <br />
 
-<div class="code-block">
+~~~
 
 Function WriteLog($LogString) {
     ##########################################################################
@@ -38,11 +38,11 @@ Function WriteLog($LogString) {
     $LogMessage = "$Stamp $LogString"
     Add-Content $LogFile -Value $LogMessage
 }
-</div>
+~~~
 
 **Example Usage**: <br />
 
-<div class="code-block">
+~~~
 $SomeValue = Get-RegistryValue 'HKLM:\SOFTWARE\MyApp' 'InstallPath'
 
 If ($SomeValue) {
@@ -50,6 +50,6 @@ If ($SomeValue) {
 } Else {
     WriteLog "Failed to retrieve InstallPath from registry."
 }
-</div>
+~~~
 
 You should log everything you're doing your PS script, and this example shows a combination of <span class="mono">Get-RegistryValue</span> and <i>WriteLog function</i> to demonstrate the benefits. You can retrieve configurations, make decisions based on those values, and log both the successes and failures in a neatly timestamped manner.
