@@ -84,8 +84,7 @@ A good self-contained function will have: well-defined input parameters, produce
 
 Below is a an example I threw together, to illustrate:
 
-<div class="code-block">
-   
+~~~  
     function Get-FormattedDate {
     [CmdletBinding()]
     param (
@@ -104,26 +103,21 @@ Below is a an example I threw together, to illustrate:
          }   
        }
  
- \# Example usage:
- \# Get-FormattedDate -InputDate (Get-Date) -DateFormat "MM/dd/yyyy"
-    
-<!-- You will not be able to see this text.-->
-
-</div>
+ # Example usage:
+ # Get-FormattedDate -InputDate (Get-Date) -DateFormat "MM/dd/yyyy"
+~~~
 
 This PS function is doing <i>one single thing</i>, formatting the date in Output, and the logic and error-handling is done completely within the function itself.<br /> 
 
 A quick & dirty function, often might not do this is, instead:<br />
 
-<div class="code-block">
-
+~~~
     function FormatDate {
     # Relies on a global variable
     $FormattedDate = $Global:Date.ToString("yyyy-MM-dd")
     Write-Output $FormattedDate
  }
-
-</div>
+~~~
 
 ...and that is technically <i>okay</i>, but isn't necessarily testable and relies on external state to populate a variable.  Again, nothing wrong with that but it may not scale for reuse or future needs, being written that way. <br /
 >
@@ -139,7 +133,7 @@ PowerShell offers a great array of features that you can leverage in your functi
 
 One advanced function I like to use is if I am doing something destructive to data within an interactive script. As I mentioned above, I can use the <span class="mono">SupportsShouldProcess</span> and <span class="mono">ConfirmImpact</span> params, so that I can then use <span class="mono">-WhatIf</span> or <span class="mono">-Confirm</span> switches when calling a function:
 
-<div class="code-block">
+~~~
 function Remove-SampleFile {
     [CmdletBinding(SupportsShouldProcess = $true, ConfirmImpact = 'High')]
     param (
@@ -165,10 +159,9 @@ function Remove-SampleFile {
     }
   }
 
-\# Example usage:
-\# Remove-SampleFile -Path "C:\Temp\example.txt" -Confirm
-</div>
-
+# Example usage:
+# Remove-SampleFile -Path "C:\Temp\example.txt" -Confirm
+~~~
 
 <a href="https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_functions_advanced_parameters?view=powershell-7.4&viewFallbackFrom=powershell-6">Advanced parameters in PowerShell</a>
 
