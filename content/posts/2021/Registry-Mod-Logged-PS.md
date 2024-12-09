@@ -60,7 +60,7 @@ tags = ["tech", "devops", "endpoint-mgmt", "powershell", "code", "fundamentals",
 
 The other day <a href="http://julianwest.me/Blog/logyourps-scripts/">I posted a quick primer</a> on logging in our PS scripts.  Here I will expand on that, with a use-case example I just wrote code for yesterday. Here is a registry-reading function I bashed together, as but one example of something I needed to accomplish in reading in a setting and logging it.  Thus allowing me to keep a thorough, auditable record of registry changes during an automation task.
 
-## Reading Registry Values with <span class="mono">Get-RegistryValue</span>
+## Reading Registry Values and Logging Them
 
 For many automation tasks, you’ll need to retrieve configurations from the Windows Registry. The Get-RegistryValue function allows you to read a specific property from the Registry without cluttering your code. Errors are cleanly handled (returning $false if a value can’t be found), making it easy to integrate error-checking and logging.
 
