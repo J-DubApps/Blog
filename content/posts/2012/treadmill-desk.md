@@ -1,7 +1,7 @@
 +++
 date = '2012-06-21T23:05:44-06:00'
 draft = false
-title = 'The Case for a Treadmill Desk'
+title = 'The Case for A Treadmill Desk'
 type = 'post'
 tags = ["tech", "health"]
 +++
