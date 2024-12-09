@@ -6,7 +6,7 @@ type = 'post'
 tags = ["tech", "devops", "endpoint-mgmt", "powershell", "code", "fundamentals", "best-practice"]
 +++
 
-The other day I posted a quick primer on logging in our PS scripts.  Here I will expand on that, with a use-case example I just wrote code for yesterday. Here is a helpful registry-reading function, allowing you to keep a thorough, auditable record of registry changes during an automation task. <br />
+The other day <a href="http://julianwest.me/Blog/logyourps-scripts/">I posted a quick primer</a> on logging in our PS scripts.  Here I will expand on that, with a use-case example I just wrote code for yesterday. Here is a helpful registry-reading function, allowing you to keep a thorough, auditable record of registry changes during an automation task. <br />
 
 ## Reading Registry Values with <span class="mono">Get-RegistryValue</span>
 
@@ -25,7 +25,7 @@ Function Get-RegistryValue($RegPath, $Property) {
 }
 </div>
 
-And here's a recap of the Writelog function I wrote about the other day: <br />
+And here's a recap of the Writelog function <a href="http://julianwest.me/Blog/logyourps-scripts/">I wrote about the other day</a>: <br />
 
 <div class="code-block">
 Function WriteLog($LogString) {
