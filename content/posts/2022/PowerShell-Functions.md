@@ -197,4 +197,4 @@ In the example above, each input string (Server1 and Server2) is passed directly
 
 Here's a good link you can refer to on <a href="https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_functions_advanced_parameters?view=powershell-7.4&viewFallbackFrom=powershell-6">Advanced parameters in PowerShell</a>, but there are a ton of write-ups out to help.<br />
 
-I hope this helped you consider ways to simplify your code, even if PS function writing is still an advanced topic for you.  Essentially observing the <a href="https://en.wikipedia.org/wiki/Don%27t_repeat_yourself">DRY principle</a> will lead you to want to get better at writing functions, and having clean readable code.  Happy coding!  
+I hope this helped you consider ways to simplify your code, even if PS functions are still an advanced topic for you.  Essentially observing the <a href="https://en.wikipedia.org/wiki/Don%27t_repeat_yourself">DRY principle</a> will lead you to get good at writing functions, and having clean readable code.  Happy coding!  
