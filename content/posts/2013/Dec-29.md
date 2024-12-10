@@ -33,6 +33,6 @@ My uncle Claude was born <b>December 12th, 1935</b>, and he passed away peaceful
 Services for my uncle will be 11 am Monday at Stewart Family Funeral Home in Tyler, Texas.<br />
 
 <div class="image-row">
-    <img src="https://julianwest.me/Blog/posts/images/claude-west.jpeg" alt="Alt text">
+    <img src="https://julianwest.me/Blog/posts/images/claude-west.jpeg" alt="Alt text" width="300" height="165">
     <img src="https://julianwest.me/Blog/posts/images/me-uncle-c.jpeg" alt="Alt text">
 </div><br /> <br />
