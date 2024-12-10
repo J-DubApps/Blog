@@ -16,7 +16,7 @@ type = 'page'
 
 <img src="https://julianwest.me/Blog/about/julian-about.jpeg" alt="Alt text" width="250" height="125"><br />
 
-<div style="font-size: 10px;">
+<div style="font-size: 11px;">
                             <a href="https://www.linkedin.com/in/julianwest/" target="_blank" class="social_link">LinkedIn
                                 <i class="fa-brands fa-linkedin social_icon"></i></a>&nbsp;/&nbsp;<a href="https://github.com/J-DubApps" target="_blank" class="social_link">GitHub
                                 <i class="fa-brands fa-github social_icon"></i></a><br />
