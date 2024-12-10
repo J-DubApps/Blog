@@ -29,4 +29,4 @@ Dr. Ian Sussman (Elliot Gould) — Contagion<br /> <br />
 .   .   .   
 </span>
 </p>
-<i>Originally published at julianwest.me on June 5, 2012.</i>
+<i>Originally published at mydigitalpathos and blog.julianwest.me on June 5, 2012.</i>

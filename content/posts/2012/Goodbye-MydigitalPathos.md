@@ -10,7 +10,7 @@ Everything is entropy. Change is constant. And stagnation is bad. Since I do all
 
 As a fond-farewell to my old blog of over a decade, I will be re-posting content from Mydigitalpathos.com over here for the next month or two. I’m only going to focus on podcast episodes or articles that had the most-hits/comments.  I’ll start with personal posts on my experience with a well-known <a href="https://en.wikipedia.org/wiki/Large-group_awareness_training">LGAT</a>. They were probably the longest and most-viewed posts I ever made on these Internets.<br />
 
-Anyway, farewell Mydgitialpathos…and thank you for following me over to julianwest.me, where it’s all about .me now.<br />
+Anyway, farewell Mydgitialpathos…and thank you for following me over to blog.julianwest.me, where it’s all about .me now.<br />
 Julian<br /><br />
 
 

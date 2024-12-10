@@ -15,4 +15,10 @@ The blog is also retiring the "<b><i>Faults and Observations</i></b> (FAO)" moni
 
 The blog was hosted over on <a href="https://medium.com">Medium</a> for nearly a decade, and I'll have a separate write-up tomorrow on what lead to this move tomororw. It's mainly like I said, simplification.  I need to dumb this thing down, remove friction to ease-of-posting.  I also grown increasingly disappointed in where Medium has been going, more on that tomorrow. <br /
 
-Anyway I'm liking the new place, if you read this blog you probably will too.  And the best part of it is, I no longer have to maintain an SSL certificate for the Blog:  I'm hosting it under julianwest.me now, which is already a <a href="https://pages.github.com">GitHub Pages</a> hosted site. Simplification!
+Anyway I'm liking the new place, if you read this blog you probably will too.  And the best part of it is, I no longer have to maintain an SSL certificate for the Blog:  I'm hosting it under julianwest.me now, which is already a <a href="https://pages.github.com">GitHub Pages</a> hosted site. Simplification! <br />
+
+So welcome to my simplified blog, and I now refer you to a quote from <a href="http://julianwest.me/Blog/hello-world/">my very first post on Medium</a> from 2012:
+
+>“Blogging is not writing. It’s just graffiti with punctuation.”<br />
+
+Dr. Ian Sussman (Elliot Gould) — Contagion<br /> <br />
