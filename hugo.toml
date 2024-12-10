@@ -40,7 +40,7 @@ defaultContentLanguage = "en"
   [[menus.main]]
     name = 'About'
     pageRef = '/about/about'
-    Pre = "<span data-feather='list'></span>"
+    Pre = "<span data-feather='user'></span>"
     weight = 30
   [[menus.main]]
     name = ''
