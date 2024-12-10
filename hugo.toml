@@ -46,7 +46,7 @@ defaultContentLanguage = "en"
     name = ''
     pageRef = '/contact/contacting'
     Pre = "<span data-feather='mail'></span>"
-    weight = 44
+    weight = 46
   [[menus.main]]
     identifier = "tags"
     name = "Tags"
