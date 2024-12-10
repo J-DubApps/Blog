@@ -41,7 +41,7 @@ defaultContentLanguage = "en"
     name = 'About'
     pageRef = '/about/about'
     Pre = "<span data-feather='user'></span>"
-    weight = 30
+    weight = 45
   [[menus.main]]
     name = ''
     pageRef = '/contact/contacting'
