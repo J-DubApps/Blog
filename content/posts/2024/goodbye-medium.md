@@ -12,7 +12,7 @@ PSA: blog is moving soon from <a href="blog.julianwest.me">blog.julianwest.me</a
 
 The blog is also retiring its name, the "<b><i>Faults and Observations</i></b> (FAO)" moniker, and just becoming My Blog on "julianwest.me".   Simplification is the reason.  <br /> 
 
-The blog was hosted over on <a href="https://medium.com">Medium</a> for nearly a decade, and I'll have a separate write-up tomorrow on what lead to this move tomororw. It's mainly like I said, simplification.  I need to dumb this thing down, remove friction to ease-of-posting.  I also grown increasingly disappointed in where Medium has been going, more on that tomorrow. <br /
+The blog was hosted over on <a href="https://medium.com">Medium</a> for nearly a decade, and I'll have a separate write-up tomorrow on what lead to this move tomororw. It's mainly like I said, simplification.  I need to dumb this thing down, remove friction to ease-of-posting.  I also grown increasingly disappointed in where Medium has been going, more on that tomorrow. <br />
 
 Anyway I'm liking the new place, if you read this blog you probably will too.  And the best part of it is, I no longer have to maintain an SSL certificate for the Blog:  I'm hosting it under julianwest.me now, which is already a <a href="https://pages.github.com">GitHub Pages</a> hosted site. Simplification! <br />
 
