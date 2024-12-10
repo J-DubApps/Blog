@@ -6,7 +6,7 @@ type = 'post'
 tags = ["thought", "film-tv", "history"]
 +++
 
-Speaking of my last blog post, I saw the movie <i><b><a href="http://www.thelincolnmovie.com/">Lincoln</a></i></b> this past weekend and I have to say it was the best movie I’ve seen in a long time.<br />
+Speaking of <a href="http://julianwest.me/Blog/secession/">the topic in my last blog post</a>, I saw the movie <i><b><a href="http://www.thelincolnmovie.com/">Lincoln</a></i></b> this past weekend and I have to say it was the best movie I’ve seen in a long time.<br />
 
 We all know Steven Spielberg can tell a great story and loves history, but you can really see an attention to detail for this moment in history that I can’t remember was ever shown in any other movies. The movie was just that fantastic. Lincoln really reminds people just how creative our leaders could be in difficult times, and I think this reminder is critically important in our current Culture War era.<br />
 
