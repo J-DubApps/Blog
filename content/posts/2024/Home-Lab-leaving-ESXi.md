@@ -1,6 +1,6 @@
 +++
 date = '2024-11-20T23:17:51-06:00'
-draft = true
+draft = false
 title = 'New HomeLab: Dodging Ensh*ttification'
 type = 'post'
 tags = ["blog", "tech", "test-dev", "homelab", "vmware", "devops"]
