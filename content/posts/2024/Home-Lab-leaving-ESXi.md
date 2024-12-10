@@ -6,7 +6,7 @@ type = 'post'
 tags = ["blog", "tech", "test-dev", "homelab", "vmware", "devops"]
 +++
 
-Taking a cue from my post from last month about escaping the inevitable <i><b><a href="https://en.wikipedia.org/wiki/Enshittification">enshittification</a></b></i> of <a href="http://julianwest.me/Blog/hugo-crash-course/">blog platform</a>, that effort has shifted over to my aging HomeLab setup.<br />
+Taking a cue from my post from last month about escaping the inevitable <i><b><a href="https://en.wikipedia.org/wiki/Enshittification">enshittification</a></b></i> of <a href="http://julianwest.me/Blog/hugo-crash-course/">blog platforms</a>, that effort has shifted over to my aging HomeLab setup.<br />
 
 With exception of a few Cloud sandboxes I run in AWS and Azure, I still run the bulk of my personal learning / test-dev setups here at home, on a couple of beefy mini HomeLab servers.  My HomeLab actually resides in my garden shed which has cooling, advanced smoke detection, and ethernet. But the main benefit is no noise in the house. A big no-no for the Mrs. 😬 <br />
 
