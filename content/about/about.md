@@ -33,7 +33,7 @@ I grew up in poverty, nothing unique but those humble experiences helped shaped 
 I am a self-made man with the past mistakes to prove it. I keep growing and learning every day.<br />      
 Writing code changed my life, along with tech and curiosity.<br />   
 Myers-Briggs says I am INTP, but I do like people. At least the cool ones.<br />   
-My close earliest friends call me “Jules”, lately "JDub" is the nickname and <a href="https://github.com/J-DubApps" style="text-decoration: none;">GitHub username</a><br /> 
+My oldest early friends call me “Jules”, late-comers call me "JDub".  No one should care, so long as I answer.<br /> 
 Despite managing Cisco/Microsoft/Linux systems, I am a huge Apple geek. Not an uncommon thing nowadays.<br />   
 I am an EV fan and Tesla early-adopter. Was a great car, in spite of a certain autistic immigant Oligarch.&#129335;<br />   
 For hobbies I write, play guitar/ukelele, and develop messy PowerShell and Python code. <br /><br />
