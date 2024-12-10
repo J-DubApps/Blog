@@ -1,7 +1,7 @@
 +++
 date = '2024-10-20T23:17:51-06:00'
 draft = false
-title = 'New Blog Digs...again: Dodging Enshittification'
+title = 'New Blog Digs...again: Dodging Ensh*ttification'
 type = 'post'
 tags = ["blog", "tech", "code"]
 +++
