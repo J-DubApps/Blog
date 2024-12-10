@@ -3,7 +3,7 @@ date = '2024-12-10T14:14:51-06:00'
 draft = false
 title = 'Annual PowerShell Link Update'
 type = 'post'
-tags = ["tech", "powershell", "links"]
+tags = ["tech", "powershell", "links", "microsoft", "cloud", "ms-office", "ms-teams", "azure", "entra-id"]
 +++
 
 
@@ -12,7 +12,7 @@ Here's my latest list of PowerShell links, as found on Microsoft and various sit
 
 # Links
 
-**Last Modified:** October 10, 2022
+**Last Modified:** December 10, 2024
 
 This page provides important links for administering Office 365.
 

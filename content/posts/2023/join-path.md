@@ -58,7 +58,7 @@ tags = ["tech", "powershell", "code", "best-practice", "devops"]
 }
 </style>
 
-In PowerShell, it’s quite common to be working with file paths when you’re reading from (or writing <i>to</i>) files. For many automation scenarios involving PowerShell scripts, that means building / constructing a complete path to whatever file(s) your script will work with. There are several approaches to constructing file paths in a PowerShell script or CLI session, and I want to go over a couple here.<br />
+In PowerShell, it’s quite common to be working with file paths when you’re reading from (or writing <i>to</i>) text files. For many automation scenarios involving PowerShell scripts, that means building / constructing a complete path to whatever file(s) your script is working with. There are several approaches to constructing file paths in a PowerShell script or CLI session, and I want to go over a couple here.<br />
 
 ## Using a Hard-Coded String
 
