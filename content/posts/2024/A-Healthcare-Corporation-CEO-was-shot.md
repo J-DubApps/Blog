@@ -6,9 +6,11 @@ type = 'post'
 tags = ["usa", "crime", "rip", "thought"]
 +++
 
+<i>UPDATE</i>:A person-of-interest was arrested on December 9th (link at the end).
+
 ...and he <a href="https://www.nytimes.com/2024/12/06/nyregion/unitedhealthcare-brian-thompson-shooting.html">died</a>. <br />
 
-He was murdered. Assasinated.<br />
+He was murdered in midtown Manhattan. Assasinated.<br />
 
 The killer is at large, and social media is rife with the video and alarming commentary.  The commentary ranges from <a href="https://www.npr.org/sections/shots-health-news/2024/12/06/nx-s1-5217736/brian-thompson-unitedhealthcare-ceo-social-media">venting</a> to indifference, and worse as there have also been gross celebrations of this tragic event. <br />
 
