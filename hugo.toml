@@ -33,7 +33,7 @@ defaultContentLanguage = "en"
   [[menus.main]]
     identifier = "posts"
     parent = ""
-    name = 'Posts'
+    name = 'Blog'
     Pre = "<span data-feather='book'></span>"
     pageRef = '/posts'
     weight = 20
