@@ -17,7 +17,7 @@ tags = ["tech", "links", "microsoft", "cloud", "ms-office", "ms-teams", "azure",
             text-decoration: none;
             color: blue;
         }
-    </style>
+</style>
 
 Here's my latest list of MS Admin Portal links, sourced from https://msportals.io ([https://github.com/adamfowlerit/msportals.io](https://github.com/adamfowlerit/msportals.io)).   I take some things out, and maintain my own list @ <a href="https://gist.github.com/J-DubApps/b6c9423f9787c5bd046c3d7e21439be0">GitHub</a>, and sync into this blogpost annually:
 
@@ -30,7 +30,7 @@ Here's my latest list of MS Admin Portal links, sourced from https://msportals.i
 
 A curated list of Microsoft portals, both user and admin, sourced from [https://msportals.io](https://msportals.io).
 
-<div class="truncate">
+
 ## **Azure**
 | Portal Name                           | URL                                       |
 |---------------------------------------|-------------------------------------------|
@@ -43,8 +43,7 @@ A curated list of Microsoft portals, both user and admin, sourced from [https://
 | Azure Resource Explorer               | [https://resources.azure.com/](https://resources.azure.com/) |
 | Azure DevOps                          | [https://dev.azure.com](https://dev.azure.com) |
 | Azure Active Directory (*retiring*)   |   [https://aad.portal.azure.com](https://aad.portal.azure.com) |
-| Sign-in Logs                          | <a href="https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/SignIns">https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/SignIns</a> |
-</div>
+| Sign-in Logs                          | <span class="truncate"><a href="https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/SignIns">https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/SignIns</a></span> |
 
 ---
 
