@@ -58,7 +58,7 @@ tags = ["tech", "powershell", "code", "best-practice", "devops"]
 }
 </style>
 
-One of PowerShell’s greatest strengths is its forgiving nature when it comes to undeclared variables, out-of-scope references, and questionable coding practices. It will just let you stumble to a working script in short-order, and move on getting a coffee or whatever is on your mond.  <br />
+One of PowerShell’s greatest strengths is its forgiving nature when it comes to undeclared variables, out-of-scope references, and questionable coding practices. It will just let you stumble along toward a working script in short-order, so you can move on to getting a coffee or whatever else you need to get done.  <br />
 
 But this flexibilty and forgiveness is also PowerShell's Achilles heel in larger, production-grade environments where the scripts *must.not.fail*. Enter *Strict Mode*, a PowerShell feature that provides a higher level of code quality assurance by enforcing stricter coding rules and surfacing potentially problematic code, long before it results in unexpected behavior in production. <br />
 
