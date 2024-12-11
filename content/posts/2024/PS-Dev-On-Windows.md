@@ -96,7 +96,7 @@ At this point I want to refer you to Microsoft's well-done <a href="https://code
 
 Hit <span class="mono">Ctrl+N</span> to start a new tab, and VS Code immediate starts a new window for coding -- notice it wants you to select the language you'll be working with.  I almost *never* do that, as VS Code can 99% of the time autodetect whatever language you're working with once you get going.  But in the empty window here, feel free to select PowerShell in advance, if you want. <br />
 
-The first VS Code tip I always share, at this piint, is remember <span class="mono">Ctrl+=<</span> and <span class="mono">Ctrl+-</span> commands for zooming in and out your active window.  Depending on the size of your screen, zooming in and out becomes your "*go-to*" for efficiently srolling through readable window content, making screen contents larger/smaller when diving into PS code.  <br />
+The first VS Code tip I always share, at this piint, is remember <span class="mono">Ctrl+=</span> and <span class="mono">Ctrl+-</span> commands for zooming in and out your active window.  Depending on the size of your screen, zooming in and out becomes your "*go-to*" for efficiently srolling through readable window content, making screen contents larger/smaller when diving into PS code.  <br />
 
 Ok next we need to install <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell">the PowerShell VS Code Extension</a>, which you can do easily by clicking on the lowest item in the left horizontal menu, circled in the screen shot below.  Then search powershell, and click the Install button to add the PowerShell extension.  <br />
 
@@ -119,7 +119,7 @@ Assuming you installed PowerShell 7 earlier, with the PS extension installed you
 
 This integrated PS shell in VS Code is a Godsend because you never have to leave the editor to test snippets and scripts. <br />
 
-Save your new tab somewhere, call the file "**get-process-test.ps1**".  Now come back to your tab, now named ***get-process-test.ps1***.  Hit the <b><span class="mono">F5</span></b> key.  <br />
+Save your open tab somewhere, call the file "**get-process-test.ps1**".  Now come back to your tab, now named ***get-process-test.ps1***.  Hit the <b><span class="mono">F5</span></b> key.  <br />
 
 ***BOOM!*** you just executed and tested your first saved PS script in VS Code! 
 
