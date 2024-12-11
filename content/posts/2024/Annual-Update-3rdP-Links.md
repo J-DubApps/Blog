@@ -1,5 +1,5 @@
 +++
-date = '2024-12-10T14:14:51-06:00'
+date = '2024-12-10T14:19:51-06:00'
 draft = false
 title = 'Annual 3rd Party M365 Admin Portals Links - Update'
 type = 'post'
