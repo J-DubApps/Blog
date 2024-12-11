@@ -121,7 +121,7 @@ This integrated PS shell in VS Code is a Godsend because you never have to leave
 
 Save your open tab somewhere, call the file "**get-process-test.ps1**".  Now come back to your tab, now named ***get-process-test.ps1***.  Hit the <b><span class="mono">F5</span></b> key.  <br />
 
-***BOOM!*** you just executed and tested your first saved PS script in VS Code! 
+***BOOM!*** you just executed and tested your first PS script in VS Code! 
 
 <div class="image-row">
   <img src="https://julianwest.me/Blog/posts/images/vs-code-ps-terminal.jpeg" alt="Alt text" width="500" height="315">
