@@ -62,7 +62,7 @@ So I have recently seen some co-workers running the Windows built-in (and offici
 
 In a word: ***YUCK***! Please close that, and let's get you something better... <br />
 
-If you're a nascent PowerShell scripter, you need the best editing setup in place.  One that "gets out of the way" but also offers features for PS devevlopment.  Enter ~~vim~~, ahem, <a href="https://code.visualstudio.com">Visual Studio Code</a>. VS Code is one of the best editors for PowerShell development.  I use it every day, and as a beginner you should start with this fundamental editor for your PS script development.  **In this tutorial** I'll walk you through setting up VS Code on Windows for PS scripting/development.  And then we can explore some features VS Code offers for PowerShell, which make it such a great core scriping IDE. <br />
+If you're a nascent PowerShell scripter, you need a decent editing setup in place. An editor that "gets out of the way" but also offers features for PowerShell devevlopment.  Enter ~~vim~~, ahem, <a href="https://code.visualstudio.com">Visual Studio Code</a>. VS Code is one of the best editors for PowerShell development.  I use it every day, and as a beginner you should start with this fundamental editor for your PS script development.  **In this tutorial** I'll walk you through setting up VS Code on Windows for PS scripting/development.  And then we can explore some features VS Code offers for PowerShell, which make it such a great core scriping IDE. <br />
 
 ## Installing VS Code
 
