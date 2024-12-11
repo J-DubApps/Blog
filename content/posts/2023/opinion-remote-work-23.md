@@ -10,7 +10,7 @@ tags = ["career", "remote-work", "tech", "opinion", "special-write-up", "thought
 <i>tl;dr:</i> <b>Focus on <i>outcomes</i> & accountability, <i>not office badge swipes</i></b>!
 </div>
 
-I have seen the unsurprising news about RTO mandates ramping-up, and this trend may even result in my own team experiening mandatory Return-To-Office at some point.  I have already heard about other legal firms in my space inching toward Hybrid days for their IT staff.  Hybrid being a mix of on-premises and "remote days", with an "anchor day" thrown in.<br />
+I have seen the unsurprising news about RTO mandates ramping-up, and this trend may even result in my own team experiencing mandatory Return-To-Office at some point.  I have already heard about other legal firms in my space inching toward Hybrid days for their IT staff.  Hybrid being a mix of on-premises and "remote days", with an "anchor day" thrown in.<br />
 
 Ultimately the <i>location</i> where Knowledge Work is <i>done</i> had already long become a flexible thing for tech workers in many roles, <i>years before</i> Covid lockdowns increased our awareness.  But where you work is up to the company you're working for, and rank-and-file and tech staff like myself have no real say here; however, the marketplace for IT jobs <i>does</i> have a say.  Even with the metric shift of instability in tech jobs going on, I still see and hear about tech colleagues taking opportunities where Remote Work has become a standard.  As expected, offering remote or WFH has become <a href="https://sloanreview.mit.edu/article/return-to-office-mandates-how-to-lose-your-best-performers/">a very difficult perk to remove</a>.<br />
 

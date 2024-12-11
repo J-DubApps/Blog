@@ -3,7 +3,7 @@ date = '2021-05-20T23:17:51-06:00'
 draft = false
 title = 'Log Your Scripts!'
 type = 'post'
-tags = ["tech", "devops", "powershell", "code", "fundamentals", "best-practice"]
+tags = ["tech", "devops", "powershell", "code", "it-fundamentals", "best-practice"]
 +++
 
 <style>

@@ -3,7 +3,7 @@ date = '2020-04-20T23:17:51-06:00'
 draft = false
 title = 'PowerShell -WhatIf and -Confirm Switches: A Net for Newbies'
 type = 'post'
-tags = ["tech", "powershell", "code", "fundamentals", "best-practice"]
+tags = ["tech", "powershell", "code", "it-fundamentals", "best-practice"]
 +++
 
 <style>
