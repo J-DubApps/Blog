@@ -98,6 +98,39 @@ Hit <span class="mono">Ctrl+N</span> to start a new tab, and VS Code immediate s
 
 The first VS Code tip I always share, at this piint, is remember <span class="mono">Ctrl+=<</span> and <span class="mono">Ctrl+-</span> commands for zooming in and out your active window.  Depending on the size of your screen, zooming in and out becomes your "*go-to*" for efficiently srolling through readable window content, making screen contents larger/smaller when diving into PS code.  <br />
 
-I didn't get into the next logical progression, where PowerShell development may take you: Git, or GitHub Repos, and creating modules (to name a few things).  But if there is any interest, I am happy to do some follow-ups to this tutoral.  I am already drafting follow-up for this post to set up VS Code ***MacOS*** for PS development. A MacBook Pro & Mac Studio are where I do 85% of my PS development these days, so I might as well give equal time there.  Maybe also a Neovim tutorial in the future.  I use it for some PS dev, though mostly I just it for python and javascript stuff.  One cool thing about vim editors and VS Code: <a href="https://marketplace.visualstudio.com/items?itemName=vscodevim.vim">you can make VSCode offer vim nav</a> as well. <br />
+Ok next we need to install <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell">the PowerShell VS Code Extension</a>, which you can do easily by clicking on the lowest item in the left horizontal menu, circled in the screen shot below.  Then search powershell, and click the Install button to add the PowerShell extension.  <br />
 
-Happy scripting & dev journey!
+<div class="image-row">
+  <img src="https://julianwest.me/Blog/posts/images/vscode-ps-extension.jpeg" alt="Alt text" width="400" height="215">
+</div>
+
+Now that the VS Code PS Extension is installed, let's toss an old go-to PS cmd into your new and empty tab which you created a minute ago: <br />
+
+<span class="mono">Get-Process</span> <br />
+
+Assuming you installed PowerShell 7 earlier, with the PS extension installed you're seeing two things: 
+
+1. the text colors in your new tab have changec, as VS Code now can highlight and color the PS command in the active tab.
+2. A PowerShell terminal window is opened in VS Code.
+
+<div class="image-row">
+  <img src="https://julianwest.me/Blog/posts/images/vs-code-ps-terminal.jpeg" alt="Alt text" width="500" height="315">
+</div>
+
+This integrated PS shell in VS Code is a Godsend because you never have to leave the editor to test snippets and scripts. <br />
+
+Save your new tab somewhere, call the file "**get-process-test.ps1**".  Now come back to your tab, now named ***get-process-test.ps1***.  Hit the <b><span class="mono">F5</span></b> key.  <br />
+
+***BOOM!*** you just executed and tested your first saved PS script in VS Code! 
+
+<div class="image-row">
+  <img src="https://julianwest.me/Blog/posts/images/vs-code-ps-terminal.jpeg" alt="Alt text" width="500" height="315">
+</div>
+
+And that's it for a basic new PowerShell Dev setup for a Windows PC.  You'll never need to run PowerShell ISE (*Yuck*!) ever again.  <br /> 
+
+There is lots more to discover and tweak, and I didn't get into the next logical progression: additionl extension, leveraging Git /GitHub Repos, and creating modules (to name a few things that you may progress into, in time...).  But if there is any interest in more advanced tutorials, I am happy to do some follow-ups building upon this one.   In fact, I am already drafting a follow-up for running VS Code on ***MacOS*** for PS development.  I do 85% of my PS development on a MacBook Pro & Mac Studio with PowerShell 7 installed on them (and I test my Windows-specific scripts in a Parallels Windows ARM Virtual Machine, on both of them).  So I will give equal time here, soon, for Mac admins who manage Windows servers and endpoints on-the-daily.  <br /> 
+
+Maybe I will do a Neovim tutorial in the near future, too.  I use it for some PS dev, but mostly for collaborative python and javascript stuff on GitHub.  One cool thing about vim editors and VS Code: <a href="https://marketplace.visualstudio.com/items?itemName=vscodevim.vim">you can make VSCode offer vim nav</a> as well. <br />
+
+I hope this was helpful, if it was drop me a line to let me know.  Happy scripting!
