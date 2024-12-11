@@ -1,7 +1,7 @@
 +++
 date = '2021-04-25T23:17:51-06:00'
 draft = false
-title = 'Remote and Hybrid Work in 2021'
+title = 'Remote Working in 2021'
 type = 'post'
 tags = ["career", "remote-work", "tech", "opinion", "special-write-up", "thought"]
 +++
