@@ -33,6 +33,7 @@ A curated list of Microsoft portals, both user and admin, sourced from [https://
 | Sign-in Logs                          | [https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/SignIns](https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/SignIns) |
 
 ---
+
 ## **Azure IT Admin Portals - Sub Portal Links**
 | Portal Name           | URL                                       |
 |-----------------------|-------------------------------------------|
