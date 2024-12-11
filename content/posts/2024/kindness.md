@@ -8,7 +8,7 @@ tags = ["thought", "philosophy", "opinion", "health", "culture", "special-write-
 
 People like to say (myself included) that “<i>it costs nothing to be kind...”</i> <br /> 
 
-I 💯 believe this; however... <br />
+I 💯 believe this; *however*... <br />
 
 ...depending on where a person is in their life circumstances, the daily grind has a way sucking the energy it takes to stop and express kindness or empathy. People may not have a deep well of compassion, when their plate is full and they're just trying to keep it together. Mental health, and maintaining it in a dark world, is a daily struggle for some people.  Even strong people. <br />
 

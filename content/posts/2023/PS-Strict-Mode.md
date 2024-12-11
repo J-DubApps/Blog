@@ -62,7 +62,7 @@ One of PowerShell’s greatest strengths is its forgiving nature when it comes t
 
 But this flexibilty and forgiveness is also PowerShell's Achilles heel in larger, production-grade environments where the scripts *must.not.fail*. Enter *Strict Mode*, a PowerShell feature that provides a higher level of code quality assurance by enforcing stricter coding rules and surfacing potentially problematic code, long before it results in unexpected behavior in production. <br />
 
-Strict Mode is a feature that helps enforce better coding practices and discourage certain “loose” programming habits in PowerShell. In simple terms, when Strict Mode is enabled, the PowerShell engine becomes *way*, ***way*** less forgiving. Instead of silently allowing certain risky behaviors — like using undeclared variables — it throws terminating errors, forcing you to address issues head-on.<br />
+Strict Mode is helps enforce better coding practices and discourages certain “loose” programming habits in PowerShell. In simple terms, when Strict Mode is enabled, the PowerShell engine becomes *way*, ***way*** less forgiving. Instead of silently allowing certain risky behaviors — like using undeclared variables — it throws terminating errors, forcing you to address issues head-on.<br />
 
 This additional scrutiny makes your code more robust and maintainable. If your PowerShell scripts are part of critical enterprise automation, or if multiple team members contribute to the same codebase, Strict Mode can help identify coding errors early and reduce technical debt over the long term.<br />
 
