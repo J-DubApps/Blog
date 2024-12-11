@@ -19,18 +19,18 @@ Here's my latest list of MS Admin Portal links, sourced from https://msportals.i
 A curated list of Microsoft portals, both user and admin, sourced from [https://msportals.io](https://msportals.io).
 
 ## **Azure**
-| Portal Name           | URL                                       |
-|-----------------------|-------------------------------------------|
-| Azure Portal          | [https://portal.azure.com](https://portal.azure.com) |
-| Azure Portal *RC* | [https://rc.portal.azure.com/](https://rc.portal.azure.com/) |
-| Azure Portal *Preview*  | [https://portal.azure.com](https://portal.azure.com) |
-| Azure All Services  | [https://portal.azure.com/#allservices](https://portal.azure.com/#allservices) |
-| Microsoft Entra ID Admin Ctr  | [https://entra.microsoft.com/](https://entra.microsoft.com/) |
-| Azure Cloud Shell | [https://shell.azure.com/](https://shell.azure.com/) |
-| Azure Resource Explorer | [https://resources.azure.com/](https://resources.azure.com/) |
-| Azure DevOps          | [https://dev.azure.com](https://dev.azure.com) |
-| Azure Active Directory (*retiring*) | [https://aad.portal.azure.com](https://aad.portal.azure.com) |
-| Sign-in Logs | [https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/SignIns](https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/SignIns) |
+| Portal Name                           | URL                                       |
+|---------------------------------------|-------------------------------------------|
+| Azure Portal                          | [https://portal.azure.com](https://portal.azure.com) |
+| Azure Portal *RC*                     | [https://rc.portal.azure.com/](https://rc.portal.azure.com/) |
+| Azure Portal *Preview*                | [https://portal.azure.com](https://portal.azure.com) |
+| Azure All Services                    | [https://portal.azure.com/#allservices](https://portal.azure.com/#allservices) |
+| Microsoft Entra ID Admin Ctr          | [https://entra.microsoft.com/](https://entra.microsoft.com/) |
+| Azure Cloud Shell                     | [https://shell.azure.com/](https://shell.azure.com/) |
+| Azure Resource Explorer               | [https://resources.azure.com/](https://resources.azure.com/) |
+| Azure DevOps                          | [https://dev.azure.com](https://dev.azure.com) |
+| Azure Active Directory (*retiring*)   |   [https://aad.portal.azure.com](https://aad.portal.azure.com) |
+| Sign-in Logs                          | [https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/SignIns](https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/SignIns) |
 
 ---
 ## **Azure IT Admin Portals - Sub Portal Links**
