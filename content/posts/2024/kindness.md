@@ -14,7 +14,7 @@ I 💯 believe this; *however*... <br />
 
 So, yeah, being kind isn't always "free" if you're stressed-out or got little in the proverbial tank for express it. But the thing about kindness, is <b>this</b>: if you dig deep and summon the energy to be kind, you get something <i>back</i> the instant you express it. <br />
 
-Compassion is a two-way flow, and you get back what you give. If you don't believe me, maybe just give it a shot anyway.  You may discover what other humans know: being kind reduces anxiety and stress, and even recharges your batteries a bit. Costing you nothing, after all.  <br />
+Compassion is a two-way flow, and you get back what you give. If you don't believe me, maybe just give it a shot anyway.  You may discover what other humans experience, when practicing it: being king reduces anxiety and stress, and even recharges your batteries a bit. Costing you nothing, after all.  <br />
 
 But you have to try it, to see. You have nothing to lose, but maybe a little stress.  <br />
 
