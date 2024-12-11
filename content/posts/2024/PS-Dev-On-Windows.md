@@ -64,7 +64,7 @@ In a word: ***YUCK***! Please close that, and let's get you something better... 
 
 If you're a nascent PowerShell scripter, you need the best editing setup in place.  One that "gets out of the way" but also offers features for PS devevlopment.  Enter ~~vim~~, ahem, <a href="https://code.visualstudio.com">Visual Studio Code</a>. VS Code is one of the best editors for PowerShell development.  I use it every day, and as a beginner you should start with this fundamental editor for your PS script development.  **In this tutorial** I'll walk you through setting up VS Code on Windows for PS scripting/development.  And then we can explore some features VS Code offers for PowerShell, which make it such a great core scriping IDE. <br />
 
-# Installing VS Code
+## Installing VS Code
 
 **First, let's start with a couple of pre-requisites:** <br /> 
 
@@ -84,7 +84,7 @@ Once you download the install bits to your Downloads folder, start the installat
 
 ***Note***: if you're on another OS you can follow-along (and I do intend to do a MacOS write-up for PS Dev on that platform, soon) but the rest of this is pretty Windows-centric.
 
-# Tweaking VS Code and Adding PowerShell Extension
+## Tweaking VS Code and Adding PowerShell Extension
 
 Once installation is complete, launch VS Code:
 
@@ -101,7 +101,7 @@ The first VS Code tip I always share, at this piint, is remember <span class="mo
 Ok next we need to install <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell">the PowerShell VS Code Extension</a>, which you can do easily by clicking on the lowest item in the left horizontal menu, circled in the screen shot below.  Then search powershell, and click the Install button to add the PowerShell extension.  <br />
 
 <div class="image-row">
-  <img src="https://julianwest.me/Blog/posts/images/vscode-ps-extension.jpeg" alt="Alt text" width="400" height="215">
+  <img src="https://julianwest.me/Blog/posts/images/vscode-ps-extension.jpeg" alt="Alt text" width="600" height="415">
 </div>
 
 Now that the VS Code PS Extension is installed, let's toss an old go-to PS cmd into your new and empty tab which you created a minute ago: <br />
