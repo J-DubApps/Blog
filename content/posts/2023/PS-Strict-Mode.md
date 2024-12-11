@@ -74,6 +74,8 @@ This enables strict mode in your script or PS session, allowing you test your co
 
 <span class="mono"> Set-StrictMode -Version 2.0 </span><br />
 
+In case you're wondering, Strict Mode Version 1.0 prohibits referencing undeclared variables.  Strict Mode Version 2.0 does the same thing plus it *also* prohibits us from referencing non-existent properties on objects.  It also won't allow us to call PS functions using the syntax for calling methods, and stops us from using variables without names. <br />
+
 You can also enable or disable Strict Mode multiple times within the same script. For instance, maybe you have a legacy function that can’t yet be fully updated, to meet Strict Mode criteria.  You could temporarily relax the rules around that specific block of code:
 
 ~~~

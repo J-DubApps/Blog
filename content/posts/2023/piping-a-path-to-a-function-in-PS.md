@@ -64,7 +64,7 @@ But what's even cooler than that is he demonstrates piping file paths into a PS 
 
 In today's example we're going take the PS function from the article (and, again, I highly recommend a read-through of it), and use it to count <i>the lines of text within each file</i> under a specific path.  <br />
 
-Let's have a look at the code <<a href="https://4sysops.com/archives/process-file-paths-from-the-pipeline-in-powershell-functions/">>from the article</a>:
+Let's have a look at the code <a href="https://4sysops.com/archives/process-file-paths-from-the-pipeline-in-powershell-functions/">from the article</a>:
 
 ~~~
 function Get-Lines {
