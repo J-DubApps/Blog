@@ -16,7 +16,7 @@ So, yeah, being kind isn't always "free" if you're stressed-out or got little in
 
 But you have to try it, to see. You have nothing to lose, but maybe a little stress.  <br />
 
-Being helpful or kind is a strengt in life, not a weakness. That ultimately goes double for being kind to yourself.
+Being helpful or kind is a *strength* in life, not a weakness. That ultimately goes double for being kind to yourself.
 
 <div>
   <img src="https://julianwest.me/Blog/posts/images/robin-williams.jpg" alt="Alt text">
