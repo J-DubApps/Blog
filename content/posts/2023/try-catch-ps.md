@@ -58,9 +58,11 @@ tags = ["tech", "powershell", "code", "best-practice", "devops"]
 }
 </style>
 
-When you’re writing PowerShell scripts—whether automating a common task or building a complex tool—errors are inevitable. Files might be missing, services might fail to start, or a network might be down. To ensure your script runs gracefully, handles unexpected issues, and provides helpful troubleshooting information, you’ll want to leverage PowerShell’s structured error handling. This is where the <span class="mono">try/catch</span> (and optionally <span class="mono">finally</span>) blocks come into play. <br />
+When you’re writing PowerShell scripts, whether automating a common task or building a complex tool, errors are inevitable. Files might be missing, services might fail to start, or a network might be down. To ensure your script runs gracefully, handles unexpected issues, and provides helpful troubleshooting information, you need error-handling.  <br />
 
-In this post, we’ll explore how try/catch works in PowerShell, show you why it’s beneficial, and give you practical examples so you can apply these concepts right away.<br />
+And building upon <a href="">my recent script-troubleshooting post</a> about ***Strict Mode***, the good news is PowerShell provides a *perfect* tool to leverage for error-handling: this is where the <span class="mono">try/catch</span> (and optionally <span class="mono">finally</span>) blocks come into play. <br />
+
+In this post, I’ll explore how <span class="mono">try/catch</span> works in PowerShell, show you why it’s beneficial, and give you practical examples so you can apply this concept right away.<br />
 
 <b>What Are <span class="mono">Try</span> and <span class="mono">Catch</span> Blocks?</b><br />
 
