@@ -3,7 +3,7 @@ date = '2024-11-20T23:17:51-06:00'
 draft = false
 title = 'New HomeLab: Dodging Ensh*ttification'
 type = 'post'
-tags = ["blog", "tech", "test-dev", "homelab", "vmware", "devops"]
+tags = ["tech", "test-dev", "homelab", "vmware", "devops"]
 +++
 
 Taking a cue from my post from last month about escaping the inevitable <i><b><a href="https://en.wikipedia.org/wiki/Enshittification">enshittification</a></b></i> of <a href="http://julianwest.me/Blog/hugo-crash-course/">blog platforms</a>, that effort has shifted over to my aging HomeLab setup.<br />
