@@ -14,7 +14,7 @@ tags = ["tech", "internet", "video-content", "opinion", "thought", "slightly-nsf
         }
 </style>
 
-<div style="font-size: 8px;">
+<div style="font-size: 10px;">
 <b>Note</b>: the video embedded here contains colorful language and swearing to make a point in a uniquely Gen-X hacker voice. Please remember this site's <a href="https://julianwest.me/Blog/site-disclosure/site-disclosure/">Terms of use</a>, and feel free to skip this blog post if it's offensive!
 </div>
 
