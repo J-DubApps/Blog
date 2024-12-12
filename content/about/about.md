@@ -22,9 +22,9 @@ type = 'page'
                                 <i class="fa-brands fa-github social_icon"></i></a>&nbsp;/&nbsp;More Contact Options <b><i><a href="http://julianwest.me/Blog/contact/contacting/">here</a></b></i>...<br />
                             Please refer to this site's <b><a href="https://julianwest.me/Blog/colophon/colophon/">Colophon</a> & <a href="https://julianwest.me/Blog/site-disclosure/site-disclosure/">Terms</a></b> for site info (info about yours-truly <i>below</i>👇🏻).
 </div>
-
+<br />
 <div style="font-size: 12px;">
-<b><i>Trivial trivia</b></i> <br /><br />
+<b><i>Trivial trivia</b></i> <br />
 I love technology, art, and good design...and the occasional board game.<br />
 For a living I’m an ops nerd working IT network projects & cloud deployments.<br />   
 I was born in rural Texas, to parents both born before 1930 (I am late for everything).<br />
