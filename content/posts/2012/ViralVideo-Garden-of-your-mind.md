@@ -3,7 +3,7 @@ date = '2012-08-23T23:07:36-06:00'
 draft = false
 title = 'Viral Video: Garden of Your Mind'
 type = 'post'
-tags = ["culture", "video"]
+tags = ["culture", "video-content"]
 +++
 
 
