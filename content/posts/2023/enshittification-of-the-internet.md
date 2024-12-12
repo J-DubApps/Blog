@@ -1,7 +1,7 @@
 +++
 date = '2023-09-14T14:14:51-06:00'
 draft = false
-title = 'An Audacious Plan to Halt the Internet&#39;s Enshittification'
+title = 'An Audacious Plan to Halt the Internet&#39;s Ensh&#8270;ttification'
 type = 'post'
 tags = ["tech", "internet", "video-content", "opinion", "thought", "slightly-nsfw"]
 +++
