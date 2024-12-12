@@ -19,9 +19,8 @@ type = 'page'
 <div style="font-size: 11px;">
                             <a href="https://www.linkedin.com/in/julianwest/" target="_blank" class="social_link">LinkedIn
                                 <i class="fa-brands fa-linkedin social_icon"></i></a>&nbsp;/&nbsp;<a href="https://github.com/J-DubApps" target="_blank" class="social_link">GitHub
-                                <i class="fa-brands fa-github social_icon"></i></a><br />
-                            Please refer to this site's <b><a href="https://julianwest.me/Blog/colophon/colophon/">Colophon</a> & <a href="https://julianwest.me/Blog/site-disclosure/site-disclosure/">Terms</a></b> for site info (info about yours-truly <i>below</i>👇🏻).<br />
-                            More Contact Options <b><i><a href="http://julianwest.me/Blog/contact/contacting/">here</a></b></i>...
+                                <i class="fa-brands fa-github social_icon"></i>&nbsp;/&nbsp;</a>More Contact Options <b><i><a href="http://julianwest.me/Blog/contact/contacting/">here</a></b></i>...<br />
+                            Please refer to this site's <b><a href="https://julianwest.me/Blog/colophon/colophon/">Colophon</a> & <a href="https://julianwest.me/Blog/site-disclosure/site-disclosure/">Terms</a></b> for site info (info about yours-truly <i>below</i>👇🏻).
 </div>
 
 <b><i>Trivial trivia</b></i> 
