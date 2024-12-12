@@ -35,8 +35,9 @@ Writing code changed my life, along with tech and curiosity.<br />
 Myers-Briggs says I am INTP, but I do like people. At least the cool ones.<br />   
 My oldest early friends call me “Jules”, late-comers call me "JDub".  No one should care, so long as I answer.<br />
 I once met Quentin Tarantino and William Shatner. Not at the same time.<br />
-Despite managing Cisco/Microsoft/Linux systems, I am a huge Apple geek. Not an uncommon thing nowadays.<br />   
-I am an EV fan and Tesla early-adopter. Was a great car, in spite of a certain autistic immigant Oligarch.&#129335;<br />   
+Despite managing Cisco/Microsoft/Linux systems, I am a huge Apple geek. Not that uncommon.<br />   
+I am an EV fan and Tesla early-adopter. Was a great car in spite of a certain autistic immigant Oligarch out there wilding.&#129335;<br />   
 For hobbies I write, play guitar/ukelele, and develop messy PowerShell and Python code. <br /><br />
-<a href ="https://julianwest.me/Blog/contact/contacting/"><i><b>How to reach me</a></i></b> 
+Don't confuse the familiar with the <a href="https://en.wikipedia.org/wiki/Parasocial_interaction">Parasocial</a>: there's way more to a person than what they put on a web site, so if you have questions please 
+<a href ="https://julianwest.me/Blog/contact/contacting/"><i><b>contact me</a></i></b> anytime. 
 </div>
