@@ -1,7 +1,7 @@
 +++
 date = '2023-09-14T14:14:51-06:00'
 draft = false
-title = 'An Audacious Plan to Halt the Internet's Enshittification'
+title = 'An Audacious Plan to Halt the Internet&#39;s Enshittification'
 type = 'post'
 tags = ["tech", "internet", "video-content", "opinion", "thought", "slightly-nsfw"]
 +++
@@ -12,7 +12,7 @@ tags = ["tech", "internet", "video-content", "opinion", "thought", "slightly-nsf
             unicode-bidi: bidi-override;
             direction: rtl;
         }
-    </style>
+</style>
 
 <div style="font-size: 8px;">
 <b>Note</b>: the video embedded here contains colorful language and swearing to make a point in a uniquely Gen-X hacker voice. Please remember this site's <a href="https://julianwest.me/Blog/site-disclosure/site-disclosure/">Terms of use</a>, and feel free to skip this blog post if it's offensive!
