@@ -1,7 +1,7 @@
 +++
 date = '2024-09-20T14:14:51-06:00'
 draft = false
-title = 'Ensh&#8270;ttification Pt 2: Disensh&#8270;ttify or die!'
+title = 'Ensh&#8727;ttification Pt 2: Disensh&#8727;ttify or die!'
 type = 'post'
 tags = ["tech", "internet", "video-content", "opinion", "thought", "slightly-nsfw"]
 +++
