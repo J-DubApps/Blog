@@ -6,3 +6,4 @@ type = 'post'
 tags = ["tech", "test-dev", "homelab", "vmware", "devops"]
 +++
 
+draft
