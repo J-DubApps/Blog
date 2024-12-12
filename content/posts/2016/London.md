@@ -7,4 +7,4 @@ tags = ["uk", "travel", "photo"]
 +++
 
 
-<img src="https://julianwest.me/Blog/images/london.JPG" alt="Alt text">
+<img src="https://julianwest.me/Blog/posts/images/london.JPG" alt="Alt text">
