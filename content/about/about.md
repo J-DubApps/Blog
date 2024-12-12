@@ -39,6 +39,6 @@ Despite managing Cisco/Microsoft/Linux systems, I am a huge Apple geek. Not that
 I am an EV fan and Tesla early-adopter. Was a great car in spite of a certain autistic immigant Oligarch out there wilding.&#129335;<br />   
 For hobbies I write, play guitar/ukelele, and develop messy PowerShell and Python code. <br /><br />
 
-Don't confuse the familiar with the <a href="https://en.wikipedia.org/wiki/Parasocial_interaction">Parasocial</a>: there's way more to a person than what they put on a web site, so if you have questions please 
+Don't confuse the familiar with the <i><a href="https://en.wikipedia.org/wiki/Parasocial_interaction">Parasocial</a></i>: there's more to a person than what's on a web site, so if you have questions please 
 <a href ="https://julianwest.me/Blog/contact/contacting/"><i><b>contact me</a></i></b> anytime. 
 </div>
