@@ -9,7 +9,7 @@ type = 'page'
 
 This is the personal blog of [Julian West](http://julianwest.me/Blog/about/about/). Site Disclosure can be found [here](https://julianwest.me/Blog/site-disclosure/site-disclosure/).
 
-<img src="https://julianwest.me/Blog/colophon/julian.jpeg" alt="Alt text" width="75" height="115">
+<img src="https://julianwest.me/Blog/colophon/julian.jpeg" alt="Alt text" width="115" height="165">
 
 <div style="font-size: 14px;">
 Hosting = <a href="https://pages.github.com">Github Pages</a>.<br>

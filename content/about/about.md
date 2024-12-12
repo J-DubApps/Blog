@@ -24,7 +24,7 @@ type = 'page'
 </div>
 
 <div style="font-size: 12px;">
-<b><i>Trivial trivia</b></i> <br />
+<b><i>Trivial trivia</b></i> <br /><br />
 I love technology, art, and good design...and the occasional board game.<br />
 For a living I’m an ops nerd working IT network projects & cloud deployments.<br />   
 I was born in rural Texas, to parents both born before 1930 (I am late for everything).<br />
