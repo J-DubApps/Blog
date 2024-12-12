@@ -66,7 +66,7 @@ In this post, I’ll explore how <span class="mono">try/catch</span> works in Po
 
 <b>What Are <span class="mono">Try</span> and <span class="mono">Catch</span> Blocks?</b><br />
 
-At their core, try and catch blocks help you separate the “normal” flow of your script from the “error handling” logic. By wrapping a piece of code in a try block, you’re effectively saying, “Run this code, and if something goes wrong, handle it in the catch block.” This is similar to what you might see in other programming languages, but PowerShell’s adaptation makes it very natural for system administrators and script authors.
+At their core, <span class="mono">try</span> and <span class="mono">catch</span> blocks help you separate the “normal” flow of your script from the “error handling” logic. By wrapping a piece of code in a <span class="mono">try</span> block, you’re effectively saying, “*Run this code, and if something goes wrong, handle it in the catch block.*” This is similar to what you might see in other programming languages, but PowerShell’s adaptation makes it very natural for system administrators and script authors.
 	•	try block: Contains the code you want to monitor for errors.
 	•	catch block: Executes only if an error occurs within the try block.
 
