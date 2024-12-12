@@ -8,7 +8,7 @@ type = 'page'
 <div style="font-size: 12px;">
 The opinions expressed on <a href="https://julianwest.me">julianwest.me</a> are solely my own and do not reflect the views of my employer, my friends and relatives, or probably any other carbon-based lifeform.<br />
 
-As an Information Technology professional often working under various NDAs, I adhere to all employer and/or client policies governing blogging. Consequently I do not discuss employers, projects, nor will I comment on past or present matters protected by attorney/client privelege. <br />
+As an Information Technology professional often working under various NDAs, I adhere to all employer and/or client policies governing blogging. Consequently I do not discuss employers or projects, nor will I comment on past or present matters protected by attorney/client privelege. <br />
 
 I may occasionally review products but only those I personally purchased and/or already own. I will not respond to solicitations to review products.<br />
 
