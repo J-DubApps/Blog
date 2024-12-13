@@ -1,7 +1,7 @@
 +++
-date = '2024-12-13T23:13:26-06:00'
+date = '2024-12-13T13:13:26-06:00'
 draft = false
-title = 'Thoughts On AI in DevOps and Enterprise IT.'
+title = 'Thoughts On AI in DevOps and Enterprise IT'
 type = 'post'
 tags = ["tech, "code", "AI", "devops", "opinion", "thought"]
 +++
