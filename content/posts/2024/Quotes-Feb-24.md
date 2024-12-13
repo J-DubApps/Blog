@@ -7,11 +7,11 @@ tags = ["writing", "quote", "books", "blog", "thought", "philosophy"]
 +++
 
 
->“The world breaks everyone, and afterward, many are strong at the broken places.”
+> “The world breaks everyone, and afterward, many are strong at the broken places.”
 
 ### — Ernest Hemingway <br /> <br />
 
 
->“To be alive at all is to have scars.”
+> “To be alive at all is to have scars.”
 
 ### — John Steinbeck
