@@ -14,4 +14,4 @@ tags = ["writing", "quote", "books", "blog", "thought", "philosophy"]
 
 > “To be alive at all is to have scars.”
 
-### — John Steinbeck
+### — John Steinbeck 
