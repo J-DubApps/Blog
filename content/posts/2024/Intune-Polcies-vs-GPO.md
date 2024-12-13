@@ -1,7 +1,7 @@
 +++
 date = '2024-11-02T11:15:51-06:00'
 draft = false
-title = 'Intune Policies Primer for GPO Admins'
+title = 'Intune Policies: A Primer for GPO Admins'
 type = 'post'
 tags = ["tech", "microsoft", "intune-csp-gpo", "intune", "enterprise-it", "ms-config-mgr"]
 +++
