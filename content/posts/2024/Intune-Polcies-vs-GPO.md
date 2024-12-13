@@ -81,18 +81,7 @@ Migration from GPO to Intune CSPs
 
 Microsoft provides tools like the Group Policy Analytics tool in Intune to assess your GPOs and determine their CSP equivalents, facilitating a smoother transition.
 
+I hope this helped clear up any AD/GPO-centric blind spots that may exist for some hybrid Azure / Entra ID admins out there still doing AD-based admninistration of your Windows endpoints.  Becuase it's very likely the day will come when even GPOs are going to start to move towards Intune - yes, even for Windows endpoints that aren't native cloud.  And here's why:  Intune CSPs can apply to endpoints up to 70% *faster* than your AD domain-based GPOs.  That kind of performance-improvment for configuration policies is just too much of a low-hanging fruit *not* to get busy learning about Intune CSPs, and how you can benefit from them in the future!  <br />
 
-
-
-
-
-
-
-
-
-
-
-
-Becuase it's very likely the day will come when even GPOs are going to start to move towards Intune - yes, even for Windows endpoints that aren't cloud
-and Word erupted back in November that Microsoft would be migrating businesses to the New Outlook client, and the community is responding with Intune remediation scripts, GPO entries (for hybrid "AD-first" endpoints), and Microsoft itself has added new entries within Intune CSPs targeting 365 App config.  <br />
+Some resources I recommend, for further reading about Intune CSPs and other Intune-related stuff: <br />
 
