@@ -1,5 +1,5 @@
 +++
-date = '2024-06-01T20:9:25-06:00'
+date = '2024-06-01T20:09:25-06:00'
 draft = false
 title = 'Quotables for June...'
 type = 'post'
