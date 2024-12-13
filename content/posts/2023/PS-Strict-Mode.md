@@ -3,7 +3,7 @@ date = '2023-04-15T23:14:51-06:00'
 draft = false
 title = 'PowerShell Strict Mode'
 type = 'post'
-tags = ["tech", "powershell", "code", "best-practice", "devops", "beginner-fundamentals"]
+tags = ["tech", "powershell", "code", "best-practice", "devops", "beginner-fundamentals", "enterprise-it"]
 +++
 
 <style>

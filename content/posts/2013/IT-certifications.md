@@ -3,7 +3,7 @@ date = '2013-01-07T23:10:38-06:00'
 draft = false
 title = 'The 5 Best IT Certifications in 2013 (plus one)'
 type = 'post'
-tags = ["tech", "career", "project-mgmt"]
+tags = ["tech", "career", "project-mgmt", "enterprise-it"]
 +++
 
 IT Certifications are often a fact of life in IT. Unfortunately, beyond some of the gifted external Consultants & SMEs I manage or work with, not many of my co-workers frequent the training/IT cert treadmill. I can’t say I blame my them, keeping up certs can be a pain. Even so, I find myself doing at least one or two IT certifications every couple years. I get bored if I am not learning something new and growing. So in figuring out which certs I’m going to tackle next, I thought I would share my very own personal list of the <i>best</i> IT certs you could have in 2013.<br />

@@ -3,10 +3,8 @@ date = '2013-10-14T23:17:51-06:00'
 draft = false
 title = 'Of Zen, Wine, and an IT Career…'
 type = 'post'
-tags = ["career", "tech", "philosophy", "project-mgmt"]
+tags = ["career", "tech", "philosophy", "project-mgmt", "enterprise-it"]
 +++
-
-
 
 A co-worker asked me this morning, after an IT fire-drill, “<b><i>why is it nothing ever rattles you?</i></b>”.<br />
 

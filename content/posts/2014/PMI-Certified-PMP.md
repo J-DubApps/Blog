@@ -3,7 +3,7 @@ date = '2014-12-10T23:10:16-06:00'
 draft = false
 title = 'PMI Certified PM Professional'
 type = 'post'
-tags = ["career", "project-mgmt"]
+tags = ["career", "project-mgmt", "enterprise-it"]
 +++
 
 
