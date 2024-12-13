@@ -1,12 +1,12 @@
 +++
 date = '2024-12-13T23:13:26-06:00'
 draft = false
-title = 'Thoughts On AI in DevOps / Enterprise IT.'
+title = 'Thoughts On AI in DevOps & Enterprise IT.'
 type = 'post'
 tags = ["tech, "code", "AI", "devops", "opinion", "thought"]
 +++
 
-People who code and automate things (whether it's in the Valley, or for line-of-business) like to think we're *all that*.  We're really not.
+People who code and automate things (whether it's in the Valley, or for line-of-business) like to think we're *all that*.  We're really not. <br />
 
 We’re digital carpenters who are paid so well only because demand greatly outstrips supply...and people think what we do is super-complicated wizardry. It’s not - it’s advanced sudoku at best.  <br />
 
