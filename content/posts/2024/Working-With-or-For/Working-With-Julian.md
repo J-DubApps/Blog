@@ -14,13 +14,13 @@ tags = ["career", "project-mgmt", "opinion"]
         }
     </style>
 
-<div style="font-size: 12px;">
+<div style="font-size: 13px;">
 This contents in this post, below, is <a href="https://julianwest.me/Resume/Working%20with%20Julian.pdf">sourced from a pdf doc</a> I have always kept linked within my online [CV-Resume](https://julianwest.me/Resume/).  It exists as a mini-manual to my brain, for any interested teams that I am working with. 🤓 
 </div>
 
 # Leadership Principles <br />
 - **Challenge internally, champion externally**. I find it's most helpful when our team is free
-to be our biggest cri:cs by challenging the status quo, asking "Why?" 5 :mes, so that our
+to be our biggest cri:cs by challenging the status quo, asking "Why?" 5 times, so that our
 stakeholders don't have to. Once we make a decision, we move forward together. <br />
 
 - **Listening before acting**. I tend to listen before I share my opinions to ensure I
@@ -40,7 +40,7 @@ independently during sprints or task work, and I can adjust to the flow as proje
 # Working Style Preferences
 
 - **Emails vs. Slack**: For action items eg reading & reviewing, email is the most eﬀec:ve way
-to reach me. For ques:ons or discussions, Slack is my preferred plaPorm; however, I am flexible! <br />
+to reach me. For questions or discussions, Slack is my preferred platform however, I am flexible! <br />
 
 - **I prioritize constructive feedback**. I work best when my feedback sessions (e.g. projects,
 OKRs) are structured 40% on areas I did well & 60% on areas where I could have done better
@@ -62,9 +62,9 @@ the data and/or thought process for me to get sense of concepts & pursue targete
 - **I work best with 'melines & project plans**. I record projects on a personal gan[ chart
 because it's important for me to see the light at the end of the tunnel for each project. <br />
 
-- **Complex concepts require 'me for me to process**. Certain concepts need :me for me to
-completely process. Some:mes, I won't fully understand in one mee:ng / conversation. If that's
-the case, then I will come back to you later with succinct ques:ons. <br />
+- **Complex concepts require 'me for me to process**. Certain concepts need time for me to
+completely process. Sometimes, I won't fully understand in one meeting / conversation. If that's
+the case, then I may come back to you later with succinct questions. <br />
 
 - **I am a visual learner**. The best way to explain a concept to me is to visualize it. I love
 visualizing things because it allows me to easily understand how things are connected. <br />
