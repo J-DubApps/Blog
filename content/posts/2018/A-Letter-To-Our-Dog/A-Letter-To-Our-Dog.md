@@ -53,7 +53,7 @@ Even when storms were no longer scary, you still gave out those licks. <b>It was
 
 <div class="image-row">
   <img src="https://julianwest.me/Blog/posts/2018/A-Letter-To-Our-Dog/jackson-gazing2.jpeg" alt="Alt text" width="400" height="65">
-  <img src="https://julianwest.me/Blog/posts/2018/A-Let[ter-To-Our-Dog/jackson-sun.jpeg" alt="Alt text" width="300" height="65">
+  <img src="https://julianwest.me/Blog/posts/2018/A-Letter-To-Our-Dog/jackson-sun.jpeg" alt="Alt text" width="300" height="65">
 </div><br /> <br />
 
 And <i><b>that bark!</i></b> I can still hear your bark right here and now, as I struggle to write this. <b><i>“Time to go for a walk!”</b></i> and your excitement was vocal. You had an attention bark, a snack-request bark, a Mailman bark, you name it. You never had a problem getting our attention. You also never had a problem getting anybody else’s attention either: you took your watchdog duties very seriously. Inspection of all guests was mandatory, and woe to anybody who made sudden or odd movements around your pack, they got checked. You could be serious, goofy, and loving within the span of a few minutes. You made us laugh and smile so much all these years, Jackson.<br /> <br />
