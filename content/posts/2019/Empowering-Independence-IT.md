@@ -10,7 +10,7 @@ In a dynamic world of IT Systems Ops and DevOps, effective cross-training is ess
 
 # Teaching the *WHERE* or the *WHAT*, Not Always the *WHY* or the *HOW*
 
-I can provide you with the ***WHERE***—the documentation, server information, IP addresses, and other essential resources. ***However***, I may not always have the time to delve into the ***WHY*** behind every decision or the ***HOW*** of every process. The nuances of our systems and the depth of understanding come from *hands-on experience*, your own personal initiative, and time. While I can guide you to resources and sometimes briefly talk about a technology or tool, uncovering the *why* and *how* is ultimately ***your*** journey: and that journey must involve exploration and practice, sometimes on your own time.  It's how you get *good* at anything in this line of work.  If you put in your 10,000 hours, same as *everybody else*, you'll be the expert you want to be. 
+I can provide you with the ***WHERE***—the documentation, server information, IP addresses, and other essential resources. ***However***, I may not always have the time to delve into the ***WHY*** behind every decision or the ***HOW*** of every process. The nuances of our systems and the depth of understanding come from *hands-on experience*, your own personal initiative, and time. While I can guide you to resources and sometimes briefly talk about a technology or tool, uncovering the *why* and *how* is ultimately ***your*** journey: and that journey must involve exploration and practice, sometimes on your own time.  It's how you get *good* at anything in this line of work.  If you put in your time, *same as everybody else*, you can become the expert you want to be.  And if you don't have the time (and I get it, I truly do) to uncover the *why* and *how* of stuff -- then you at least owe it to the team to work hard to use the *where* and the *what* as best you can.
 
 # Setting Clear Expectations and Providing Support
 
@@ -37,7 +37,7 @@ While I'm not responsible for identifying the external training you might need, 
 
 # Take-Aways
 
-If this all feels like a "teach a man to fish" talk, it is.  I also believe in throwing the fisherman right into the deep water, to catch those big fat fishes on their own...before doing the fishing for them or discussing angler techniques.  Sorry/not sorry. <br />
+If this all feels like a "teach a man to fish" talk, it *is*.  I also believe in throwing the fisherman right into the deep water, to try catching those big fat fishes on their own...before doing any fishing for them or discussing angler techniques.  I am a compassionate guy, but I do *neither of us* any favors if I am doing cross-training before you even *start* fishing, first! 😉<br />
 
 To foster a team environment where everyone takes initiative, learns proactively, and contributes effectively -- I believe people must leave their confort zones and build confidence.  Team leaders should always lead by example here.  Help enthusiastically, but always ask what has been tried. <br /> 
 
