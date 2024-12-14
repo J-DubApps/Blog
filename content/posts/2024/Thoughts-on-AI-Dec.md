@@ -10,7 +10,7 @@ People who code and automate things (whether it's in the Valley, or for line-of-
 
 We’re digital carpenters who are paid so well only because demand greatly outstrips supply...and people think what we do is super-complicated wizardry. It’s not - it’s advanced sudoku at best.  <br />
 
-You *still* need to be smart at Sudoku. And have decent experienced built-up, to do it really well. Sure.  And coding well is not easily *taught* to humans quickly.  That *said*, the tech layoffs of the past 20 months have taught me that coding for automation, site-resilience, and over all operations is becoming... *less* rare in terms of supply.  ***This is due to*** ***AI*** and its rise. <br />
+You *still* need to be smart playing Sudoku. And have decent experienced built-up, to play really well. Sure.  But coding, and doing it *well*, is not easily *taught* to humans quickly.  That *said*, the tech layoffs of the past 20 months have taught me that coding for automation, site-resilience, and overall operations is becoming... *less* rare in terms of supply.  ***This is due to*** ***AI*** and its rise. <br />
 
 I have always said: **it's not AI that will take your job, it's ***people*** who learned how to wield it well.**  And I see a *lot* of junior engineers and non-coders are wielding it for DevOps stuff days.  <br />
 
