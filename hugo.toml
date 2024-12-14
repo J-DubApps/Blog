@@ -37,11 +37,6 @@ defaultContentLanguage = "en"
     Pre = "<span data-feather='book'></span>"
     pageRef = '/posts'
     weight = 20
-    [[menus.main]]
-    name = 'Best-of'
-    pageRef = '/best-of'
-    Pre = "<span data-feather='trophy'></span>"
-    weight = 25
   [[menus.main]]
     name = 'About'
     pageRef = '/about/about'
