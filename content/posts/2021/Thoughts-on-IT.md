@@ -6,15 +6,15 @@ type = 'post'
 tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "project-mgmt", "thought"]
 +++
 
-1. It's always DNS
-2. RTFM
+1. It's always DNS.
+2. RTFM.
 3. Always ask: which method will require the Least Amount Of Administrative Effort: you can accomplish a whole lot more, when you have less to do.
 4. Read only Friday — Never deploy to prod or make changes on Fridays.
-5. If it can go wrong, it will go wrong
-6. If given enough time, most tickets solve themselves
-7. When in doubt, blame the security team or your predecessor
-8. Backups don't really exist unless you have multiple copies (3-2-1 rule)Backups always work, restores not so oftenJust because the backup said success doesn’t mean it backed anything up. Trust but verify.A backup is not a backup unless you have recently performed a restore from itAlways test your backups - otherwise you’re playing Russian roulette
-9. Backups will fail, see rule # 8
+5. If it can go wrong, it *will* go wrong.
+6. If given enough time, most tickets solve themselves.
+7. When in doubt, blame the security team or your predecessor.
+8. Backups don't really exist unless you have multiple copies (3-2-1 rule). Backups always work, restores not so often.  Just because the backup said "success" doesn’t mean it backed anything up. Trust, but verify. A backup is not a backup unless you have *recently* performed a restore from it, better yet do automated restore tests with reports frequently. Always test your backups - otherwise you’re a Russian roulette player with 5 bullets in the gun.
+9. Backups *will* fail, see rule # 8.
 10. RAID is not backup
 11. Document all the thingsIf your documentation takes longer to read than to fix the problem, you're doing it wrong.
 12. Automate everything you possibly can (...that you've had to do more than two times).
@@ -53,6 +53,6 @@ tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "project-
 45. Remember that we work in a service industry.
 46. ⁠Always keep your <a href="">resume updated.</a>
 47. Work life balance - Set standards with how approachable you are outside of work hours.
-48. Dev is dev and prod is prod. NEVER put anything that impacts prod in the dev environment. Dev-prod hybrid always creep into importance *right* as somebody resets the test-dev sandbox.
+48. Dev is *dev* and prod is *prod*. NEVER put anything that impacts prod in the dev environment. Dev-prod hybrid always creep into importance *right* as somebody resets the test-dev sandbox.
 49. Don't confuse being responsible for an outcome as "being in charge".  Non-managers need allies to suceed, not underlings.
 50. If you're in charge, and you have to tell people you're in charge...you're *not* in charge.
