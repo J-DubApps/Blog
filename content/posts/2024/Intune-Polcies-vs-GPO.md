@@ -31,20 +31,20 @@ So this blog post is directed at those AD admins and engineers who have only mos
 Intune Configuration Service Providers (CSPs) are the most comparable component to Group Policy Objects (GPOs), and here’s a detailed comparison: <br />
 
 Intune CSPs and GPOs <br />
-1.	Definition: <br />
+1.	**Definition**: <br />
 	•	CSPs: Configuration Service Providers define how management tasks and policies are applied to Windows devices via MDM (Mobile Device Management). They map to registry settings, policies, or configurations in the OS.<br />
 	•	GPOs: Group Policy Objects are used in Active Directory to enforce policies and settings for users and devices, based on a domain-joined environment.<br />
-2.	Scope and Application:<br />
+2.	**Scope and Application**:<br />
 	•	CSPs: Intune CSPs use a cloud-based approach to apply configurations to Azure AD-joined or Hybrid AD-joined devices via MDM channels. They are designed to be device-agnostic and manage configurations through supported MDM protocols.<br />
 	•	GPOs: GPOs are applied through an on-prem AD infrastructure and target devices or users based on Active Directory structure (OUs, groups, etc.).
-3.	Feature Set:<br />
+3.	**Feature Set**:<br />
 	•	CSPs and GPOs overlap in many areas (e.g., security settings, password policies, app management, network settings).<br />
 	•	However, some traditional GPO features (like advanced user configuration) may not yet have direct CSP equivalents.<br />
 	•	Microsoft has added Administrative Templates in Intune, which mimic GPO-style settings, enabling easier transition for organizations moving from GPO to Intune.<br />
-4.	Delivery Mechanism:<br />
+4.	**Delivery Mechanism**:<br />
 	•	CSPs: Delivered via MDM through XML-based policies in Intune.<br />
 	•	GPOs: Delivered via the AD domain and processed during computer/user policy refresh.<br />
-5.	Examples of CSP Usage:<br />
+5.	**Examples of CSP Usage**:<br />
 	•	Configuring Windows Update for Business.<br />
 	•	Enforcing BitLocker encryption.<br />
 	•	Setting device restrictions, such as disabling USB ports.<br />
@@ -52,14 +52,14 @@ Intune CSPs and GPOs <br />
 Other Intune Policy Mechanisms<br />
 
 While CSPs are the direct comparison to GPOs, Intune has additional policy tools that complement and sometimes overlap with CSPs:<br />
-1. Device Configuration Profiles:<br />
+1. **Device Configuration Profiles**:<br />
 	•	Leverage CSPs under the hood but are presented in a more user-friendly interface within the Intune admin portal.<br />
 	•	Can include settings like password policies, VPN configurations, and Wi-Fi profiles.<br />
-2. Administrative Templates:<br />
+2. **Administrative Templates**:<br />
 	•	Intune’s implementation of traditional GPO settings for specific Windows configurations, like Office settings.<br />
-3. Compliance Policies:<br />
+3. **Compliance Policies**:<br />
 	•	Define rules and settings that devices must comply with to be considered compliant (e.g., requiring PIN, enforcing encryption).<br />
-4. Endpoint Security Policies:<br />
+4. **Endpoint Security Policies**:<br />
 	•	Focus on security-centric configurations, such as antivirus settings, firewall rules, and disk encryption.<br />
 
 Comparing GPOs and Intune CSPs 
@@ -73,7 +73,7 @@ Comparing GPOs and Intune CSPs
 | Customization | Extensive (via custom ADMX)           |  Limited to supported CSPs            |
 | Dependencies	| Requires on-prem AD, network access   |	Requires Azure AD, internet access  |
 
-When to Use Each
+**When to Use Each** <br />
 	•	Use GPOs when managing on-prem, domain-joined devices in a traditional AD infrastructure.
 	•	Use Intune CSPs for modern management scenarios with cloud-first, Azure AD-joined devices.
 
