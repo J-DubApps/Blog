@@ -20,7 +20,7 @@ This contents in this post, below, is <a href="https://julianwest.me/Resume/Work
 
 # Leadership Principles <br />
 - **Challenge internally, champion externally**. I find it's most helpful when our team is free
-to be our biggest cri:cs by challenging the status quo, asking "Why?" 5 times, so that our
+to be our biggest critics by challenging the status quo, asking "Why?" 5 times, so that our
 stakeholders don't have to. Once we make a decision, we move forward together. <br />
 
 - **Listening before acting**. I tend to listen before I share my opinions to ensure I
