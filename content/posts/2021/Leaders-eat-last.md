@@ -1,44 +1,46 @@
 +++
 date = '2021-07-10T23:17:51-06:00'
 draft = false
-title = 'Start With Why'
+title = 'Leaders Eat Last'
 type = 'post'
 tags = ["tech", "career", "project-mgmt", "books", "thought"]
 +++
 
-
-"***Start with Why***" by Simon Sinek centers around the concept of The Golden Circle—a framework for inspiring leadership that explores why some individuals and organizations are more innovative, influential, and profitable than others.  This is my second read by this author, and I believe he gets leadership. <br />
+***Leaders Eat Last*** by Simon Sinek focuses on creating an environment where trust and cooperation are nurtured for the well-being of the organization and its people. It was a fantastic book given to me by a colleauge who recently moved on to bigger and better things. While I greatly miss working with LeAnn and our talks about leadership and personal-development, she left me a great roadmap. <br />
 
 ## Here’s a summary of the key leadership principles outlined in the book:
 
-1. **The Golden Circle**
--**Why**: The core belief or purpose that drives an individual or organization—essentially, why they exist beyond making money. <br />
--**How**: The process or specific actions taken to realize the Why.
--**What**: The tangible outcomes, products, or services that result from those actions. <br />
+1. **The Circle of Safety**
+Leaders must create a safe environment where team members feel protected, fostering trust and collaboration. This environment encourages individuals to take risks and innovate without fear of retribution or failure.<br />
 
-Sinek argues that most organizations start from the outside in (focusing on What), but great leaders and successful companies operate from the inside out, starting with *Why*.<br />
+2. **Empathy and Understanding**
+Effective leaders prioritize empathy, understanding the needs, challenges, and perspectives of their team members. This allows leaders to build stronger relationships and inspire loyalty. <br />
 
-2. **The Power of Why**
-People are more inspired by the reasons behind actions than by the actions themselves. Leaders who communicate a clear Why build deeper connections, trust, and loyalty among employees and customers.<br />
-Companies like Apple, which Sinek frequently cites, exemplify the power of starting with Why—they emphasize their mission to challenge the status quo and empower creativity, not just sell products.<br />
+3. **Biology of Leadership**
+Sinek explains leadership through the lens of human biology, highlighting the importance of certain chemicals (e.g., endorphins, dopamine, serotonin, oxytocin) that promote positive behavior. Good leaders create conditions that trigger beneficial hormonal responses, encouraging trust and teamwork.<br />
 
-3. **Biological Basis of Decision-Making**
-Sinek links the concept of Why to how the human brain works. The limbic brain, responsible for emotions and decision-making, corresponds to the Why, while the neocortex handles rational and analytical thought, aligning with the What. This explains why people often make gut decisions that are hard to explain rationally.<br />
+4. **Serving Others**
+True leadership means putting the welfare of the team first. Leaders who adopt a service-oriented mindset ensure that the well-being of their people is paramount, which leads to higher morale and better performance.<br />
 
-4. **Leadership and Inspiration**
-True leaders inspire action, not through manipulation (such as price cuts, promotions, or fear tactics) but by fostering belief. Leaders who prioritize the Why are more likely to motivate and create a following that’s driven by shared purpose and values.
-Martin Luther King Jr., Steve Jobs, and the Wright brothers are examples Sinek uses to illustrate how leaders who start with Why can mobilize people and resources effectively.<br />
+5. **Long-term Vision**
+Leaders should focus on the long-term success of their team or organization, rather than short-term gains. Sustainable success stems from leaders who plan beyond immediate rewards and aim for future growth and stability.<br />
 
-5. **The Law of Diffusion of Innovation**
-Sinek applies Everett Rogers’ Law of Diffusion of Innovation, which shows that adoption of a new idea spreads through innovators, early adopters, early majority, late majority, and laggards. Leaders must win over the early adopters and innovators by communicating their Why, as these groups will help push ideas through to the mainstream.<br />
+6. **Building Trust Through Vulnerability**
+Leaders build genuine trust by being transparent and sometimes showing vulnerability. This authenticity helps solidify connections and encourages open communication within the team.<br />
 
-6. **Authenticity and Consistency**
-The alignment between Why, How, and What builds trust and authenticity. When an organization’s actions align with their core purpose, people are more inclined to believe in and support them.<br />
+7. **The Importance of Purpose**
+Teams thrive when members feel their work has meaning and contributes to a larger cause. Leaders need to inspire this sense of purpose to align the team’s efforts toward a common goal.<br />
 
-Consistency in behavior and messaging strengthens the connection to the Why and reinforces an organization's identity.<br />
+8. **Responsibility and Accountability**
+Good leaders accept responsibility for the outcomes of their team’s actions, whether positive or negative. This builds a culture of accountability and shared commitment to objectives.<br />
 
-7. **Challenges and Pitfalls**
-Sinek warns that losing sight of the Why can lead organizations into decline. Companies that grow successful often start to focus more on their What and lose their initial purpose-driven approach, which can erode trust and loyalty over time.<br />
+9. **Leading by Example**
+The best leaders model the behavior they want to see in their teams. This means demonstrating values such as integrity, resilience, and hard work, which sets a standard for others to follow.<br />
 
-## Takeaway
-The fundamental idea of Start with Why is that great leaders and organizations succeed not just by what they do but by why they do it. This core belief, when clearly communicated and consistently demonstrated, is the key to inspiring loyalty and sustained success.
+10. **Promoting Well-being**
+Leaders should ensure that their team’s physical and emotional health is supported. This involves promoting a balanced work environment that considers stress, workload, and overall well-being.<br />
+
+11. **Fostering Cooperation Over Competition**
+Creating a collaborative environment rather than one driven by internal competition helps strengthen bonds among team members. A unified team is more resilient and effective in facing external challenges.<br />
+
+By embodying these principles, leaders can foster a culture where people feel secure, valued, and motivated, leading to a more cohesive and high-performing team.
