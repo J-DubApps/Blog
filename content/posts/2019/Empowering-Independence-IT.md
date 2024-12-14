@@ -6,7 +6,7 @@ type = 'post'
 tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "project-mgmt", "thought"]
 +++
 
-In a dynamic world of IT Systems Ops and DevOps, effective cross-training is essential for both individual growth and team success. Over many years of experience as a PM, manager, and mentor, I have developed a philosophy that emphasizes: ***self-reliance, initiative, and continuous learning***.  Here is my personal manifesto on cross-training, my little contribute to developing proficient and empowered teams. <br />
+In a dynamic world of IT Systems Ops and DevOps, effective cross-training is a always challenge. Skill-ups are essential for both individual growth *and* team success. Over many years of experience as a PM, manager, and mentor, I have developed a philosophy that emphasizes: ***self-reliance, initiative, and continuous learning***.  Here is my personal manifesto on cross-training, my contribution to developing proficient and empowered teams. <br />
 
 ## Teaching the *WHERE* or the *WHAT*, Not Always the *WHY* or the *HOW*
 
