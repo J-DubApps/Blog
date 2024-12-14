@@ -1,5 +1,5 @@
 +++
-date = '2019-07-05T20:10:26-06:00'
+date = '2020-07-05T20:10:26-06:00'
 draft = false
 title = 'Thoughts On IT: 2020 Edition'
 type = 'post'
@@ -19,4 +19,3 @@ Spaces aren't *horrible*, but if you read the above & lost respect for me -- you
 If you're a small company and don't have a deep bench to pull from for both IT project work *and* the daily support-grind, don't diss your star IT players. Lest ye end up dependent on consultants and MSPs!  <br />
 
 Your hardest workers on your ServiceDesk or Helpdesk are doing their best in a daily hailstorm of shifting priorities and demands.  Be kind.  <br />
-
