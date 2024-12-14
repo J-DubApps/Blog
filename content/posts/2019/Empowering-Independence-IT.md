@@ -1,5 +1,5 @@
 +++
-date = '2019-4-02T20:10:26-06:00'
+date = '2019-04-02T20:10:26-06:00'
 draft = false
 title = 'Empowering Independence: My Approach to Cross-Training'
 type = 'post'
