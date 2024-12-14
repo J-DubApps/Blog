@@ -10,7 +10,7 @@ People who code and automate things (whether it's in the Valley, or for line-of-
 
 We’re digital carpenters who are paid so well only because demand greatly outstrips supply...and people think what we do is super-complicated wizardry. It’s not - it’s advanced sudoku at best.  <br />
 
-You *still* need to be smart playing Sudoku. And have decent experienced built-up, to play really well. Sure.  But coding, and doing it *well*, is not easily *taught* to humans quickly.  That *said*, the tech layoffs of the past 20 months have taught me that coding for automation, site-resilience, and overall operations is becoming... *less* rare in terms of supply.  ***This is due to*** ***AI*** and its rise. <br />
+You *still* need to be smart and develop decent experience built-up, sure. But coding, and doing it *well*, is not easily *taught* to humans quickly.  That *said*, the tech layoffs of the past 20 months have taught me that coding for automation, site-resilience, and overall operations is becoming... *less* rare in terms of supply.  ***This is due to*** ***AI*** and its rise. <br />
 
 I have always said: **it's not AI that will take your job, it's ***people*** who learned how to wield it well.**  And I see a *lot* of junior engineers and non-coders are wielding it for DevOps stuff days.  <br />
 
@@ -22,5 +22,5 @@ What we do as coders *is* still valued and, for many of us, it's still a ***craf
 
 That is not to say that AI does *everything* as well as teams of humans, in *anything*, yet. But when it comes to software engineering -- <a href="https://www.techtarget.com/whatis/feature/Tech-sector-layoffs-explained-What-you-need-to-know">coders and technical teams are already seeing disruption</a>.  So I think the most important thing you can remember as a DevOps Engineer, Software Developer, or anyone working in automatio right now: ***People, not code, are the most important part of your job.***  <br />
 
-Just don't ever get far from the concept that Software is ultimately used by people, AI people-oriented undertaking, and technology projecs *are*...(you guessed it) *people*.  Keep that as your high-order bit, and using AI and delivering coded solutions needn't be a dead-end job.  
+Just don't ever get far from the concept that Software is ultimately used by *people*. AI is a people-oriented undertaking, and technology projecs *are*...(you guessed it) *people*.  Keep that as your high-order bit, and being a coder who leverages AI needn't be a dead-end job.  
 
