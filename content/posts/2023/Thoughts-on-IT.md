@@ -3,7 +3,7 @@ date = '2023-12-22T20:10:26-06:00'
 draft = false
 title = 'Thoughts On IT: 2021 Edition'
 type = 'post'
-tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "project-mgmt", "thought", "funny"]
+tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "project-mgmt", "thought", "funny", "best-of", "career"]
 +++
 
   <style type="text/css">
