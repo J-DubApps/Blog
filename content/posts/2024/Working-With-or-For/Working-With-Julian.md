@@ -1,0 +1,66 @@
++++
+date = '2024-07-19T23:17:51-06:00'
+draft = false
+title = 'Working With Julian: An (optional) Guide to Understand How My Mind Works'
+type = 'post'
+tags = ["career", "project-mgmt"]
++++
+
+This contents in this post, below, is <a href="https://julianwest.me/Resume/Working%20with%20Julian.pdf">sourced from a pdf doc</a> I have always kept linked within my online [CV-Resume](https://julianwest.me/Resume/).  It exists as a mini-manual to my brain, for any interested teams that I am working with. 🤓 <br />
+
+# Leadership Principles <br />
+- **Challenge internally, champion externally.** I find it's most helpful when our team is free
+to be our biggest cri:cs by challenging the status quo, asking "Why?" 5 :mes, so that our
+stakeholders don't have to. Once we make a decision, we move forward together. <br />
+
+- Listening before acting. I tend to listen before I share my opinions to ensure I
+understand the others' PoV. In doing so, I hope to remove fric:ons with debates & incorporate
+as much feedback into our team's work as possible. In discretionary moments I will provide my
+honest opinions; however, know that I speak authentically, and I practice *absolute candor*
+whenever direct and clear communication with colleagues is critical. <br />
+
+- I hope to be predictable. I'm a firm believer in being consistent in principles. In doing so,
+I hope our team & stakeholders would be less confused & can easily predict expecta:ons. <br />
+
+- Directed Independence. My ideal working style is we work together to define project
+deliverables & :melines & let the team run with it. I love to get involved to remove roadblocks,
+problem solve or whiteboard new ideas. I also understand some team members want to iterate
+independently during sprints or task work, and developed <br />
+
+# Working Style Preferences
+
+- Emails vs. Slack: For ac:on items eg reading & reviewing, email is the most eﬀec:ve way
+to reach me. For ques:ons or discussions, Slack is my preferred plaPorm; however, I am flexible! <br />
+
+- I priori'ze construc've feedback. I work best when my feedback sessions (e.g. projects,
+OKRs) are structured 40% on areas I did well & 60% on areas where I could have done be[er
+with tangible examples. <br />
+
+- I appreciate direct communica'on rather than indirect communica'on. I tend to
+misunderstand indirect communica:on. Therefore convos over video works best for me. <br />
+
+- More communica'on > less communica'on. I like to send & receive updates on my
+projects for feedback. So^ responses like "will read later" or "sounds good" let me know that
+emails & projects have value. If they don't have value, then feedback is welcome. <br />
+
+- I love asking ques'ons. O^en:mes, I will ask many ques:ons. I do this to understand
+the thought process & logic of decisions / projects / concepts. <br />
+
+- Logic + data speak volumes to me. Naturally, I am very skep:cal. I need to understand
+the data and/or thought process for me to accept concepts. <br />
+
+- I work best with 'melines & project plans. I record projects on a personal gan[ chart
+because it's important for me to see the light at the end of the tunnel for each project. <br />
+
+- Complex concepts require 'me for me to process. Certain concepts need :me for me to
+completely process. Some:mes, I won't fully understand in one mee:ng / conversation. If that's
+the case, then I will come back to you later with succinct ques:ons. <br />
+
+- I am a visual learner. The best way to explain a concept to me is to visualize it. I love
+visualizing things because it allows me to easily understand how things are connected. <br />
+
+- I'm a goofball. We spend too much time at work not to enjoy it. I love cracking
+jokes, sharing memes & talking about personal interests. <br />
+
+
+<a href="https://julianwest.me/Resume/Working%20with%20Julian.pdf">Click here for the original pdf</a>.
