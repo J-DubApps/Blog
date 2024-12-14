@@ -30,7 +30,7 @@ honest opinions; however, know that I speak authentically, and I practice *absol
 whenever direct and clear communication with colleagues and team leads is critical. <br />
 
 - **I hope to be predictable**. I'm a firm believer in being consistent in principles. In doing so,
-I hope our team & stakeholders would be less confused & can easily predict expecta:ons. <br />
+I hope our team & stakeholders would be less confused & can easily predict expectations. <br />
 
 - **Directed Independence**. My ideal working style is we work together to define project
 deliverables/timemelines & let the team run with it. I love to get involved to remove roadblocks,
