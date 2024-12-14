@@ -6,7 +6,17 @@ type = 'post'
 tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "project-mgmt", "thought", "funny"]
 +++
 
-This year, something a little different.  No opinion-piece on the blog, just 50 notes of hard-earned wisdom.  Garnered from funny or painful experiences spanning two decades in InfoTech. Enjoy.  <br />
+  <style type="text/css">
+        .e-mail:before {
+            content: attr(data-website) "\0040" attr(data-user);
+            unicode-bidi: bidi-override;
+            direction: rtl;
+        }
+    </style>
+
+<div style="font-size: 13px;">
+This year, something a little different.  No opinion-piece on the blog, just 50 notes of hard-earned wisdom.  Garnered from funny or painful experiences spanning two decades in InfoTech. Enjoy. 
+</div>
 
 1. It's always DNS.
 2. RTFM.

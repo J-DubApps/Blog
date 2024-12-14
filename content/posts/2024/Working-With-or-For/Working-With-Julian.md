@@ -64,7 +64,7 @@ because it's important for me to see the light at the end of the tunnel for each
 
 - **Complex concepts require 'me for me to process**. Certain concepts need time for me to
 completely process. Sometimes, I won't fully understand in one meeting / conversation. If that's
-the case, then I may come back to you later with succinct questions. <br />
+the case, then I may come back to you later with a succinct question or two. <br />
 
 - **I am a visual learner**. The best way to explain a concept to me is to visualize it. I love
 visualizing things because it allows me to easily understand how things are connected. <br />
