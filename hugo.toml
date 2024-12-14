@@ -40,7 +40,7 @@ defaultContentLanguage = "en"
     [[menus.main]]
     name = 'Best-of'
     pageRef = '/best-of'
-    Pre = "<span data-feather='user'></span>"
+    Pre = "<span data-feather='trophy'></span>"
     weight = 25
   [[menus.main]]
     name = 'About'
