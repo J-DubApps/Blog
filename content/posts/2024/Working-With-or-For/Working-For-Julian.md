@@ -1,9 +1,9 @@
 +++
 date = '2024-07-19T23:17:51-06:00'
 draft = false
-title = 'Working for Julian: Another (optional) Guide to how I think and Manage Teams'
+title = 'Working for Me: Guide to how I think & Manage Teams'
 type = 'post'
-tags = ["career", "project-mgmt"]
+tags = ["career", "project-mgmt", "opinion", "best-practice"]
 +++
 
 This contents in this post, below, is <a href="https://julianwest.me/Resume/Working%20for%20Julian.pdf">sourced from a pdf doc</a> I have always kept linked within my online [CV-Resume](https://julianwest.me/Resume/).  It exists as a guide to understand how I think and manage teams in PM or Manager roles. 🤓 <br />
