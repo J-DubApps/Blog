@@ -39,7 +39,7 @@ defaultContentLanguage = "en"
     weight = 20
     [[menus.main]]
     name = 'Best-of'
-    url = '/best-of'
+    pageRef = '/best-of'
     Pre = "<span data-feather='user'></span>"
     weight = 25
   [[menus.main]]
