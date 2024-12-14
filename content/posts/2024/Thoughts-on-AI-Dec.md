@@ -1,9 +1,9 @@
 +++
-date = '2024-12-13T13:13:26-06:00'
+date = '2024-12-13T14:14:51-06:00'
 draft = false
-title = 'Thoughts On AI in DevOps and Enterprise IT'
+title = 'Thoughts On AI'
 type = 'post'
-tags = ["tech, "code", "AI", "devops", "opinion", "thought"]
+tags = ["tech", "code", "thought", "opinion", "career", "AI"]
 +++
 
 People who code and automate things (whether it's in the Valley, or for line-of-business) like to think we're *all that*.  We're really not. <br />
