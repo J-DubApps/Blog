@@ -14,7 +14,7 @@ I can provide you with the ***WHERE***—the documentation, server information, 
 
 ## Setting Clear Expectations and Providing Support
 
-We're all adults and professionals here, and I trust in your ability to take ownership of your tasks and your own self-development. I will set clear expectations for outcomes, and ensure you have the tools and support you need. ***However***, I expect you to begin your work ***without*** requiring immediate step-by-step guidance, hand-holding, or asking numerous questions right from the start.  **Dive in *first***: explore and take the initiative to solve problems independently, and that leads to *better* support from your manager or local SME.  In Enterprise IT and DevOps, your performance is *directly-measured* by outcomes and accountability.  Part of accountability is working independently toward a needed result, and (fair or not) being a self-starter *your currency* for begin able to call-in enthusiastic support from your team.
+We're all adults and professionals here, and I trust in your ability to take ownership of your tasks and your own self-development. I will set clear expectations for outcomes, and ensure you have the tools and support you need. ***However***, I expect you to begin your work ***without*** requiring immediate step-by-step guidance, hand-holding, or asking numerous questions right from the start.  **Dive in *first***: explore and take the initiative to solve problems independently, and that leads to *better* support from your manager or local SME.  In Enterprise IT and DevOps, your performance is *directly-measured* by outcomes and accountability.  Part of accountability is working independently toward a needed result, and (fair or not) being a self-starter is *your currency* for begin able to call-in enthusiastic support from your team.
 
 ## Embracing Challenges and Seeking Help When Truly Stuck
 
@@ -24,7 +24,7 @@ Remember that independently trying ***first*** is <u>***everything***</u> in tro
 
 **Pro Tip**: The secret about getting *enthusiastic support* from your local SME or uber nerd is--*trying to solve problem independently*, and be ok (even excited) to *get stuck first* before firing-off an email thread or asking for help.  If you operate this way, the help and support you receive is fierce and powerful.  If you don't, the help you receive may be unmotivated, uninterested, and sometimes tired.
 
-Again, being a self-starter *your currency* for begin able to call-in enthusiastic support from your team.
+Again, being a self-starter is *your currency* for begin able to call-in enthusiastic support from your team.
 <br />
 
 ## Autonomy and Professional Growth
