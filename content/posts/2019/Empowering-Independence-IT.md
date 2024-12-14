@@ -37,7 +37,7 @@ While I'm not responsible for always identifying the external training you might
 
 ## Take-Aways
 
-If this all feels like a "teach a man to fish" talk, it *is*.  I also believe in throwing the fisherman right into the deep water, to try catching those big fat fishes on their own...before doing any fishing for them or discussing angler techniques.  I am a compassionate guy, but I do *neither of us* any favors if I am doing cross-training before you even *start* fishing, first! 😉<br />
+If this all feels like a "teach a man to fish" talk, it *is*.  I also believe in throwing the fisherman right into some waist-high water, to try catching those big fat fishes on their own, *before* doing any fishing *for them* or teaching angler techniques.  I do *neither of us* any favors if I am doing cross-training before you even *start* fishing, first! 😉  But if you're game, and working hard, I will cross-train all day. <br />
 
 To foster a team environment where everyone takes initiative, learns proactively, and contributes effectively -- I believe people must leave their confort zones and build confidence.  Team leaders should always lead by example here.  Help enthusiastically, but always ask what has been tried. <br /> 
 
