@@ -3,7 +3,7 @@ date = '2024-01-20T14:14:51-06:00'
 draft = false
 title = 'AI Made Us Do It'
 type = 'post'
-tags = ["tech", "AI", "career"]
+tags = ["tech", "AI", "career", "news-link", "enterprise-it"]
 +++
 
 
