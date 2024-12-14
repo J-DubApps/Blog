@@ -29,7 +29,7 @@ IT departments operate in a state of perpetual motion. Software updates, new pol
 	2.	High Pressure and Urgency:
 When critical systems falter—email servers glitch, database queries slow to a crawl, or a global VPN stutters—time is of the essence. The pressure from stakeholders to find the root cause is immense. In a high-stress environment, it’s tempting to reach for the nearest “obvious” explanation to stop the bleeding.
 	3.	Bias Toward the Recent:
-Human memory and perception are biased toward recent events. When faced with an issue, we instinctively recall what’s top-of-mind—particularly the last known change—to anchor our reasoning. This natural cognitive bias can nudge us into making unwarranted causal connections. <br />
+Human memory and perception are biased toward recent events. When faced with an issue, we instinctively recall what’s top-of-mind -- particularly the *last known change* -— to anchor our reasoning. This natural cognitive bias can nudge us into making unwarranted causal connections. <br />
 
 
  ## Why This Matters
