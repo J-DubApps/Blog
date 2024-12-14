@@ -3,7 +3,7 @@ date = '2015-08-03T23:12:16-06:00'
 draft = false
 title = 'Surface Pro 3'
 type = 'post'
-tags = ["tech", "microsoft", "windows"]
+tags = ["tech", "microsoft", "windows", "enterprise-it"]
 +++
 
 I wanted a lighter PC to use in various network IDF & Datacenter locales, for Wireshark caps and other nerdery, so I headed to Best Buy to see how the other half is living lately. 
