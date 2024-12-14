@@ -48,15 +48,15 @@ Falling victim to the Post Hoc fallacy can lead IT teams down expensive and time
 
 To avoid the Post Hoc trap, it’s essential to embrace a more disciplined and systematic approach to troubleshooting. Borrowing from the Scientific Method and other structured methodologies can help you remain objective and open-minded: <br />
 
-1.	Form a Hypothesis (Don’t Assume It’s True):
+1.  **Form a Hypothesis** (Don’t Assume It’s True):
 Instead of declaring, “The recent switch firmware upgrade caused the packet loss,” frame it as a hypothesis: “I suspect the switch firmware upgrade might be contributing to the packet loss.” This subtle shift in language keeps your mind open to alternative explanations.
-2.	Gather and Analyze Data:
+2.  **Gather and Analyze Data**:
 Look beyond the temporal association. Collect logs, performance metrics, system health reports, and application traces. Compare system behavior before and after the suspected change. Often, a more thorough examination will reveal patterns or confounding variables you overlooked.
-3.	Test Multiple Theories:
+3.  **Test Multiple Theories**:
 Have a short list of possible causes, not just one. If the firmware upgrade isn’t panning out as the culprit, consider other factors: changes in network traffic patterns, a newly added VLAN, a load-balancer configuration tweak, or even environmental factors like a failing hard drive.
-4.	Controlled Experiments:
+4.  **Controlled Experiments**:
 If possible, isolate variables. Roll back the suspected change in a controlled environment, like a test lab or a single subset of endpoints, to see if the issue disappears. If it does not, you have evidence that the cause lies elsewhere. A methodical, measurable test is much more reliable than a hunch.
-5.	Documentation and Peer Review:
+5.  **Documentation and Peer Review**:
 Document your hypotheses, tests, findings, and outcomes. Share these with a colleague for a sanity check. A second set of eyes might catch a detail you’ve missed or suggest an alternative line of inquiry.
 
 ## Staying Vigilant *and* Open-Minded
