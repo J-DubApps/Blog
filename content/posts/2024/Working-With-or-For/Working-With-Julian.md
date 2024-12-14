@@ -17,7 +17,7 @@ stakeholders don't have to. Once we make a decision, we move forward together. <
 understand the others' PoV. In doing so, I hope to remove fric:ons with debates & incorporate
 as much feedback into our team's work as possible. In discretionary moments I will provide my
 honest opinions; however, know that I speak authentically, and I practice *absolute candor*
-whenever direct and clear communication with colleagues is critical. <br />
+whenever direct and clear communication with colleagues and team leads is critical. <br />
 
 - I hope to be predictable. I'm a firm believer in being consistent in principles. In doing so,
 I hope our team & stakeholders would be less confused & can easily predict expecta:ons. <br />
