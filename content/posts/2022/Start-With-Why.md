@@ -10,9 +10,9 @@ tags = ["tech", "career", "project-mgmt", "books", "thought"]
 
 ## Here’s a summary of the key leadership principles outlined in the book:
 
-1. **The Golden Circle**
+1. **The Golden Circle** <br />
 -**Why**: The core belief or purpose that drives an individual or organization—essentially, why they exist beyond making money. <br />
--**How**: The process or specific actions taken to realize the Why.
+-**How**: The process or specific actions taken to realize the Why.<br />
 -**What**: The tangible outcomes, products, or services that result from those actions. <br />
 
 Sinek argues that most organizations start from the outside in (focusing on What), but great leaders and successful companies operate from the inside out, starting with *Why*.<br />
