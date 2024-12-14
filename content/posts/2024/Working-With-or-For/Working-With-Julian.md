@@ -6,7 +6,17 @@ type = 'post'
 tags = ["career", "project-mgmt", "opinion"]
 +++
 
-This contents in this post, below, is <a href="https://julianwest.me/Resume/Working%20with%20Julian.pdf">sourced from a pdf doc</a> I have always kept linked within my online [CV-Resume](https://julianwest.me/Resume/).  It exists as a mini-manual to my brain, for any interested teams that I am working with. 🤓 <br />
+  <style type="text/css">
+        .e-mail:before {
+            content: attr(data-website) "\0040" attr(data-user);
+            unicode-bidi: bidi-override;
+            direction: rtl;
+        }
+    </style>
+
+<div style="font-size: 12px;">
+This contents in this post, below, is <a href="https://julianwest.me/Resume/Working%20with%20Julian.pdf">sourced from a pdf doc</a> I have always kept linked within my online [CV-Resume](https://julianwest.me/Resume/).  It exists as a mini-manual to my brain, for any interested teams that I am working with. 🤓 
+</div>
 
 # Leadership Principles <br />
 - **Challenge internally, champion externally**. I find it's most helpful when our team is free
