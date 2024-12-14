@@ -6,4 +6,4 @@ type = 'post'
 tags = ["tech, "code", "devops", "opinion", "thought"]
 +++
 
-**Time for some yearly hot-sports-opinions about coding...** <br /><br />
+Test
