@@ -23,14 +23,14 @@ This contents in this post, below, is <a href="https://julianwest.me/Resume/Work
 - **Serving Others**. I lead by pu-ng the welfare of the team first. I have a service-oriented
 mindset to ensure the well-being (and, thus, eﬀec?veness) of my reports, which leads to higher
 morale and beAer performance. Eﬀec?ve leaders make sure the work is done, yet they also
-priori?ze empathy, understanding the needs, challenges, and perspec?ves of their team
+priori?ze empathy, understanding the needs, challenges, and perspectives of their team
 members. This allows leaders to build stronger rela?onships and inspire loyalty. <br />
 
 - **Coach mode**. While I put a big value on being a Servant Leader, some?mes managed
 reports need a diﬀerent approach at crunch-?me. I help reports create a plan of aAack on a
-problem or task, to meet the challenge. This also means demonstra?ng values such as integrity,
-resilience, and hard work, which sets a standard for others to follow. I call this method “coach
-mode” because I am leading on the field (working tasks) and resolving performance issues that I
+problem or task, to meet a challenge. This also means demonstra?ng values such as integrity,
+resilience, and hard work, which sets a standard for others. I call this “coach
+mode” because I am leading on the field (working tasks) with the team, and resolving performance issues that I
 see as-they-happen. Team leaders who can pivot to “coach mode” foster a culture where people
 feel secure, valued, and mo?vated, leading to a more cohesive high-performing team. <br />
 
