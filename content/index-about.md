@@ -13,7 +13,7 @@
 
 
 <i>Top Menu Key</i>:
- <table style="margin: 0 auto; text-align: left;">
+ <table style="margin: 0 auto;">
         <tr>
 <td>Blog = Firehose (15+ yrs of content) <br />
 Best-of = Posts w/ high traffic/reads and/or feedback. <br />
