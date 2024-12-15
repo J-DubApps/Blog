@@ -7,11 +7,13 @@ tags = ["family", "life-event", "rip"]
 +++
 
 
-My mother Joy Pennybacker West passed from this world earlier this evening. 8:23pm. I was holding my mother as she took her last breaths.  Her favorite music was playing.<br />
+My mother [**Joy Pennybacker West**](https://julianwest.me/Blog/joy-pennybacker-west-obit/) passed from this world earlier this evening. 8:23pm. I was holding my mother as she took her last breaths.  Her favorite music was playing.<br />
 
 She was a great mom to me, and a light in the world for those who knew her.  I am not able to find words right now.  I just want to thank my mom, for everything she gave me in life. <br />
 
-We are still planning her memorial which I will post here when I know more.
+We are still planning her memorial which I will post here when I know more. <br />
+
+**Update**: The memorial and celebration of the life of Joy West will be held on **January 21st** at [Hughes Family Tribute Center](https://www.hughesftc.com), at noon.  All are welcome to attend.
 
 
 <style>

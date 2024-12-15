@@ -3,7 +3,7 @@ date = '2022-01-21T23:22:51-06:00'
 draft = false
 title = 'Eulogy for Joy Pennybacker West, by her son Julian'
 type = 'post'
-tags = ["family", "life-event", "rip", "special-write-up"]
+tags = ["family", "life-event", "rip", "special-write-up", "best-of"]
 +++
 
 <style>
@@ -16,8 +16,8 @@ tags = ["family", "life-event", "rip", "special-write-up"]
   <img src="https://julianwest.me/Blog/posts/images/mom-memorial.jpeg" alt="Alt text" width="325" height="165">
 </div>
 
-<b>Eulogy for Joy Pennybacker West</b><br />
-<i>As spoken by her son Julian at her memorial on January 21, 2022</i><br /><br />
+Eulogy for [**Joy Pennybacker West**](https://julianwest.me/Blog/joy-pennybacker-west-obit/) <br />
+<i>As spoken by her son Julian at her memorial on **January 21, 2022**</i><br /><br />
 
 I want to thank all of you for coming today, and everybody watching over the Internet, to hear me celebrate the life of my mother, <b>Joy Pennybacker West</b>.  I wrote this Eulogy for <b><i>Momma Joy</i></b> in 2019, because twice that year we thought we were close to losing her.  But, you see, my Mom was not someone you could ever predict, and that was one of the many things we loved about her.<br />
 
