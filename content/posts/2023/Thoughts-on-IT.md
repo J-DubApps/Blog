@@ -53,12 +53,12 @@ This year, something a little different.  No opinion-piece on the blog, just 50 
 33. Temporary is *permanent*: “*this bandaid fix on the server is just temporary...*” —somebody 5 years ago.
 34. There are no policies, only *levels of resistance*.
 35. The end user *will* ***lie***.
-36. Don't acknowledge or provide technical info about an active outage event to users: deflect until the problem is fixed. Nobody gets explanations until *after* your team analyzes the root cause, *after* uptime is restored. That's what post incident-reports are for.  Don't allow VIPs to bait you into an explanation death-spiral *while* still troubleshooting: they don't care and are only interested in blame-assignment. Reason and patience only return after services get restored.
+36. Don't acknowledge or provide technical info about an active outage event to users: deflect until the problem is fixed. Nobody gets explanations until *after* your team analyzes the root cause, *after* uptime is restored. That's what post incident-reports are for.  Don't allow a VIP to bait you into an explanation death-spiral *while* still troubleshooting: they don't care, and are onto blame-assignment. Reason and patience only return after services get restored.
 37. Don't do special favors because people will expect it everytime.
 38. Redundancy is key: two is *one*, one is ***none***.  Redundancy is key: two is *one*, one is ***none***.
 39. Get that request in writing.
 40. When estimating time, add at least 50%.
-41. Good, Cheap, Fast. *Pick 1*.
+41. Good, Cheap, or Fast. **Pick 1**.
 42. Don't chain people on emails where they have to read a week-long thread, to even understand the conversation or context.
 43. Design for uptime and redundancy where you can: if I can’t randomly unplug something in your datacenter, without a production outage, it’s a disaster waiting to happen.
 44. <b>https://xyproblem.info/</b>
@@ -67,6 +67,6 @@ This year, something a little different.  No opinion-piece on the blog, just 50 
 47. ⁠Always keep your <a href="https://julianwest.me/Resume/">resume updated.</a> 😉
 48. Work life balance - Set standards with how approachable you are outside of work hours.
 49. Dev is *dev* and prod is *prod*. NEVER put anything that impacts prod in your dev environment. 
-50. AI won't take your job, someone using AI that will take your job. <br /> <br />
+50. AI won't take your job, someone using AI will take your job. <br /> <br />
 
 ***Bonus***. If you're in charge, and you have to tell people you're in charge...you're *not* in charge.
