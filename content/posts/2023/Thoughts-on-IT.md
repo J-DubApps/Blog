@@ -64,9 +64,9 @@ This year, something a little different.  No opinion-piece on the blog, just 50 
 44. <b>https://xyproblem.info/</b>
 45. <b>https://nohello.net/en/</b>
 46. Remember that we work in a service industry.
-47. ⁠Always keep your <a href="https://julianwest.me/Resume/">resume updated.</a>
+47. ⁠Always keep your <a href="https://julianwest.me/Resume/">resume updated.</a> 😉
 48. Work life balance - Set standards with how approachable you are outside of work hours.
 49. Dev is *dev* and prod is *prod*. NEVER put anything that impacts prod in your dev environment. 
-50. AI won't take your job, it's someone using AI that will take your job. <br /> <br />
+50. AI won't take your job, someone using AI that will take your job. <br /> <br />
 
 ***Bonus***. If you're in charge, and you have to tell people you're in charge...you're *not* in charge.
