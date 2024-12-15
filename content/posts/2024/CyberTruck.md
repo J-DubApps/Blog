@@ -3,7 +3,7 @@ date = '2024-08-17T23:17:51-06:00'
 draft = false
 title = 'CyberTruck Cancellation'
 type = 'post'
-tags = ["family", "cars", "ev", "tech"]
+tags = ["family", "cars", "ev", "tech", "opinion"]
 +++
 
 

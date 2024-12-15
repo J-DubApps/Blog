@@ -3,14 +3,14 @@ date = '2019-04-02T20:10:26-06:00'
 draft = false
 title = 'Empowering Independence: My Approach to Cross-Training'
 type = 'post'
-tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "project-mgmt", "thought"]
+tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "project-mgmt", "thought", "best-of"]
 +++
 
 In a dynamic world of IT Systems Ops and DevOps, effective cross-training is a always challenge. Skill-ups are essential for both individual growth *and* team success. Over many years of experience as a PM, manager, and mentor, I have developed a philosophy that emphasizes: ***self-reliance, initiative, and continuous learning***.  Here is my personal manifesto on cross-training, my contribution to developing proficient and empowered teams. <br />
 
 ## Teaching the *WHERE* or the *WHAT*, Not Always the *WHY* or the *HOW*
 
-I can provide you with the ***WHERE***—the documentation, server information, IP addresses, and other essential resources. ***However***, I may not always have the time to delve into the ***WHY*** behind every decision or the ***HOW*** of every process. The nuances of our systems and the depth of understanding come from *hands-on experience*, your own personal initiative, and time. While I can guide you to resources and sometimes briefly talk about a technology or tool, uncovering the *why* and *how* is ultimately ***your*** journey: and that journey must involve exploration and practice, sometimes on your own time.  It's how you get *good* at anything in this line of work.  If you put in your time, *same as everybody else*, you can become the expert you want to be.  And if you don't have the time (and I get it, I truly do) to uncover the *why* and *how* of stuff -- then you at least owe it to the team to work hard to use the *where* and the *what* as best you can.
+I can provide you with the ***WHERE***—the documentation, server information, IP addresses, and other essential resources. ***However***, I may not always have the time to delve into the ***WHY*** behind every decision or the ***HOW*** of every process. I am not talking about "**Why**" of a team or organization, such as "Why" covered in the book [Star With Why](https://julianwest.me/Blog/start-with-why/).  I am talking about giving someone First Principles training, which always covers the *Why* of a thing.  The nuances of our systems and the depth of understanding come from *hands-on experience*, your own personal initiative, and time. While I can guide you to resources and sometimes briefly talk about a technology or tool, uncovering the *why* and *how* is ultimately ***your*** journey: and that journey must involve exploration and practice, sometimes on your own time.  It's how you get *good* at anything in this line of work.  If you put in your time, *same as everybody else*, you can become the expert you want to be.  And if you don't have the time (and I get it, I truly do) to uncover the *why* and *how* of stuff -- then you at least owe it to the team to work hard to use the *where* and the *what* as best you can.
 
 ## Setting Clear Expectations and Providing Support
 
