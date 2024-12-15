@@ -40,7 +40,7 @@ defaultContentLanguage = "en"
     [[menus.main]]
     name = 'Best-of'
     url = '/tags/best-of'
-    Pre = "<span data-feather='trophy'></span>"
+    Pre = "<span data-feather='medal'></span>"
     weight = 25
   [[menus.main]]
     name = 'About'
