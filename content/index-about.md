@@ -8,8 +8,9 @@
     </style>
 
 <br />
-<div style="font-size: 10px;">
 <p style="text-align:center;">
+<div style="font-size: 10px;">
+
 
 <i>Top Menu Key</i>:
  <table style="margin: 0 auto; text-align: left;">
@@ -20,6 +21,6 @@ Tags = Tagged Category Content (maybe <i>start here</i>...)
 </td>
 </tr>
 </table>
-</p>
-</div>
 
+</div>
+</p>
