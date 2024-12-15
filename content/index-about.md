@@ -15,10 +15,19 @@
 <p style="text-align:center;">
  <table style="margin: 0 auto; text-align: left;">
         <tr>
-<td>Blog = Firehose (15+ yrs of content)</td>
-<td>Best-of = Posts w/ hight traffic/reads and/or feedback.</td>
-<td>Tags = Tagged Category Content (maybe <i>start here</i>...)</td>
+<td>Blog</td>
+<td> = </td>
+<td>Firehose (15+ yrs of content)</td>
 </tr>
+<td>Best-of</td>
+            <td>=</td>
+            <td>Posts w/ high traffic/reads and/or feedback.</td>
+        </tr>
+        <tr>
+            <td>Tags</td>
+            <td>=</td>
+            <td>Tagged Category Content (maybe <i>start here</i>...)</td>
+        </tr>
 </table>
 </p>
 </div>
