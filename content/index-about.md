@@ -7,13 +7,14 @@
         }
     </style>
 
-<div style="font-size: 11px;">
+<div style="font-size: 10px;">
 
+<br />
 <p> <i>Top Menu Key</i>: <br />
 
-Blog = Firehose (all 15+ years)
-Best-of = Posts with most traffic/reads and feedback.
-Tags = Tagged Category Content (maybe start here...)
+Blog = Firehose (15+ yrs of content) <br />
+Best-of = Posts w/ hight traffic/reads and/or feedback. <br />
+Tags = Tagged Category Content (maybe <i>start here</i>...) <br />
 
 </p>
 
