@@ -36,7 +36,7 @@ I am learning that accepting and experiencing people for <i>who they are</i>, wi
 
 I had hateful and cynical moments in the weeks and months after this, and I didn’t believe what doctors said about much of anything for years. I withheld my trust and extended only extended fear and cynicism to others. The longer I operated this way, the less secure and more distrustful I became of pretty much everything. I forgot <b>trust is an act, of you granting it.</b>  Even while it's granted, not necessarilly earned, past trauma makes you distrustful anyway. I eventually re-learned that being a fearful and angry person in the world doesn’t help you all that much. In fact it does exactly the opposite and hurts you in the long run, just as it surely hurts people in your life as well.<br />
 
-All we can do is try to not run through the door that “constant fear of loss” opens wide for us. Whether we learn it from a Zen Master or a flawed George Lucas movie, fear really does lead to anger and suffering.<br />
+All we can do is try to not run through the door that “constant fear of loss” opens wide for us. Whether we learn it from a Zen Master or Star Wars, fear really *does* lead to anger and suffering.<br />
 
 <i>Correct</i>, Yoda was.<br />
 

@@ -3,12 +3,10 @@ date = '2013-01-21T23:17:51-06:00'
 draft = false
 title = 'MLK Jr'
 type = 'post'
-tags = ["usa", "history", "culture", "opinion", "special-write-up", "thought"]
+tags = ["usa", "history", "culture", "opinion", "special-write-up", "thought", "best-of"]
 +++
 
-
-
-So today <a href="https://en.wikipedia.org/wiki/Barack_Obama">Barack Obama</a> was sworn in for term number 2, and I want to agree with the talking heads on TV who say that country has come a long way.  But then I see things that show me: we haven't come all that far.<br />  
+So today <a href="https://en.wikipedia.org/wiki/Barack_Obama">Barack Obama</a> was sworn in for term # 2, and I want to agree with the talking heads on TV who say that country has come a long way.  But then I see things that show me: we haven't come all that far.<br />  
 
 Irrespective of today’s event, we just aren't all that far from how it was 40 or 50 years ago.<br />
 

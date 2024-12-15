@@ -3,7 +3,7 @@ date = '2013-11-21T23:08:47-06:00'
 draft = false
 title = 'My Mom and Dad Passed THIS Close to JFK&apos;s Killer. Three times.'
 type = 'post'
-tags = ["usa", "history", "dallas"]
+tags = ["usa", "history", "dallas", "best-of"]
 +++
 
 Tomorrow is the 50th Anniversary of JFK’s assassination in Dallas, and my 83 year-old mother Joy West remembers November 22nd very well. She and my father lived at 406 Lilac Lane in Irving, Texas…..<b><i>five houses down</b></i> from Ruth Paine’s home where Marina Oswald lived in the fall of 1963. Lilac is a short street that curves and becomes West 5th Street, where the Paines lived at 2515.<br />
