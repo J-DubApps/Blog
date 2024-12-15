@@ -1,10 +1,11 @@
+{{ $bothTags := where (where .Site.RegularPages "Params.tags" "in" "best-of") "Params.tags" "in" "tech" }}
 
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
 <p>{{ .Content }}</p>
 <ul>
-{{ range where .Site.RegularPages "Params.tags" "intersect" (slice "best-of" "tech") }}
-  <li><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></li>
-{{ end }}
+  {{ range $bothTags }}
+    <li><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></li>
+  {{ end }}
 </ul>
 {{ end }}
