@@ -39,7 +39,7 @@ defaultContentLanguage = "en"
     weight = 20
     [[menus.main]]
     name = 'Best-of'
-    url = '/tags/best-of'
+    url = 'https://julianwest.me/Blog/best-of/'
     Pre = "<span data-feather='star'></span>"
     weight = 25
   [[menus.main]]
@@ -260,7 +260,6 @@ filename = "sitemap.xml"
   category = "categories"
   tag = "tags"
   collection = "collections"
-  groups = "groups"
 
 # -------------------------------------------------------------------------------------
 # Theme Core Configuration
