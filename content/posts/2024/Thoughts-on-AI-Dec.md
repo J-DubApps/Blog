@@ -10,7 +10,7 @@ People who code and automate things (whether it's for a valley tech giant, or a 
 
 ***We’re digital carpenters*** who are paid well only because demand still outstrips supply...and people think what we do is super-complicated wizardry. It’s not - it’s advanced sudoku at best.  <br />
 
-Sure, you *still* need to be smart build experience to be *good* at it. But coding (while maybe not easily *taught* to humans quickly) is not the *Rain Man + Gandalf* thing many think it is. But *practice* of *making*...of *creating* something useful to people (seemingly out of thin air) will always be nothing short of magic.  That *said*, the tech layoffs of the past 20 months have taught me that coding for automation, site-resilience, and overall operations is becoming... *less* rare in terms of supply.  ***This is due to*** ***AI*** and its rise. <br />
+Sure, you *still* need to be smart & build experience to be *good* at it. But coding (while maybe not easily *taught* to humans quickly) is not the *Rain Man + Gandalf* thing many think it is. But *practice* of *making*...of *creating* something useful to people (seemingly out of thin air) will always be nothing short of magic.  That *said*, the tech layoffs of the past 20 months have taught me that coding for automation, site-resilience, and overall operations is becoming... *less* rare in terms of supply.  ***This is due to*** ***AI*** and its rise. <br />
 
 I have always said: **it's not AI that will take your job, it's ***people*** who learned to wield who will take your job.**  And I see a *lot* of junior engineers and non-coders wielding it, for DevOps stuff these days.  <br />
 
