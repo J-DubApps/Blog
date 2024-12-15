@@ -61,7 +61,7 @@ defaultContentLanguage = "en"
      weight = 42
   [[menus.footer]]
     name = 'Colophon'
-    pageRef = '/colophon/colophon'
+    pageRef = '/colophon'
     weight = 10
   [[menus.footer]]
     name = 'Terms'
