@@ -19,9 +19,7 @@
 <td> = </td>
 <td>Firehose (15+ yrs of content)</td>
 </tr>
-<td>Best-of</td>
-            <td>=</td>
-            <td>Posts w/ high traffic/reads and/or feedback.</td>
+<td>Best-of = Posts w/ high traffic/reads and/or feedback.</td>
         </tr>
         <tr>
             <td>Tags</td>
