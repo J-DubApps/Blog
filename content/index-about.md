@@ -12,7 +12,6 @@
 <div style="font-size: 10px; text-align: center;">
 
     <i>Top Menu Key</i>:
-    </div>
     <table style="margin: 0 auto; text-align: left;">
         <tr>
             <td>
