@@ -10,11 +10,11 @@ tags = ["blog", "tech", "code"]
 
 PSA: blog is moving soon from <a href="blog.julianwest.me">blog.julianwest.me</a> to <a href="https://julianwest.me/Blog">julianwest.me/Blog</a>.  You can actually bookmark or switch RSS feeds now.  Soon "blog.julianwest.me" will be no more as the new one takes over.<br />
 
-The blog is also retiring its name, the "<b><i>Faults and Observations</i></b> (FAO)" moniker, and just becoming My Blog on "julianwest.me".   Simplification is the reason.  <br /> 
+The blog is also retiring the "***Faults and Observations***" (**FAO**) name. It's just "julianwest.me" now. Simplification is the reason.  <br /> 
 
-The blog was hosted over on <a href="https://medium.com">Medium</a> for nearly a decade, and I'll have a separate write-up tomorrow on what lead to this move tomororw. It's mainly like I said, simplification.  I need to dumb this thing down, remove friction to ease-of-posting.  I also grown increasingly disappointed in where Medium has been going, more on that tomorrow. <br />
+The blog was hosted on <a href="https://medium.com">Medium</a> for nearly a decade, and I'll have a separate write-up tomorrow on what lead to the move. It's mainly like I said, simplification.  But also Medium kinda sucks now, too.  And I need to dumb this thing down: remove friction to ease-of-posting. <br />
 
-Anyway I'm liking the new place, if you read this blog you probably will too.  I have themed it with an available Dark Mode, and unified my julianwest.me site Contact info here.  Clean.  Simple. And hosted undder my <a href="https://pages.github.com">GitHub Pages</a> now! For more info click the <b>Colophon</b> link below at the footer of this article.<br />
+Anyway I'm liking the new setup, if you read this blog you probably will too.  I have themed it with an available Dark Mode, and unified my julianwest.me site contents & Contact info here.  Clean.  Simple. For more on the blog hosting setup, click the <b>Colophon</b> link below at the footer.<br />
 
 So welcome to the new digs, and I now offer you a quote from <a href="http://julianwest.me/Blog/hello-world/">my very first post on Medium</a> from way back in 2012:
 
