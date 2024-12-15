@@ -8,9 +8,9 @@ tags = ["thought", "philosophy", "opinion", "health", "culture", "special-write-
 
 People like to say (myself included) that “<i>it costs nothing to be kind...”</i> <br /> 
 
-I 💯 believe this; *however*... <br />
+I 💯 believe this; *yet*... <br />
 
-...depending on your are in your life circumstances, the daily grind has a way of draining mental energy needed to stop and express kindness or empathy. People rarely hold a deep well of compassion as it is when their plate is full, and they're just trying to keep it together. Maintaining mental health and thick skin in a sometimes-dark world, it's a daily struggle for some people. Even the strongest people. <br />
+...depending on where you are in your life circumstances, the daily grind has a way of draining mental energy needed to stop and express kindness or empathy. People rarely hold a deep well of compassion as it is when their plate is full, and they're just trying to keep it together. Maintaining mental health and thick skin in a sometimes-dark world, it's a daily struggle for some people. Even the strongest people. <br />
 
 So, yeah, being kind isn't always "free" if you're stressed-out and have nothing in the proverbial tank to express it. **But the thing about kindness, is** ***this***: if you dig deep and summon whatever energy you can to ***be kind***, you get something *back* the instant you do it. <br />
 
