@@ -1,7 +1,7 @@
 
 {{ define "main" }}
-  <h1>Best of</h1>
-  <p>Here are some of the most popular posts on this site.</p>
+<h1>{{ .Title }}</h1>
+<p>{{ .Content }}</p>
 <ul>
 {{ range where .Site.RegularPages "Params.tags" "intersect" (slice "best-of") }}
   <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
