@@ -7,18 +7,16 @@
         }
     </style>
 
-<p>
-<div style="font-size: 10px;">
 
+<div style="font-size: 10px;">
+<p style="text-align:center;">
 <br />
 <i>Top Menu Key</i>: <br />
 
 Blog = Firehose (15+ yrs of content) <br />
 Best-of = Posts w/ hight traffic/reads and/or feedback. <br />
 Tags = Tagged Category Content (maybe <i>start here</i>...) <br />
-
-
+</p>
 
 </div>
 
-</p>
