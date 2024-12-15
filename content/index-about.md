@@ -10,8 +10,8 @@
 <br />
 
 <div style="font-size: 8px;" >
-<i>Top Header Menu Key</i>:
 <table style="margin: 0 auto; text-align: left;">
+<i>Top Header Menu Key</i>:
  <tr>
     <td>Blog = Firehose (15+ yrs of content) <br />
     Best-of = Posts w/ high traffic/reads and/or feedback. <br />
