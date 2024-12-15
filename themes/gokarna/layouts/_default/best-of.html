@@ -1,14 +1,10 @@
-<h1>Best of</h1>
-{{ if in $postTags "best-of" }}
-<div class="post-title">
-     <a href="{{ .Permalink }}" class="post-link">{{ .Title | markdownify }}</a>
 
+{{ define "main" }}
+  <h1>Best of</h1>
   <p>Here are some of the most popular posts on this site.</p>
-  
-  <ul>
-    {{ range where .Site.RegularPages "Params.tags" "intersect" (slice "best-of") }}
-      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-    {{ end }}
-    </ul>
-    {{ end }}
-  </div>
+<ul>
+{{ range where .Site.RegularPages "Params.tags" "intersect" (slice "best-of") }}
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+{{ end }}
+</ul>
+{{ end }}
