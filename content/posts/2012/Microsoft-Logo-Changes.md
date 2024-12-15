@@ -3,7 +3,7 @@ date = '2012-08-23T23:07:36-06:00'
 draft = false
 title = 'Microsoft Logo Changes'
 type = 'post'
-tags = ["tech", "microsoft"]
+tags = ["tech", "microsoft", "enterprise-it"]
 +++
 
 
