@@ -3,7 +3,7 @@ date = '2013-09-26T23:06:05-06:00'
 draft = false
 title = 'Yoda Was Right About Fear'
 type = 'post'
-tags = ["thought", "scifi", "philosophical", "film-tv"]
+tags = ["thought", "scifi", "philosophy", "film-tv", "best-of"]
 +++
 
 <style>
@@ -16,13 +16,13 @@ tags = ["thought", "scifi", "philosophical", "film-tv"]
   <img src="https://julianwest.me/Blog/posts/2013/Yoda-Was-Right-About-Fear/yoda.jpeg" alt="Alt text">
 </div><br />
 
-Although the Star Wars prequels were among the least-enjoyed among Gen-X and older fans, there is this fantastic Zen observation in Episode I which few people notice. Putting aside the poorly-scripted dialog & Jar-Jar scenes, there is a part I enjoy where Yoda discusses fear and attachment and hints at a fundamentally powerful way to be in life.<br />
+Star Wars prequels were among the least-enjoyed among Gen-X fans, but there is a fantastic Zen observation in Episode I which few people notice. The part I love is where Yoda discusses fear and attachment, and hints at a fundamentally powerful way manage life.<br />
 
 It’s that scene where Yoda asks Anakin how he feels. He observes Anakin’s fears about losing his mother, and Anakin asks what fear has to do with anything — to which Yoda answers:<br />
 
->“Everything! Fear is the path to the dark side. Fear leads to <i>anger</i>. Anger leads to <i>hate</i>. Hate leads to <i>suffering</i>.”<br />
+>“Everything! Fear is the path to the dark side. Fear leads to <i>anger</i>. Anger leads to <i>hate</i>. Hate leads to ***suffering***.”<br />
 
-Yoda’s dimestore-buddhism actually offers huge insights into how we experience attachment, loss, and how we fear loss in general. We all know (or <i>should</i> know) that constantly fearing loss can ruin your life. And while you may not turn into Darth Vader, it’s no way to live. Living in fear of losing something or someone will turn you into one of those glass-half-empty cynical a**holes who only see negative. It’s a dark way to experience your life, a darker side of things if you will (pun). It seems obvious fear of loss makes you anxious and angry, but indulge me here, brave Star Wars fan.<br />
+Yoda’s dimestore-buddhism actually offers *real insights* into how we experience attachment and loss, and how we fear loss in general. We all know (or <i>should</i> know) that constantly fearing loss can ruin your life. And while you may not turn into Darth Vader, it’s no way to live. Living in fear of losing something or someone will turn you into one of those glass-half-empty cynical a**holes who only see negative. It’s a dark way to experience your life, a darker side of things if you will (pun). It seems obvious fear of loss makes you anxious and angry, but indulge me here, brave Star Wars fan.<br />
 
 In my teen years and beyond, I struggled internally with my mother’s decisions and the evolving state of her health. So I would try to get my mom to stop smoking or eat better, because I feared she would get cancer or die early like my father did in his 40s. So I tried many, many, times to help Mom just transform into this healthy person that she “should be”.<br />
 
