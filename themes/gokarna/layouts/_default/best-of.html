@@ -1,8 +1,4 @@
-
-{{ define "main" }}
-  <h1>Best of</h1>
-  <p>Here are some of the most popular posts on this site.</p>
-  {{ $postTags := or .Params.Tags slice }}
+{{ $postTags := or .Params.Tags slice }}
 {{ if in $postTags "best-of" }}
 <div class="post-title">
      <a href="{{ .Permalink }}" class="post-link">{{ .Title | markdownify }}</a>
