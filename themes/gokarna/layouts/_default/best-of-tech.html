@@ -1,11 +1,12 @@
-{{ $bothTags := where (where .Site.RegularPages "Params.tags" "in" "best-of") "Params.tags" "in" "tech" }}
-
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
 <p>{{ .Content }}</p>
 <ul>
-  {{ range $bothTags }}
+{{ range .Site.RegularPages }}
+  {{ $tags := .Params.tags }}
+  {{ if and (in $tags "best-of") (in $tags "tech") }}
     <li><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></li>
   {{ end }}
+{{ end }}
 </ul>
 {{ end }}
