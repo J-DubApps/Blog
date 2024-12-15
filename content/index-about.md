@@ -1,5 +1,4 @@
-<br /><br />
-
+<br />
 <div style="font-size: 7px; text-align: center;" >
  <i>Top Header Menu</i>:<br /><br />
     Blog = Firehose (15+ yrs of content) <br />
