@@ -18,6 +18,8 @@
 <td>Blog = Firehose (15+ yrs of content)</td>
 <td>Best-of = Posts w/ hight traffic/reads and/or feedback.</td>
 <td>Tags = Tagged Category Content (maybe <i>start here</i>...)</td>
+</tr>
+</table>
 </p>
 </div>
 
