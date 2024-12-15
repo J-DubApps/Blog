@@ -11,8 +11,8 @@
 
 <div style="font-size: 8px;" >
 <table style="margin: 0 auto; text-align: left;">
-<i>Top Header Menu Key</i>:
  <tr>
+ <i>Top Header Menu Key</i>:
     <td>Blog = Firehose (15+ yrs of content) <br />
     Best-of = Posts w/ high traffic/reads and/or feedback. <br />
     Tags = Tagged Category Content (maybe <i>start there</i>...)
