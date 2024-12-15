@@ -10,16 +10,18 @@
 <br />
 
 <div style="font-size: 10px; text-align: center;">
-<p style="text-align: center;">
     <i>Top Menu Key</i>:
-    <table style="margin: 0 auto; text-align: left;">
+    </div>
+    <div style="text-align: center;">
+    <table style="margin: 0 auto; text-align: left; border-collapse: collapse;">
         <tr>
-            <td>
-                Blog = Firehose (15+ yrs of content) <br />
-                Best-of = Posts w/ high traffic/reads and/or feedback. <br />
-                Tags = Tagged Category Content (maybe <i>start here</i>...)
-            </td>
+            <td>Blog = Firehose (15+ yrs of content)</td>
+        </tr>
+        <tr>
+            <td>Best-of = Posts w/ high traffic/reads and/or feedback.</td>
+        </tr>
+        <tr>
+            <td>Tags = Tagged Category Content (maybe <i>start here</i>...)</td>
         </tr>
     </table>
-</p>
 </div>
