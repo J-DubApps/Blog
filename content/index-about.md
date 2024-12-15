@@ -10,7 +10,7 @@
 <br />
 
 <div style="font-size: 10px; text-align: center;">
-
+<p style="text-align: center;">
     <i>Top Menu Key</i>:
     <table style="margin: 0 auto; text-align: left;">
         <tr>
@@ -21,5 +21,5 @@
             </td>
         </tr>
     </table>
-
+</p>
 </div>
