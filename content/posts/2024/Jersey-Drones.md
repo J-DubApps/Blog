@@ -15,7 +15,7 @@ You know, when planes typically stop landing at airports?  <br />
 
 
 <div>
-  <img src="https://julianwest.me/Blog/posts/images/plane-lights.jpeg" alt="Alt text">
+  <img src="https://julianwest.me/Blog/posts/images/plane-lights.jpeg" alt="Alt text" width="400" height="215">
 </div> 
 
 **Man, we a really <u>ARE</u> living in the ***dumbest*** of times**...
