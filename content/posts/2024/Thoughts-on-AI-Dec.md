@@ -3,7 +3,8 @@ date = '2024-12-13T14:14:51-06:00'
 draft = false
 title = 'Thoughts On AI In A DevOps World'
 type = 'post'
-tags = ["tech", "code", "thought", "opinion", "career", "AI", "enterprise-it", "best-of"]
+tags = ["tech", "thought", "opinion", "career", "AI", "enterprise-it", "best-of"]
+categories = ["devops", "programming"]
 +++
 
 People who code and automate things (whether it's for a valley tech giant, or a line-of-business pipeline) like to think we're *all that*.  We're really not. <br />

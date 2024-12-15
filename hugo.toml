@@ -260,6 +260,7 @@ filename = "sitemap.xml"
   category = "categories"
   tag = "tags"
   collection = "collections"
+  groups = "groups"
 
 # -------------------------------------------------------------------------------------
 # Theme Core Configuration
