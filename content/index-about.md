@@ -13,14 +13,12 @@
 
 
 <i>Top Menu Key</i>:
- <table style="margin: 0 auto;">
+ <table style="margin: 0 auto; text-align: center;">
         <tr>
-        <div style="font-size: 10px; text-align: center;">
 <td>Blog = Firehose (15+ yrs of content) <br />
 Best-of = Posts w/ high traffic/reads and/or feedback. <br />
 Tags = Tagged Category Content (maybe <i>start here</i>...)
 </td>
-</div>
 </tr>
 </table>
 
