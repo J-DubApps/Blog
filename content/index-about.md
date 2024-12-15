@@ -9,14 +9,9 @@
 
 <br />
 
-<div style="font-size: 8px;" >
-<table style="margin: 0 auto; text-align: left;">
- <tr>
+<div style="font-size: 7px;" >
  <i>Top Header Menu Key</i>:
-    <td>Blog = Firehose (15+ yrs of content) <br />
+    Blog = Firehose (15+ yrs of content) <br />
     Best-of = Posts w/ high traffic/reads and/or feedback. <br />
     Tags = Tagged Category Content (maybe <i>start there</i>...)
-    </td>
- </tr>
-</table>
 </div>
