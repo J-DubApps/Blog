@@ -24,11 +24,23 @@ tags = ["blog"]
 
 ### Blog shortcuts to popular *Tagged* content:
 
-📷 [Photo posts during Travel or Life](https://julianwest.me/Blog/tags/photo/)
+
 
 🗞️ [News Link Items](https://julianwest.me/Blog/tags/news-link/)
 
+🔰 [IT Fundamentals](https://julianwest.me/Blog/tags/beginner-fundamentals/)
+
+🎖️ [Tech or IT Best-Practices](https://julianwest.me/Blog/tags/best-practice/)
+
+⌨️  [PowerShell Related Content](https://julianwest.me/Blog/tags/powershell/)
+
+👨🏻‍💻 [IT or DevOps Walkthroughs](https://julianwest.me/Blog/tags/walk-thru/)
+
 📚 [Books Reviews or Posts about Authors](https://julianwest.me/Blog/tags/books/)
+
+📜 [Notable Quotes](https://julianwest.me/Blog/tags/quote/)
+
+📷 [Photo posts during Travel or Life](https://julianwest.me/Blog/tags/photo/)
 
 📰 [Commentary / Opinion](https://julianwest.me/Blog/tags/opinion/) <--- does NOT reflect opinions of my employers / clients. See "***Terms***" link at bottom.
 
