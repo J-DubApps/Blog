@@ -7,4 +7,4 @@ tags = ["tech", "apple", "photo"]
 +++
 Wrote about [The MultiPad Lifestyle ](https://julianwest.me/Blog/the-multipad-lifestyle/) a few years ago, and still rolling with it... <br />
 
-  <img src="https://julianwest.me/Blog/posts/3-amigos-tech.jpeg" alt="Alt text">
+  <img src="https://julianwest.me/Blog/posts/images/3-amigos-tech.jpeg" alt="Alt text">
