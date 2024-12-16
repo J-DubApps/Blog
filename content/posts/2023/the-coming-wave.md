@@ -3,7 +3,7 @@ date = '2023-12-28T23:17:51-06:00'
 draft = false
 title =  'Book Review: The Coming Wave'
 type = 'post'
-tags = ["tech", "books", "thought", "ai", "best-of"]
+tags = ["books", "thought", "ai", "best-of"]
 +++
 
   <img src="https://julianwest.me/Blog/posts/images/coming-wave.jpg" alt="Alt text" width="125" height="350">
