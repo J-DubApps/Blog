@@ -3,7 +3,7 @@ date = '2024-12-06T23:17:51-06:00'
 draft = false
 title = 'A Health Insurance Company CEO Was Shot'
 type = 'post'
-tags = ["usa", "crime", "rip", "thought"]
+tags = ["usa", "crime", "rip", "thought", "news-link"]
 +++
 
 <i>UPDATE</i>:A person-of-interest was arrested on December 9th (link at the end).

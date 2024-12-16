@@ -1,5 +1,5 @@
 +++
-date = '2024-12-16T23:11:31-06:00'
+date = '2024-12-16T11:11:31-06:00'
 draft = false
 title = 'Navigating Julianwest.me: Some Shortcuts'
 type = 'post'
