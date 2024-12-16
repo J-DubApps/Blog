@@ -3,7 +3,7 @@ date = '2020-07-15T20:10:26-06:00'
 draft = false
 title = 'Beware the &quot;Post Hoc&quot; Trap: Avoid Faulty Cause-and-Effect Troubleshooting'
 type = 'post'
-tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "thought"]
+tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "thought", "best-of", "top-10", "beginner-fundamentals"]
 +++
 
   <style type="text/css">
