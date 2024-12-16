@@ -13,10 +13,10 @@ tags = ["blog"]
 
 #### Shortcuts to *specific* popular content:
 
-⭐️ [***Best-Of Filtered***](https://julianwest.me/Blog/best-of-no-tech/) = "Best-of" *without* any Tech content.
-🌟 [***Tech-Related***](https://julianwest.me/Blog/best-of-tech/) = "Best-of" *tech-related* posts only.
-🔝 [***Top 10***](https://julianwest.me/Blog/top-10/) = Top 10 Posts of *All Time* on [julianwest.me](https://julianwest.me).
-🆕 [***Recent 10***](https://julianwest.me/Blog/recent-10/) = 10 *Most-Recent* Posts.
+⭐️ [***Best-Of Filtered***](https://julianwest.me/Blog/best-of-no-tech/) = "Best-of" *without* any Tech content.<br />
+🌟 [***Tech-Related***](https://julianwest.me/Blog/best-of-tech/) = "Best-of" *tech-related* posts only. <br />
+🔝 [***Top 10***](https://julianwest.me/Blog/top-10/) = Top 10 Posts of *All Time* on [julianwest.me](https://julianwest.me). <br />
+🆕 [***Recent 10***](https://julianwest.me/Blog/recent-10/) = 10 *Most-Recent* Posts. <br />
 
 #### Shortcuts to popular *Tagged* content:
 
