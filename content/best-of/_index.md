@@ -1,7 +1,7 @@
 +++
 date = '2024-12-13T14:14:51-06:00'
 draft = false
-title = '&quot;Best Of&quot; Blog Posts...'
+title = 'Blog Best-Of Posts...'
 layout = "best-of"
 type = 'page'
 +++
