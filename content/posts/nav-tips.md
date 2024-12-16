@@ -7,9 +7,9 @@ tags = ["blog"]
 +++
 #### "*Blog* / *Best-of* / *Tags*" options in Nav area, up top:  
 
-• ["**Blog**"](https://julianwest.me/Blog/posts/) shortcut 📖 = the firehose: a descending list of every post on the blog.<br />
-• ["***Best-Of***"](https://julianwest.me/Blog/best-of/) shortcut ⭐️ = most-read posts / posts w/ most feedback.<br />
-• ["***Tags***"](https://julianwest.me/Blog/tags/) shortcut 🏷️ = posts organized by category, or ***tag***.  <-- <span style="font-size: 10px;">newcomers start here.</span>
+📖 ["**Blog**"](https://julianwest.me/Blog/posts/) = the firehose: a descending list of every post on the blog.<br />
+⭐️ ["***Best-Of***"](https://julianwest.me/Blog/best-of/) = most-read posts / posts w/ most feedback.<br />
+🏷️  ["***Tags***"](https://julianwest.me/Blog/tags/) = posts organized by category, or ***tag***.  <-- <span style="font-size: 10px;">newcomers start here.</span>
 
 #### Shortcuts to *specific* popular content:
 
