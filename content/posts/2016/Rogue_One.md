@@ -3,7 +3,7 @@ date = '2016-12-16T23:11:47-06:00'
 draft = false
 title = 'Rogue One'
 type = 'post'
-tags = ["sci-fi", "film-tv"]
+tags = ["scifi", "film-tv"]
 +++
 
 
