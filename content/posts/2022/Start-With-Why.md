@@ -6,6 +6,8 @@ type = 'post'
 tags = ["tech", "career", "project-mgmt", "books", "thought"]
 +++
 
+  <img src="https://julianwest.me/Blog/posts/images/start-w-why.jpg" alt="Alt text" width="200" height="400">
+
 ***Start with Why*** by Simon Sinek centers around the concept of The Golden Circle—a framework for inspiring leadership that explores why some individuals and organizations are more innovative, influential, and profitable than others.  This is my second read by this author, and I believe he gets leadership. <br />
 
 ## Here’s a summary of the key leadership principles outlined in the book:
