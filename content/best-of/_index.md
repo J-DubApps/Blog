@@ -6,4 +6,4 @@ layout = "best-of"
 type = 'page'
 +++
 
-Here are some of the most popular posts on this site.
+My top blog posts in terms of traffic/reads, or feedback.

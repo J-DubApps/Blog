@@ -1,10 +1,12 @@
-
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
 <p>{{ .Content }}</p>
 <ul>
-{{ range where .Site.RegularPages "Params.tags" "intersect" (slice "best-of") }}
-  <li><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></li>
+{{ range .Site.RegularPages }}
+  {{ $tags := .Params.tags }}
+  {{ if and (in $tags "best-of") (not (in $tags "tech")) }}
+    <li><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></li>
+  {{ end }}
 {{ end }}
 </ul>
 {{ end }}
