@@ -3,7 +3,7 @@ date = '2023-05-05T23:13:51-06:00'
 draft = false
 title = 'Try-Catch in PowerShell'
 type = 'post'
-tags = ["tech", "powershell", "code", "best-practice", "devops"]
+tags = ["tech", "powershell", "code", "best-practice", "devops", "walk-thru"]
 +++
 
 <style>

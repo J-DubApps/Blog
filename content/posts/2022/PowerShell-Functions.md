@@ -3,7 +3,7 @@ date = '2022-06-20T23:17:51-06:00'
 draft = false
 title = 'Writing Resusable Code: PS Function Tips'
 type = 'post'
-tags = ["tech", "powershell", "code", "best-practice", "devops"]
+tags = ["tech", "powershell", "code", "best-practice", "devops", "walk-thru"]
 +++
 
 <style>

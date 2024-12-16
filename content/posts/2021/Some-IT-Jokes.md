@@ -3,7 +3,7 @@ date = '2021-06-21T23:17:51-06:00'
 draft = false
 title = 'Some IT Jokes'
 type = 'post'
-tags = ["tech", "enterprise-it", "funny", "quote"]
+tags = ["tech", "enterprise-it", "funny", "quote", "top-10", "best-of"]
 +++
 
 Ask a question... <br />

@@ -3,7 +3,7 @@ date = '2023-06-10T23:14:51-06:00'
 draft = false
 title = 'Using Join-Path in PowerShell'
 type = 'post'
-tags = ["tech", "powershell", "code", "best-practice", "devops"]
+tags = ["tech", "powershell", "code", "best-practice", "devops", "walk-thru"]
 +++
 
 <style>
