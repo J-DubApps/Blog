@@ -3,7 +3,7 @@ date = '2022-01-21T23:22:51-06:00'
 draft = false
 title = 'Eulogy for Joy Pennybacker West, by her son Julian'
 type = 'post'
-tags = ["family", "life-event", "rip", "special-write-up", "best-of"]
+tags = ["family", "life-event", "rip", "special-write-up", "best-of", "personal"]
 +++
 
 <style>

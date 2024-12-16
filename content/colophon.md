@@ -13,9 +13,9 @@ This is the personal blog of [Julian West](http://julianwest.me/Blog/about/about
 
 <div style="font-size: 14px;">
 Hosting = <a href="https://pages.github.com">Github Pages</a>.<br>
-Blog = modified <b><a href="https://gohugo.io">Hugo</a></b> static site generator.<br /> 
-Posts = git-push markdown.md txt file --> GitHub Actions workflow.<br>
-Articles drafted in neovim and <a href="https://en.wikipedia.org/wiki/Markdown">Markdown</a>, archived in <a href="https://dayoneapp.com">Day One</a> journal. Longform posts drafted in <a href="https://www.literatureandlatte.com/scrivener/overview">Scrivener</a>.<br>
+Blog = <b><a href="https://gohugo.io">Hugo</a></b> static site generator.<br /> 
+Posts = git-push markdown.md content --> GitHub Actions workflow.<br>
+Articles drafted in neovim / <a href="https://en.wikipedia.org/wiki/Markdown">Markdown</a>, archived in <a href="https://dayoneapp.com">Day One</a> journal. Longform posts drafted in <a href="https://www.literatureandlatte.com/scrivener/overview">Scrivener</a>.<br>
 <b>julianwest.me</b> is best-viewed in a standards-compliant web browser: Chrome/Edge/Safari etc.<br>
 If you have problems navigating or see dead links, <i><a href="https://julianwest.me/Blog/contact">do let me know.</a>🙏🏻</i>
 </div>

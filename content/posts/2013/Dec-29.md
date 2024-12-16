@@ -3,7 +3,7 @@ date = '2013-11-29T22:07:36-06:00'
 draft = false
 title = 'Claude E. West 1935–2013'
 type = 'post'
-tags = ["life-event", "family", "rip", "special-write-up"]
+tags = ["life-event", "family", "rip", "special-write-up", "personal"]
 +++
 
 <style>

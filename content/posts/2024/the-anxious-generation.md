@@ -3,7 +3,7 @@ date = '2024-10-08T23:17:51-06:00'
 draft = false
 title =  'Book Review: The Anxious Generation'
 type = 'post'
-tags = ["health", "books", "thought", "culture"]
+tags = ["health", "books", "thought", "culture", "social-media"]
 +++
 
   <img src="https://julianwest.me/Blog/posts/images/the-anxious-generation.jpg" alt="Alt text" width="300" height="125">

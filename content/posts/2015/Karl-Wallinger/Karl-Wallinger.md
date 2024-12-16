@@ -3,7 +3,7 @@ date = '2015-06-26T23:03:26-06:00'
 draft = false
 title = 'Karl Wallinger'
 type = 'post'
-tags = ["art", "music"]
+tags = ["art", "music", "personal"]
 +++
 
 <div>

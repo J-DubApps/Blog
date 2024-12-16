@@ -3,7 +3,7 @@ date = '2013-08-28T22:07:36-06:00'
 draft = false
 title = 'Ben Rasberry: 1978–2013'
 type = 'post'
-tags = ["life-event", "rip", "special-write-up", "apple"]
+tags = ["life-event", "rip", "special-write-up", "apple", "personal"]
 +++
 
 <style>

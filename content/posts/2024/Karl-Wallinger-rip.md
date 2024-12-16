@@ -3,7 +3,7 @@ date = '2024-03-14T23:03:26-06:00'
 draft = false
 title = 'Karl Wallinger: 1957-2024'
 type = 'post'
-tags = ["art", "music", "rip", "video-content", "special-write-up"]
+tags = ["art", "music", "rip", "video-content", "special-write-up", "personal"]
 +++
 
 <div>
