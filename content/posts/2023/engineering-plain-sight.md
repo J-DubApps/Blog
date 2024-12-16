@@ -18,7 +18,7 @@ Though comprehensive, the tone and approach remain conversational and kept me in
 
 ### My Key Takeaways...
 
-	•	The infrastructure we take for granted—roads, pipes, dams, and power lines—is the result of sophisticated engineering principles and centuries of innovation.
-	•	Simple, visually guided explanations help demystify complex concepts and materials, allowing readers without technical backgrounds to grasp how everyday structures work.
-	•	Understanding the purpose, design, and operation of common infrastructure components fosters greater appreciation and encourages more informed discussions about public works and community development.
-	•	The interplay of science, technology, economics, and environmental considerations shapes how engineers design and maintain the systems that keep society running.
+•	The infrastructure we take for granted—roads, pipes, dams, and power lines—is the result of sophisticated engineering principles and centuries of innovation.
+•	Simple, visually guided explanations help demystify complex concepts and materials, allowing readers without technical backgrounds to grasp how everyday structures work.
+•	Understanding the purpose, design, and operation of common infrastructure components fosters greater appreciation and encourages more informed discussions about public works and community development.
+•	The interplay of science, technology, economics, and environmental considerations shapes how engineers design and maintain the systems that keep society running.
