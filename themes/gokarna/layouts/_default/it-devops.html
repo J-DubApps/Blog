@@ -4,7 +4,7 @@
 <ul>
 {{ range .Site.RegularPages }}
   {{ $tags := .Params.tags }}
-  {{ range where .Site.RegularPages "Params.tags" "intersect" (slice "enterprise-it" "devops") }}
+  {{ if and (in $tags "enterprise-it") (in $tags "devops") }}
     <li><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></li>
   {{ end }}
 {{ end }}
