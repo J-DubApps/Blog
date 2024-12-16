@@ -9,7 +9,7 @@ tags = ["tech", "career", "project-mgmt", "books", "thought"]
 
   <img src="https://julianwest.me/Blog/posts/images/leaders-eat-last.jpg" alt="Alt text" width="100" height="300">
 
-***Leaders Eat Last*** by **Simon Sinek** focuses on creating an environment where trust and cooperation are nurtured for the well-being of the organization and its people. It was a fantastic book given to me by a colleauge who recently moved on to bigger and better things. While I greatly miss working with LeAnn and our talks about leadership and personal-development, she left me a great roadmap. <br />
+"***Leaders Eat Last***" by **Simon Sinek** focuses on creating an environment where trust and cooperation are nurtured for the well-being of the organization and its people. It was a fantastic book given to me by a colleauge who recently moved on to bigger and better things. While I greatly miss working with LeAnn and our talks about leadership and personal-development, she left me a great roadmap. <br />
 
 ### Here’s my summary of the key leadership principles I got from this:
 

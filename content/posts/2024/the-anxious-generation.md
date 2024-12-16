@@ -8,7 +8,7 @@ tags = ["health", "books", "thought", "culture"]
 
   <img src="https://julianwest.me/Blog/posts/images/the-anxious-generation.jpg" alt="Alt text" width="300" height="125">
 
-***The Anxious Generation*** by **Jonathan Haidt** explores the significant decline in youth mental health observed in the 2010s, particularly in Western countries. I found this read to be beyond topical, given many of the challenges I have observed my own nieces and nephews struggle with.  Covid lockdown, and 2020 in general, was particularly on many young people -and Haidt's book really puts a clear explanation as to why. Haidt argues that this decline in mental health among our youth is closely linked to two major shifts in childhood: the decline of play-based childhoods and the rise of phone-based childhoods.
+"***The Anxious Generation*** by **Jonathan Haidt**" explores the significant decline in youth mental health observed in the 2010s, particularly in Western countries. I found this read to be beyond topical, given many of the challenges I have observed my own nieces and nephews struggle with.  Covid lockdown, and 2020 in general, was particularly on many young people -and Haidt's book really puts a clear explanation as to why. Haidt argues that this decline in mental health among our youth is closely linked to two major shifts in childhood: the decline of play-based childhoods and the rise of phone-based childhoods.
 
 He explains that free play, which was common in previous generations, allowed children to develop crucial social skills, resilience, and independence. However, due to increased parental fears and changing societal norms, children now have fewer opportunities for play and exploration as a means to problem-solving and growth.  
 
