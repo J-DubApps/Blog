@@ -1,3 +1,3 @@
 <br />
 
-[Content Natigation Tops & Shortcuts](https://https://julianwest.me/Blog/nav-tips/)
+[Content Natigation Tops & Shortcuts](https://julianwest.me/Blog/nav-tips/)

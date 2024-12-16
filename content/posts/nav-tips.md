@@ -6,13 +6,13 @@ type = 'post'
 tags = ["blog"]
 +++
 
-### About the 3 main Menu items on the Nav area, up top:  
+### "*Blog* / *Best-of* / *Tags*" options in Nav area, up top:  
 
-• [**Blog**"](https://julianwest.me/Blog/posts/) shortcut 📖 = the firehose: a descending list of every post on the blog.  
+• ["**Blog**"](https://julianwest.me/Blog/posts/) shortcut 📖 = the firehose: a descending list of every post on the blog.  
 • ["***Best-Of***"](https://julianwest.me/Blog/best-of/) shortcut ⭐️ = most-read posts / posts w/ most feedback.  
 • ["***Tags***"](https://julianwest.me/Blog/tags/) shortcut 🏷️ = posts organized by category, or ***tag***.  <-- I recommend newcomers start [*here*](https://julianwest.me/Blog/tags/).
 
-### Blog shortcuts to *specific* popular content:
+### Shortcuts to *specific* popular content:
 
 ⭐️ [***Best-Of Filtered***](https://julianwest.me/Blog/best-of-no-tech/) = "Best-of" *without* any Tech content.
 
@@ -22,15 +22,15 @@ tags = ["blog"]
 
 🆕 [***Recent 10***](https://julianwest.me/Blog/recent-10/) = 10 *Most-Recent* Posts.
 
-### Blog shortcuts to popular *Tagged* content:
-
-
+### Shortcuts to popular *Tagged* content:
 
 🗞️ [News Link Items](https://julianwest.me/Blog/tags/news-link/)
 
 🔰 [IT Fundamentals](https://julianwest.me/Blog/tags/beginner-fundamentals/)
 
 🎖️ [Tech or IT Best-Practices](https://julianwest.me/Blog/tags/best-practice/)
+
+🧑🏻‍💻 [Enterprise IT or DevOps](https://julianwest.me/Blog/it-devops/)
 
 ⌨️  [PowerShell Related Content](https://julianwest.me/Blog/tags/powershell/)
 
