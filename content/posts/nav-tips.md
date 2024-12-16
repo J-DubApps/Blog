@@ -31,7 +31,7 @@ tags = ["blog"]
 
 🧑🏻‍💻 [Enterprise IT or DevOps](https://julianwest.me/Blog/it-devops/)
 
-⌨️  [PowerShell Related Content](https://julianwest.me/Blog/tags/powershell/)
+⌨️  [PowerShell Related Content](https://julianwest.me/Blog/tags/powershell/) / [PowerShell Coding Walk-Thrus](https://julianwest.me/Blog/ps-walkthrus/)
 
 👨🏻‍💻 [IT or DevOps Walkthroughs](https://julianwest.me/Blog/tags/walk-thru/)
 
