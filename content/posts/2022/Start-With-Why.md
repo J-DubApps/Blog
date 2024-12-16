@@ -14,6 +14,7 @@ tags = ["tech", "career", "project-mgmt", "books", "thought"]
 -**Why**: The core belief or purpose that drives an individual or organization—essentially, why they exist beyond making money. <br />
 -**How**: The process or specific actions taken to realize the Why.<br />
 -**What**: The tangible outcomes, products, or services that result from those actions.
+
 Sinek argues that most organizations start from the outside in (focusing on What), but great leaders and successful companies operate from the inside out, starting with *Why*.
 
 2. **The Power of Why**
@@ -32,6 +33,7 @@ Sinek applies Everett Rogers’ Law of Diffusion of Innovation, which shows that
 
 6. **Authenticity and Consistency**
 The alignment between Why, How, and What builds trust and authenticity. When an organization’s actions align with their core purpose, people are more inclined to believe in and support them.
+
 Consistency in behavior and messaging strengthens the connection to the Why and reinforces an organization's identity.
 
 7. **Challenges and Pitfalls**
