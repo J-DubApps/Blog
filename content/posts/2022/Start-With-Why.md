@@ -15,7 +15,7 @@ tags = ["tech", "career", "project-mgmt", "books", "thought"]
 -**How**: The process or specific actions taken to realize the Why.<br />
 -**What**: The tangible outcomes, products, or services that result from those actions.
 
-Sinek argues that most organizations start from the outside in (focusing on What), but great leaders and successful companies operate from the inside out, starting with *Why*.
+    Sinek argues that most organizations start from the outside in (focusing on What), but great leaders and successful companies operate from the inside out, starting with *Why*.
 
 2. **The Power of Why**
 People are more inspired by the reasons behind actions than by the actions themselves. Leaders who communicate a clear Why build deeper connections, trust, and loyalty among employees and customers.<br />
@@ -34,7 +34,7 @@ Sinek applies Everett Rogers’ Law of Diffusion of Innovation, which shows that
 6. **Authenticity and Consistency**
 The alignment between Why, How, and What builds trust and authenticity. When an organization’s actions align with their core purpose, people are more inclined to believe in and support them.
 
-Consistency in behavior and messaging strengthens the connection to the Why and reinforces an organization's identity.
+    Consistency in behavior and messaging strengthens the connection to the Why and reinforces an organization's identity.
 
 7. **Challenges and Pitfalls**
 Sinek warns that losing sight of the Why can lead organizations into decline. Companies that grow successful often start to focus more on their What and lose their initial purpose-driven approach, which can erode trust and loyalty over time.<br />
