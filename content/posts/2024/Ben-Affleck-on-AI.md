@@ -5,9 +5,7 @@ title = 'I can&apos;t believe I am about to say this&#44; but...'
 type = 'post'
 tags = ["art", "film-tv", "AI", "video-content", "best-of"]
 +++
-
 ...I think Ben Affleck is 100% correct, in this spot-on and nuanced take on AI in Hollywood.
-
 <div class="video">
 {{< youtube ypURoMU3P3U >}}
 </div>
