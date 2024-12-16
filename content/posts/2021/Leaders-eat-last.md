@@ -11,7 +11,7 @@ tags = ["tech", "career", "project-mgmt", "books", "thought"]
 
 ***Leaders Eat Last*** by Simon Sinek focuses on creating an environment where trust and cooperation are nurtured for the well-being of the organization and its people. It was a fantastic book given to me by a colleauge who recently moved on to bigger and better things. While I greatly miss working with LeAnn and our talks about leadership and personal-development, she left me a great roadmap. <br />
 
-## Here’s a summary of the key leadership principles outlined in the book:
+### Here’s my summary of the key leadership principles I got from this:
 
 1. **The Circle of Safety**
 Leaders must create a safe environment where team members feel protected, fostering trust and collaboration. This environment encourages individuals to take risks and innovate without fear of retribution or failure.<br />
@@ -46,4 +46,4 @@ Leaders should ensure that their team’s physical and emotional health is suppo
 11. **Fostering Cooperation Over Competition**
 Creating a collaborative environment rather than one driven by internal competition helps strengthen bonds among team members. A unified team is more resilient and effective in facing external challenges.<br />
 
-By embodying these principles, leaders can foster a culture where people feel secure, valued, and motivated, leading to a more cohesive and high-performing team.
+I really learned a lot in my first read, and I plan to keep this around and read it again for refreshers.  The concepts here are fairly timeless and direct about effective leadership, applicable to a wide range of organizations.  I think everyone from the c-suite to managers, to PMs or SMEs, should give "Leaders Eat Last" a read.  By working to embody the principles in the book, leaders can foster a culture where people feel secure, valued, and motivated, leading to a more cohesive and high-performing team.
