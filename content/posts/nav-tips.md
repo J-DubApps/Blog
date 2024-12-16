@@ -5,12 +5,11 @@ title = 'Navigating Julianwest.me: Some Shortcuts'
 type = 'post'
 tags = ["blog"]
 +++
-
 #### "*Blog* / *Best-of* / *Tags*" options in Nav area, up top:  
 
 • ["**Blog**"](https://julianwest.me/Blog/posts/) shortcut 📖 = the firehose: a descending list of every post on the blog.  
 • ["***Best-Of***"](https://julianwest.me/Blog/best-of/) shortcut ⭐️ = most-read posts / posts w/ most feedback.  
-• ["***Tags***"](https://julianwest.me/Blog/tags/) shortcut 🏷️ = posts organized by category, or ***tag***.  <-- I recommend newcomers start [*here*](https://julianwest.me/Blog/tags/).
+• ["***Tags***"](https://julianwest.me/Blog/tags/) shortcut 🏷️ = posts organized by category, or ***tag***.  <-- <span style="font-size: 10px;">recommend newcomers start here.</span>
 
 #### Shortcuts to *specific* popular content:
 
