@@ -1,12 +1,12 @@
 +++
-date = '2023-12-28T23:17:51-06:00'
+date = '2023-09-20T23:17:51-06:00'
 draft = false
-title =  'Book Review: The Coming Wave'
+title =  'Book Review: Engineering In Plain Sight'
 type = 'post'
 tags = ["books", "thought"]
 +++
 
-  <img src="https://julianwest.me/Blog/posts/images/coming-wave.jpg" alt="Alt text" width="125" height="350">
+  <img src="https://julianwest.me/Blog/posts/images/engineering-plain-sight.jpg" alt="Alt text" width="125" height="350">
 
 When I was in high school I originally wanted to become a civil engineer.  Though I ended up in a very different engineering niche, public infrastructure remained an interest for me. So when I read “***Engineering in Plain Sight***” (***An Illustrated Field Guide to the Constructed Environment***) by **Grady Hillhouse**, I found it to be an accessible, visually rich exploration of the infrastructure that underpins our everyday lives. <br />
 
