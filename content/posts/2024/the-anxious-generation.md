@@ -1,7 +1,7 @@
 +++
 date = '2024-10-08T23:17:51-06:00'
 draft = false
-title =  'Book Review: The Coming Wave'
+title =  'Book Review: The Anxious Generation'
 type = 'post'
 tags = ["health", "books", "thought", "culture"]
 +++

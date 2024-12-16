@@ -14,11 +14,11 @@ I really enjoyed this read, although it was a little bit *sleep-affecting* durin
 
 ### My Key Takeways...
 
-•	**Technological Inflection Point**: We are on the brink of a massive shift in human society due to exponential advances in AI and synthetic biology.
-•	**Dual-Edged Power**: These technologies hold immense promise—eradicating disease, enhancing global productivity, and solving large-scale challenges—but also present grave dangers, such as authoritarian surveillance, catastrophic biotech misuse, and AI-driven economic disruption.
-•	**Governance & Control**: Without proactive frameworks—robust regulation, international standards, and democratic oversight—technology could run amok, reshaping societies in unintended and harmful ways.
-•	**Global Collaboration**: No single entity can manage the unfolding era alone. Cooperation among governments, industries, researchers, ethicists, and civil society is vital to ensuring equitable and responsible stewardship of these transformative tools.
-•	**Moral Imperative**: The central challenge of our time is to guide these advancements so that they benefit everyone, mitigating risks while fostering innovation to address humanity’s most pressing problems.
+•	**Technological Inflection Point**: We are on the brink of a massive shift in human society due to exponential advances in AI and synthetic biology.<br />
+•	**Dual-Edged Power**: These technologies hold immense promise—eradicating disease, enhancing global productivity, and solving large-scale challenges—but also present grave dangers, such as authoritarian surveillance, catastrophic biotech misuse, and AI-driven economic disruption.<br />
+•	**Governance & Control**: Without proactive frameworks—robust regulation, international standards, and democratic oversight—technology could run amok, reshaping societies in unintended and harmful ways.<br />
+•	**Global Collaboration**: No single entity can manage the unfolding era alone. Cooperation among governments, industries, researchers, ethicists, and civil society is vital to ensuring equitable and responsible stewardship of these transformative tools.<br />
+•	**Moral Imperative**: The central challenge of our time is to guide these advancements so that they benefit everyone, mitigating risks while fostering innovation to address humanity’s most pressing problems.<br />
 
 To me, many of the predicted innovations feel like The Singularity's  "*just before times*", just immediately before the era of full AGI arrives. Throughout the narrative, Suleyman grapples with the tension between progress and peril. On one hand, he sees enormous promise: AI could streamline governance and optimize resource distribution, while biotech could solve global health crises and mitigate environmental damage. On the other, he warns that the same tools could amplify inequality, empower authoritarian regimes, and trigger catastrophic accidents—whether from malfunctioning AI decision-makers or engineered pathogens escaping a lab.
 
