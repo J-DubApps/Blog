@@ -30,7 +30,7 @@ tags = ["blog"]
 
 📚 [Books Reviews or Posts about Authors](https://julianwest.me/Blog/tags/books/)
 
-📰 [Commentary / Opinion](https://julianwest.me/Blog/tags/opinion/) <--- does NOT reflect the opinions of my employers or clients.  See "***Terms***" link at bottom.
+📰 [Commentary / Opinion](https://julianwest.me/Blog/tags/opinion/) <--- does NOT reflect opinions of my employers / clients. See "***Terms***" link at bottom.
 
 
 ...and finally, see the "***Colophon***" link at bottom for info on my blog tech stack, and "***Terms***" for stuff lawyers need me to say.
