@@ -42,7 +42,8 @@ tags = ["blog"]
 
 📷 [Photo posts during Travel or Life](https://julianwest.me/Blog/tags/photo/)
 
-📰 [Commentary / Opinion](https://julianwest.me/Blog/tags/opinion/) <--- does NOT reflect opinions of my employers / clients. See "***Terms***" link at bottom.
+📰 [Commentary / Opinion](https://julianwest.me/Blog/tags/opinion/) <--- does NOT reflect opinions of my employers / clients. 
+<span style="font-size: 10px;">See "***Terms***" link at bottom.</span>
 
 
 ...and finally, see the "***Colophon***" link at bottom for info on my blog tech stack, and "***Terms***" for stuff lawyers need me to say.
