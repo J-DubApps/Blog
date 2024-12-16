@@ -1,7 +1,7 @@
 +++
 date = '2024-12-16T11:11:31-06:00'
 draft = false
-title = 'Navigating Julianwest.me: Some Shortcuts'
+title = 'Navigating Blog Posts: Shortcuts'
 type = 'post'
 tags = ["blog"]
 +++
@@ -45,4 +45,4 @@ tags = ["blog"]
 
 📰 [Commentary / Opinion](https://julianwest.me/Blog/tags/opinion/) <--- <span style="font-size: 10px;">does <i><b><u>NOT</i></b></u> reflect opinions of my employers / clients. See "***Terms***" link at bottom.</span>
 
-...and finally, see the "***Colophon***" link at bottom for info on my blog tech stack, and "***Terms***" for stuff lawyers need me to say.
+...and finally, see the "***Colophon***" below for info on my blog tech stack, and "***Terms***" for stuff lawyers need me to say.
