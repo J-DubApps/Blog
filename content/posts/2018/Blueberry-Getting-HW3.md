@@ -3,7 +3,7 @@ date = '2018-04-20T23:17:51-06:00'
 draft = false
 title = 'Free HW3 Retrofits for recent HW2.5 FSD Buyers'
 type = 'post'
-tags = ["family", "cars", "ev", "tech"]
+tags = ["cars", "EVs", "tech"]
 +++
 
 <div class="image-row">

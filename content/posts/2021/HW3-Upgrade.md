@@ -3,7 +3,7 @@ date = '2021-03-15T23:17:51-06:00'
 draft = false
 title = 'HW3 Upgrade / Retrofit'
 type = 'post'
-tags = ["cars", "ev", "tech"]
+tags = ["cars", "EVs", "tech"]
 +++
 
 <div class="image-row">

@@ -3,7 +3,7 @@ date = '2015-05-10T23:17:51-06:00'
 draft = false
 title = 'Drive The Car Around The World'
 type = 'post'
-tags = ["tech", "cars", "ev", "video-content"]
+tags = ["tech", "cars", "EVs", "music", "video-content"]
 +++
 
 Emjoying the new <a href="http://julianwest.me/Blog/posts/dangerhighvoltage/">Model S</a>, and I figured I would throw together a little video with one of my favorite <a href="https://en.wikipedia.org/wiki/World_Party">World Party</a> (Karl Wallinger) songs. <br />

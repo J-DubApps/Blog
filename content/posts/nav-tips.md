@@ -7,9 +7,9 @@ tags = ["blog"]
 +++
 #### "*Blog* / *Best-of* / *Tags*" options in Nav area, up top:  
 
-###### • ["**Blog**"](https://julianwest.me/Blog/posts/) shortcut 📖 = the firehose: a descending list of every post on the blog.
-###### • ["***Best-Of***"](https://julianwest.me/Blog/best-of/) shortcut ⭐️ = most-read posts / posts w/ most feedback.
-###### • ["***Tags***"](https://julianwest.me/Blog/tags/) shortcut 🏷️ = posts organized by category, or ***tag***.  <-- newcomers start here.
+##### ["**Blog**"](https://julianwest.me/Blog/posts/) shortcut 📖 = the firehose: a descending list of every post on the blog.
+##### • ["***Best-Of***"](https://julianwest.me/Blog/best-of/) shortcut ⭐️ = most-read posts / posts w/ most feedback.
+##### • ["***Tags***"](https://julianwest.me/Blog/tags/) shortcut 🏷️ = posts organized by category, or ***tag***.  <-- newcomers start here.
 
 #### Shortcuts to *specific* popular content:
 
@@ -40,6 +40,8 @@ tags = ["blog"]
 📜 [Notable Quotes](https://julianwest.me/Blog/tags/quote/)
 
 📷 [Photo posts during Travel or Life](https://julianwest.me/Blog/tags/photo/)
+
+📺 [Video Content posts](https://julianwest.me/Blog/tags/video-content/)
 
 📰 [Commentary / Opinion](https://julianwest.me/Blog/tags/opinion/) <--- <span style="font-size: 10px;">does <i><b><u>NOT</i></b></u> reflect opinions of my employers / clients. See "***Terms***" link at bottom.</span>
 
