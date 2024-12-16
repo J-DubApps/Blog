@@ -32,9 +32,9 @@ Martin Luther King Jr., Steve Jobs, and the Wright brothers are examples Sinek u
 Sinek applies Everett Rogers’ Law of Diffusion of Innovation, which shows that adoption of a new idea spreads through innovators, early adopters, early majority, late majority, and laggards. Leaders must win over the early adopters and innovators by communicating their Why, as these groups will help push ideas through to the mainstream.<br />
 
 6. **Authenticity and Consistency**
-The alignment between Why, How, and What builds trust and authenticity. When an organization’s actions align with their core purpose, people are more inclined to believe in and support them.<br />
+The alignment between Why, How, and What builds trust and authenticity. When an organization’s actions align with their core purpose, people are more inclined to believe in and support them.
 
--Consistency in behavior and messaging strengthens the connection to the Why and reinforces an organization's identity.<br />
+Consistency in behavior and messaging strengthens the connection to the Why and reinforces an organization's identity.<br />
 
 7. **Challenges and Pitfalls**
 Sinek warns that losing sight of the Why can lead organizations into decline. Companies that grow successful often start to focus more on their What and lose their initial purpose-driven approach, which can erode trust and loyalty over time.<br />
