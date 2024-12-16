@@ -5,5 +5,3 @@ title = 'Best Of Tech'
 layout = "best-of-tech"
 type = 'page'
 +++
-
-Here are some of the most popular posts on this site.

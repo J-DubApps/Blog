@@ -6,4 +6,5 @@ layout = "best-of"
 type = 'page'
 +++
 
-My top blog posts in terms of traffic/reads, or feedback.
+This a list of my top blog posts over the years, based on read count/feedback.  <br /> 
+Click [***here***](https://julianwest.me/Blog/best-of-no-tech/) to *filter* ***out*** **tech-related** "Best-of" posts, ***or*** click [***here***](https://julianwest.me/Blog/best-of-tech/) to focus ***only*** on **tech-related** "Best-of" posts.
