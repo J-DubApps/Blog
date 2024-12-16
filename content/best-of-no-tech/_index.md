@@ -6,4 +6,4 @@ layout = "best-of-no-tech"
 type = 'page'
 +++
 
-My top blog posts in terms of traffic/reads, or feedback.
+My top *non tech-related* blog posts over the years, based on read count/feedback. Click [***here***](https://julianwest.me/Blog/best-of/) to return to *all* "Best-of" posts.
