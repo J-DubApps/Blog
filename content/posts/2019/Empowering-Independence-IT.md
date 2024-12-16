@@ -22,7 +22,7 @@ We're all adults and professionals here, and I trust in your ability to take own
 
 Remember that independently trying ***first*** is <u>***everything***</u> in troubleshooting and learning: joyfully get *stuck*, because *that* is learning happens and where ***I*** get motivated to joyfully help!  If you ask for help without having tried much (without getting stuck first) we're going to have a chat, or you're probably going to receive this blog post. 😂  <br />
 
-**Pro Tip**: The secret about getting *enthusiastic support* from your local SME or uber nerd is--*trying to solve problem independently*, and be ok (even excited) to *get stuck first* before firing-off an email thread or asking for help.  If you operate this way, the help and support you receive is fierce and powerful.  If you don't, the help you receive may be unmotivated, uninterested, and sometimes tired.
+**Pro Tip**: The secret about getting *enthusiastic support* from your local SME or uber nerd is--*trying to solve the problem independently*, and be ok (even excited) to *get stuck first* before firing-off an email thread or asking for help.  If you operate this way, the help and support you receive is fierce and powerful.  If you don't, the help you receive may be unmotivated, uninterested, and sometimes tired.
 
 Again, being a self-starter is *your currency* for begin able to call-in enthusiastic support from your team.
 <br />
