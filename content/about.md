@@ -19,12 +19,11 @@ type = 'page'
 <div style="font-size: 10px;">
                             <a href="https://www.linkedin.com/in/julianwest/" target="_blank" class="social_link">LinkedIn
                                 <i class="fa-brands fa-linkedin social_icon"></i></a>&nbsp;/&nbsp;<a href="https://github.com/J-DubApps" target="_blank" class="social_link">GitHub
-                                <i class="fa-brands fa-github social_icon"></i></a>&nbsp;/&nbsp;More Contact Options <b><i><a href="http://julianwest.me/Blog/contact">here</a></b></i>...<br />
-                            Please refer to this site's <b><a href="https://julianwest.me/Blog/colophon">Colophon</a> & <a href="https://julianwest.me/Blog/site-disclosure">Terms</a></b> for site info (info about yours-truly <i>below</i>👇🏻).
+                                <i class="fa-brands fa-github social_icon"></i></a>&nbsp;/&nbsp;More Contact Options <b><i><a href="http://julianwest.me/Blog/contact">here</a></b></i>...
 </div>
 <br />
 <div style="font-size: 12px;">
-<b><i>Trivial trivia</b></i> <br />
+<b><i>Trivial trivia 👇🏻</b></i> <br />
 I love technology, art, and good design...and the occasional board game.<br />
 For a living I’m an ops nerd working IT network projects & cloud deployments.<br />   
 I was born in rural Texas, to parents both born before 1930 (I am late for everything).<br />
