@@ -3,7 +3,7 @@ date = '2016-04-18T23:04:49-06:00'
 draft = false
 title = 'Hello from London'
 type = 'post'
-tags = ["uk", "travel", "photo"]
+tags = ["uk", "travel", "photo", "best-of"]
 +++
 
 Been a hard few months.  I needed this...
