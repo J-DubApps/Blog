@@ -1,10 +1,13 @@
 +++
 date = '2021-07-10T23:17:51-06:00'
 draft = false
-title = 'Leaders Eat Last'
+title = 'Book Review: Leaders Eat Last'
 type = 'post'
 tags = ["tech", "career", "project-mgmt", "books", "thought"]
 +++
+
+
+  <img src="https://julianwest.me/Blog/posts/images/leaders-eat-last.jpg" alt="Alt text" width="100" height="300">
 
 ***Leaders Eat Last*** by Simon Sinek focuses on creating an environment where trust and cooperation are nurtured for the well-being of the organization and its people. It was a fantastic book given to me by a colleauge who recently moved on to bigger and better things. While I greatly miss working with LeAnn and our talks about leadership and personal-development, she left me a great roadmap. <br />
 

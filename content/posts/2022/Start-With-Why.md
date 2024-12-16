@@ -1,12 +1,12 @@
 +++
 date = '2021-07-10T23:17:51-06:00'
 draft = false
-title = 'Start With Why'
+title =  'Book Review: Start With Why'
 type = 'post'
 tags = ["tech", "career", "project-mgmt", "books", "thought"]
 +++
 
-  <img src="https://julianwest.me/Blog/posts/images/start-w-why.jpg" alt="Alt text" width="100" height="300">
+  <img src="https://julianwest.me/Blog/posts/images/start-w-why.jpg" alt="Alt text" width="125" height="350">
 
 ***Start with Why*** by Simon Sinek centers around the concept of The Golden Circle—a framework for inspiring leadership that explores why some individuals and organizations are more innovative, influential, and profitable than others.  This is my second read by this author, and I believe he gets leadership. <br />
 
