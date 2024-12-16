@@ -1,0 +1,12 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<p>{{ .Content }}</p>
+<ul>
+{{ range .Site.RegularPages }}
+  {{ $tags := .Params.tags }}
+  {{ range where .Site.RegularPages "Params.tags" "intersect" (slice "powershell" "walk-thru") }}
+    <li><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></li>
+  {{ end }}
+{{ end }}
+</ul>
+{{ end }}
