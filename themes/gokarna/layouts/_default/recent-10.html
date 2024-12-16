@@ -1,0 +1,12 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<p>{{ .Content }}</p>
+<ul>
+{{ range first 10 (sort .Site.RegularPages "Date" "desc") }}
+  <li>
+    <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+    <span class="post-date">{{ .Date.Format "January 2, 2006" }}</span>
+  </li>
+{{ end }}
+</ul>
+{{ end }}

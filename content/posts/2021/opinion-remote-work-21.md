@@ -3,7 +3,7 @@ date = '2021-04-25T23:17:51-06:00'
 draft = false
 title = 'Remote Working in 2021'
 type = 'post'
-tags = ["career", "remote-work", "tech", "opinion", "special-write-up", "thought", "best-of"]
+tags = ["career", "remote-work", "tech", "opinion", "special-write-up", "thought", "best-of", "top-10"]
 +++
 
 I was just thinking about this today, in terms of just the breathtaking amount of work I have accomplished in he past year.  With lockdown drawing to a close, I wanted to go on-record for some of the benefits I have observed personally.  Here are a few key benefits I have experienced since working remotely, which has lead to my producitvity skyrocketing.
