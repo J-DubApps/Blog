@@ -18,11 +18,9 @@ type = 'page'
                                 <i class="fa-brands fa-linkedin social_icon"></i></a>&nbsp;/&nbsp;<a href="https://github.com/J-DubApps" target="_blank" class="social_link">GitHub
                                 <i class="fa-brands fa-github social_icon"></i></a>&nbsp;/&nbsp;More Contact Options <b><i><a href="http://julianwest.me/Blog/contact">here</a></b></i>...
 </div>
-
+<br />
 <img src="https://julianwest.me/Blog/posts/images/julian-about.jpeg" alt="Alt text" width="250" height="125">
 
-
-<br />
 <div style="font-size: 12px;">
 <b><i>Trivial trivia 👇🏻</b></i> <br />
 I love technology, art, and good design...and the occasional board game.<br />
