@@ -14,11 +14,8 @@ tags = ["blog"]
 #### Shortcuts to *specific* popular content:
 
 ⭐️ [***Best-Of Filtered***](https://julianwest.me/Blog/best-of-no-tech/) = "Best-of" *without* any Tech content.
-
 🌟 [***Tech-Related***](https://julianwest.me/Blog/best-of-tech/) = "Best-of" *tech-related* posts only.
-
 🔝 [***Top 10***](https://julianwest.me/Blog/top-10/) = Top 10 Posts of *All Time* on [julianwest.me](https://julianwest.me).
-
 🆕 [***Recent 10***](https://julianwest.me/Blog/recent-10/) = 10 *Most-Recent* Posts.
 
 #### Shortcuts to popular *Tagged* content:
@@ -45,4 +42,4 @@ tags = ["blog"]
 
 📰 [Commentary / Opinion](https://julianwest.me/Blog/tags/opinion/) <--- <span style="font-size: 10px;">does <i><b><u>NOT</i></b></u> reflect opinions of my employers / clients. See "***Terms***" link at bottom.</span>
 
-...and finally, see the "***Colophon***" below for info on my blog tech stack, and "***Terms***" for stuff lawyers need me to say.
+##### ...and finally, see the "***Colophon***" below for info on my blog tech stack, and "***Terms***" for stuff lawyers need me to say.
