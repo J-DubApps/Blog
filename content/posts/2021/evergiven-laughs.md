@@ -6,9 +6,6 @@ type = 'post'
 tags = ["funny", "news-link", "global-events", "shipping", "social-media"]
 +++
 
-> "I can’t believe a boat got itself so stuck that it’s disrupting the global economy," quipped one Twitter user.
+[A ship ran aground in the Suez Canal](https://www.cnn.com/2021/03/24/middleeast/suez-canal-container-ship-intl-hnk/index.html), and it's brought shipping to a halt. <br />
 
-Read more about the viral *Ever Given* saga in [this CNN story](https://www.cnn.com/2021/03/29/world/ever-given-suez-canal-stuck-reactions).
-
-I particularly enjoyed the Photoshopped “helpful” excavators, meme-transfereed to help the poor ship. Social media remains undefeated in calling-out the absurdity of a situation.  Props to the hundreds of vessels patiently waiting.
-
+I particularly enjoyed the Photoshopped “helpful” excavators, meme-transfereed to help the poor ship on Twitter.  Social media remains undefeated in calling-out the absurdity of a situation. 

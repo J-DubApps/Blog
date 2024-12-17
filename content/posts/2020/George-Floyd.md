@@ -1,7 +1,7 @@
 +++
 date = '2020-05-26T09:00:00-05:00'
 draft = false
-title = 'The Death of George Floyd Sparks Outrage and Reflection'
+title = 'George Floyd'
 type = 'post'
 tags = ["news-link", "usa", ]
 +++
