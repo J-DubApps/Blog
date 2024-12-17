@@ -79,7 +79,7 @@ Get-Item -Path "C:\NonExistentFile.txt"
 
 By default, this cmdlet will throw an error, but your script will keep running. Now, let’s use ErrorAction to change this behavior:
 
-1.  <b>Suppress** the Error (<span class="mono">SilentlyContinue</span>): <br />
+1.  <b>Suppress** the Error (<span class="mono">SilentlyContinue</span></b>): <br />
 
 ~~~
 Get-Item -Path "C:\NonExistentFile.txt" -ErrorAction SilentlyContinue
