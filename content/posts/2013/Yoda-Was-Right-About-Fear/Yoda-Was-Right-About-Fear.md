@@ -26,9 +26,9 @@ It's where Yoda discusses fear and attachment in Episode I.  In the scene Yoda a
 {{< youtube kFnFr-DOPf8 >}}
 </div>
 
-Yoda’s buddhism actually offers a very real *insights* that I have found to be true in life: about how we experience attachment and *loss*, and how we *fear* losing people or things important to us. We all know (or *should know*) that constantly fearing loss is not good for your mental or spiritual health. And while you may not turn into Darth Vader, constant fear is just no way to live.  And if you live fearing something (or fearing *other people* you may not even know), that fear gets a hold and next thing you know anger the next natural response.  It starts with fear, but once it's anger and hate you're just one of those glass-half-empty cynics who see negative. Hate brings a special form of suffering. It's weight.  It's a dark way to experience life, a darker side of things *if you will* (pun). <br /> 
+Yoda’s buddhist speech offers a very real *insights* I have found to be true in life.  About how we experience attachment and *loss*, and how we *fear* losing people or things important to us. We all know (or *should know*) that constantly fearing loss is not good for your mental health.  And while you may not turn into Darth Vader, constant fear is just no way to live.  And people tend to get angry and hateful if they're fearful long enough.  It all starts with fear. Fear of loss.  Fear of *the other*.  Fear is fear, but once it's anger and hate you've got a special form of suffering. It's weight.  It's a dark way to experience life, a darker side of things *if you will* (pun). <br /> 
 
-So, yes, it's probably obvious to you that fear of loss makes you anxious and angry.  But indulge me here, brave Star Wars fan.<br />
+So, yes, it's probably obvious to you that fear of loss makes you anxious and angry. But indulge me here, brave Star Wars fan.<br />
 
 In my teen years and beyond, I struggled internally with my mother’s decisions and the evolving state of her health. So I would try to get my mom to stop smoking or eat better, because I feared she would get cancer or die early like my father did in his 40s. So I tried many, many, times to help Mom just transform into this healthy person that she “should be”.<br />
 
