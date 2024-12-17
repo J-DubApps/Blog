@@ -3,7 +3,7 @@ date = '2023-10-21T23:17:51-06:00'
 draft = false
 title = 'Chilling...'
 type = 'post'
-tags = ["blog", "tech", "photo"]
+tags = ["blog", "photo"]
 +++
 
 Hello from a beach somewhere... <br />
