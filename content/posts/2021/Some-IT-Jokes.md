@@ -12,7 +12,7 @@ A novice will give you zero answers, <br />
 A professional will give you one answer, <br />
 An expert will give you two questions. <br />
 
-A consultant will bill you to give you answers you already had but didn’t trust because they come from people you employ permanently. <br />
+A consultant will bill you and give you answers you already had. <br />
 
 ---
 
