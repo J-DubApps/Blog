@@ -23,7 +23,7 @@ type = 'page'
 I love technology, art, and good design...and the occasional board game.<br />
 For a living I’m an ops nerd working IT network projects & cloud deployments.<br />   
 I was raised in rural Texas, born to parents who were <i>both</i> born before 1931 (I am late for everything).<br />
-I grew up in poverty, nothing unique but my early humble experiences shaped me.<br />
+I grew up in poverty, nothing unique but I wouldn't trade those early experiences for anything.<br />
 I am a self-made man with the past mistakes to prove it. I keep growing and learning every day.<br />      
 Writing code changed my life, along with tech and curiosity.<br />   
 Myers-Briggs says I am INTP, but I do like people. At least the cool ones.<br />   
