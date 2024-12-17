@@ -72,8 +72,8 @@ Here’s the basic syntax of Select-Object:
 
 ~~~
 
-•	<span class="mono"><Command> is any PowerShell command or pipeline. </span><br />
-•	<span class="mono">-Property specifies which object properties to include in the output. </span><br />
+•	<span class="mono"><Command></span> is any PowerShell command or pipeline. </span>
+•	<span class="mono">-Property</span> specifies which object properties to include in the output. <br />
 
 Selecting Specific Properties<br />
 
