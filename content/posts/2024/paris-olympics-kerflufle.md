@@ -1,9 +1,9 @@
 +++
-date = '2024-07-01T09:45:00-05:00'
+date = '2024-07-28T09:45:00-05:00'
 draft = false
 title = 'Greek Gods Offend: Paris Olympics Run Smack into US Audience'
 type = 'post'
-tags = ["culture", "sports", "news-link", "global-events", "art", "social-media"]
+tags = ["culture", "sports", "news-link", "global-events", "art", "social-media", "funny"]
 +++
 
 > “I think it was pretty clear. There’s Dionysus who arrives at the table...Why is he there? Because he’s the god of feasting, of wine, and the father of Sequana, the goddess of the River Seine.”
