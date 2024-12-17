@@ -72,7 +72,7 @@ Here’s the basic syntax of Select-Object:
 
 ~~~
 
-•	<span class="mono"><Command></span> is any PowerShell command or pipeline. </span>
+•	<span class="mono"><Command></span> is any PowerShell command or pipeline. </span> <br />
 •	<span class="mono">-Property</span> specifies which object properties to include in the output. <br />
 
 Selecting Specific Properties<br />
@@ -115,12 +115,12 @@ Get-Process | Select-Object -Property Name, Id, `
 
 ~~~
 
-Here’s what’s happening:
-•	Name = '<span class="mono">CPUSeconds</span>' specifies the custom column’s name.
-•	Expression runs a <span class="mono">script block ({ ... })</span> to calculate the value.
-•	<span class="mono">$_ </span> represents the current object in the pipeline (in this case, a process object).
+Here’s what’s happening: <br />
+•	Name = '<span class="mono">CPUSeconds</span>' specifies the custom column’s name. <br />
+•	Expression runs a <span class="mono">script block ({ ... })</span> to calculate the value. <br />
+•	<span class="mono">$_ </span> represents the current object in the pipeline (in this case, a process object). <br /
 
-**Output**:
+**Output**: <br />
 
 ~~~
 Name                     Id CPUSeconds
@@ -177,9 +177,9 @@ Get-ChildItem -Path "C:\SomeFolder" -Recurse | `
 ~~~
 
 Here’s what’s happening: <br />
-1.	<span class="mono">Get-ChildItem -Recurse</span> retrieves all files in the folder and subfolders.
-2.	<span class="mono">Sort-Object -Property Length -Descending</span> sorts the files by size, largest first.
-3.	<span class="mono">Select-Object -First 5</span> limits the output to the top 5 files.
+1.	<span class="mono">Get-ChildItem -Recurse</span> retrieves all files in the folder and subfolders. <br />
+2.	<span class="mono">Sort-Object -Property Length -Descending</span> sorts the files by size, largest first. <br />
+3.	<span class="mono">Select-Object -First 5</span> limits the output to the top 5 files. <br />
 
 **Output**:<br />
 
@@ -200,11 +200,11 @@ LargeDoc.pdf                  1048576
 
 ### Summary
 
-The <span class="mono">Select-Object</span> cmdlet is a must-know tool for anyone working with PowerShell. It allows you to:
-•	Filter specific properties from objects.
-•	Create custom properties with calculated expressions.
-•	Limit the number of results with <span class="mono">-First</span>, <span class="mono">-Last</span>, or <span class="mono">-Skip</span>.
-•	Remove duplicates with <span class="mono">-Unique</span>.
+The <span class="mono">Select-Object</span> cmdlet is a must-know tool for anyone working with PowerShell. It allows you to: <br />
+•	Filter specific properties from objects. <br />
+•	Create custom properties with calculated expressions. <br />
+•	Limit the number of results with <span class="mono">-First</span>, <span class="mono">-Last</span>, or <span class="mono">-Skip</span>. <br />
+•	Remove duplicates with <span class="mono">-Unique</span>. <br />
 
 By mastering <span class="mono">Select-Object</span>, you can streamline your scripts, format output to meet your needs, and focus on what’s truly important in your data. <br />
 
