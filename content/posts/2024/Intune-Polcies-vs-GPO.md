@@ -74,14 +74,20 @@ Comparing GPOs and Intune CSPs
 | Dependencies	| Requires on-prem AD, network access   |	Requires Azure AD, internet access  |
 
 **When to Use Each** <br />
-	•	Use GPOs when managing on-prem, domain-joined devices in a traditional AD infrastructure.
+	•	Use GPOs when managing on-prem, domain-joined devices in a traditional AD infrastructure. <br />
 	•	Use Intune CSPs for modern management scenarios with cloud-first, Azure AD-joined devices.
 
-Migration from GPO to Intune CSPs
+**Migration from GPO to Intune CSPs**
 
 Microsoft provides tools like the Group Policy Analytics tool in Intune to assess your GPOs and determine their CSP equivalents, facilitating a smoother transition.
 
-I hope this helped clear up any AD/GPO-centric blind spots that may exist for some hybrid Azure / Entra ID admins out there still doing AD-based admninistration of your Windows endpoints.  Becuase it's very likely the day will come when even GPOs are going to start to move towards Intune - yes, even for Windows endpoints that aren't native cloud.  And here's why:  Intune CSPs can apply to endpoints up to 70% *faster* than your AD domain-based GPOs.  That kind of performance-improvment for configuration policies is just too much of a low-hanging fruit *not* to get busy learning about Intune CSPs, and how you can benefit from them in the future!  <br />
+I hope this helped clear up any AD/GPO-centric blind spots that may exist for some hybrid Azure / Entra ID admins out there still doing AD-based admninistration of your Windows endpoints.  Becuase it's very likely the day will come when even GPOs are going to start to move towards Intune - yes, even for Windows endpoints that aren't native cloud.  And here's why:  Intune CSPs can apply to endpoints up to 70% *faster* than your AD domain-based GPOs.  That kind of performance-improvement for configuration policies is just too much of a low-hanging fruit *not* to get busy learning about Intune CSPs, and how you can benefit from them in the future!  <br />
 
 Some resources I recommend, for further reading about Intune CSPs and other Intune-related stuff: <br />
 
+
+[**What is the Policy CSP and why is it special to Intune?**](https://www.mdmandgpanswers.com/blogs/view-blog/what-is-the-policy-csp-and-why-is-it-special-to-intune)
+
+[**App configuration policies for Microsoft Intune**](https://learn.microsoft.com/en-us/mem/intune/apps/app-configuration-policies-overview)
+
+[**7 Microsoft Intune Best Practices**](https://windowsmanagementexperts.com/7-microsoft-intune-best-practices/)
