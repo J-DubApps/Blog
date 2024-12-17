@@ -29,6 +29,6 @@ type = 'page'
 <br />
 <div style="font-size: 14px;">
 I welcome questions or comments (good or bad) about content @ julianwest.me. Feel free to write / DM etc. <br /><br />
-I do receive a fair amount of email, so if I don’t respond right away please don’t be offended. I do eventually. My average time-to-response is 45 days.  If your email is time-sensitive, a DM <a href="https://bsky.app/profile/julianwest.me">here</a>, referring me to your email, can't hurt.<br /><br />
+I do receive a fair amount of email, so if I don’t respond right away please don’t be offended. I do eventually. My average time-to-response is 45 days.  If your email is time-sensitive a DM on one of the sites above, referring me to your email, can't hurt.<br /><br />
 Note to IT job recruiters: please do not write my personal email address unless we're already corresponding. I do monitor my <a href="https://www.linkedin.com/in/julianwest">LinkedIn profile</a> for that kind of thing, and I normally only respond to cold Recruiter contacts over there. Thanks.
 </div>
