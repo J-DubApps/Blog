@@ -9,11 +9,11 @@ tags = ["blog"]
 
 📖 ["**Blog**"](https://julianwest.me/Blog/posts/) = the firehose: a descending list of every post on the blog.<br />
 ⭐️ ["***Best-Of***"](https://julianwest.me/Blog/best-of/) = most-read posts / posts w/ most feedback.<br />
-🏷️  ["***Tags***"](https://julianwest.me/Blog/tags/) = posts organized by category, or ***tag***.  <-- <span style="font-size: 10px;">newcomers start here.</span>
+🏷️  ["***Tags***"](https://julianwest.me/Blog/tags/) = posts organized by category, or ***tag***. <-- <span style="font-size: 10px;">newcomers start here.</span>
 
-#### Shortcuts to *specific* popular content:
+#### Shortcuts to popular content:
 
-⭐️ [***Best-Of Filtered***](https://julianwest.me/Blog/best-of-no-tech/) = "Best-of" *without* any Tech content.<br />
+⭐️ [***Best-Of (no Tech)***](https://julianwest.me/Blog/best-of-no-tech/) = "Best-of" *without* any Tech content.<br />
 🌟 [***Tech-Related***](https://julianwest.me/Blog/best-of-tech/) = "Best-of" *tech-related* posts only. <br />
 🔝 [***Top 10***](https://julianwest.me/Blog/top-10/) = Top 10 Posts of *All Time* on [julianwest.me](https://julianwest.me). <br />
 🆕 [***Recent 10***](https://julianwest.me/Blog/recent-10/) = 10 *Most-Recent* Posts. <br />
