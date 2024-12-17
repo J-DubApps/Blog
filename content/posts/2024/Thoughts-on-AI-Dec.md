@@ -1,7 +1,7 @@
 +++
 date = '2024-12-13T14:14:51-06:00'
 draft = false
-title = 'Thoughts On AI In A DevOps World: 2024'
+title = 'Thoughts On AI In A DevOps World'
 type = 'post'
 tags = ["tech", "thought", "opinion", "career", "AI", "enterprise-it", "best-of", "devops", "top-10"]
 +++
@@ -20,7 +20,6 @@ Code may eventually become, mostly for your average company, a *commodity*.  Unl
 
 What we do as coders *is* valued *for the moment* and, for many of us, it's still a ***craft***.  But do mark my words: more and more people will develop published commercial and open source projects coming *not from teams* and sprints, but from a few people and AI-driven deliverables.  So if you've been ignoring AI at all, I really think your own tech career risk doubles or triples.  <br />
 
-That is not to say that AI does *everything* better than teams of humans in *anything*, yet. But when it comes to software engineering -- <a href="https://www.techtarget.com/whatis/feature/Tech-sector-layoffs-explained-What-you-need-to-know">coders and technical teams are already seeing disruption</a>.  So I think the most important thing you can remember as a DevOps Engineer, Software Developer, or anyone working in automation right now: ***People, not code, are the most important part of your job.***  <br />
+That is not to say that AI does *everything* better than teams of humans in *anything*, yet. But when it comes to software engineering -- <a href="https://www.techtarget.com/whatis/feature/Tech-sector-layoffs-explained-What-you-need-to-know">coders and technical teams are already seeing disruption</a>.  So I think the most important thing you can remember as a DevOps Engineer, Software Developer, or anyone working in automation right now: ***People***, **not code, are the most important part of your job.**  <br />
 
-Just don't ever get far from the concept that Software is ultimately used by *people*. AI is a people-oriented undertaking, and technology projecs *are*...(you guessed it) *people*.  Keep that as your *high-order bit*, and writing code in the age of AI needn't be a dead-end job.  
-
+Just don't ever get far from the concept that Software is ultimately used by ***people***. AI is shaking things up, and DevOps Project-work is already being affected.  But ultimately Projects *are*... *people*.  Keep that understanding as your *high-order bit*, and writing code in the age of AI needn't be a dead-end job.

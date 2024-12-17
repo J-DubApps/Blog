@@ -297,7 +297,7 @@ socialIcons = [
       {name = "linkedin", url = "https://www.linkedin.com/in/julianwest/"},
       {name = "Instagram", url = "https://www.instagram.com/mrjdub/"},
       {name = "bluesky", url = "https://bsky.app/profile/julianwest.me"},
-      {name = "Email", url = "http://julianwest.me/Blog/contact/contacting/"},
+      {name = "Email", url = "http://julianwest.me/Blog/contact"},
     ]
 
 # Configure the home page

@@ -6,13 +6,11 @@ type = 'post'
 tags = ["blog", "tech", "photo"]
 +++
 
-Hello from a beach somewhere. <br />
+Hello from a beach somewhere... <br />
 
 I am getting some much-needed rest after an annoying random denial of service fix that Cisco created for itself.  <br /> 
 
-I have not written a lot this year due to being very busy helping family out.  It just has been work / family, and not a lot of time to blog a lot.  That should change soon!  <br />
-
-In the meantime, enjoy this picture... <br />
+Back soon. In the meantime, enjoy this picture... <br />
 
 
 

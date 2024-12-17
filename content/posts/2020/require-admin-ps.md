@@ -75,7 +75,7 @@ But you may be wondering, "***hey Julian, can't I just have the script self-elev
 
 And I would tell you, "yes!"*
 
-##### * self-elevating scripts are not raelly a best-practice in most environments, and really is for Intermediate and crazy scripters using their own sandbox environment, not in prod!  What I am about to show you can sometimes trigger any IPS or XDR suite running on your PC, such as Palo Alto Cortex or CrowdStrike. If you don't have a clear line-of-comms to your CISO or SOC team, maybe ***don't*** play around running this code on your work PC.  😉  <br />
+##### * interactive self-elevating scripts are not raelly a best-practice in most environments, and really is for Intermediate and crazy scripters using their own sandbox environment, not in prod!  What I am about to show you can sometimes trigger any IPS or XDR suite running on your PC, such as Palo Alto Cortex or CrowdStrike. If you don't have a clear line-of-comms to your CISO or SOC team, maybe ***don't*** play around running this code on your work PC.  😉  <br />
 
 So assuming you're not running some IPS/XDR stuff on your PC, or you're running it on a sandbox to play around, or if you've gotten clearance from your local neighborhood SOC or CISCO -- here's a quick & dirty script that self-elevates: <br />
 
@@ -102,7 +102,7 @@ Write-Host "Running with Administrator privileges." -ForegroundColor Green
 
 This script code uses the [.NET Windows Security Principal class](https://learn.microsoft.com/en-us/dotnet/api/system.security.principal.windowsidentity?view=net-9.0) to check if running as admin, and launches an elevated PS session if needed. <br />
 
-The thing about this snippet I put together is: it's kind of common and far better examples are out there every other PowerShell GitHub Repo.  And, again, if you operate in an environment with proper security hygiene on your PC endpoints - you'll need SOC or CISCO (and probably Change Mgmt) buy-in for special provisions to be running scripts that interactively self-elevate.  Always ask: "I'm I putting training wheels on a script...when I should just be automating something?"  With things like the new [Terminal for Windows](https://learn.microsoft.com/en-us/windows/terminal/) allowing for quick-elevation to a new PS admin session, there's less and less need for this little maneuver for co-workers running your scripts.  Just use <span class="mono">#Requires -RunAsAdministrator</span>.   <br />
+The thing about this snippet I threw together is: it's common and far better examples exist on every other PowerShell GitHub Repo. And, again, if you operate in an environment with good security hygiene on your endpoints - you'll need SOC or CISCO (and probably Change Mgmt) buy-in to ever be running scripts that interactively self-elevate. Always ask: "I'm I putting training wheels on a script...when I should just be automating something?"  With things like the new [Terminal for Windows](https://learn.microsoft.com/en-us/windows/terminal/) allowing for quick-elevation to a new PS admin session, there's less and less need for this little maneuver these days. So I would just stick with <span class="mono">#Requires -RunAsAdministrator</span>.   <br />
 
 And don't annoy your SOC and/or CISO: 
 
