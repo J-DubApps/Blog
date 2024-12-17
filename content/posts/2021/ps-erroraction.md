@@ -75,7 +75,7 @@ Get-Item -Path "C:\NonExistentFile.txt"
 
 By default, this cmdlet will throw an error, but your script will keep running. Now, let’s use ErrorAction to change this behavior:
 
-1.	<b>Suppress** the Error (<span class="mono">SilentlyContinue</span>): <br />
+1.  <b>Suppress** the Error (<span class="mono">SilentlyContinue</span>): <br />
 
 ~~~
 Get-Item -Path "C:\NonExistentFile.txt" -ErrorAction SilentlyContinue
@@ -85,7 +85,7 @@ Write-Output "Command completed without displaying an error."
 
 In this case, the error is ignored, and no message appears. <br />
 
-2.	Stop the Script on Error (<span class="mono">Stop</span>): <br />
+2.  Stop the Script on Error (<span class="mono">Stop</span>): <br />
 
 ~~~
 Get-Item -Path "C:\NonExistentFile.txt" -ErrorAction Stop
@@ -95,7 +95,7 @@ Write-Output "This line will not run if an error occurs."
 
 Here, the script execution stops immediately, and the message after the command is never executed.<br />
 
-3.	Prompt for Action (<span class="mono">Inquire</span>): <br />
+3.  Prompt for Action (<span class="mono">Inquire</span>): <br />
 
 ~~~
 Get-Item -Path "C:\NonExistentFile.txt" -ErrorAction Inquire
@@ -187,8 +187,3 @@ While error handling is a best practice, there are cases where it may be overkil
 By mastering <span class="mono">ErrorAction</span> and combining it with advanced error handling techniques like <span class="mono">try-catch</span>, you can write more robust and predictable PowerShell scripts. Errors are inevitable, but how you handle them can make the difference between a script that crashes and one that recovers gracefully. <br />
 
 Start incorporating these techniques into your scripts today—your future self will appreciate the added reliability! 🚀
-
-
-```  <-- starting code fence
-code goes here
-```  <-- ending code fence
