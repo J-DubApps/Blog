@@ -51,7 +51,7 @@ Here’s the basic syntax: <br />
 
 ~~~
 
-The <span class="mono"><Action></span> specifies what PowerShell should do when it encounters an error. Let’s look at the available options: <br />
+The <span class="mono">Action</span> specifies what PowerShell should do when it encounters an error. Let’s look at the available options: <br />
 
 | Action            | Behavior                                                              |
 |-------------------|-----------------------------------------------------------------------|
