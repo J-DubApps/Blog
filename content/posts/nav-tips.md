@@ -5,7 +5,7 @@ title = 'Navigating Blog Posts: Shortcuts'
 type = 'post'
 tags = ["blog"]
 +++
-#### "*Blog* / *Best-of* / *Tags*" options in Nav area, up top:  
+#### "*Blog* / *Best-of* / *Tags*" (Nav menu, top *right*) :  
 
 📖 ["**Blog**"](https://julianwest.me/Blog/posts/) = the firehose: a descending list of every post on the blog.<br />
 ⭐️ ["***Best-Of***"](https://julianwest.me/Blog/best-of/) = most-read posts / posts w/ most feedback.<br />
