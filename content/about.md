@@ -13,9 +13,9 @@ type = 'page'
     </style>
 
 ### _Julian West is a North Texas systems architect, musician, and writer._
-<div style="font-size: 10px;">
-Contact Options <b><i><a href="http://julianwest.me/Blog/contact">here</a></b></i>...
-</div>
+
+###### Contact Options <b><i><a href="http://julianwest.me/Blog/contact">here</a></b></i>...
+
 <br />
 <img src="https://julianwest.me/Blog/posts/images/julian-about.jpeg" alt="Alt text" width="250" height="125">
 
