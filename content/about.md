@@ -16,7 +16,6 @@ type = 'page'
 
 ###### Contact Options <b><i><a href="http://julianwest.me/Blog/contact">here</a></b></i>...
 
-<br />
 <img src="https://julianwest.me/Blog/posts/images/julian-about.jpeg" alt="Alt text" width="250" height="125">
 
 <div style="font-size: 12px;">
