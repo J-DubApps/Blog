@@ -1,7 +1,7 @@
 +++
 date = '2021-08-15T23:14:51-06:00'
 draft = false
-title = 'PowerShell ErrorAction and Error Handling’
+title = 'PowerShell ErrorAction and Error Handling'
 type = 'post'
 tags = ["tech", "powershell", "code", "best-practice", "devops", "beginner-fundamentals", "enterprise-it", "walk-thru"]
 +++
