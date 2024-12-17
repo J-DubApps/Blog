@@ -16,11 +16,11 @@ tags = ["thought", "scifi", "philosophy", "film-tv", "best-of", "top-10", "speci
   <img src="https://julianwest.me/Blog/posts/2013/Yoda-Was-Right-About-Fear/yoda.jpeg" alt="Alt text">
 </div><br />
 
-The Star Wars prequels were among the least-enjoyed among Gen-X fans, while my Gen-Z nephews love them.  For me, there is a *fantastic* Zen observation in Episode I which few people notice. The part I love is where Yoda discusses fear and attachment, and hints at a fundamentally powerful way to *be* life.<br />
+The Star Wars prequels were among the least-enjoyed by myself and several of my ancient Gen-X friends, while my Gen-Z nephews *love them*.  But, for me, there is this *fantastic* Zen observation in Episode I which few people notice or think about much. <br />
 
-It’s Episode I scene where Yoda asks Anakin how he feels. He observes Anakin’s fears about losing his mother, and Anakin asks what fear has to do with anything — to which Yoda answers:<br />
+It's where Yoda discusses fear and attachment in Episode I.  In the scene Yoda asks Anakin how he feels, and he observes Anakin’s fears about losing his mother.  Anakin asks what fear has to do with anything — to which Yoda answers:<br />
 
->“Everything! Fear is the path to the dark side. Fear leads to <i>anger</i>. Anger leads to <i>hate</i>. Hate leads to ***suffering***.”<br />
+>“***Everything***! Fear is the path to the dark side. Fear leads to <i>anger</i>. Anger leads to <i>hate</i>. Hate leads to ***suffering***.”<br />
 
 <div class="video">
 {{< youtube kFnFr-DOPf8 >}}
