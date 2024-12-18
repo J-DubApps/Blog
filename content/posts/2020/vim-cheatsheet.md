@@ -437,5 +437,7 @@ Also see
 --------
 
 - [Vim cheatsheet](https://vim.rtorr.com/) _(vim.rotrr.com)_
+- [A Great Vim Cheat Sheet](https://vimsheet.com/)_
+- [Vim help files](https://vimhelp.org/)_
 - [Vim documentation](http://vimdoc.sourceforge.net/htmldoc/) _(vimdoc.sourceforge.net)_
 - [Interactive Vim tutorial](http://openvim.com/) _(openvim.com)
