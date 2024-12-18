@@ -5,7 +5,6 @@ title = 'Thoughts On AI In A DevOps World'
 type = 'post'
 tags = ["tech", "thought", "opinion", "career", "AI", "enterprise-it", "best-of", "devops", "top-10", "terraform", "json"]
 +++
-
 People who code and automate things (whether it's for a big tech shop, or a smaller company's line-of-business pipeline) like to think we're *all that*.  We're really not. <br />
 
 ***We’re digital carpenters*** who are paid well only because demand outstrips supply...and people think what we do is super-complicated wizardry. It’s not - it’s advanced sudoku at best.  <br />
@@ -14,7 +13,7 @@ Sure, you *still* need to be smart & build experience to be *good* at sudoku - a
 
 I have always said: **it's not AI that will take your job, it's ***people*** who learned to wield who will take your job.**  And I see a *lot* of junior engineers and non-coders wielding it, for DevOps stuff these days.  <br />
 
-The "wielding it *well*" part isn't here yet, but it's coming. And yes it will "*scale*".  Tech workers using AI with precision and proper risk-management, and a discerning ability to QC the quality of generated outputs, are already here and steadily making gains at their jobs using AI to iterate and improve on what they already do.  And these tech workers are gaining ground to be *miles ahead* of those who don't use AI. Sorry, it's just facts. <br />
+The "wielding it *well*" part isn't here yet. But it's coming, and yes it will "*scale*".  Tech workers using AI with precision and proper risk-management, with a discerning ability to QC generated outputs, are already here and steadily making gains at their jobs using AI to iterate and improve on what they already do.  And these tech workers are gaining ground to be *miles ahead* of those who don't use AI. Sorry, it's just facts. <br />
 
 As a recent example, I began learning Terraform which uses HCL syntax to essentially map and manage JSON value types and expressions.  It is pretty heady stuff, very new to me, but I was able to leverage a simple GPT-4o OpenAI Playground model, to work me through the basics of Terraform.  In no time at all, I had my first AzureStack deployment rolling complete with a virtual network and compute resources.  For leading-edge cloud enginering and DevOps arenas like Infra as Code -- learning (and then quickly *useing*) something like Terraform could take months of iteration and labbing.  It only took me two weeks to get from zero-to-deployed lab, using AI as a guide. I even pushed live HCL through GPT-4o, generating JSON outputs outside of my Terraform lab, just expand my fundamental understanding of how Terraform operated in my test-dev scenario. AI literally shaved months from what would previously would have been an extended learning cycle for me. <br />
 
