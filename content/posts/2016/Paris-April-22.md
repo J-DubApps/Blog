@@ -6,8 +6,7 @@ type = 'post'
 tags = ["blog", "photo", "travel"]
 +++
 
-Some scenery...... <br />
-
+Some scenery...
 
 ![Alt text](https://julianwest.me/Blog/posts/images/seine-2016.JPG)
 
