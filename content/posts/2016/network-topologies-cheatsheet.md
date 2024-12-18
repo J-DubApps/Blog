@@ -112,12 +112,13 @@ Network topologies describe the physical or logical arrangement of network devic
 
 ### Star Topology
 
-~~~
+```
 [Node]   [Node]
     \     /
     [Switch]
     /    \ 
 [Node]   [Node]
+```
 
 ### Bus Topology
 
