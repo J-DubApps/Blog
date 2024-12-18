@@ -3,7 +3,7 @@ date = '2024-12-16T11:11:31-06:00'
 draft = false
 title = 'Navigating Blog Posts: Shortcuts'
 type = 'post'
-tags = ["blog"]
+tags = ["blog", "links"]
 +++
 #### "*Blog* / *Best-of* / *Tags*" (Nav menu, top *right*) :  
 

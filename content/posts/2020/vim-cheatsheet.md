@@ -3,9 +3,9 @@ date = '2020-06-01T20:10:26-06:00'
 draft = false
 title = 'My Vim Cheatsheet'
 type = 'post'
-tags = ["tech", "devops", "enterprise-it", "linux", "best-of", "bash-cli", "cheatsheet"]
+tags = ["tech", "devops", "enterprise-it", "linux", "best-of", "bash-cli", "cheatsheet", "links"]
 +++
-[Vim](http://www.vim.org/) is a very efficient text editor that I . This blog Cheatsheet covers Vim 8x shotcuts, but the latest can be found at [devhints.io](https://devhints.io/vim) -- where I found this originally. <br />
+[Vim](http://www.vim.org/) is a very efficient text editor that I . This blog Cheatsheet covers Vim 8x shotcuts, but the latest can be found at [devhints.io](https://devhints.io/vim) -- where I found this originally.  Also see the bottom for more handy Vim links. <br />
 
 And after using this Cheatsheet you don't have to be the butt of any "Exit Vim" jokes, ever again: 
 
