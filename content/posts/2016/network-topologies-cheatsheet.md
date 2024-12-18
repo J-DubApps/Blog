@@ -155,4 +155,4 @@ Network topologies describe the physical or logical arrangement of network devic
      1   2   3   4        
 ```
 
-### Hybrid Topology combines the elements of the 5 topologies listed above.
+### Hybrid Topology combines any elements of the 5 topologies listed above.
