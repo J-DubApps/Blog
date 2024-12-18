@@ -1,4 +1,14 @@
 {{ $photoPosts := shuffle (where .Site.RegularPages "Params.tags" "intersect" (slice "photos")) }}
 {{ $randomPost := index $photoPosts 0 }}
-<meta http-equiv="refresh" content="0; url={{ $randomPost.Permalink }}">
-<p>Redirecting to a random photo... <a href="{{ $randomPost.Permalink }}">Click here if not redirected</a>.</p>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="0; url={{ $randomPost.Permalink }}">
+  <title>Random Photo</title>
+</head>
+<body>
+  <p>Redirecting to a random photo... <a href="{{ $randomPost.Permalink }}">Click here if not redirected</a>.</p>
+</body>
+</html>
