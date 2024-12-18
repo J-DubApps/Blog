@@ -1,5 +1,5 @@
 +++
-date = '2024-09-10T14:14:51-06:00'
+date = '2024-12-18T12:14:51-06:00'
 draft = false
 title = 'Github Copilot now Free for VS Code'
 type = 'post'
