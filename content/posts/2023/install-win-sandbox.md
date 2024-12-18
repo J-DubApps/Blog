@@ -68,7 +68,7 @@ Since Windows Sandbox is like a virtual machine, the "machine" inside Windows Sa
 
 Launch PowerShell as Administrator and run the following (you should reboot right away) <br />
 
->``` Enable-WindowsOptionalFeature -Online -FeatureName "Containers-DisposableClientVM" -NoRestart -All ```
+>``` Enable-WindowsOptionalFeature -Online -FeatureName "Containers-DisposableClientVM" -NoRestart -All ``` <br />
 >``` Restart-Computer -Force ```
 
 More on Windows Sandbox [**here**](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview.)
