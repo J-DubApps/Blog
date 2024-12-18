@@ -116,16 +116,16 @@ The OSI (Open Systems Interconnection) Model is a seven-layer framework for stan
 
 ## OSI Model Visualization
 
-[ Layer 7: Application (User Interaction) ]
-↕
-[ Layer 6: Presentation (Formatting, Encryption) ]
-↕
-[ Layer 5: Session (Session Management) ]
-↕
-[ Layer 4: Transport (TCP/UDP) ]
-↕
-[ Layer 3: Network (Routing, IP) ]
-↕
-[ Layer 2: Data Link (MAC, Framing) ]
-↕
+[ Layer 7: Application (User Interaction) ] <br />
+↕ <br />
+[ Layer 6: Presentation (Formatting, Encryption) ]<br />
+↕<br />
+[ Layer 5: Session (Session Management) ]<br />
+↕<br />
+[ Layer 4: Transport (TCP/UDP) ]<br />
+↕<br />
+[ Layer 3: Network (Routing, IP) ]<br />
+↕<br />
+[ Layer 2: Data Link (MAC, Framing) ]<br />
+↕<br />
 [ Layer 1: Physical (Signals, Media) ]

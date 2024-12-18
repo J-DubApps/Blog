@@ -87,10 +87,10 @@ The TCP/IP model is a concise, four-layer framework used to understand and imple
 
 ## Visualization
 
-[ User Data/Application ]
-↕
-[ Transport Layer (TCP/UDP) ]
-↕
-[ Internet Layer (IP/ICMP/ARP) ]
-↕
+[ User Data/Application ]<br />
+↕<br />
+[ Transport Layer (TCP/UDP) ]<br />
+↕<br />
+[ Internet Layer (IP/ICMP/ARP) ]<br />
+↕<br />
 [ Network Access Layer (Ethernet/Wi-Fi) ]
