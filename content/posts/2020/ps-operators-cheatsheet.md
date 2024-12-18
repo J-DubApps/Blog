@@ -3,7 +3,7 @@ date = '2020-06-01T20:10:26-06:00'
 draft = false
 title = 'PowerShell Compare Operators Cheatsheet'
 type = 'post'
-tags = ["tech", "devops", "enterprise-it", "cheatsheet", "powershell"]
+tags = ["tech", "devops", "enterprise-it", "cheatsheet", "powershell", "beginner-fundamentals"]
 +++
 # Comparison Operators
 

@@ -5,8 +5,8 @@ title = 'Bash Cheatsheet'
 type = 'post'
 tags = ["tech", "devops", "enterprise-it", "linux", "best-of", "bash-cli", "cheatsheet", "links"]
 +++
-I picked this Bash cheatsheet from a GitHub site recently, can't recall where but it immediately made its way into my personal Markdown notes.  Keep handy if you work with 'nix OSes on-the-daily, or just need a refresher.
-<br />
+###### I picked this Bash cheatsheet from a GitHub site recently, can't recall where but it immediately made its way into my personal Markdown notes.  Keep handy if you work with 'nix OSes on-the-daily, or just need a refresher.
+
 Bash Shell Cheatsheet
 =====================
 The main topics of this cheatsheet include an intro to the shell, navigating around the shell, common commands, environment variables, connectors, piping, I/O redirection, permissions, and keyboard shortcuts.
