@@ -105,7 +105,7 @@ This command retrieves all files in <b><span class="mono">C:\SomeFolder</span></
 
 **Filtering with Comparison Operators**
 
-<span class="mono">Where-Object relies heavily on comparison operators to filter objects. Here are the most common operators:
+<span class="mono">Where-Object</span> relies heavily on comparison operators to filter objects. Here are the most common operators:
 
 | Operator          | Meaning                                                               | Example                       |
 |-------------------|-----------------------------------------------------------------------|-------------------------------|

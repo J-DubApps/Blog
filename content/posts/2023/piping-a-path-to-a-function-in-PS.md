@@ -3,7 +3,7 @@ date = '2023-06-15T23:14:51-06:00'
 draft = false
 title = 'Piping File Paths into a PowerShell Function'
 type = 'post'
-tags = ["tech", "powershell", "code", "best-practice", "devops", "walk-thru"]
+tags = ["tech", "powershell", "code", "best-practice", "devops", "walk-thru", "intermediate-advanced"]
 +++
 
 <style>
