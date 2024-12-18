@@ -3,7 +3,7 @@ date = '2020-07-15T20:10:26-06:00'
 draft = false
 title = 'Beware the &quot;Post Hoc&quot; Trap: Avoid Faulty Cause-and-Effect Troubleshooting'
 type = 'post'
-tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "thought", "best-of", "top-10", "beginner-fundamentals"]
+tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "thought", "best-of", "top-10", "beginner-fundamentals", "troubleshooting"]
 +++
 
   <style type="text/css">
@@ -32,23 +32,22 @@ Like any good [conspiracy theory](https://en.wikipedia.org/wiki/Conspiracy_theor
 ## How the Fallacy Arises
 
 In an enterprise environment, the complexity of systems magnifies the risk of this logical trap: <br />
-	1.	Constant Change and Updates:
-IT departments operate in a state of perpetual motion. Software updates, new policies, network configuration tweaks, and vendor patches roll out regularly. As a result, it’s often not hard to find something that “changed” recently when a problem surfaces.
-	2.	High Pressure and Urgency:
-When critical systems falter—email servers glitch, database queries slow to a crawl, or a global VPN stutters—time is of the essence. The pressure from stakeholders to find the root cause is immense. In a high-stress environment, it’s tempting to reach for the nearest “obvious” explanation to stop the bleeding.
-	3.	Bias Toward the Recent:
-Human memory and perception are biased toward recent events. When faced with an issue, we instinctively recall what’s top-of-mind -- particularly the *last known change* -— to anchor our reasoning. This natural cognitive bias can nudge us into making unwarranted causal connections. <br />
-
+1.	Constant Change and Updates:<br />
+IT departments operate in a state of perpetual motion. Software updates, new policies, network configuration tweaks, and vendor patches roll out regularly. As a result, it’s often not hard to find something that “changed” recently when a problem surfaces.<br />
+2.	High Pressure and Urgency:<br />
+When critical systems falter—email servers glitch, database queries slow to a crawl, or a global VPN stutters—time is of the essence. The pressure from stakeholders to find the root cause is immense. In a high-stress environment, it’s tempting to reach for the nearest “obvious” explanation to stop the bleeding.<br />
+3.	Bias Toward the Recent:<br />
+Human memory and perception are biased toward recent events. When faced with an issue, we instinctively recall what’s top-of-mind -- particularly the *last known change* -— to anchor our reasoning. This natural cognitive bias can nudge us into making unwarranted causal connections.
 
  ## Why This Matters
 
-Falling victim to the Post Hoc fallacy can lead IT teams down expensive and time-consuming dead ends. If you incorrectly blame the wrong cause, you might waste hours (or days) backtracking on that change, rolling it back, or tweaking it unnecessarily—only to find the real culprit still lurking in the shadows. Worse yet, repeatedly falling into this pattern erodes trust within the organization. Stakeholders might question your troubleshooting prowess if each “sure thing” fix doesn’t solve the problem. <br />
+Falling victim to the Post Hoc fallacy can lead IT teams down expensive and time-consuming dead ends. If you incorrectly blame the wrong cause, you might waste hours (or days) backtracking on that change, rolling it back, or tweaking it unnecessarily—only to find the real culprit still lurking in the shadows. Worse yet, repeatedly falling into this pattern erodes trust within the organization. Stakeholders might question your troubleshooting prowess if each “sure thing” fix doesn’t solve the problem.
 
 **Adopting Structured Troubleshooting Methodologies** <br />
 
 To avoid the Post Hoc trap, it’s essential to embrace a more disciplined and systematic approach to troubleshooting. Borrowing from the Scientific Method and other structured methodologies can help you remain objective and open-minded: <br />
 
-1.  **Form a Hypothesis** (Don’t Assume It’s True):
+1.  **Form a Hypothesis** (*Don’t* assume it’s *true*):
 Instead of declaring, “The recent switch firmware upgrade caused the packet loss,” frame it as a hypothesis: “I suspect the switch firmware upgrade might be contributing to the packet loss.” This subtle shift in language keeps your mind open to alternative explanations.
 2.  **Gather and Analyze Data**:
 Look beyond the temporal association. Collect logs, performance metrics, system health reports, and application traces. Compare system behavior before and after the suspected change. Often, a more thorough examination will reveal patterns or confounding variables you overlooked.
@@ -61,8 +60,10 @@ Document your hypotheses, tests, findings, and outcomes. Share these with a coll
 
 ## Staying Vigilant *and* Open-Minded
 
-In enterprise IT, complexity and constant flux are the norms. To thrive in this environment, cultivate a mindset that’s skeptical of quick conclusions and open to exploring every angle. When you find yourself gravitating toward a cause simply because it’s the most recent change you’ve implemented, pause and question that line of thinking. With a structured, evidence-based troubleshooting approach, you can sidestep the pitfalls of Post Hoc reasoning and deliver better, more reliable solutions to the complex challenges you face.
+In enterprise IT, complexity and constant flux are the norms. To thrive in this environment, cultivate a mindset that’s skeptical of quick conclusions and open to exploring every angle. When you find yourself gravitating toward a cause simply because it’s the most recent change you’ve implemented, pause and question that line of thinking. With a structured, evidence-based troubleshooting approach, you can sidestep the pitfalls of Post Hoc reasoning and deliver better, more *reliable solutions* to your users and your team.
 
 ## The Take-Away
 
-If you remember nothing else I ever write on this blog, remember this: the ***Post Hoc, Ergo Propter Hoc*** fallacy can ensnare even the most experienced IT professionals. However, by recognizing this cognitive trap and countering it with structured, *data-driven* troubleshooting methodologies, you can reduce downtime, increase accuracy, and ultimately build greater trust and credibility within your organization. In a world where “***what changed?***” may be the simplest question, remember that “*what changed most recently?*” is not *always* the right answer.
+If you remember nothing else I ever write on this blog, remember this: the ***Post Hoc, Ergo Propter Hoc*** fallacy ensnares people and increases outage windows every single day. Even the most experienced IT professionals get sidelined by it. However, by recognizing this cognitive trap and countering it with structured, *data-driven* troubleshooting methodologies, you can reduce downtime, increase accuracy, and ultimately build greater trust and credibility within your organization. In a world where “***what changed?***” may be the simplest question, remember that “*what changed most recently?*” is not *always* the right answer.
+
+![Alt text](https://julianwest.me/Blog/posts/images/correlation.jpeg)
