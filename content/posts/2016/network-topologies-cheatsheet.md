@@ -112,6 +112,7 @@ Network topologies describe the physical or logical arrangement of network devic
 
 ### Star Topology
 
+~~~
 [Node]   [Node]
     \     /
     [Switch]
@@ -124,6 +125,7 @@ Network topologies describe the physical or logical arrangement of network devic
 
 ### Ring Topology
 
+```
 +-----+
 |     |
 |     |---------
@@ -136,6 +138,8 @@ Network topologies describe the physical or logical arrangement of network devic
 |     |-----|     |
 |     |     |     |
 +-----+     +-----+
+
+```
 
 
 
