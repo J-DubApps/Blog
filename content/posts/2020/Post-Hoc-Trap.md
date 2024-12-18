@@ -61,8 +61,10 @@ Document your hypotheses, tests, findings, and outcomes. Share these with a coll
 
 ## Staying Vigilant *and* Open-Minded
 
-In enterprise IT, complexity and constant flux are the norms. To thrive in this environment, cultivate a mindset that’s skeptical of quick conclusions and open to exploring every angle. When you find yourself gravitating toward a cause simply because it’s the most recent change you’ve implemented, pause and question that line of thinking. With a structured, evidence-based troubleshooting approach, you can sidestep the pitfalls of Post Hoc reasoning and deliver better, more reliable solutions to the complex challenges you face.
+In enterprise IT, complexity and constant flux are the norms. To thrive in this environment, cultivate a mindset that’s skeptical of quick conclusions and open to exploring every angle. When you find yourself gravitating toward a cause simply because it’s the most recent change you’ve implemented, pause and question that line of thinking. With a structured, evidence-based troubleshooting approach, you can sidestep the pitfalls of Post Hoc reasoning and deliver better, more *reliable solutions* to your users and your team.
 
 ## The Take-Away
 
 If you remember nothing else I ever write on this blog, remember this: the ***Post Hoc, Ergo Propter Hoc*** fallacy can ensnare even the most experienced IT professionals. However, by recognizing this cognitive trap and countering it with structured, *data-driven* troubleshooting methodologies, you can reduce downtime, increase accuracy, and ultimately build greater trust and credibility within your organization. In a world where “***what changed?***” may be the simplest question, remember that “*what changed most recently?*” is not *always* the right answer.
+
+![Alt text](https://julianwest.me/Blog/posts/images/correlation.jpeg)
