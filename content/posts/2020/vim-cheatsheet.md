@@ -7,7 +7,7 @@ tags = ["tech", "devops", "enterprise-it", "linux", "best-of", "bash-cli"]
 +++
 [Vim](http://www.vim.org/) is a very efficient text editor that I . This blog Cheatsheet covers Vim 8x shotcuts, but the latest can be found at [devhints.io](https://devhints.io/vim) -- where I found this originally. <br />
 
-After using this Cheatsheet you won't ever have to be the butt of this meme joke ever again: 
+And after using this Cheatsheet you don't have to be the butt of any "Exit Vim" jokes, ever again: 
 
 ![Alt text](https://julianwest.me/Blog/posts/images/exit-vim-meme.jpg)
 

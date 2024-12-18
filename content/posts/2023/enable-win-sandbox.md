@@ -3,7 +3,7 @@ date = '2023-11-30T23:14:51-06:00'
 draft = false
 title = 'Enable Windows Sandbox on Windows 10/11'
 type = 'post'
-tags = ["tech", "devops", "enterprise-it", "windows", "linux", "powershell", "secops"]
+tags = ["tech", "devops", "enterprise-it", "windows", "powershell", "secops"]
 +++
 A feature a lot of SecOps teams use, but Enterprise IT org teams *ignore*, is the [***Windows Sandbox***](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview).  It has been around for many years now, but you don't hear a lot about it.  It can really help in a pinch with work ranging from bonafide DFIR situations, to just getting some low-risk code isolated for a quick review using [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon) and other tools. <br />
 
