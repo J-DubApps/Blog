@@ -73,8 +73,8 @@ Launch PowerShell as Administrator and run the following (you should reboot righ
 
 More on Windows Sandbox [**here**](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview.)
 
-**A Quick Word Of Caution & Advice**: Some Enterprise IT orgs' flat-out won't allow you to install this, even when running Enterprise Edition Windows 10/11.  This is because some XDR/IDS systems may grumble, or stop an attempt to enable Windows Sandbox. Check with your friendly IT sysadmin or Ops team, as it may turn out some massaging of your SOC or CISO is all that's needed to enable Windows Sandbox.  <br />
+**A Quick Word Of Caution & Advice**: Some Enterprise IT orgs' flat-out won't allow you to enable Windows Sandbox, even when running Enterprise Edition activation, because some XDR/IDS suites may grumble or even *stop* an attempt to enable it. So check with your friendly IT sysadmin or Ops team if you're going to run this on your work machine, it may turn out some simple massaging of your SOC or CISO is all that's needed.  <br />
 
-I usually just cheefully send this to my friendly neighborhood SecOps team, and they usually work with me: 
+And be prepared to take this friendly oath if your friendly neighborhood SecOps team gives you the go-ahead: 
 
 ![Alt text](https://julianwest.me/Blog/posts/images/IT-admin-ops-oath.jpeg)
