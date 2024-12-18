@@ -3,7 +3,7 @@ date = '2024-12-16T11:11:31-06:00'
 draft = false
 title = 'Navigating Blog Posts: Shortcuts'
 type = 'post'
-tags = ["blog", "links"]
+tags = ["blog"]
 +++
 #### "*Blog* / *Best-of* / *Tags*" (Nav menu, top *right*) :  
 
@@ -22,10 +22,6 @@ tags = ["blog", "links"]
 
 ##### 🗞️ [News Link Items](https://julianwest.me/Blog/tags/news-link/)
 
-##### 📷 [Photo posts during Travel or Life](https://julianwest.me/Blog/tags/photo/)
-
-##### 📺 [Video Content posts](https://julianwest.me/Blog/tags/video-content/)
-
 ##### 🔰 [IT Fundamentals](https://julianwest.me/Blog/tags/beginner-fundamentals/)
 
 ##### 🎖️ [Tech or IT Best-Practices](https://julianwest.me/Blog/tags/best-practice/)
@@ -36,13 +32,13 @@ tags = ["blog", "links"]
 
 ##### 👨🏻‍💻 [IT or DevOps Walkthroughs](https://julianwest.me/Blog/tags/walk-thru/)
 
-##### 👨🏻‍💻 [Tech Cheatsheets](https://julianwest.me/Blog/tags/cheatsheet/)
-
-##### 👨🏻‍💻 [Networking](https://julianwest.me/Blog/tags/networking/)
-
 ##### 📚 [Books Reviews or Posts about Authors](https://julianwest.me/Blog/tags/books/)
 
 ##### 📜 [Notable Quotes](https://julianwest.me/Blog/tags/quote/)
+
+##### 📷 [Photo posts during Travel or Life](https://julianwest.me/Blog/tags/photo/)
+
+##### 📺 [Video Content posts](https://julianwest.me/Blog/tags/video-content/)
 
 ##### 📰 [Commentary / Opinion](https://julianwest.me/Blog/tags/opinion/) <--- <span style="font-size: 10px;">does <i><b><u>NOT</i></b></u> reflect opinions of my employers / clients. See "***Terms***" link at bottom.</span>
 

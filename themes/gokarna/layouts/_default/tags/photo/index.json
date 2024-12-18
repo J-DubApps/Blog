@@ -1,0 +1,7 @@
+{{- $posts := where .Site.RegularPages "Params.tags" "intersect" (slice "photos") -}}
+[
+{{ range $index, $post := $posts }}
+  {{- if $index }},{{ end }}
+  { "title": {{ $post.Title | jsonify }}, "url": {{ $post.Permalink | jsonify }} }
+{{ end }}
+]

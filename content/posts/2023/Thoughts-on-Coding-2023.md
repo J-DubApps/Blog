@@ -3,7 +3,7 @@ date = '2023-12-09T14:14:51-06:00'
 draft = false
 title = 'Thoughts On Coding: 2023 Edition'
 type = 'post'
-tags = ["tech", "code", "thought", "opinion", "best-practices", "enterprise-it", "devops", "best-of"]
+tags = ["tech", "programming-dev", "thought", "opinion", "best-practices", "enterprise-it", "devops", "best-of"]
 +++
 
 **Time for some yearly hot-sports-opinions about coding...** <br /><br />
