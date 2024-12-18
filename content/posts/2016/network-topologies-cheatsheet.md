@@ -122,11 +122,15 @@ Network topologies describe the physical or logical arrangement of network devic
 
 ### Bus Topology
 
+```
 [Node] – [Node] – [Node] – [Node]
-
+```
 ### Ring Topology
 
-```
+
+
+
+
 +-----+
 |     |
 |     |---------
@@ -140,7 +144,11 @@ Network topologies describe the physical or logical arrangement of network devic
 |     |     |     |
 +-----+     +-----+
 
-```
+
+
+
+
+
 
 
 
