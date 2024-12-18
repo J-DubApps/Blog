@@ -22,10 +22,6 @@ tags = ["blog", "links"]
 
 ##### 🗞️ [News Link Items](https://julianwest.me/Blog/tags/news-link/)
 
-##### 📚 [Books Reviews or Posts about Authors](https://julianwest.me/Blog/tags/books/)
-
-##### 📜 [Notable Quotes](https://julianwest.me/Blog/tags/quote/)
-
 ##### 📷 [Photo posts during Travel or Life](https://julianwest.me/Blog/tags/photo/)
 
 ##### 📺 [Video Content posts](https://julianwest.me/Blog/tags/video-content/)
@@ -41,6 +37,12 @@ tags = ["blog", "links"]
 ##### 👨🏻‍💻 [IT or DevOps Walkthroughs](https://julianwest.me/Blog/tags/walk-thru/)
 
 ##### 👨🏻‍💻 [Tech Cheatsheets](https://julianwest.me/Blog/tags/cheatsheet/)
+
+##### 👨🏻‍💻 [Networking](https://julianwest.me/Blog/tags/networking/)
+
+##### 📚 [Books Reviews or Posts about Authors](https://julianwest.me/Blog/tags/books/)
+
+##### 📜 [Notable Quotes](https://julianwest.me/Blog/tags/quote/)
 
 ##### 📰 [Commentary / Opinion](https://julianwest.me/Blog/tags/opinion/) <--- <span style="font-size: 10px;">does <i><b><u>NOT</i></b></u> reflect opinions of my employers / clients. See "***Terms***" link at bottom.</span>
 
