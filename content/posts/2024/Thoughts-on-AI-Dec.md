@@ -3,14 +3,14 @@ date = '2024-12-13T14:14:51-06:00'
 draft = false
 title = 'Thoughts On AI In A DevOps World'
 type = 'post'
-tags = ["tech", "thought", "opinion", "career", "AI", "enterprise-it", "best-of", "devops", "top-10"]
+tags = ["tech", "thought", "opinion", "career", "AI", "enterprise-it", "best-of", "devops", "top-10", "terraform", "json"]
 +++
 
 People who code and automate things (whether it's for a big tech shop, or a smaller company's line-of-business pipeline) like to think we're *all that*.  We're really not. <br />
 
 ***We’re digital carpenters*** who are paid well only because demand outstrips supply...and people think what we do is super-complicated wizardry. It’s not - it’s advanced sudoku at best.  <br />
 
-Sure, you *still* need to be smart & build experience to be *good* at sudoku - and coding too. And while coding is not easily *learned* quickly, it isn't the *Rain Man + Gandalf* undertaking that many people believe. But the *practice* of ***making***...of creating something useful-seemingly out of thin air-will *always* be nothing short of magic to a lot of people. Sometimes it's magic to those working in software engineering, too. That *said*, the tech layoffs of the past 20 months have taught me that coding for automation, site-resilience, and overall operations is slowy going to become... *less* rare in terms of *supply*.  ***This will be due to*** ***AI*** and its rise, and people who got really, *really* good at creating output pipelines using AI. <br />
+Sure, you *still* need to be smart & build experience to be *good* at sudoku - and coding too. And while coding is not easily *learned* quickly, it isn't the *Rain Man + Gandalf* undertaking that many people believe. But the *practice* of ***making***...of creating something useful-seemingly out of thin air-will *always* be nothing short of magic to a lot of people. Sometimes it's magic to those working in software engineering, too. That *said*, the tech layoffs of the past 20 months have taught me that coding for automation, site-resilience, and overall operations is slowy going to become... *less* rare in terms of *supply*.  **This will be due to** ***AI*** and its rise, and people who get really, *really* good at creating output pipelines using AI: they will be earliest discruptors in DevOps. <br />
 
 I have always said: **it's not AI that will take your job, it's ***people*** who learned to wield who will take your job.**  And I see a *lot* of junior engineers and non-coders wielding it, for DevOps stuff these days.  <br />
 
@@ -24,6 +24,6 @@ What we do in software development and operations *is* still quite valuable and,
 
 That is not to say that AI does *everything* better than teams of humans in *anything*, yet. But when it comes to software engineering -- <a href="https://www.techtarget.com/whatis/feature/Tech-sector-layoffs-explained-What-you-need-to-know">coders and technical teams are already seeing disruption</a>. AI hasn't quite had its ["Why Software Is Eating the World"](https://a16z.com/why-software-is-eating-the-world/) moment, but trust me it's only a matter of time.  The potential gains in software engineering, operations, and management are just too great for orgs to ignore. <br />  
 
-So what can good software and DevOps focus on, besides only becoming great at leverage AI, to protect and grow their careers in the AI disruptions comimg to our arena? Well, I say the *most important* thing for you to remember as a DevOps Engineer, Software Developer, or *anyone* supporting in automation pipelines right now: ***People***, **not code, are the most important part of your job.**  <br />
+So what can good software and DevOps focus on, besides only becoming great at leverage AI, to protect and grow their careers in the AI disruptions comimg to our arena? Well, I say the *most important* thing for you to remember as a DevOps Engineer, Software Developer, or *anyone* supporting in automation pipelines right now: ***People***, **not code, are the most important part of your job**.  <br />
 
-If you don't stray from the concept that **Software is ultimately used by** ***people***, you can pretty much guarantee your own future during the disruptions ahead. AI usage is going to shake things up, and DevOps Project-work is already being affected, but remember: ultimately Projects *are*... ***People***. That's doubly-true for any software dev or enginering project.  Keep that understanding as your *high-order bit*, and automating operations and enginerring solutions in the age of AI will never be a dead-end job for you.
+If you don't stray from the concept that **Software is ultimately used by** ***people***, you can pretty much guarantee your own future during the disruptions ahead. AI usage is going to shake things up, and DevOps Project-work is already being affected, but remember: ultimately [Projects *are*... ***People***](https://julianwest.me/Blog/projects-are-people/). That's doubly-true for any software dev or enginering project.  Keep that understanding as your *high-order bit*, and automating operations and enginerring solutions in the age of AI will never be a dead-end job for you.
