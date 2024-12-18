@@ -18,10 +18,8 @@ And after using this Cheatsheet you don't have to be the butt of any "Exit Vim" 
 
 Getting started
 ---------------
-{: .-three-column}
 
 ### Exiting
-{: .-prime}
 
 | Shortcut       | Description                      |
 | -------------- | -------------------------------- |
@@ -33,7 +31,6 @@ Getting started
 | ---            | ---                              |
 | `ZZ`           | Save and quit                    |
 | `ZQ`           | Quit without checking changes    |
-{: .-shortcuts}
 
 ### Navigating
 
@@ -42,7 +39,7 @@ Getting started
 | `h` `j` `k` `l`     | Arrow keys        |
 | `<C-U>` _/_ `<C-D>` | Half-page up/down |
 | `<C-B>` _/_ `<C-F>` | Page up/down      |
-{: .-shortcuts}
+
 
 #### Words
 
@@ -50,7 +47,6 @@ Getting started
 | ---          | ---                       |
 | `b` _/_ `w`  | Previous/next word        |
 | `ge` _/_ `e` | Previous/next end of word |
-{: .-shortcuts}
 
 #### Line
 
@@ -59,13 +55,12 @@ Getting started
 | `0` _(zero)_ | Start of line                      |
 | `^`          | Start of line _(after whitespace)_ |
 | `$`          | End of line                        |
-{: .-shortcuts}
 
 #### Character
 
 | `fc`  | Go forward to character `c`  |
 | `Fc`  | Go backward to character `c` |
-{: .-shortcuts}
+
 
 #### Document
 
@@ -77,7 +72,7 @@ Getting started
 | `{number}G` | Go to line `{number}`    |
 | `{number}j` | Go down `{number}` lines |
 | `{number}k` | Go up `{number}` lines   |
-{: .-shortcuts}
+
 
 #### Window
 
@@ -89,7 +84,6 @@ Getting started
 | `H`      | Move to top of screen    |
 | `M`      | Move to middle of screen |
 | `L`      | Move to bottom of screen |
-{: .-shortcuts}
 
 #### Search
 
@@ -99,7 +93,6 @@ Getting started
 | `N`       | Previous match                      |
 | `*`       | Next whole word under cursor        |
 | `#`       | Previous whole word under cursor    |
-{: .-shortcuts}
 
 #### Tab pages
 
@@ -133,7 +126,6 @@ Getting started
 | ---      | ---                                 |
 | `u`      | Undo changes                        |
 | `<C-R>`  | Redo changes                        |
-{: .-shortcuts}
 
 ### Exiting insert mode
 
@@ -141,7 +133,6 @@ Getting started
 | ---               | ---         |
 | `Esc` _/_ `<C-[>` | Exit insert mode |
 | `<C-C>`           | Exit insert mode, and abort current command |
-{: .-shortcuts}
 
 ### Clipboard
 
@@ -157,7 +148,6 @@ Getting started
 | ---             | ---                         |
 | `"*p` _/_ `"+p` | Paste from system clipboard |
 | `"*y` _/_ `"+y` | Paste to system clipboard   |
-{: .-shortcuts}
 
 ### Visual mode
 
@@ -166,7 +156,6 @@ Getting started
 | `v`      | Enter visual mode       |
 | `V`      | Enter visual line mode  |
 | `<C-V>`  | Enter visual block mode |
-{: .-shortcuts}
 
 #### In visual mode
 
@@ -175,7 +164,7 @@ Getting started
 | `d` _/_ `x` | Delete selection        |
 | `s`         | Replace selection       |
 | `y`         | Yank selection _(Copy)_ |
-{: .-shortcuts}
+
 
 See [Operators](#operators) for other things you can do.
 
@@ -187,17 +176,15 @@ See [Operators](#operators) for other things you can do.
 
 Operators
 ---------
-{: .-three-column}
 
 ### Usage
-{: .-prime}
 
 Operators let you operate in a range of text (defined by *motion*). These are performed in normal mode.
-{: .-setup}
+
 
 | `d`      | `w`    |
 | Operator | Motion |
-{: .-css-breakdown}
+
 
 ### Operators list
 
@@ -216,14 +203,12 @@ Operators let you operate in a range of text (defined by *motion*). These are pe
 | `gu`     | Lowercase                       |
 | ---      | ---                             |
 | `!`      | Filter through external program |
-{: .-shortcuts}
 
 See `:help operator`
 
 ### Examples
 
 Combine operators with *motions* to use them.
-{: .-setup}
 
 | Shortcut               | Description                               |
 | ---                    | ---                                       |
@@ -238,17 +223,13 @@ See: `:help motion.txt`
 
 Text objects
 ------------
-{: .-three-column}
 
 ### Usage
-{: .-prime}
 
 Text objects let you operate (with an *operator*) in or around text blocks (*objects*).
-{: .-setup}
 
 | `v`      | `i`                  | `p`         |
 | Operator | [i]nside or [a]round | Text object |
-{: .-css-breakdown}
 
 ### Text objects
 
@@ -264,7 +245,6 @@ Text objects let you operate (with an *operator*) in or around text blocks (*obj
 | `b`                    | A block [(            |
 | `B`                    | A block in [{         |
 | `t`                    | A XML tag block       |
-{: .-shortcuts}
 
 ### Examples
 
@@ -278,7 +258,6 @@ Text objects let you operate (with an *operator*) in or around text blocks (*obj
 | ---         | ---                                |
 | `dip`       | Delete inner paragraph             |
 | `cip`       | Change inner paragraph             |
-{: .-shortcuts}
 
 See [Operators](#operators) for other things you can do.
 
@@ -309,7 +288,6 @@ Misc
 | `zr`          | Fold less _(foldlevel -= 1)_ |
 | ---           | ---                          |
 | `zx`          | Update folds                 |
-{: .-shortcuts}
 
 Uppercase ones are recursive (eg, `zO` is open recursively).
 
@@ -323,7 +301,6 @@ Uppercase ones are recursive (eg, `zO` is open recursively).
 | ---                 | ---                        |
 | `[m`                | Previous method start      |
 | `[M`                | Previous method end        |
-{: .-shortcuts}
 
 ### Jumping
 
@@ -333,7 +310,6 @@ Uppercase ones are recursive (eg, `zO` is open recursively).
 | `<C-I>`  | Go forward                   |
 | ---      | ---                          |
 | `gf`     | Go to file in cursor         |
-{: .-shortcuts}
 
 ### Counters
 
@@ -341,7 +317,6 @@ Uppercase ones are recursive (eg, `zO` is open recursively).
 | ---      | ---              |
 | `<C-A>`  | Increment number |
 | `<C-X>`  | Decrement        |
-{: .-shortcuts}
 
 ### Windows
 
@@ -360,7 +335,6 @@ Uppercase ones are recursive (eg, `zO` is open recursively).
 | ---                   | ---                                             |
 | `:tselect Classname`  | Find definitions of Classname                   |
 | `:tjump Classname`    | Find definitions of Classname (auto-select 1st) |
-{: .-shortcuts}
 
 ### Case
 
@@ -372,7 +346,6 @@ Uppercase ones are recursive (eg, `zO` is open recursively).
 | ---      | ---                                  |
 | `gUU`    | Uppercase current line (also `gUgU`) |
 | `guu`    | Lowercase current line (also `gugu`) |
-{: .-shortcuts}
 
 Do these in visual or normal mode.
 
@@ -403,7 +376,6 @@ Do these in visual or normal mode.
 | `:delm a`          | Delete mark `a`                                      |
 | `:delm a-d`        | Delete marks `a`, `b`, `c`, `d`                      |
 | `:delm abc`        | Delete marks `a`, `b`, `c`                           |
-{: .-shortcuts}
 
 ### Misc
 
@@ -413,7 +385,6 @@ Do these in visual or normal mode.
 | `]p`       | Paste under the current indentation level         |
 | ---        | ---                                               |
 | `:set ff=unix` | Convert Windows line endings to Unix line endings |
-{: .-shortcuts}
 
 ### Command line
 
@@ -422,7 +393,6 @@ Do these in visual or normal mode.
 | `<C-R><C-W>` | Insert current word into the command line |
 | `<C-R>"`     | Paste from " register                     |
 | `<C-X><C-F>` | Auto-completion of path in insert mode    |
-{: .-shortcuts}
 
 ### Text alignment
 
@@ -459,7 +429,6 @@ Works like `:qa`, but throws an error. Great for aborting Git commands.
 | `zg`                         | Add word to spell list                                  |
 | `zw`                         | Mark word as bad/mispelling                             |
 | `zu` / `C-X (Insert Mode)`   | Suggest words for bad word under cursor from spellfile  |
-{: .-shortcuts}
 
 See `:help spell`
 
