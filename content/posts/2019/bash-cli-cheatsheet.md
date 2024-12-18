@@ -3,7 +3,7 @@ date = '2019-11-01T20:10:26-06:00'
 draft = false
 title = 'Bash Cheatsheet'
 type = 'post'
-tags = ["tech", "devops", "enterprise-it", "linux", "best-of", "bash-cli", "cheatsheet", "links"]
+tags = ["tech", "devops", "enterprise-it", "linux", "best-of", "bash-cli", "cheatsheet", "links", "beginner-fundamentals"]
 +++
 ###### I picked this Bash cheatsheet from a GitHub site recently, can't recall where but it immediately made its way into my personal Markdown notes.  Keep handy if you work with 'nix OSes on-the-daily, or just need a refresher.
 
