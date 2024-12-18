@@ -3,7 +3,7 @@ date = '2020-06-01T20:10:26-06:00'
 draft = false
 title = 'My Vim Cheatsheet'
 type = 'post'
-tags = ["tech", "devops", "enterprise-it", "linux", "best-of", "bash-cli"]
+tags = ["tech", "devops", "enterprise-it", "linux", "best-of", "bash-cli", "cheatsheet"]
 +++
 [Vim](http://www.vim.org/) is a very efficient text editor that I . This blog Cheatsheet covers Vim 8x shotcuts, but the latest can be found at [devhints.io](https://devhints.io/vim) -- where I found this originally. <br />
 
