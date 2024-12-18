@@ -71,8 +71,6 @@ Launch PowerShell as Administrator and run the following (you should reboot righ
 >``` Enable-WindowsOptionalFeature -Online -FeatureName "Containers-DisposableClientVM" -NoRestart -All ``` <br />
 >``` Restart-Computer -Force ```
 
-More on Windows Sandbox [**here**](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview.)
-
 **A Quick Word Of Caution & Advice**: Some Enterprise IT orgs' flat-out won't allow you to enable Windows Sandbox, even when running Enterprise Edition activation, because some XDR/IDS suites may grumble or even *stop* an attempt to enable it. So check with your friendly IT sysadmin or Ops team if you're going to run this on your work machine, it may turn out some simple massaging of your SOC or CISO is all that's needed.  <br />
 
 And be prepared to take this friendly oath if your friendly neighborhood SecOps team gives you the go-ahead: 
