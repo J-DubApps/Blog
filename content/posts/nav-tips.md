@@ -46,4 +46,4 @@ tags = ["blog", "links"]
 
 ##### 📰 [Commentary / Opinion](https://julianwest.me/Blog/tags/opinion/) <--- <span style="font-size: 10px;">does <i><b><u>NOT</i></b></u> reflect opinions of my employers / clients. See "***Terms***" link at bottom.</span>
 
-###### ...and finally, see "***Colophon***" below for info on my blog tech stack, and "***Terms***" for stuff lawyers need me to say.
+###### ...and finally, see "***Colophon***" below for blog stack info, and "***Terms***" for stuff lawyers need me to say.
