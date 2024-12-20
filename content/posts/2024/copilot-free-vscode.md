@@ -9,7 +9,7 @@ tags = ["tech", "powershell", "devops", "microsoft", "code", "windows", "enterpr
 
 GitHub isn't super clear on specific [differences in the free tier](https://docs.github.com/en/copilot/about-github-copilot/subscription-plans-for-github-copilot), other than to say it's "limited access to select features" of Copilot. But not having a subscription is great.  Be sure and check it out! <br />
 
-**UPDATE**: Here's a video walk-throught --
+**UPDATE**: Here's a video walk-through --
 
 <div class="video">
 {{< youtube X_Aet9ndh_Y >}}
