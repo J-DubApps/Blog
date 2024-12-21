@@ -58,7 +58,7 @@ tags = ["tech", "powershell", "code", "best-practice", "beginner-fundamentals", 
 }
 </style>
 
-As I mentioned yesterday, PowerShell is built around *objects*.  And so it doesn't just work with plain text, when selecting data or doing things with it.  Objects are everything in PowerShell.  And one of PowerShell's greatest strengths is how you can filter those objects in the pipeline. Enter <span class="mono">Where-Object</span>, a cmdlet that allows you to filter objects based on specific conditions. <br />
+[As I mentioned yesterday](https://julianwest.me/Blog/ps-select-object/), PowerShell is built around *objects*.  And so it doesn't just work with plain text, when selecting data or doing things with it.  Objects are everything in PowerShell.  And one of PowerShell's greatest strengths is how you can filter those objects in the pipeline. Enter <span class="mono">Where-Object</span>, a cmdlet that allows you to filter objects based on specific conditions. <br />
 
 Whether you’re filtering files, processes, or Active Directory users, <span class="mono">Where-Object</span> is your go-to tool for narrowing down results. Let’s walk through how to use <span class="mono">Where-Object</span> effectively, in the CLI and in your scripts. <br />
 
