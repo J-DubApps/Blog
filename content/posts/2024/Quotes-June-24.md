@@ -2,7 +2,7 @@
 date = '2024-06-01T20:09:25-06:00'
 draft = false
 title = 'Quotables for June...'
-description = 'Great Quotes...'
+description = "Great Quotes..."
 image = "/images/article_avatar/quote.png"
 type = 'post'
 tags = ["writing", "quote", "blog", "thought", "philosophy"]
