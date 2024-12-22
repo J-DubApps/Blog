@@ -2,6 +2,7 @@
 date = '2024-12-13T14:14:51-06:00'
 draft = false
 title = 'Thoughts On AI In A DevOps World'
+description = 'It's not AI that will take your job, it's people who leverage AI that will take your job.'
 type = 'post'
 tags = ["tech", "thought", "opinion", "career", "AI", "enterprise-it", "best-of", "devops", "top-10"]
 +++
@@ -11,7 +12,7 @@ People who code and automate things (whether it's for a big tech shop, or a smal
 
 Sure you *still* need to be smart and experienced to get *good* at sudoku (coding and automation, too). But while coding skills are not easily learned *quickly*, it also isn't the *Rain Man + Gandalf* undertaking that many would have you believe. But the *practice* of creatively ***making***...something useful--seemingly out of thin air? That will *always* be nothing short of magic to a lot of people.  Myself included.  That *said*, the tech layoffs of the past 20 months have taught me that coding for automation, site-resilience, and overall operations is slowy going to become... *less* rare in terms of *supply*.  **This will be due to** ***AI*** and its rise, and people who get really, *really* good at creating output pipelines using AI: they will be earliest discruptors in DevOps. <br />
 
-I have always said: **it's not AI that will take your job, it's ***people*** who leverage & ***wield AI*** who will take your job.**  And I see a *lot* of junior engineers and non-coders wielding it, for DevOps stuff these days.  <br />
+I have always said: **it's not AI that will take your job, it's ***people*** who ***leverage AI*** that will take your job**.  And I see a *lot* of junior engineers and non-coders wielding it, for DevOps stuff these days.  <br />
 
 The "wielding it *well* " -- that part isn't here yet. But it's coming, and yes it will "*scale*".  Tech workers using AI with precision and proper risk-management, with a discerning ability to QC generated outputs, are already here and steadily making gains at their jobs using AI to iterate and improve on what they already do.  And these tech workers are gaining ground to be *miles ahead* of those who don't use AI. Sorry, it's just facts. <br />
 

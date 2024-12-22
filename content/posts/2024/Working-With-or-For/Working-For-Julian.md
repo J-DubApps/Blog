@@ -1,7 +1,8 @@
 +++
 date = '2024-07-19T23:17:51-06:00'
 draft = false
-title = 'Working For Me: Guide to how I think & Manage Teams'
+title = 'Working For Me...'
+description = "(optional) Mini-Guide to how I think & Manage Teams..."
 type = 'post'
 tags = ["career", "project-mgmt", "opinion", "best-practice"]
 +++

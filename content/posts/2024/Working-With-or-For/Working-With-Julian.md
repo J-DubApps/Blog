@@ -1,7 +1,8 @@
 +++
 date = '2024-07-19T23:17:51-06:00'
 draft = false
-title = 'Working With Me: (optional) Guide To How My Mind Works'
+title = 'Working With Me...'
+description = "(optional) Mini-Guide To How My Mind Works"
 type = 'post'
 tags = ["career", "project-mgmt", "opinion", "best-practice"]
 +++
