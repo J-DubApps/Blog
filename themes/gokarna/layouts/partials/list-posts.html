@@ -8,9 +8,10 @@
      {{ if gt ($tagsHidePostDate | intersect $postTags | len) 0 }}
        {{ $displayDate = false }}
      {{ end }}
-
+<!-- Add the following code to display the date
      {{ if eq $displayDate true }}
       <div class="flex-break"></div>
       <span style="font-size: 13px;" class="post-date">{{ dateFormat (or .Site.Params.dateFormat "January 2, 2006") .Date}}</span>
      {{ end }}
+    -->
 </div>
