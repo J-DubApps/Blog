@@ -1,5 +1,5 @@
 <div class="post-title">
-     <a href="{{ .Permalink }}" class="post-link"><span style="font-size: 12px;">{{ .Title | markdownify }}</span></a>
+     <a href="{{ .Permalink }}" class="post-link"><span style="font-size: 14px;">{{ .Title | markdownify }}</span></a>
      {{/* Decide to display the date based on the tags */}}
      {{ $displayDate := true }}
      {{ $tagsHidePostDate := or .Site.Params.Hidden.TagsPostDate slice }}
