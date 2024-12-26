@@ -12,7 +12,7 @@ tags = ["thought", "philosophy", "opinion", "health", "culture", "special-write-
   <img src="https://julianwest.me/Blog/posts/BrownJacket\FirstJacketPic.jpeg" alt="Alt text" width="250" height="65">
 </div><br />
 
-What do Steve Jobs, Albert Einstein, and Fred Rogers have in common? Aside from their undeniable impact on society, they all embraced the concept of a “Uniform” – a singular wardrobe worn every day. Steve Jobs was instantly recognizable in the black mock turtleneck, jeans, and New Balance 992 sneakers. And Einstein famously bought several versions of the same gray suit.  I grew up watching Fred Rogers wear the same cardigan and snweakers, with the occasional jacket color change. -- but almost always the same overall relaxed "look" which became a symbol of kindness and familiarity for us Gen-X latchkey kids.  There are others like Simon Cowell with black t-shirts and Mark Zuckerberg with his gray T-shirt and hoodie.  Each of those individuals somehow unconciously (and later, intentionally) created their own "uniform" to simplify their lives, while also building a personal brand and creating a lasting impression on people working around them. <br />
+What do Steve Jobs, Albert Einstein, and Fred Rogers have in common? Aside from undeniable impacts on society, they all embraced the concept of an easy personal “Uniform” – a singular wardrobe worn every day. Steve Jobs was instantly recognizable in the black mock turtleneck, jeans, and New Balance sneakers. Einstein famously bought several versions of the same gray suit. And I grew up watching Fred Rogers wear the same cardigan and snweakers, with the occasional jacket color change. -- a relaxed symbol of kindness and familiarity, for us Gen-X latchkey kids tuning-in.  There are others (Simon Cowell with black t-shirts, or Mark Zuckerberg with his gray T-shirt and hoodie, etc), and it seems a pattern with people who have to make a lot of decisions every day. They unconciously (and later, intentionally) develop their own "uniform" to simplify their lives, while also building a personal brand and creating a lasting impression on people working around them. <br />
 
 <div>
   <img src="https://julianwest.me/Blog/posts/BrownJacket\FirstJacketPic.jpeg" alt="Alt text" width="250" height="65">
@@ -21,7 +21,7 @@ What do Steve Jobs, Albert Einstein, and Fred Rogers have in common? Aside from 
 </div><br />
 
 
-I always thought the idea of wearing the same thing everyday was a silly concept, until one day in 1999 a friend told me that I was wearing roughly the same outfit since 1987: <br />
+I always thought the idea of wearing the same thing every day was a silly concept, until one day in 1999 a friend told me that I was wearing roughly the same outfit since 1987: <br />
 
 <div>
   <img src="https://julianwest.me/Blog/posts/BrownJacket\FirstJacketPic.jpeg" alt="Alt text" width="250" height="65">
