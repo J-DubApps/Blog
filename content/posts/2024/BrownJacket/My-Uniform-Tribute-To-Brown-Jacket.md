@@ -9,20 +9,20 @@ tags = ["thought", "special-write-up", "best-of"]
 What do Steve Jobs, Albert Einstein, and Fred Rogers have in common? Aside from undeniable impacts on society, they all embraced the concept of an easy personal “Uniform” – a singular wardrobe worn every day. Steve Jobs was instantly recognizable in the black mock turtleneck, jeans, and New Balance sneakers. Einstein famously bought several versions of the same gray suit. And I grew up watching Fred Rogers wear the same cardigan and snweakers, with the occasional jacket color change. -- a relaxed symbol of kindness and familiarity, for us Gen-X latchkey kids tuning-in.  There are others (Simon Cowell with black t-shirts, or Mark Zuckerberg with his gray T-shirt and hoodie, etc), and it seems a pattern with people who have to make a lot of decisions every day. They unconciously (and later, intentionally) develop their own "uniform" to simplify their lives, while also building a personal brand and creating a lasting impression on people working around them.
 
 <div>
-  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/steve-jobs-atd.jpeg" alt="Alt text" width="500" height="305">
+  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/steve-jobs-atd.jpeg" alt="Alt text" width="500" height="305"> 
     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/mister-rogers.jpeg" alt="Alt text" width="500" height="305">
 </div>
 
 I never considered that some people wear the same thing most every day, then one day a friend told me I had been wearing the same thing since about 1990: <br />
 
 <div>
-  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-la.JPG" alt="Alt text" width="350" height="235">
-    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-nyc.jpg" alt="Alt text" width="300" height="235"><br />
+  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-la.JPG" alt="Alt text" width="350" height="235"> <br />
+    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-nyc.jpg" alt="Alt text" width="300" height="235">
   </div>
 
-      My Style was low-key variation of this for many, many years...
-<div>
- <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style1.jpeg" alt="Alt text" width="350" height="265"><img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg" alt="Alt text" width="350" height="265">
+My Style was low-key variation of this for many, many years...
+<div style="float: left;">
+ <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style1.jpeg" alt="Alt text" width="250" height="165"><img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg" alt="Alt text" width="250" height="165">
 </div><br />
 
 So I guess I already had my simple no fuss "look", and it seems that the people I mentiond earlier illustrate that wearing the same thing doesn’t affect creativity or individuality—and can even amplify these things.  In my own case, my simple "look" got a Texas Winter adjustment about 20 years ago. That was when "***JDub & THE JACKET***" became part of my "uniform" from October until March every year.  It's this brownish blue-stitching scrimmage zip-up jacket, which kind of became my main duds in the winter. 
@@ -36,8 +36,8 @@ I originally purchaased *THE JACKET* during one of our many visits to my brother
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-wh.JPG" alt="Alt text" width="550" height="305"><br />
-    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-k3.jpg" alt="Alt text" width="400" height="235"> <br />
-      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-jackson-2015.JPG" alt="Alt text" width="400" height="235">
+    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-k3.jpg" alt="Alt text" width="200" height="135"> <br />
+      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-jackson-2015.JPG" alt="Alt text" width="250" height="135">
 </div><br />
 
 I wore it everywhere over the years.  While fat and thin...while tired and rested...with different hair styles...while young and (now) *middle-aged*. Unless there was a blizard, this is was my "winter getup" these past 20 years... 
