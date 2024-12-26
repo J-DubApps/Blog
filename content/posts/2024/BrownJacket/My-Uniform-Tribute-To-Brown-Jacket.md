@@ -16,8 +16,8 @@ What do Steve Jobs, Albert Einstein, and Fred Rogers have in common? Aside from 
 
 <div>
   <img src="https://julianwest.me/Blog/posts/BrownJacket\JDub-LA.JPG" alt="Alt text" width="250" height="65">
-    <img src="https://julianwest.me/Blog/posts/BrownJacket\FirstJacketPic.jpeg" alt="Alt text" width="250" height="65">
-      <img src="https://julianwest.me/Blog/posts/BrownJacket\FirstJacketPic.jpeg" alt="Alt text" width="250" height="65">
+    <img src="https://julianwest.me/Blog/posts/BrownJacket\JDub-nyc.jpg" alt="Alt text" width="250" height="65">
+      <img src="https://julianwest.me/Blog/posts/BrownJacket\JDub-Style1.jpeg" alt="Alt text" width="250" height="65">
 </div><br />
 
 
