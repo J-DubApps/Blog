@@ -31,6 +31,10 @@ So I guess I already had my simple no fuss "look", and it seems that the people 
 Maybe different glasses, shoes, but during those months it's always jeans and *THE JACKET*. If I have be somewhere to give a presentation or talk, or just need to show-up somewhere quickly and it's cool out...*THE JACKET* is what's coming with me.
 </div>
 
+<br /> 
+<br />
+<br />
+<br />
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-wtc.JPG" alt="Alt text" width="600" height="365">
 </div><br />
