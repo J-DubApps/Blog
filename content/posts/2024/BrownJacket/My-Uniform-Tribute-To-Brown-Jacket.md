@@ -74,11 +74,11 @@ Flash-forward to last week, December '24, and my wife observed: "hey, you've bee
       <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-jackson2.jpg" alt="Alt text" width="500" height="305">
 </div><br />
 
-And, yep, turns out I had!  Somehow it had accidentally become my own "personal brand".
+And, yep, turns out 15+ years in *THE JACKET* had gone by...it accidentally become my own "personal brand" for IT and PM conferences, and whatever else I was doing.
 
 <div>
- <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-explaining.JPG" alt="Alt text" width="350" height="205"> <br />
-  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-driving.JPG" alt="Alt text" width="350" height="205"><img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-cartoon.jpeg" alt="Alt text" width="400" height="305">
+ <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-explaining.JPG" alt="Alt text" width="200" height="105"> <br />
+  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-driving.JPG" alt="Alt text" width="250" height="135"><img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-cartoon.jpeg" alt="Alt text" width="250" height="135">
     </div>
 
 A lot of solemn, jolly, or otherwise average moments were experienced in this jacket...
