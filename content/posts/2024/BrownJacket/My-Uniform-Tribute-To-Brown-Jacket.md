@@ -34,7 +34,7 @@ So I guess I already had my simple no fuss "uniform" look on lock.  The people I
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-wtc.JPG" alt="Alt text" width="600" height="365">
 </div><br />
 
-I originally purchaased *THE JACKET* during one of our many visits to my brother & sister-in-law's place in Las Vegas. I think it was 2007 and my wife's brother Brian bought one scrimmage zip-up jacket that I thought was pretty cool.  I asked him where he bought it from, Tommy Bahama.  A place yours-truly hadn't ever even stepped-into, let alonebuy clothes from. I always thought it was expensive and only hawaiian vacation style clothes, and a little dull, but for whatever reason.  But I decided the jacket was hella cool, and proceeded to run back to the mall and purchase it in black.  But it turned-out to have a couple of defects, so I took it back and all had in stock to swap was the popular brown jacket.  And that is how "JDub & THE JACKET" came to be. Every mild Teas winter you'll see me rocking that look, and not too many others until March or April. 😎
+I originally purchaased *THE JACKET* during one of our visits to my brother & sister-in-law's place in Las Vegas. My wife's brother Brian bought this jacket that I thought was pretty cool.  I asked him where he bought it from, Tommy Bahama.  A place yours-truly hadn't ever even stepped-into, let alonebuy clothes from. I always thought it was expensive and only hawaiian vacation style clothes, and a little dull, but for whatever reason.  But I decided the jacket was hella cool, and proceeded to run back to the mall and purchase it in black.  But it turned-out to have a couple of defects, so I took it back and all had in stock to swap was the popular brown jacket.  And that is how "JDub & *THE JACKET*" came to be. Every mild Texas winter you'll see me rocking that look, and not too many others until March or April. 😎
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-wh.JPG" alt="Alt text" width="550" height="305"><br />
@@ -42,13 +42,13 @@ I originally purchaased *THE JACKET* during one of our many visits to my brother
       <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-jackson-2015.JPG" alt="Alt text" width="250" height="135">
 </div><br />
 
-I wore it everywhere over the years.  While fat and thin...while tired and rested...with different hair styles...while young and (now) *middle-aged*. Unless there was a blizard, this is was my "winter getup" these past 20 years...
+I wore it everywhere over the years.  While fat and thin...while tired and rested...with different eras of hair style...and while young and (now) *middle-aged*. Unless there was a blizard, this was my "winter getup" these past 20 years...
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-chilling.JPG" alt="Alt text" width="550" height="265">
 </div><br />
 
-I've worn this jacket to every major US city and parts of Europe.  Same jacket.  Same me.  Usually.  When I lost some weight, eBay came in clutch with some unsold stock of my very jacket.  Then I found another a year after that. So now I have three.  I still wear the old one, it's worn-in so well, but the new ones are there for work or other functions.
+I have worn *THE JACKET* to almost every major US city and parts of Europe. Same jacket. Same me. Just older.  When I lost some weight, eBay came in clutch with unsold stock, allowing me to keep my "uniform" on lock.  So now I have three.  I still wear the old one, it's worn-in so well, but the new ones are there for work or other functions and fit my post weight-loss frame better.
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-staten-island.JPG" alt="Alt text" width="300" height="105"> <br />
@@ -66,7 +66,7 @@ Anytime I was out and about in the winter, and it was mild, I didn't really wear
 </div><br />
 
 
-Flash-forward to last week, December '24, and my wife observed: "hey, you've been wearing this jacket for like 15 years now!"
+Flash-forward to last week, December '24, and my wife observed: "hey, you've been wearing this jacket for like 20 years now!"
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-k2.JPG" alt="Alt text" width="550" height="305"> <br />
@@ -74,7 +74,7 @@ Flash-forward to last week, December '24, and my wife observed: "hey, you've bee
       <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-jackson2.jpg" alt="Alt text" width="500" height="305">
 </div><br />
 
-And, yep, turns out 15+ years in *THE JACKET* had gone by...it accidentally become my own "personal brand" for IT and PM conferences, and whatever else I was doing.
+And, yep, turns out about 18 years in *THE JACKET* have gone by...it accidentally become my own "personal brand" for IT and PM conferences, and whatever else I was doing.
 
 <div>
  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-explaining.JPG" alt="Alt text" width="200" height="105"> <br />
@@ -91,19 +91,16 @@ A lot of solemn, jolly, or otherwise average moments were experienced in this ja
     </div>
 
 
-### Over the years I have found that a deliberate wardrobe choice does offer some advantages: <br />
+##### Over the years I have found that a deliberate wardrobe choice does offer some advantages: <br />
 1.	**Cognitive Clarity**: By eliminating daily decisions, about anything, you conserve mental energy for more critical tasks. Psychologists refer to this as reducing “decision fatigue,” a phenomenon where making too many choices depletes your cognitive resources.  Deciding what to wear is a cognitive load, one that "uniform" wearers don't want.<br />
 2.	**Branding**: A consistent style can become your visual signature, making you immediately identifiable.  It doesn't have to be a "uniform" but usually is a narrow range of a clothing style.  Either way, that becomes *you* whenever you are showing-up somewhere to work with a team or give a talk etc. <br />
-3.	***Invisibility On Demand***: Ironically, a uniform not only makes you recognizable but also grants the power of selective invisibility. If I want to blend-in at a tech conference or other busy place, I can just carry the old jacket and not wear it.  Or just put on a different jacket.  Poof! I'm everywhere and nowhere... 🙃 <br />
- <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-blue-jacket.jpeg" alt="Alt text" width="250" height="105"> <br />
+3.	***Invisibility On Demand***: Ironically, a uniform not only makes you recognizable but also grants the power of selective invisibility. If I want to blend-in at a tech conference or other busy place, I can just carry the old jacket and not wear it.  Or just put on a *different* jacket.  Poof! I'm everywhere and nowhere... 🙃 <br />
+ <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-blue-jacket.jpeg" alt="Alt text" width="275" height="135"> <br />
 4.	**Minimalism Meets Practicality**: Fewer clothing options mean fewer distractions, less clutter, and a focus on quality over quantity. It’s been my lifestyle to stay rooted in efficiency and intentionality, wherever I can.
-
-<div>
- <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-ocean.jpg" alt="Alt text" width="350" height="205">
- </div>
 
 Whether you’re reclaiming mental energy or simply craving simplicity, the "uniform" thing has some undeniable benefits. After all, it’s not about the clothes—it’s about the person wearing them.
 
 <div>
+<img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-ocean.jpg" alt="Alt text" width="350" height="205"> <br />
  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-penny-2024.jpeg" alt="Alt text" width="350" height="205">
  </div>
