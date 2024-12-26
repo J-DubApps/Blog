@@ -24,10 +24,10 @@ What do Steve Jobs, Albert Einstein, and Fred Rogers have in common? Aside from 
 I always thought the idea of wearing the same thing every day was a silly concept, until one day in 1999 a friend told me that I was wearing roughly the same outfit since 1987: <br />
 
 <div>
-  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-la.JPG" alt="Alt text" width="250" height="65">
-    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-nyc.jpg" alt="Alt text" width="250" height="65">
-      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style1.jpeg" alt="Alt text" width="250" height="65">
-    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg" alt="Alt text" width="250" height="65">
+  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-la.JPG" alt="Alt text" width="450" height="265">
+    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-nyc.jpg" alt="Alt text" width="450" height="265">
+      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style1.jpeg" alt="Alt text" width="450" height="265">
+    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg" alt="Alt text" width="450" height="265">
 </div><br />
 
 
