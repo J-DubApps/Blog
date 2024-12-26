@@ -6,33 +6,25 @@ description = 'A Tribute to THE JACKET'
 type = 'post'
 tags = ["thought", "philosophy", "opinion", "health", "culture", "special-write-up", "best-of"]
 +++
-
-
-<div>
-  <img src="https://julianwest.me/Blog/posts/BrownJacket\FirstJacketPic.jpeg" alt="Alt text" width="250" height="65">
-</div><br />
-
 What do Steve Jobs, Albert Einstein, and Fred Rogers have in common? Aside from undeniable impacts on society, they all embraced the concept of an easy personal “Uniform” – a singular wardrobe worn every day. Steve Jobs was instantly recognizable in the black mock turtleneck, jeans, and New Balance sneakers. Einstein famously bought several versions of the same gray suit. And I grew up watching Fred Rogers wear the same cardigan and snweakers, with the occasional jacket color change. -- a relaxed symbol of kindness and familiarity, for us Gen-X latchkey kids tuning-in.  There are others (Simon Cowell with black t-shirts, or Mark Zuckerberg with his gray T-shirt and hoodie, etc), and it seems a pattern with people who have to make a lot of decisions every day. They unconciously (and later, intentionally) develop their own "uniform" to simplify their lives, while also building a personal brand and creating a lasting impression on people working around them. <br />
 
-<div>
-  <img src="https://julianwest.me/Blog/posts/BrownJacket\jdub-la.JPG" alt="Alt text" width="250" height="65">
-    <img src="https://julianwest.me/Blog/posts/BrownJacket\jdub-nyc.jpg" alt="Alt text" width="250" height="65">
-      <img src="https://julianwest.me/Blog/posts/BrownJacket\jdub-style1.jpeg" alt="Alt text" width="250" height="65">
-</div>
 
+<div>
+  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/steve-jobs-atd.jpeg" alt="Alt text" width="250" height="65">
+    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/mister-rogers.jpeg" alt="Alt text" width="250" height="65">
+</div>
 
 I always thought the idea of wearing the same thing every day was a silly concept, until one day in 1999 a friend told me that I was wearing roughly the same outfit since 1987: <br />
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-la.JPG" alt="Alt text" width="450" height="265">
     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-nyc.jpg" alt="Alt text" width="550" height="305">
-      My Style was low-key variations of... <br />
+      My Style was low-key variation of this for many years... <br />
       <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style1.jpeg" alt="Alt text" width="450" height="265"> <br />
     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg" alt="Alt text" width="450" height="265">
 </div><br />
 
-
-So I already had a very simple wardrobe, a small range of clothes that "*are* ***me***". And I had no idea that was the case.  The people I mentiioned earlier illustrate that wearing the same thing doesn’t diminish creativity or individuality—and can even amplify these things.  And, in my own case, the ""***JDub & THE JACKET***" became a thing almost 20 years ago. But only seasonal. That right, this Old Bro You Know rocks the same "look" almost every day, from about Octobber until March each year. Sometimes with different shoes or glasses, but always jeans and THE JACKET.  If I have be somewwhere to give a presetation or talk, or just show-up for a quickly-scheduled dinner hang...THE JACKET getup is what you're gonna see.<br />
+So I already had a simple "look", with a small range of clothes that "*are* ***me***".  The people I mention back there illustrate that wearing the same thing doesn’t affect creativity or individuality—and can even amplify these things.  And, in my own case, my simple "look" got a Texas Winter adjustment, about 20 years ago.  That was when "***JDub & THE JACKET***" beceame my "uniform" from Octoboer until March every year. This Old Bro You Know rocks this same "look" almost every day, during those months, with few varitions. Maybe different glasses, shoes even, but always jeans and THE JACKET.  If I have be somewwhere to give a presentation or talk, or just show-up somewhere quickly...THE JACKET getup is what you're gonna see.<br />
 
 <div>
   <img src="https://julianwest.me/Blog/posts/BrownJacket\FirstJacketPic.jpeg" alt="Alt text" width="250" height="65">
