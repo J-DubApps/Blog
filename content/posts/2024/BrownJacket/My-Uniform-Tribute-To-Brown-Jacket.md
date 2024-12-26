@@ -76,10 +76,18 @@ Flash-forward to last week, December '24, and my wife observed: "hey, you've bee
 
 And, yep, turns out about 18 years in *THE JACKET* have gone by...it accidentally become my own "personal brand" for IT and PM conferences, and whatever else I was doing.
 
-<div>
- <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-explaining.JPG" alt="Alt text" width="200" height="105"> <br />
-  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-driving.JPG" alt="Alt text" width="250" height="135"><img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-cartoon.jpeg" alt="Alt text" width="250" height="135">
-    </div>
+
+
+<div class="row">
+ <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-explaining.JPG" alt="Alt text" width="200" height="105">
+ 
+ <div class="column">
+  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-driving.JPG" alt="Alt text" width="250" height="135">
+ </div>
+ <div class="column">
+  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-cartoon.jpeg" alt="Alt text" width="250" height="135">
+ </div>
+</div>
 
 A lot of solemn, jolly, or otherwise average moments were experienced in this jacket...
 
