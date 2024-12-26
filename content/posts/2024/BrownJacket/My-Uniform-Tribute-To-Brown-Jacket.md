@@ -25,8 +25,10 @@ My Style was low-key variation of this for many, many years...
  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style1.jpeg" alt="Alt text" width="250" height="165"><img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg" alt="Alt text" width="250" height="165">
 </div><br />
 
+<div>
 So I guess I already had my simple no fuss "look", and it seems that the people I mentiond earlier illustrate that wearing the same thing doesn’t affect creativity or individuality—and can even amplify these things.  In my own case, my simple "look" got a Texas Winter adjustment about 20 years ago. That was when "***JDub & THE JACKET***" became part of my "uniform" from October until March every year.  It's this brownish blue-stitching scrimmage zip-up jacket, which kind of became my main duds in the winter. 
-Maybe different glasses, shoes, but during those months it's always jeans and *THE JACKET*. If I have be somewhere to give a presentation or talk, or just need to show-up somewhere quickly and it's cool out...*THE JACKET* is what's coming with me.<br />
+Maybe different glasses, shoes, but during those months it's always jeans and *THE JACKET*. If I have be somewhere to give a presentation or talk, or just need to show-up somewhere quickly and it's cool out...*THE JACKET* is what's coming with me.
+</div>
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-wtc.JPG" alt="Alt text" width="600" height="365">
