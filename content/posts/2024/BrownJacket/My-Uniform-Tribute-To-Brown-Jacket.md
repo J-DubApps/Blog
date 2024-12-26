@@ -13,14 +13,14 @@ What do Steve Jobs, Albert Einstein, and Fred Rogers have in common? Aside from 
     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/mister-rogers.jpeg" alt="Alt text" width="500" height="305">
 </div>
 
-I never considered that some people wear the same thing most every day, then one day a friend told me I had been wearing the same thing since about 1990: <br />
+I never considered why people might wear the same thing most every day, then one day a friend told me I had been wearing the same thing since about 1990: <br />
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-la.JPG" alt="Alt text" width="350" height="235"> <br />
     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-nyc.jpg" alt="Alt text" width="300" height="235">
   </div>
 
-My Style was a low-key punky nerd getup for many, many years...
+My "style" was always a low-key punky nerd getup for many, many years...
 <div style="float: left; border: 1px; padding: 5px;">
  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg" alt="Alt text" width="200" height="135">
 </div><br />
