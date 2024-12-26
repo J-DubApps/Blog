@@ -84,14 +84,14 @@ And, yep, turns out about 18 years in *THE JACKET* have gone by...it accidentall
 
 
 
-  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-driving.JPG" alt="Alt text" width="250" height="135">
-<img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-cartoon.jpeg" alt="Alt text" width="250" height="135">
+  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-driving.JPG" style="float:left; margin-right:10px;" alt="Alt text" width="250" height="135">
+<img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-cartoon.jpeg" style="float:left;" alt="Alt text" width="250" height="135">
 
 A lot of solemn, jolly, or otherwise average moments were experienced in **THE JACKET**...
 
 <div>
- <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-central-park1.JPG" style="float:left; margin-right:10px;" alt="Alt text" width="350" height="205"> <br />
-  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-central-park2.jpeg" style="float:left;" alt="Alt text" width="350" height="205"> <br />
+ <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-central-park1.JPG" alt="Alt text" width="350" height="205"> <br />
+  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-central-park2.jpeg" alt="Alt text" width="350" height="205"> <br />
     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-apple.JPG" alt="Alt text" width="400" height="305"> <br />
         <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-uk1.JPG" alt="Alt text" width="400" height="305">
     </div>
