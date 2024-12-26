@@ -25,8 +25,9 @@ I always thought the idea of wearing the same thing every day was a silly concep
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-la.JPG" alt="Alt text" width="450" height="265">
-    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-nyc.jpg" alt="Alt text" width="450" height="265">
-      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style1.jpeg" alt="Alt text" width="450" height="265">
+    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-nyc.jpg" alt="Alt text" width="550" height="305">
+      My Style was low-key variations of... <br />
+      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style1.jpeg" alt="Alt text" width="450" height="265"> <br />
     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg" alt="Alt text" width="450" height="265">
 </div><br />
 
