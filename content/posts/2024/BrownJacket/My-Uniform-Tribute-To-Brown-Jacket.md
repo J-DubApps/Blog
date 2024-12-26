@@ -87,7 +87,8 @@ And, yep, turns out about 18 years in *THE JACKET* have gone by...it accidentall
 </div>
 
 A lot of solemn, jolly, or otherwise average moments were experienced in **THE JACKET**... <br />
-
+<br />
+<br />
 <div>
  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-central-park1.JPG" alt="Alt text" width="350" height="205"> <br />
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-central-park2.jpeg" alt="Alt text" width="350" height="205"> <br />
