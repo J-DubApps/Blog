@@ -1,4 +1,4 @@
-+++
+p+++
 date = '2024-10-29T23:03:26-06:00'
 draft = true
 title = 'My &quot;Uniform&quot;'
@@ -27,14 +27,14 @@ I always thought the idea of wearing the same thing every day was a silly concep
 So I already had a simple "look", with a small range of clothes that "*are* ***me***".  The people I mention back there illustrate that wearing the same thing doesn’t affect creativity or individuality—and can even amplify these things.  And, in my own case, my simple "look" got a Texas Winter adjustment, about 20 years ago.  That was when "***JDub & THE JACKET***" beceame my "uniform" from Octoboer until March every year. This Old Bro You Know rocks this same "look" almost every day, during those months, with few varitions. Maybe different glasses, shoes even, but always jeans and THE JACKET.  If I have be somewwhere to give a presentation or talk, or just show-up somewhere quickly...THE JACKET getup is what you're gonna see.<br />
 
 <div>
-  <img src="https://julianwest.me/Blog/posts/BrownJacket\FirstJacketPic.jpeg" alt="Alt text" width="250" height="65">
+  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-wtc.JPG" alt="Alt text" width="250" height="65">
 </div><br />
 
 I found THE JACKET during one of our many visits to my brother & sister-in-law's place in Las Vegas. I think it was 2007 and my wife's brother Brian bought this brown scrimmage zip-up jacket at Tommy Bahama, a place yours-truly hadn't buy anything from. I always thought it was expensive, and a little dull, but for whatever reason Brian bought this jacket that I decided was hella cool.  After a day or so I decided I will have one.  So I walked into the Tommy Bahamma store and snagged the jacket in black.  But it turned-out to have a couple of defects, so I took it back and all they to swap was the popular brown jacket.  And that is how "JDub & THE JACKET" came to be.  Every mild Teas winter you'll see me rocking that look, and too many others until March or April. 😎 <br />
 
 <div>
-  <img src="https://julianwest.me/Blog/posts/BrownJacket/jdub-wh.JPG" alt="Alt text" width="250" height="65">
-    <img src="https://julianwest.me/Blog/posts/BrownJacket/jdub-k2.JPG" alt="Alt text" width="250" height="65">
+  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-wh.JPG" alt="Alt text" width="250" height="65">
+    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-k3.jpg" alt="Alt text" width="250" height="65">
       <img src="https://julianwest.me/Blog/posts/BrownJacket\FirstJacketPic.jpeg" alt="Alt text" width="250" height="65">
 </div><br />
 
