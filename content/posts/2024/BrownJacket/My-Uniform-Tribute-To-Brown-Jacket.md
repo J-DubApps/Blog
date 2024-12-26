@@ -22,7 +22,7 @@ I never considered that some people wear the same thing most every day, then one
 
 My Style was low-key variation of this for many, many years...
 <div style="float: left;">
- <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style1.jpeg" alt="Alt text" width="200" height="135"><img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg" alt="Alt text" width="250" height="165">
+ <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style1.jpeg" alt="Alt text" width="200" height="135"><img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg" alt="Alt text" width="200" height="135">
 </div><br />
 
 <div style="float: center;">
