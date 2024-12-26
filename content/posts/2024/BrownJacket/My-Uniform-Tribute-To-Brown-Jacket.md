@@ -76,8 +76,6 @@ Flash-forward to last week, December '24, and my wife observed: "hey, you've bee
 
 And, yep, turns out about 18 years in *THE JACKET* have gone by...it accidentally became my own "personal brand" for IT and PM conferences, and whatever else I was doing.
 
-
-
 <div>
 <span>
  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-explaining.JPG" style="float:left; margin-right:10px;" alt="Alt text" width="200" height="105">
@@ -93,22 +91,12 @@ And, yep, turns out about 18 years in *THE JACKET* have gone by...it accidentall
 </div>
 
 <div>
-A lot of solemn, jolly, or otherwise average moments were experienced in **THE JACKET**... <br />
-</div>
-<br />
-<br />
-
-<div>
-  ...and a lot of special moments, too. 
-</div>
-<div>
 <br />
  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-central-park1.JPG" alt="Alt text" width="350" height="205"> <br />
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-central-park2.jpeg" alt="Alt text" width="350" height="205"> <br />
     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-apple.JPG" alt="Alt text" width="400" height="305"> <br />
         <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-uk1.JPG" alt="Alt text" width="400" height="305">
     </div>
-
 
 ##### Over the years I have found that a deliberate wardrobe choice does offer some advantages: <br />
 1.	**Cognitive Clarity**: By eliminating daily decisions, about anything, you conserve mental energy for more critical tasks. Psychologists refer to this as reducing “decision fatigue,” a phenomenon where making too many choices depletes your cognitive resources.  Deciding what to wear is a cognitive load, one that "uniform" wearers don't want.<br />
