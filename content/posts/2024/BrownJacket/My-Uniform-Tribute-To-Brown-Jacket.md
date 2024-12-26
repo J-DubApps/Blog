@@ -35,7 +35,7 @@ I found THE JACKET during one of our many visits to my brother & sister-in-law's
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-wh.JPG" alt="Alt text" width="250" height="65">
     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-k3.jpg" alt="Alt text" width="250" height="65">
-      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-jackson-2015.jpg" alt="Alt text" width="250" height="65">
+      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-jackson-2015.JPG" alt="Alt text" width="250" height="65">
 </div><br />
 
 I wore it everywhere, while fat and thin...while tired and rested...while young and middle-aged. Between October and March of any given yeaer, this is me... 
