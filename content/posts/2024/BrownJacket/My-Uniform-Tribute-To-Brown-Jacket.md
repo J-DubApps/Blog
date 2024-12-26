@@ -56,7 +56,7 @@ I've worn this jacket to every major US city and parts of Europe.  Same jacket. 
       <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-nyc2.JPG" alt="Alt text" width="300" height="105">
 </div><br />
 
-I do think anytime I was out and about in the winter, and it was mild, I didn't really wear big coats.  Just *THE JACKET*...
+Anytime I was out and about in the winter, and it was mild, I didn't really wear big coats.  Just *THE JACKET*...
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-subway3.JPG" alt="Alt text" width="550" height="305"><br />
