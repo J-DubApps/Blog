@@ -21,8 +21,7 @@ I never considered that some people wear the same thing most every day, then one
   </div>
 
 My Style was low-key variation of this for many, many years...
-<div style="float: left; border: thin;">
- <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style1.jpeg" alt="Alt text" width="200" height="135">
+<div style="float: left; border: 1px; padding: 5px;">
  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg" alt="Alt text" width="200" height="135">
 </div><br />
 
