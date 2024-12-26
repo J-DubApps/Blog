@@ -22,10 +22,10 @@ I never considered that some people wear the same thing most every day, then one
 
 My Style was low-key variation of this for many, many years...
 <div style="float: left;">
- <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style1.jpeg" alt="Alt text" width="250" height="165"><img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg" alt="Alt text" width="250" height="165">
+ <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style1.jpeg" alt="Alt text" width="200" height="135"><img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg" alt="Alt text" width="250" height="165">
 </div><br />
 
-<div>
+<div style="float: center;">
 So I guess I already had my simple no fuss "look", and it seems that the people I mentiond earlier illustrate that wearing the same thing doesn’t affect creativity or individuality—and can even amplify these things.  In my own case, my simple "look" got a Texas Winter adjustment about 20 years ago. That was when "***JDub & THE JACKET***" became part of my "uniform" from October until March every year.  It's this brownish blue-stitching scrimmage zip-up jacket, which kind of became my main duds in the winter. 
 Maybe different glasses, shoes, but during those months it's always jeans and *THE JACKET*. If I have be somewhere to give a presentation or talk, or just need to show-up somewhere quickly and it's cool out...*THE JACKET* is what's coming with me.
 </div>
@@ -42,7 +42,7 @@ I originally purchaased *THE JACKET* during one of our many visits to my brother
       <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-jackson-2015.JPG" alt="Alt text" width="250" height="135">
 </div><br />
 
-I wore it everywhere over the years.  While fat and thin...while tired and rested...with different hair styles...while young and (now) *middle-aged*. Unless there was a blizard, this is was my "winter getup" these past 20 years... 
+I wore it everywhere over the years.  While fat and thin...while tired and rested...with different hair styles...while young and (now) *middle-aged*. Unless there was a blizard, this is was my "winter getup" these past 20 years...
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-chilling.JPG" alt="Alt text" width="550" height="265">
