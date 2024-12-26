@@ -77,11 +77,11 @@ Flash-forward to last week, December '24, and my wife observed: "hey, you've bee
 And, yep, turns out about 18 years in *THE JACKET* have gone by...it accidentally became my own "personal brand" for IT and PM conferences, and whatever else I was doing.
 
 
- <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-explaining.JPG" style="float:left; margin-right:10px;" alt="Alt text" width="200" height="105">
- <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-empire-state-bldg.JPG" style="float:left;" alt="Alt text" width="200" height="105">
+ <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-explaining.JPG" alt="Alt text" width="200" height="105">
+ <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-empire-state-bldg.JPG" alt="Alt text" width="200" height="105">
 
 
-<img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-driving.JPG" style="float:left; margin-right:10px;" alt="Alt text" width="200" height="100"> <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-cartoon.jpeg" style="float:left;" alt="Alt text" width="250" height="135">
+<img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-driving.JPG" alt="Alt text" width="200" height="100"> <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-cartoon.jpeg" alt="Alt text" width="250" height="135">
 
 
 <div>
