@@ -33,8 +33,8 @@ So I already had a simple "look", with a small range of clothes that "*are* ***m
 I found THE JACKET during one of our many visits to my brother & sister-in-law's place in Las Vegas. I think it was 2007 and my wife's brother Brian bought this brown scrimmage zip-up jacket at Tommy Bahama, a place yours-truly hadn't buy anything from. I always thought it was expensive, and a little dull, but for whatever reason Brian bought this jacket that I decided was hella cool.  After a day or so I decided I will have one.  So I walked into the Tommy Bahamma store and snagged the jacket in black.  But it turned-out to have a couple of defects, so I took it back and all they to swap was the popular brown jacket.  And that is how "JDub & THE JACKET" came to be.  Every mild Teas winter you'll see me rocking that look, and too many others until March or April. 😎 <br />
 
 <div>
-  <img src="https://julianwest.me/Blog/posts/BrownJacket\FirstJacketPic.jpeg" alt="Alt text" width="250" height="65">
-    <img src="https://julianwest.me/Blog/posts/BrownJacket\FirstJacketPic.jpeg" alt="Alt text" width="250" height="65">
+  <img src="https://julianwest.me/Blog/posts/BrownJacket/jdub-wh.JPG" alt="Alt text" width="250" height="65">
+    <img src="https://julianwest.me/Blog/posts/BrownJacket/jdub-k2.JPG" alt="Alt text" width="250" height="65">
       <img src="https://julianwest.me/Blog/posts/BrownJacket\FirstJacketPic.jpeg" alt="Alt text" width="250" height="65">
 </div><br />
 
