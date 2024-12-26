@@ -17,10 +17,9 @@ I never considered that some people wear the same thing most every day, then one
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-la.JPG" alt="Alt text" width="450" height="265">
-    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-nyc.jpg" alt="Alt text" width="550" height="305"><br />
+    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-nyc.jpg" alt="Alt text" width="300" height="235"><br />
       My Style was low-key variation of this for many, many years... <br />
-      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style1.jpeg" alt="Alt text" width="450" height="365">
-    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg" alt="Alt text" width="450" height="365">
+      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style1.jpeg" alt="Alt text" width="350" height="265"><img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg" alt="Alt text" width="350" height="265">
 </div><br />
 
 So I guess I already had my simple no fuss "look", and it seems that the people I mentiond earlier illustrate that wearing the same thing doesn’t affect creativity or individuality—and can even amplify these things.  In my own case, my simple "look" got a Texas Winter adjustment about 20 years ago. That was when "***JDub & THE JACKET***" became part of my "uniform" from October until March every year.  It's this brownish blue-stitching scrimmage zip-up jacket, which kind of became my main duds in the winter. 
@@ -33,9 +32,9 @@ Maybe different glasses, shoes, but during those months it's always jeans and *T
 I originally purchaased *THE JACKET* during one of our many visits to my brother & sister-in-law's place in Las Vegas. I think it was 2007 and my wife's brother Brian bought one scrimmage zip-up jacket that I thought was pretty cool.  I asked him where he bought it from, Tommy Bahama.  A place yours-truly hadn't ever even stepped-into, let alonebuy clothes from. I always thought it was expensive and only hawaiian vacation style clothes, and a little dull, but for whatever reason.  But I decided the jacket was hella cool, and proceeded to run back to the mall and purchase it in black.  But it turned-out to have a couple of defects, so I took it back and all had in stock to swap was the popular brown jacket.  And that is how "JDub & THE JACKET" came to be. Every mild Teas winter you'll see me rocking that look, and not too many others until March or April. 😎
 
 <div>
-  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-wh.JPG" alt="Alt text" width="550" height="305">
-    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-k3.jpg" alt="Alt text" width="600" height="365">
-      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-jackson-2015.JPG" alt="Alt text" width="500" height="305">
+  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-wh.JPG" alt="Alt text" width="550" height="305"><br />
+    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-k3.jpg" alt="Alt text" width="400" height="235"> <br />
+      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-jackson-2015.JPG" alt="Alt text" width="400" height="235">
 </div><br />
 
 I wore it everywhere over the years.  While fat and thin...while tired and rested...with different hair styles...while young and (now) *middle-aged*. Unless there was a blizard, this is was my "winter getup" these past 20 years... 
@@ -48,17 +47,17 @@ I've worn this jacket to every major US city and parts of Europe.  Same jacket. 
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-staten-island.JPG" alt="Alt text" width="550" height="305">
-    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-subway.jpg" alt="Alt text" width="600" height="365">
+    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-subway.JPG" alt="Alt text" width="600" height="365">
       <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-nyc2.JPG" alt="Alt text" width="500" height="305">
 </div><br />
 
 I do think anytime I was out and about in the winter, and it was mild, I didn't really wear big coats.  Just *THE JACKET*...
 
 <div>
-  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-subway3.JPG" alt="Alt text" width="550" height="305">
-    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-subway2.JPG" alt="Alt text" width="600" height="365">
-      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-mavs2.JPG" alt="Alt text" width="500" height="305">
-       <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-mavs-game.JPG" alt="Alt text" width="500" height="305">
+  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-subway3.JPG" alt="Alt text" width="550" height="305"><br />
+    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-subway2.JPG" alt="Alt text" width="500" height="255"><br />
+      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-mavs2.JPG" alt="Alt text" width="500" height="305"> <br />
+       <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-mavs-game.JPG" alt="Alt text" width="400" height="205">
 </div><br />
 
 
