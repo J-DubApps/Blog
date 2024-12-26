@@ -21,10 +21,9 @@ I never considered that some people wear the same thing most every day, then one
   </div>
 
 My Style was low-key variation of this for many, many years...
-<div style="float: left;">
- <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style1.jpeg" alt="Alt text" width="200" height="135"><br />
- <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg" alt="Alt text" width="200" height="135">
-</div><br />
+![Alt text](https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style1.jpeg){: style="float: left; border: thin;" width="200" height="135"}
+![Alt text](https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg){: style="float: left; border: thin;" width="200" height="135"}
+<br />
 
 <div style="float: center;">
 So I guess I already had my simple no fuss "look", and it seems that the people I mentiond earlier illustrate that wearing the same thing doesn’t affect creativity or individuality—and can even amplify these things.  In my own case, my simple "look" got a Texas Winter adjustment about 20 years ago. That was when "***JDub & THE JACKET***" became part of my "uniform" from October until March every year.  It's this brownish blue-stitching scrimmage zip-up jacket, which kind of became my main duds in the winter. 
@@ -97,13 +96,13 @@ A lot of solemn, jolly, or otherwise average moments were experienced in this ja
 2.	**Branding**: A consistent style can become your visual signature, making you immediately identifiable.  It doesn't have to be a "uniform" but usually is a narrow range of a clothing style.  Either way, that becomes *you* whenever you are showing-up somewhere to work with a team or give a talk etc. <br />
 3.	***Invisibility On Demand***: Ironically, a uniform not only makes you recognizable but also grants the power of selective invisibility. If I want to blend-in at a tech conference or other busy place, I can just carry the old jacket and not wear it.  Or just put on a different jacket.  Poof! I'm everywhere and nowhere... 🙃 <br />
  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-blue-jacket.jpeg" alt="Alt text" width="250" height="105"> <br />
-4.	**Minimalism Meets Practicality**: Fewer clothing options mean fewer distractions, less clutter, and a focus on quality over quantity. It’s been my lifestyle, to stay rooted in efficiency and intentionality wherever I can.
+4.	**Minimalism Meets Practicality**: Fewer clothing options mean fewer distractions, less clutter, and a focus on quality over quantity. It’s been my lifestyle to stay rooted in efficiency and intentionality, wherever I can.
 
 <div>
  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-ocean.jpg" alt="Alt text" width="350" height="205">
  </div>
 
-Whether you’re building a brand, reclaiming mental energy, or simply craving simplicity, the "uniform" thing has some undeniable benefits. After all, it’s not about the clothes—it’s about the person wearing them.
+Whether you’re reclaiming mental energy or simply craving simplicity, the "uniform" thing has some undeniable benefits. After all, it’s not about the clothes—it’s about the person wearing them.
 
 <div>
  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-penny-2024.jpeg" alt="Alt text" width="350" height="205">
