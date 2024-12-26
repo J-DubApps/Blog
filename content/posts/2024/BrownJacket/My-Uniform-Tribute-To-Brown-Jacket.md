@@ -91,10 +91,12 @@ And, yep, turns out about 18 years in *THE JACKET* have gone by...it accidentall
 
 
 
-<div class="row">
+<div>
  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-explaining.JPG" alt="Alt text" width="200" height="105">
- 
- <div class="column">
+ </div>
+
+ <div class="row">
+  <div class="column">
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-driving.JPG" alt="Alt text" width="250" height="135">
  </div>
  <div class="column">
