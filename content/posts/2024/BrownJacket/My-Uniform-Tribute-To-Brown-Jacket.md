@@ -16,10 +16,13 @@ What do Steve Jobs, Albert Einstein, and Fred Rogers have in common? Aside from 
 I never considered that some people wear the same thing most every day, then one day a friend told me I had been wearing the same thing since about 1990: <br />
 
 <div>
-  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-la.JPG" alt="Alt text" width="450" height="265">
+  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-la.JPG" alt="Alt text" width="350" height="235">
     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-nyc.jpg" alt="Alt text" width="300" height="235"><br />
-      My Style was low-key variation of this for many, many years... <br />
-      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style1.jpeg" alt="Alt text" width="350" height="265"><img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg" alt="Alt text" width="350" height="265">
+  </div>
+
+      My Style was low-key variation of this for many, many years...
+<div>
+ <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style1.jpeg" alt="Alt text" width="350" height="265"><img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg" alt="Alt text" width="350" height="265">
 </div><br />
 
 So I guess I already had my simple no fuss "look", and it seems that the people I mentiond earlier illustrate that wearing the same thing doesn’t affect creativity or individuality—and can even amplify these things.  In my own case, my simple "look" got a Texas Winter adjustment about 20 years ago. That was when "***JDub & THE JACKET***" became part of my "uniform" from October until March every year.  It's this brownish blue-stitching scrimmage zip-up jacket, which kind of became my main duds in the winter. 
@@ -64,25 +67,24 @@ I do think anytime I was out and about in the winter, and it was mild, I didn't 
 Flash-forward to last week, December '24, and my wife observed: "hey, you've been wearing this jacket for like 15 years now!"
 
 <div>
-  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-k2.JPG" alt="Alt text" width="550" height="305">
-    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-horse.jpg" alt="Alt text" width="600" height="365">
+  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-k2.JPG" alt="Alt text" width="550" height="305"> <br />
+    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-horse.jpg" alt="Alt text" width="600" height="365"> <br />
       <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-jackson2.jpg" alt="Alt text" width="500" height="305">
 </div><br />
 
 And, yep, turns out I had!  Somehow it had accidentally become my own "personal brand".
 
 <div>
- <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-explaining.JPG" alt="Alt text" width="350" height="205">
-  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-driving.JPG" alt="Alt text" width="350" height="205">
-    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-cartoon.jpeg" alt="Alt text" width="400" height="305">
+ <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-explaining.JPG" alt="Alt text" width="350" height="205"> <br />
+  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-driving.JPG" alt="Alt text" width="350" height="205"><img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-cartoon.jpeg" alt="Alt text" width="400" height="305">
     </div>
 
 A lot of solemn, jolly, or otherwise average moments were experienced in this jacket...
 
 <div>
- <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-central-park1.JPG" alt="Alt text" width="350" height="205">
-  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-central-park2.jpeg" alt="Alt text" width="350" height="205">
-    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-apple.JPG" alt="Alt text" width="400" height="305">
+ <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-central-park1.JPG" alt="Alt text" width="350" height="205"> <br />
+  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-central-park2.jpeg" alt="Alt text" width="350" height="205"> <br />
+    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-apple.JPG" alt="Alt text" width="400" height="305"> <br />
         <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-uk1.JPG" alt="Alt text" width="400" height="305">
     </div>
 
