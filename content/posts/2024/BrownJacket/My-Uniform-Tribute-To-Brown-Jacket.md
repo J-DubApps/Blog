@@ -6,6 +6,19 @@ description = 'A Tribute to THE JACKET'
 type = 'post'
 tags = ["thought", "special-write-up", "best-of"]
 +++
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 What do Steve Jobs, Albert Einstein, and Fred Rogers have in common? Aside from undeniable impacts on society, they all embraced the concept of an easy personal “Uniform” – a singular wardrobe worn every day. Steve Jobs was instantly recognizable in the black mock turtleneck, jeans, and New Balance sneakers. Einstein famously bought several versions of the same gray suit. And I grew up watching Fred Rogers wear the same cardigan and snweakers, with the occasional jacket color change. -- a relaxed symbol of kindness and familiarity, for us Gen-X latchkey kids tuning-in.  There are others (Simon Cowell with black t-shirts, or Mark Zuckerberg with his gray T-shirt and hoodie, etc), and it seems a pattern with people who have to make a lot of decisions every day. They unconciously (and later, intentionally) develop their own "uniform" to simplify their lives, while also building a personal brand and creating a lasting impression on people working around them.
 
 <div>
@@ -69,9 +82,9 @@ Anytime I was out and about in the winter, and it was mild, I didn't really wear
 Flash-forward to last week, December '24, and my wife observed: "hey, you've been wearing this jacket for like 20 years now!"
 
 <div>
-  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-k2.JPG" alt="Alt text" width="550" height="305"> <br />
-    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-horse.jpg" alt="Alt text" width="600" height="365"> <br />
-      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-jackson2.jpg" alt="Alt text" width="500" height="305">
+  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-k2.JPG" alt="Alt text" width="350" height="135"> <br />
+    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-horse.jpg" alt="Alt text" width="400" height="205"> <br />
+      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-jackson2.jpg" alt="Alt text" width="350" height="135">
 </div><br />
 
 And, yep, turns out about 18 years in *THE JACKET* have gone by...it accidentally become my own "personal brand" for IT and PM conferences, and whatever else I was doing.
