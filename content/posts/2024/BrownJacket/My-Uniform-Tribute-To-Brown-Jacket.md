@@ -119,10 +119,18 @@ A lot of solemn, jolly, or otherwise average moments were experienced in **THE J
   </tr>
 </table>
 
-<div>
-    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-apple.JPG" alt="Alt text" width="400" height="305"> <br />
-        <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-uk1.JPG" alt="Alt text" width="400" height="305">
-    </div>
+<table>
+  <tr>
+    <td>
+      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-apple.JPG" alt="Description of image 1" width="400" height="305">
+      <div></div>
+    </td>
+    <td>
+      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-uk1.JPG" alt="Description of image 2" width="400" height="305">
+      <div></div>
+    </td>
+  </tr>
+</table>
 
 ##### Over the years I have found that a deliberate wardrobe choice does offer some advantages: <br />
 1.	**Cognitive Clarity**: By eliminating daily decisions, about anything, you conserve mental energy for more critical tasks. Psychologists refer to this as reducing “decision fatigue,” a phenomenon where making too many choices depletes your cognitive resources.  Deciding what to wear is a cognitive load, one that "uniform" wearers don't want.<br />
