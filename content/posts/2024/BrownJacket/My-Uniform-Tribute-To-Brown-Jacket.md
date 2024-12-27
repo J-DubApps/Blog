@@ -44,7 +44,7 @@ I purchased the first iteration of *THE JACKET* during a visit to see my brother
       <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-jackson-2015.JPG" alt="Alt text" width="250" height="135">
 </div><br />
 
-I wore *THE JACKEET* pretty much everywhere over the years.  While fat and thin...while tired and rested...in different eras of hair style...and while young and, now, *less-young*. Unless there was a blizard, this was my "winter getup" for the past 18 years...
+I wore *THE JACKET* pretty much everywhere over the years.  While fat and thin...while tired and rested...in different eras of hair style...and while young and, now, *less-young*. Unless there was a blizard, this was my "winter getup" for the past 18 years...
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-chilling.JPG" alt="Alt text" width="550" height="265">
