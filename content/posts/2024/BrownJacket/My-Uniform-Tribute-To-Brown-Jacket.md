@@ -89,6 +89,8 @@ And, yep, turns out about 18 years in *THE JACKET* have gone by...it accidentall
   </tr>
 </table>
 
+A lot of solemn, jolly, or otherwise average moments were experienced in **THE JACKET**... <br />
+
 <table>
   <tr>
     <td>
@@ -102,12 +104,22 @@ And, yep, turns out about 18 years in *THE JACKET* have gone by...it accidentall
   </tr>
 </table>
 
+  ...and a lot of special moments, too. 
 
+<table>
+  <tr>
+    <td>
+     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-central-park1.JPG" alt="Description of image 1" width="350" height="205">
+      <div></div>
+      </td>
+      <td>
+      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-central-park2.jpeg" alt="Description of image 2" width="350" height="205">
+      <div></div>
+      </td>
+  </tr>
+</table>
 
 <div>
-<br />
- <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-central-park1.JPG" alt="Alt text" width="350" height="205"> <br />
-  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-central-park2.jpeg" alt="Alt text" width="350" height="205"> <br />
     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-apple.JPG" alt="Alt text" width="400" height="305"> <br />
         <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-uk1.JPG" alt="Alt text" width="400" height="305">
     </div>
