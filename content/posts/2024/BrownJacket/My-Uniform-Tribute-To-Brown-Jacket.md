@@ -153,7 +153,7 @@ A lot of solemn, jolly, or otherwise day-to-day moments were experienced in **TH
 </table>
 
 #### Over the years I have found that a basic no frills wardrobe offers some advantages: <br />
-1.	**Cognitive Clarity**: By eliminating daily decisions, about anything, you conserve mental energy for more critical tasks. Psychologists refer to this as reducing “*decision fatigue*,” a phenomenon where making too many choices depletes your cognitive resources.  Deciding what to wear is a cognitive load, one that "uniform" wearers don't want.<br />
+1.	**Cognitive Clarity**: By eliminating daily decisions, about anything, you conserve mental energy for more critical tasks. Psychologists refer to this as reducing “*decision fatigue*,” a phenomenon where making too many choices depletes your cognitive resources.  Deciding what to wear is one cognitive load that "*uniform wearers*" don't want, so they skip it.<br />
 2.	**Branding**: A consistent style can become your visual signature, making you immediately identifiable.  It doesn't have to be a "uniform" but is usually a narrow range of clothing you're pre-selecting.  Either way, that becomes *you* whenever you are showing-up somewhere to work with a team, give a presentation, etc. <br />
 3.	***Invisibility On Demand***: Ironically, a uniform not only makes you recognizable but also grants you some selective invisibility. If I want to blend-in at a tech conference or other busy place, I just pop on another jacket or shirt. *Poof*! I'm everywhere and *nowhere*... 🙃 <br />
  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-blue-jacket.jpeg" alt="Alt text" width="275" height="135"> <br />
