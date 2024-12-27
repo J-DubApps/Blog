@@ -94,7 +94,7 @@ Flash-forward to last week, and my wife observes: "hey, you've been wearing this
       <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-jackson2.jpg" alt="Alt text" width="350" height="135">
 </div><br />
 
-It was more *commentary* than observation, I think. 🤔 And she's right, turns out about 18 years in *THE JACKET* have gone by...it became my own "personal brand" for IT and PM conferences, or whatever else I was doing in the tech world.
+And she's right, though I think it was more *commentary* than observation. 🤔 And she's right, turns out about 18 years in *THE JACKET* have gone by...it became my own "personal brand" for IT and PM conferences, or whatever else I was doing in the tech world.
 
 <table>
   <tr>
