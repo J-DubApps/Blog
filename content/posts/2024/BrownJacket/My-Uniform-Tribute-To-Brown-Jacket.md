@@ -26,7 +26,7 @@ My "style" was always a Gen-X low-key, punky nerd look which has been my getup f
 </div><br />
 
 
-And that's pretty much me these days, with a few change-ups as I have aged. I guess I already had my simple no fuss "uniform" look on lock, but the people I mention above took it to a deeper level.  And they illustrated that wearing the same thing, each day, doesn’t affect creativity or individuality—it can even *amplify* these things. In my own case, my simple duds got this tweak for our mild Texas winter weather, which has become my defacto "*Winter uniform*": about 20 years ago when "***JDub & THE JACKET***" somehow became part of my personal "brand" or look when consulting, giving talks, or otherwise doing anything involving PM and tech projects.  <br /> 
+And that's pretty much me these days, with a few change-ups as I got older. I already had a simple no fuss "uniform" look on lock, but the people I mention above took it a lot farther.  And they illustrated that wearing the same thing, each day, doesn’t affect creativity or individuality—it can even *amplify* these things. In my own case, my simple duds got a tweak for the mild Texas winter weather, and it became my defacto "*Winter uniform*": "***JDub & THE JACKET***".  Somehow this became part of my personal "brand" or look when consulting, giving talks, or otherwise doing anything involving PM and tech projects during the winter months.  <br /> 
 
 So *THE JACKET* is this brownish scrimmage zip-up jacket with blue-stitching.  I may rock different glasses or shoes, but during the winter months it's jeans and *THE JACKET*. If I have be somewhere to give a presentation or talk, or if I just need to show-up somewhere quickly and it's cool out...*THE JACKET* is probably coming along with me (or on me).
 
@@ -36,7 +36,7 @@ So *THE JACKET* is this brownish scrimmage zip-up jacket with blue-stitching.  I
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-wtc.JPG" alt="Alt text" width="600" height="365">
 </div><br />
 
-I originally purchased *THE JACKET* during a visit to see my brother & sister-in-law in Las Vegas. My wife's brother Brian bought this jacket that I thought was pretty cool.  I asked him where he bought it from: Tommy Bahama, a place yours-truly hadn't ever even stepped-into, let alone buy clothes from. I always thought it was expensive and only hawaiian vacation style clothes.  But I decided that jacket was hella cool, and proceeded to run back to the mall and purchase it in black.  But it turned-out to have a couple of defects, so I took it back and all had in stock to swap was the popular brown jacket.  And that is how "JDub & *THE JACKET*" came to be. Every mild Texas winter you'll see me rocking that look, and not too many others until March or April. 😎
+I originally purchased *THE JACKET* during a visit to see my brother & sister-in-law in Las Vegas. My wife's brother Brian bought this jacket that I thought was pretty cool.  I asked him where he bought it from: Tommy Bahama, a place yours-truly hadn't ever even stepped-into, let alone buy clothes from. I always thought it was expensive and only hawaiian vacation style clothes.  But I decided that jacket was hella cool, and proceeded to run back to the mall and purchase it in black.  But it turned-out to have a couple of defects, so I took it back and all had in stock to swap was the popular brown jacket.  And that is how "JDub & *THE JACKET*" came to be. Every mild Texas winter you'll see me rocking that look until March or April. 😎
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-wh.JPG" alt="Alt text" width="550" height="305"><br />
@@ -44,13 +44,13 @@ I originally purchased *THE JACKET* during a visit to see my brother & sister-in
       <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-jackson-2015.JPG" alt="Alt text" width="250" height="135">
 </div><br />
 
-I wore it everywhere over the years.  While fat and thin...while tired and rested...with different eras of hair style...and while young and (now) *middle-aged*. Unless there was a blizard, this was my "winter getup" these past 20 years...
+I wore this getup everywhere over the years.  While fat and thin...while tired and rested...in different eras of hair style...and while young and, now, *less-young*. Unless there was a blizard, this was my "winter getup" for the past 18 years...
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-chilling.JPG" alt="Alt text" width="550" height="265">
 </div>
 
-I have worn *THE JACKET* to almost every major US city and parts of Europe. Same jacket. Same me. Just older now. When I lost weight, eBay came in clutch with unsold stock, allowing me to keep my "uniform" on lock.  I now have three of these.  I still wear the old one, it's worn-in so well, but the new ones are there for work or other functions and they fit better.
+I have worn *THE JACKET* to almost every major US city and parts of Europe. Same jacket. Same me. Just older, now. When I lost weight, eBay came in clutch with unsold stock, allowing me to keep my "uniform".  I now have three of these.  I still wear the old one, it's worn-in like a comfortable suit, but the newer jackets are there for work or other functions.
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-staten-island.JPG" alt="Alt text" width="300" height="105"> <br />
@@ -58,7 +58,7 @@ I have worn *THE JACKET* to almost every major US city and parts of Europe. Same
       <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-nyc2.JPG" alt="Alt text" width="300" height="105">
 </div><br />
 
-Anytime I was out and about in the winter, and it was mild, I didn't really wear big coats.  Just *THE JACKET*...
+Anytime I was out and about on a mild winter day, no big coats...just *THE JACKET*...
 
 <table>
   <tr>
@@ -73,13 +73,20 @@ Anytime I was out and about in the winter, and it was mild, I didn't really wear
   </tr>
 </table>
 
-<div>
-      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-mavs2.JPG" alt="Alt text" width="500" height="305"> <br />
-       <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-mavs-game.JPG" alt="Alt text" width="400" height="205">
-</div><br />
+<table>
+  <tr>
+    <td>
+     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-mavs2.JPG" alt="Description of image 1" width="500" height="305">
+      <div></div>
+      </td>
+      <td>
+      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-mavs-game.JPG" alt="Description of image 2" width="400" height="205">
+      <div></div>
+      </td>
+  </tr>
+</table>
 
-
-Flash-forward to last week, December '24, and my wife observed: "hey, you've been wearing this jacket for like 20 years now!"
+Flash-forward to last week, and my wife observes: "hey, you've been wearing this jacket for like almost 20 years now."
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-k2.JPG" alt="Alt text" width="350" height="135"> <br />
@@ -87,7 +94,7 @@ Flash-forward to last week, December '24, and my wife observed: "hey, you've bee
       <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-jackson2.jpg" alt="Alt text" width="350" height="135">
 </div><br />
 
-And, yep, turns out about 18 years in *THE JACKET* have gone by...it accidentally became my own "personal brand" for IT and PM conferences, and whatever else I was doing.
+It was more commentary than observation, I think. 🤔 And she's right, turns out about 18 years in *THE JACKET* have gone by...it became my own "personal brand" for IT and PM conferences, or whatever else I was doing in the tech world.
 
 <table>
   <tr>
@@ -102,7 +109,7 @@ And, yep, turns out about 18 years in *THE JACKET* have gone by...it accidentall
   </tr>
 </table>
 
-A lot of solemn, jolly, or otherwise average moments were experienced in **THE JACKET**... <br />
+A lot of solemn, jolly, or otherwise day-to-day moments were experienced in **THE JACKET**... <br />
 
 <table>
   <tr>
@@ -117,7 +124,7 @@ A lot of solemn, jolly, or otherwise average moments were experienced in **THE J
   </tr>
 </table>
 
-  ...and a lot of special moments, too. 
+  ...and a few special moments, too. 
 
 <table>
   <tr>
