@@ -36,7 +36,7 @@ So *THE JACKET* is this brownish scrimmage zip-up jacket with blue-stitching.  I
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-wtc.JPG" alt="Alt text" width="600" height="365">
 </div><br />
 
-I originally purchased *THE JACKET* during a visit to see my brother & sister-in-law in Las Vegas. My wife's brother Brian bought this jacket that I thought was pretty cool.  I asked him where he bought it from: Tommy Bahama, a place yours-truly hadn't ever even stepped-into, let alone buy clothes from. I always thought it was expensive and only hawaiian vacation style clothes.  But I decided that jacket was hella cool, and proceeded to run back to the mall and purchase it in black.  But it turned-out to have a couple of defects, so I took it back and all had in stock to swap was the popular brown jacket.  And that is how "JDub & *THE JACKET*" came to be. Every mild Texas winter you'll see me rocking that look until March or April. 😎
+I originally purchased *THE JACKET* during a visit to see my brother & sister-in-law in Las Vegas. My wife's brother Brian bought this jacket that I thought was pretty cool.  I asked him where he bought it.  Turns out it was Tommy Bahama, a place yours-truly never even considered shopping or buying clothes from. I always thought it was an expensive island vacation style clothing place.  But this jacket was too hella cool, and I decided I wanted one.  So I proceeded to run back to the mall and purchase one in black.  But it turned-out to have a couple of defects, so I took it back and all they had in stock to swap was the popular brown jacket.  And that is how "JDub & *THE JACKET*" came to be. Every mild Texas winter, I'm rocking this getup until March or April. 😎
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-wh.JPG" alt="Alt text" width="550" height="305"><br />
@@ -44,13 +44,13 @@ I originally purchased *THE JACKET* during a visit to see my brother & sister-in
       <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-jackson-2015.JPG" alt="Alt text" width="250" height="135">
 </div><br />
 
-I wore this getup everywhere over the years.  While fat and thin...while tired and rested...in different eras of hair style...and while young and, now, *less-young*. Unless there was a blizard, this was my "winter getup" for the past 18 years...
+I wore *THE JACKEET* pretty much everywhere over the years.  While fat and thin...while tired and rested...in different eras of hair style...and while young and, now, *less-young*. Unless there was a blizard, this was my "winter getup" for the past 18 years...
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-chilling.JPG" alt="Alt text" width="550" height="265">
 </div>
 
-I have worn *THE JACKET* to almost every major US city and parts of Europe. Same jacket. Same me. Just older, now. When I lost weight, eBay came in clutch with unsold stock, allowing me to keep my "uniform".  I now have three of these.  I still wear the old one, it's worn-in like a comfortable suit, but the newer jackets are there for work or other functions.
+*THE JACKET* has been to almost every major US city, and parts of Europe by now. Same jacket. Same me. Just older.  *Time is a flat circle*.  When I lost weight, eBay came in clutch with unsold stock, allowing me to keep my "uniform" into perpetuity.  I now have three of these, and my friends joke I will probably be buried in *THE JACKET*.  I still wear the old one the most, it's worn-in like a comfortable pair of gloves.  The newer jackets go with me to work or other functions.
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-staten-island.JPG" alt="Alt text" width="300" height="105"> <br />
@@ -94,7 +94,7 @@ Flash-forward to last week, and my wife observes: "hey, you've been wearing this
       <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-jackson2.jpg" alt="Alt text" width="350" height="135">
 </div><br />
 
-It was more commentary than observation, I think. 🤔 And she's right, turns out about 18 years in *THE JACKET* have gone by...it became my own "personal brand" for IT and PM conferences, or whatever else I was doing in the tech world.
+It was more *commentary* than observation, I think. 🤔 And she's right, turns out about 18 years in *THE JACKET* have gone by...it became my own "personal brand" for IT and PM conferences, or whatever else I was doing in the tech world.
 
 <table>
   <tr>
