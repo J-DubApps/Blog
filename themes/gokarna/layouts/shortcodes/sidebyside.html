@@ -1,0 +1,10 @@
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    {{ range .Params }}
+      <div style="flex: 1; text-align: center;">
+        <img src="{{ .src }}" alt="{{ .alt }}" style="max-width: 100%; height: auto;"/>
+        {{ if .caption }}
+          <div style="margin-top: 5px; font-size: 0.9em; color: #555;">{{ .caption }}</div>
+        {{ end }}
+      </div>
+    {{ end }}
+  </div>
