@@ -50,7 +50,7 @@ I wore *THE JACKET* pretty much everywhere over the years.  While fat and thin..
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-chilling.JPG" alt="Alt text" width="550" height="265">
 </div>
 
-*THE JACKET* has been to almost every major US city, and parts of Europe by now. Same jacket. Same me. Just older.  [*Time is a flat circle*](https://www.youtube.com/watch?v=RKRksnjSxWI). 🙃🤓  When I lost weight, eBay came in clutch with unsold stock, allowing me to keep my "uniform" into perpetuity.  I now have three of these, and my friends joke I will probably be buried in *THE JACKET*.  I still wear the old one the most, it's worn-in like a comfortable pair of gloves.  The newer jackets go with me to work or other functions.
+*THE JACKET* has been to almost every major US city, and parts of Europe by now. Same jacket. Same me. Just older.  [*Time is a flat circle*](https://www.youtube.com/watch?v=RKRksnjSxWI). 🙃🤓  When I lost weight, eBay came in clutch with unsold stock, allowing me to keep my "uniform" into perpetuity.  I now have three of these, and my friends joke I will probably be *buried* in *THE JACKET*.  I still wear the old one the most, it's perfectly worn-in like a comfortable pair of slippers.  The newer jackets go with me to work or other functions.
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-staten-island.JPG" alt="Alt text" width="300" height="105"> <br />
