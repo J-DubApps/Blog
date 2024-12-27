@@ -92,11 +92,11 @@ And, yep, turns out about 18 years in *THE JACKET* have gone by...it accidentall
 <table>
   <tr>
     <td>
-      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-driving.JPG" alt="Description of image 1" width="180" height="75">
+      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-driving.JPG" alt="Description of image 1" width="185" height="85">
       <div></div>
     </td>
     <td>
-      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-cartoon.jpeg" alt="Description of image 2" width="250" height="115">
+      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-cartoon.jpeg" alt="Description of image 2" width="215" height="115">
       <div></div>
     </td>
   </tr>
