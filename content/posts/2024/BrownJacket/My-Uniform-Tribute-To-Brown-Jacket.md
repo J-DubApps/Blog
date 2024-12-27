@@ -20,13 +20,15 @@ I never considered why people might wear the same thing most every day, then one
     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-nyc.jpg" alt="Alt text" width="300" height="235">
   </div>
 
-My "style" was always a low-key punky nerd getup for many, many years...
+My "style" was always a Gen-X low-key, punky nerd getup for many years...
 <div style="float: left; border: 1px; padding: 5px;">
  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg" alt="Alt text" width="200" height="135">
 </div><br />
 
 <div style="float: center;">
-So I guess I already had my simple no fuss "uniform" look on lock.  The people I mention above illustrate that wearing the same thing doesn’t affect creativity or individuality—and can even amplify these things. In my own case, my simple duds got a tweak for Texas Winters, about 20 years ago when "***JDub & THE JACKET***" became part of my "uniform".  It's this brownish scrimmage zip-up jacket with blue-stitching, which kind of became my main duds in the winter. Maybe different glasses, shoes, but during those months it's always jeans and *THE JACKET*. If I have be somewhere to give a presentation or talk, or if I just need to show-up somewhere quickly and it's cool out...*THE JACKET* is probably coming along.
+And that's pretty much me these days, with a few change-ups as I have aged. I guess I already had my simple no fuss "uniform" look on lock, but the people I mention above took it to a deeper level.  And they illustrated that wearing the same thing, each day, doesn’t affect creativity or individuality—it can even *amplify* these things. In my own case, my simple duds got this tweak for Texas Winters, which has become my defacto "*Winter uniform*": about 20 years ago when "***JDub & THE JACKET***" somehow became part of my personal "brand" or look when consulting, giving talks, or otherwise doing anything involving PM and tech projects.  <br /> 
+
+So *THE JACKET* is this brownish scrimmage zip-up jacket with blue-stitching.  I may rock different glasses or shoes, but during the winter months it's jeans and *THE JACKET*. If I have be somewhere to give a presentation or talk, or if I just need to show-up somewhere quickly and it's cool out...*THE JACKET* is probably coming along.
 </div>
 
 <br /> 
