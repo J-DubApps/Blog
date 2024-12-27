@@ -67,7 +67,7 @@ Anytime I was out and about on a mild winter day, no big coats...just *THE JACKE
       <div></div>
       </td>
       <td>
-      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-empire-state-bldg.JPG" alt="Description of image 2" width="500" height="255">
+      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-elo.JPG" alt="Description of image 2" width="500" height="255">
       <div></div>
       </td>
   </tr>
