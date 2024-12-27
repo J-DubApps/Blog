@@ -60,9 +60,20 @@ I have worn *THE JACKET* to almost every major US city and parts of Europe. Same
 
 Anytime I was out and about in the winter, and it was mild, I didn't really wear big coats.  Just *THE JACKET*...
 
+<table>
+  <tr>
+    <td>
+     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-subway3.JPG" alt="Description of image 1" width="550" height="305">
+      <div></div>
+      </td>
+      <td>
+      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-empire-state-bldg.JPG" alt="Description of image 2" width="500" height="255">
+      <div></div>
+      </td>
+  </tr>
+</table>
+
 <div>
-  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-subway3.JPG" alt="Alt text" width="550" height="305"><br />
-    <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-subway2.JPG" alt="Alt text" width="500" height="255"><br />
       <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-mavs2.JPG" alt="Alt text" width="500" height="305"> <br />
        <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-mavs-game.JPG" alt="Alt text" width="400" height="205">
 </div><br />
@@ -141,7 +152,7 @@ A lot of solemn, jolly, or otherwise average moments were experienced in **THE J
  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-blue-jacket.jpeg" alt="Alt text" width="275" height="135"> <br />
 4.	**Minimalism Meets Practicality**: Fewer clothing options mean *fewer* distractions, *less* clutter, and a focus on quality over quantity. It’s been my lifestyle to stay rooted in efficiency and intentionality, wherever I can.
 
-So whether you’re reclaiming mental energy or just simply craving simplicity, the "uniform" thing has some undeniable benefits. After all, it’s not really about the clothes—it’s about the person *wearing them*.
+So whether you’re reclaiming mental energy or just simply craving *simplicity*, the *uniform thing* has some undeniable benefits. After all, it’s not really about the clothes—it’s about the person *wearing them*.
 
 <div>
 <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-ocean.jpg" alt="Alt text" width="350" height="205"> <br />
