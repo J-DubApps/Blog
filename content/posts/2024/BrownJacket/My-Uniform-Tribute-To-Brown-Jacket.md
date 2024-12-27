@@ -4,7 +4,7 @@ draft = false
 title = 'My &quot;Uniform&quot;'
 description = 'A Tribute to THE JACKET'
 type = 'post'
-tags = ["thought", "special-write-up", "best-of"]
+tags = ["thought", "special-write-up", "personal", "best-of"]
 +++
 What do *Steve Jobs*, *Albert Einstein*, and *Fred Rogers* all have in common? Aside from undeniable impacts on society, they embraced the concept of an easy personal “*uniform*” – a singular wardrobe worn every day. Steve Jobs was instantly recognizable in his black mock turtleneck, jeans, and New Balance sneakers. Einstein famously bought several identical versions of his favorite gray suit. I grew up watching Fred Rogers wear the same cardigan and sneakers, with the occasional jacket color change: a relaxed symbol of calm, kindness, and familiarity for us [GenX](https://en.wikipedia.org/wiki/Generation_X) [latchkey](https://en.wikipedia.org/wiki/Latchkey_kid) kids tuning-in.  There are other "uniform wearers" out there (*Simon Cowell* and *Mark Zuckerberg*, to name two more), and for regular folk the "*uniform thing*" is a pattern for people who must make a lot of decisions every day. It starts unconciously and, later, becomes intentional as a personal brand and a lasting impression for people working around them.
 
