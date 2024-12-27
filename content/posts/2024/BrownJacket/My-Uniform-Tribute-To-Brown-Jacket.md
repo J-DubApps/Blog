@@ -50,7 +50,7 @@ I wore it everywhere over the years.  While fat and thin...while tired and reste
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-chilling.JPG" alt="Alt text" width="550" height="265">
 </div>
 
-I have worn *THE JACKET* to almost every major US city and parts of Europe. Same jacket. Same me. Just older now. When I lost weight, eBay came in clutch with unsold stock, allowing me to keep my "uniform" on lock.  I now have three of these.  I still wear the old one, it's worn-in so well, but the new ones are there for work or other functions and they fit better after my weight.
+I have worn *THE JACKET* to almost every major US city and parts of Europe. Same jacket. Same me. Just older now. When I lost weight, eBay came in clutch with unsold stock, allowing me to keep my "uniform" on lock.  I now have three of these.  I still wear the old one, it's worn-in so well, but the new ones are there for work or other functions and they fit better.
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-staten-island.JPG" alt="Alt text" width="300" height="105"> <br />
