@@ -92,7 +92,7 @@ And, yep, turns out about 18 years in *THE JACKET* have gone by...it accidentall
 <table>
   <tr>
     <td>
-      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-driving.JPG" alt="Description of image 1" width="225" height="90">
+      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-driving.JPG" alt="Description of image 1" width="200" height="90">
       <div></div>
     </td>
     <td>
