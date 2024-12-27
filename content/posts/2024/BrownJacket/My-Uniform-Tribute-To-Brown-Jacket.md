@@ -159,7 +159,7 @@ A lot of solemn, jolly, or otherwise day-to-day moments were experienced in **TH
  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-blue-jacket.jpeg" alt="Alt text" width="275" height="135"> <br />
 4.	**Minimalism Meets Practicality**: Fewer clothing options mean *fewer* distractions, *less* clutter, and a focus on quality over quantity. It’s been my lifestyle to stay rooted in efficiency and intentionality, wherever I can.
 
-So whether you’re reclaiming mental energy or just simply craving *simplicity*, the *uniform thing* has been around forever and has some undeniable benefits. Ultimately the trick to pulling it off is to not draw attention to the fact you're wearing the same thing a lot (*oops*).  After all, it’s not really about the clothes—it’s about the person *wearing them*.
+So whether you’re reclaiming mental energy or just simply craving *simplicity*, the *uniform thing* has been around forever and has some undeniable benefits. Ultimately the trick to pulling it off is to not immediately draw attention to the fact you're wearing the same thing daily in the first place (*oops*). After all, it’s not really about the clothes—it’s about the person *wearing them*.
 
 <div>
 <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-ocean.jpg" alt="Alt text" width="350" height="205"> <br />
