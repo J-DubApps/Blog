@@ -132,14 +132,14 @@ A lot of solemn, jolly, or otherwise average moments were experienced in **THE J
   </tr>
 </table>
 
-##### Over the years I have found that a deliberate wardrobe choice does offer some advantages: <br />
+#### Over the years I have found that a deliberate wardrobe choice does offer some advantages: <br />
 1.	**Cognitive Clarity**: By eliminating daily decisions, about anything, you conserve mental energy for more critical tasks. Psychologists refer to this as reducing “decision fatigue,” a phenomenon where making too many choices depletes your cognitive resources.  Deciding what to wear is a cognitive load, one that "uniform" wearers don't want.<br />
 2.	**Branding**: A consistent style can become your visual signature, making you immediately identifiable.  It doesn't have to be a "uniform" but usually is a narrow range of a clothing style.  Either way, that becomes *you* whenever you are showing-up somewhere to work with a team or give a talk etc. <br />
-3.	***Invisibility On Demand***: Ironically, a uniform not only makes you recognizable but also grants the power of selective invisibility. If I want to blend-in at a tech conference or other busy place, I can just carry the old jacket and not wear it.  Or just put on a *different* jacket.  Poof! I'm everywhere and nowhere... 🙃 <br />
+3.	***Invisibility On Demand***: Ironically, a uniform not only makes you recognizable but also grants the power of selective invisibility. If I want to blend-in at a tech conference or other busy place, I can just carry the old jacket and not wear it.  Or just put on a *different* jacket.  Poof! I'm everywhere and *nowhere*... 🙃 <br />
  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-blue-jacket.jpeg" alt="Alt text" width="275" height="135"> <br />
-4.	**Minimalism Meets Practicality**: Fewer clothing options mean fewer distractions, less clutter, and a focus on quality over quantity. It’s been my lifestyle to stay rooted in efficiency and intentionality, wherever I can.
+4.	**Minimalism Meets Practicality**: Fewer clothing options mean *fewer* distractions, *less* clutter, and a focus on quality over quantity. It’s been my lifestyle to stay rooted in efficiency and intentionality, wherever I can.
 
-Whether you’re reclaiming mental energy or simply craving simplicity, the "uniform" thing has some undeniable benefits. After all, it’s not about the clothes—it’s about the person wearing them.
+So whether you’re reclaiming mental energy or just simply craving simplicity, the "uniform" thing has some undeniable benefits. After all, it’s not really about the clothes—it’s about the person *wearing them*.
 
 <div>
 <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-ocean.jpg" alt="Alt text" width="350" height="205"> <br />
