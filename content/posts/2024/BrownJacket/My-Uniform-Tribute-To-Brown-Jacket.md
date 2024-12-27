@@ -81,11 +81,18 @@ And, yep, turns out about 18 years in *THE JACKET* have gone by...it accidentall
  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-empire-state-bldg.JPG" alt="Alt text" width="200" height="105">
 
 
-
-{{< sidebyside
-    src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-driving.JPG" alt="Description of image 1" caption="Image 1 Caption"
-    src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-cartoon.jpeg" alt="Description of image 2" caption="Image 2 Caption"
->}}
+<table>
+  <tr>
+    <td>
+      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-driving.JPG" alt="Description of image 1" width="300">
+      <div>Image 1 Caption</div>
+    </td>
+    <td>
+      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-cartoon.jpeg" alt="Description of image 2" width="300">
+      <div>Image 2 Caption</div>
+    </td>
+  </tr>
+</table>
 
 
 
