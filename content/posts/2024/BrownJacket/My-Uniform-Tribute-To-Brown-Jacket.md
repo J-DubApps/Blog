@@ -76,20 +76,28 @@ Flash-forward to last week, December '24, and my wife observed: "hey, you've bee
 
 And, yep, turns out about 18 years in *THE JACKET* have gone by...it accidentally became my own "personal brand" for IT and PM conferences, and whatever else I was doing.
 
-
- <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-explaining.JPG" alt="Alt text" width="200" height="105">
- <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-empire-state-bldg.JPG" alt="Alt text" width="200" height="105">
-
+<table>
+  <tr>
+    <td>
+     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/dub-explaining.JPG" alt="Description of image 1" width="200" height="105">
+      <div></div>
+      </td>
+      <td>
+      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-empire-state-bldg.JPG" alt="Description of image 2" width="200" height="105">
+      <div></div>
+      </td>
+  </tr>
+</table>
 
 <table>
   <tr>
     <td>
-      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-driving.JPG" alt="Description of image 1" width="300">
-      <div>Image 1 Caption</div>
+      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-driving.JPG" alt="Description of image 1" width="250" height="105">
+      <div></div>
     </td>
     <td>
-      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-cartoon.jpeg" alt="Description of image 2" width="300">
-      <div>Image 2 Caption</div>
+      <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-cartoon.jpeg" alt="Description of image 2" width="250" height="115">
+      <div></div>
     </td>
   </tr>
 </table>
