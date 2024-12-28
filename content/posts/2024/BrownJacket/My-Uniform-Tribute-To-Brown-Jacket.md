@@ -13,7 +13,7 @@ What do *Steve Jobs*, *Albert Einstein*, and *Fred Rogers* all have in common? A
     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/mister-rogers.jpeg" alt="Alt text" width="500" height="305">
 </div>
 
-There are many "uniform wearers" out there (*Simon Cowell* and *Mark Zuckerberg*, to name two more), and probably even more regular doing it.  It is a pattern for people who must make a lot of decisions every day. It often starts unconciously and, later, just sort of becomes an intentional thing.  I first thought it was kind of cartoonish to weae the same thing all the time, and I never considered why people might dress this way.  But then one day a friend reminded me that ***I*** had been "*uniforming*" since about 1989: <br />
+There are many "uniform wearers" out there of varying extremed (*Simon Cowell* and *Mark Zuckerberg*, just to name two more), and even more regular people dressing this way.  It is a pattern for people who must make a lot of decisions every day. It often starts unconciously and, later, just sort of becomes an intentional thing.  I first thought it was kind of cartoonish to weae the same thing all the time, and I never considered why people might dress this way.  But then one day a friend reminded me that ***I*** had been "*uniforming*" since about 1989: <br />
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-la.JPG" alt="Alt text" width="350" height="235"> <br />
