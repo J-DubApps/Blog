@@ -25,9 +25,8 @@ My "style" was always early 90s GenX low-key. Kind of a punky nerd getup and my 
  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg" alt="Alt text" width="200" height="135">
 </div>
 
-Nothing flashy. I like to blend in: just plain jeans and Chucks, a plain t-shirt, and sometimes a loose longsleeve shirt or light coat. And that's pretty much still me these days, with a few changes as I got older. It's like meal-planning, having my own simple no-fuss "uniform" on lock. But the people I mention above took it a lot farther in their daily lives. Personal styles became personal branding, and they illustrated that wearing the same thing each day probably even *amplified* creativity and individuality. Everyday busy people may roll a "uniform", too, like a few ex-military friends I have worked with. In my case I liked to layer for our mild Texas winter weather.  Some time ago my defacto "*Winter uniform*" changed, and ***JDub & THE JACKET*** emerged as my own personal look when consulting, giving talks, or otherwise doing anything involving PM or tech presentations during the winter months.  It wasn't intentional, but that's how it evolved. <br /> 
-
-<br /> 
+Nothing flashy. I like to blend in: just plain jeans and Chucks, a plain t-shirt, and sometimes a loose longsleeve shirt or light coat. And that's pretty much still me these days, with a few changes as I got older. It's like meal-planning, having my own simple no-fuss "uniform" on lock. But the people I mention above took it a lot farther in their daily lives. Personal styles became personal branding, and they illustrated that wearing the same thing each day probably even *amplified* creativity and individuality. Everyday busy people may roll a "uniform", too, like a few ex-military friends I have worked with. In my case I liked to layer for our mild Texas winter weather.  Some time ago my defacto "*Winter uniform*" changed, and ***JDub & THE JACKET*** emerged as my own personal look when consulting, giving talks, or otherwise doing anything involving PM or tech presentations during the winter months. It wasn't intentional, but that's how it evolved.
+ 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-wtc.JPG" alt="Alt text" width="600" height="365">
 </div><br />
@@ -42,7 +41,7 @@ I purchased the *first iteration* of *THE JACKET* during a visit to see my broth
       <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-jackson-2015.JPG" alt="Alt text" width="250" height="135">
 </div><br />
 
-I wore *THE JACKET* pretty much everywhere over the years.  While fat and thin...while tired and rested...in different eras of hair style...and while young and, now, *less-young*. Unless there was a blizard, this was my "winter getup" for the past 18 years...
+I wore *THE JACKET* pretty much everywhere over the years.  While fat or thin...while tired or rested...in different eras of hair style...and while young and, now, *less-young*: unless there was a blizard this was my "winter getup" for the past 18 years...
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-chilling.JPG" alt="Alt text" width="550" height="265">
@@ -56,7 +55,7 @@ I wore *THE JACKET* pretty much everywhere over the years.  While fat and thin..
       <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-nyc2.JPG" alt="Alt text" width="300" height="105">
 </div><br />
 
-Anytime I was out and about on a mild winter day, it was *THE JACKET* and me...
+IT work always allowed some casual dress, especially data center work and late-hour coding sprints.  Anytime I was out and about for work, it's been *THE JACKET* and me...
 
 <table>
   <tr>
