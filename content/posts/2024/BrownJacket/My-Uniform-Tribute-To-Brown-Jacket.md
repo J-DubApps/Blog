@@ -6,37 +6,35 @@ description = 'A Word on THE JACKET'
 type = 'post'
 tags = ["thought", "special-write-up", "personal", "best-of"]
 +++
-What do *Steve Jobs*, *Albert Einstein*, and *Fred Rogers* all have in common? Aside from undeniable impacts on society, they embraced the concept of a simple personal “*uniform*” – a singular wardrobe for the everyday. Steve Jobs was instantly recognizable in his black mock turtleneck, jeans, and New Balance sneakers. Einstein famously bought several identical versions of his favorite gray suit. I grew up watching Fred Rogers wear the same cardigan and sneakers, with the occasional jacket color change: a relaxed symbol of calm, kindness, and familiarity for us [GenX](https://en.wikipedia.org/wiki/Generation_X) [latchkey](https://en.wikipedia.org/wiki/Latchkey_kid) kids tuning-in.  There are other "uniform wearers" out there (*Simon Cowell* and *Mark Zuckerberg*, to name two more), and for regular folk the "*uniform thing*" is a pattern for people who must make a lot of decisions every day. It often starts unconciously and, later, is intentional as a personal brand for some. It definitely leaves a lasting impression for people working around them.
+What do *Steve Jobs*, *Albert Einstein*, and *Fred Rogers* all have in common? Aside from undeniable impacts on society, they embraced the concept of a simple personal “*uniform*” – a singular wardrobe for the everyday. Steve Jobs was instantly recognizable in his black mock turtleneck, jeans, and New Balance sneakers. Einstein famously bought several identical versions of his favorite gray suit. I grew up watching Fred Rogers wear the same cardigan and sneakers, with the occasional jacket color change: a relaxed symbol of calm, kindness, and familiarity for us [GenX](https://en.wikipedia.org/wiki/Generation_X) [latchkey](https://en.wikipedia.org/wiki/Latchkey_kid) kids tuning-in.
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/steve-jobs-atd.jpeg" alt="Alt text" width="500" height="305"> 
     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/mister-rogers.jpeg" alt="Alt text" width="500" height="305">
 </div>
 
-I never considered why people might wear the same thing most every day, then one day a friend told me I had been wearing the same thing since about 1990: <br />
+There are many "uniform wearers" out there (*Simon Cowell* and *Mark Zuckerberg*, to name two more), and probably even more regular doing it.  It is a pattern for people who must make a lot of decisions every day. It often starts unconciously and, later, just sort of becomes an intentional thing.  I never considered why people might wear the same thing most every day, but then one day a friend reminded me that *I* had been "*uniforming*" since about 1989: <br />
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-la.JPG" alt="Alt text" width="350" height="235"> <br />
     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-nyc.jpg" alt="Alt text" width="300" height="235">
   </div>
 
-My "style" was always a GenX low-key, punky nerd look. My main getup since forever...
+My "style" was always early 90s GenX low-key. Kind of a punky nerd getup.  My main casual "look", since forever...
 <div style="float: left; border: 1px; padding: 5px;">
  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg" alt="Alt text" width="200" height="135">
-</div><br />
+</div>
 
-
-Jeans and Chucks, plain t-shirt and light jacket sometimes. And that's pretty much me these days, with a few changes as I got older. It's like meal-planning, having my own simple no fuss "uniform" on lock, but the people I mention above took it a lot farther im their daily lives.  And they illustrated that wearing the same thing, each day, doesn’t affect creativity or individuality—it can even *amplify* these things. Ordinary busy people may roll a "uniform", too, like ex-military friends I have worked with.  In my own case, my simple duds got a tweak for the mild Texas winter weather, and it became my defacto "*Winter uniform*": ***JDub & THE JACKET*** became my personal "brand" or look when consulting, giving talks, or otherwise doing anything involving PM and tech project presentations during the winter months.  <br /> 
-
-So *THE JACKET* is this brownish lightweight scrimmage zip-up coat, with blue-stitching.  I may rock different glasses or shoes, but during the winter months it's jeans and *THE JACKET*. If I have be somewhere to give a presentation or talk, or if I just need to show-up somewhere quickly and it's cool out...*THE JACKET* is probably coming along with me (or on me).
-
+Just plain jeans and Chucks, a plain t-shirt, and sometimes a loose longsleeve shirt or light jacket. And that's pretty much still me these days, with a few changes as I got older. It's like meal-planning, having my own simple no-fuss "uniform" on lock. But the people I mention above took it a lot farther in their daily lives. Personal styles became personal branding, and they illustrated that wearing the same thing each day probably even *amplified* creativity and individuality. Everyday busy people may roll a "uniform", too, like a few ex-military friends I have worked with. In my case I liked to layer for our mild Texas winter weather.  Some time ago my defacto "*Winter uniform*" changed, and ***JDub & THE JACKET*** emerged as my own personal look when consulting, giving talks, or otherwise doing anything involving PM or tech presentations during the winter months.  It wasn't intentional, but that's how it evolved. <br /> 
 
 <br /> 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-wtc.JPG" alt="Alt text" width="600" height="365">
 </div><br />
 
-I purchased the first iteration of *THE JACKET* during a visit to see my brother & sister-in-law in Las Vegas. My wife's brother Brian bought one, and I thought it looked comfortable. Cool even.  So I asked him where he bought it. Tommy Bahama.  Huh?  A place yours-truly never considered for clothing, since I always thought they were just an expensive island vacation shirt place. Turns out they made jackets and other things, and this particular jacket was one I wanted to get. So I proceeded to run back to the mall and get one in black, but it turned-out to have a couple of defects.  Returning it, I found that they only had the popular brown jacket to swap out.  And that is how "JDub & *THE JACKET*" came to be. Every mild Texas winter, I'm rocking this getup until March or April. 😎
+So *THE JACKET* is this brownish lightweight scrimmage zip-up windbreaker, with blue-stitching.  I may rock different glasses or shoes, but during the winter months it's jeans and *THE JACKET*. If I have be somewhere to do something, and it's cool out (but not *COLD*)...it usually comes along with me. <br />
+
+I purchased the *first iteration* of *THE JACKET* during a visit to see my brother & sister-in-law in Las Vegas. My wife's brother Brian bought one, and I thought it looked comfortable. Cool even.  So I asked him where he bought it. Tommy Bahama.  Huh?  A place yours-truly never considered for clothing, since I always thought they were just an expensive island vacation shirt place. Turns out they made jackets and other things, and this particular jacket was one I wanted to get. So I proceeded to run back to the mall and get one in black, but it turned-out to have a couple of defects.  Returning it, I found that they only had the popular brown jacket to swap out.  And that is how "JDub & *THE JACKET*" came to be. Every mild Texas winter, I'm rocking this getup until March or April. 😎
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-wh.JPG" alt="Alt text" width="550" height="305"><br />
@@ -58,7 +56,7 @@ I wore *THE JACKET* pretty much everywhere over the years.  While fat and thin..
       <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-nyc2.JPG" alt="Alt text" width="300" height="105">
 </div><br />
 
-Anytime I was out and about on a mild winter day, no big coats...just *THE JACKET*...
+Anytime I was out and about on a mild winter day, it was *THE JACKET* and me...
 
 <table>
   <tr>
@@ -86,7 +84,7 @@ Anytime I was out and about on a mild winter day, no big coats...just *THE JACKE
   </tr>
 </table>
 
-Flash-forward to last week, and my wife observes: "hey, you've been wearing this jacket for like almost 20 years now."
+Flash-forward to last week, and my wife observes: "hey, you've been wearing that jacket for like almost 20 years now."
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-k2.JPG" alt="Alt text" width="350" height="135"> <br />
@@ -94,7 +92,7 @@ Flash-forward to last week, and my wife observes: "hey, you've been wearing this
       <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-jackson2.jpg" alt="Alt text" width="350" height="135">
 </div><br />
 
-And she's right, though I think it was more *commentary* than observation. 🤔 And she's right, turns out about 18 years in *THE JACKET* have gone by...it became my own "personal brand" for IT and PM conferences, or whatever else I was doing in the tech world.
+And she's right, though I think it was more *commentary* than observation. 🤔  So it turns out about 18 years in *THE JACKET* just kind of flew by...
 
 <table>
   <tr>
@@ -109,7 +107,7 @@ And she's right, though I think it was more *commentary* than observation. 🤔 
   </tr>
 </table>
 
-A lot of solemn, jolly, or otherwise day-to-day moments were experienced in **THE JACKET**... <br />
+A lot of solemn, jolly, or otherwise ordinary day-to-day moments were all experienced in **THE JACKET**... <br />
 
 <table>
   <tr>
@@ -124,7 +122,7 @@ A lot of solemn, jolly, or otherwise day-to-day moments were experienced in **TH
   </tr>
 </table>
 
-  ...and a few special moments, too. 
+  ...and a few special moments, as well. 
 
 <table>
   <tr>
@@ -152,7 +150,7 @@ A lot of solemn, jolly, or otherwise day-to-day moments were experienced in **TH
   </tr>
 </table>
 
-#### Over the years I have found that a basic no frills wardrobe offers some advantages: <br />
+#### Over the years I have found that a basic no frills "*uniform*" offers some advantages: <br />
 1.	**Cognitive Clarity**: By eliminating daily decisions, about anything, you conserve mental energy for more critical tasks. Psychologists refer to this as reducing “*decision fatigue*,” a phenomenon where making too many choices depletes your cognitive resources.  Deciding what to wear is one cognitive load that "*uniform wearers*" don't want, so they skip it.<br />
 2.	**Branding**: A consistent style can become your visual signature, making you immediately identifiable.  It doesn't have to be a "uniform" but is usually a narrow range of clothing you're pre-selecting.  Either way, that becomes *you* whenever you are showing-up somewhere to work with a team, give a presentation, etc. <br />
 3.	***Invisibility On Demand***: Ironically, a uniform not only makes you recognizable but also grants you some selective invisibility. If I want to blend-in at a tech conference or other busy place, I just pop on another jacket or shirt. *Poof*! I'm everywhere and *nowhere*... 🙃 <br />
