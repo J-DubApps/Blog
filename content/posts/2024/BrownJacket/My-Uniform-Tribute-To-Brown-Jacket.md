@@ -2,7 +2,7 @@
 date = '2024-12-26T23:03:26-06:00'
 draft = false
 title = 'My &quot;Uniform&quot;'
-description = 'A Tribute to THE JACKET'
+description = 'A Word on THE JACKET'
 type = 'post'
 tags = ["thought", "special-write-up", "personal", "best-of"]
 +++
