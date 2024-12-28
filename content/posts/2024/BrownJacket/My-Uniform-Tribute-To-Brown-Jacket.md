@@ -20,7 +20,7 @@ I never considered why people might wear the same thing most every day, then one
     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-nyc.jpg" alt="Alt text" width="300" height="235">
   </div>
 
-My "style" was always a GenX low-key, punky nerd look which was my main getup for many years...
+My "style" was always a GenX low-key, punky nerd look. My main getup since forever...
 <div style="float: left; border: 1px; padding: 5px;">
  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg" alt="Alt text" width="200" height="135">
 </div><br />
