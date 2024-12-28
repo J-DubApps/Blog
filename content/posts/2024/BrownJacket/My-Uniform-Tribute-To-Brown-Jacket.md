@@ -31,7 +31,7 @@ Nothing flashy. I like to blend in: plain jeans and [Chucks](https://en.m.wikipe
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-wtc.JPG" alt="Alt text" width="600" height="365">
 </div><br />
 
-So *THE JACKET* is this brownish light scrimmage zip-up windbreaker, with blue-stitching.  I may rock different glasses or shoes, but during the winter months it's jeans and *THE JACKET*. If I have be somewhere to do something, and it's cool out (but not *COLD*)...it usually comes along with me. <br />
+So ***THE JACKET*** is this brownish light scrimmage zip-up windbreaker, with blue-stitching.  I may rock different glasses or shoes, but during the winter months it's jeans and *THE JACKET*. If I have be somewhere to do something, and it's cool out (but not *COLD*)...it usually comes along with me. <br />
 
 I purchased the *first iteration* of *THE JACKET* during a visit to see my brother & sister-in-law in Las Vegas. My wife's brother Brian bought one, and I thought it looked comfortable. Cool even.  So I asked him where he bought it. Tommy Bahama.  Huh?  The place I always thought just sold expensive island vacation shirts? Turns out they made jackets and other things, and this particular jacket was one I had to get. So I proceeded to run back to the mall and get one in black, but it turned-out to have a couple of defects.  Returning it, I found that they only had the popular brown jacket to swap out.  And that is how "JDub & *THE JACKET*" came to be. Every mild Texas winter, I'm rocking this getup until March or April. 😎
 
@@ -55,7 +55,7 @@ I wore *THE JACKET* pretty much everywhere over the years.  While fat or thin...
       <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-nyc2.JPG" alt="Alt text" width="300" height="105">
 </div><br />
 
-IT work always allowed casual dress, especially data center work and late-hour coding sprints.  Anytime I was out and about for work, it's been *THE JACKET* and me...
+IT work generally allows casual dress, especially data center work and late-hour coding sprints.  Anytime I was out and about for work, it's been *THE JACKET* and me...
 
 <table>
   <tr>
