@@ -20,7 +20,7 @@ There are many "uniform wearers" out there (*Simon Cowell* and *Mark Zuckerberg*
     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-nyc.jpg" alt="Alt text" width="300" height="235">
   </div>
 
-My "style" was 90s GenX low-key. Kind of a punky nerd getup and my casual "look", since forever...
+My "style" was always 90s GenX low-key, kind of a punky nerd getup and my casual "look" since forever...
 <div style="float: left; border: 1px; padding: 5px;">
  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg" alt="Alt text" width="200" height="135">
 </div>
