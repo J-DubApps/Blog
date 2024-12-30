@@ -17,7 +17,7 @@ ___
 
 ### The Mirage of In-Person “FaceTime” as a Productivity Heuristic
 
-One of the oldest faux-productivity yardsticks is the notion of “face time.” In a traditional office, there’s an assumption that when people are physically present—seated at their desks or strolling the halls—they’re producing results. Yet we’ve all seen how easy it is to fake “busy-ness” without actually getting meaningful work done:<br />
+One of the oldest faux-productivity yardsticks is the notion of “face time.” In a traditional office, there’s an assumption that when people are physically present—seated at their desks or strolling the halls—they’re producing results. Yet we’ve all seen how easy it is to fake “busy-ness” without actually getting meaningful work done:<br /> <br />
 •	**Present Yet Unproductive** – Employees can linger in the office, attend every meeting, and manage to do relatively little of value. The mere fact that you see them doesn’t prove they’re getting things done. Employees knowing there is technology in place watching them (and they always *figure it out*) usually leads to a common outcome: [***quiet-quitting***](https://en.wikipedia.org/wiki/Work-to-rule#Quiet_quitting).  <br />
 •	**Illusion of Control** – Some managers feel more “in control” when they can physically see people working, but it’s really a comfort blanket. This visual check-in doesn’t guarantee any actual accomplishments. <br />
 •	**Remote Work Blowback** – Ironically, many workplaces scrutinize remote workers more heavily because managers can’t see them. In reality, if the focus is on ***deliverables***, remote professionals *often outperform* peers who are skilled at appearing busy in person. <br /> <br />
