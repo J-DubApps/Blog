@@ -158,6 +158,7 @@ A lot of solemn, jolly, or otherwise ordinary day-to-day moments were all experi
 2.	**Branding**: A consistent style can become your visual signature, making you immediately identifiable.  It doesn't have to be a "uniform" but is usually a narrow range of clothing you're pre-selecting.  Either way, that becomes *you* whenever you are showing-up somewhere to work with a team, give a presentation, etc. <br />
 3.	***Invisibility On Demand***: Ironically, a uniform not only makes you recognizable but also grants you some selective invisibility: if I want to blend-in at a tech conference or other busy place, I just pop on another jacket or shirt. *Poof*! I'm everywhere and *nowhere*... 🙃 <br />
  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-blue-jacket.jpeg" alt="Alt text" width="275" height="135"> <br />
+<p style="text-align: center;"><i>Who is this?  Where did JDub go? </i></p>
 4.	**Minimalism Meets Practicality**: Fewer clothing options mean *fewer* distractions, *less* clutter, and a focus on quality over quantity. It’s been my lifestyle to stay rooted in efficiency and intentionality, wherever I can.
 
 So whether you’re reclaiming mental energy or just craving *simplicity*, the *uniform thing* has been around forever and has some undeniable benefits. Ultimately the trick to pulling it off is to be casual and not focus on it, in the first place (*oops*). After all, it’s not really about the clothes—it’s about the person *wearing them*.
