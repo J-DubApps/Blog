@@ -3,7 +3,7 @@ date = '2020-07-05T20:10:26-06:00'
 draft = false
 title = 'Thoughts On IT: 2020 Edition'
 type = 'post'
-tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "project-mgmt", "thought", "best-of"]
+tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "project-mgmt", "thought", "best-of", "jdub-isms"]
 +++
 
 -In IT or any technical Knowledge Worker arena (Software Engineering, Systems Srchitecture, or technical Product/Program/Project Management), learn First Principles of whatever technology you work in and around.  If you learn & know the basic concepts, design patterns, architectures etc...then all that is left is to learn the ***syntactical differences*** and ***workflows*** that make any new upcoming technology or framework unique. <br />

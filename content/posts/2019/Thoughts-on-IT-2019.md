@@ -3,7 +3,7 @@ date = '2019-09-02T20:10:26-06:00'
 draft = false
 title = 'Thoughts On IT: 2019 Edition'
 type = 'post'
-tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "project-mgmt", "thought", "best-of"]
+tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "project-mgmt", "thought", "best-of", "jdub-isms"]
 +++
 
 -In IT, redundancy in your *critical* infrastructure should follow the old Army rule: [Two is One. One is *NONE*.](https://www.forbes.com/sites/work-in-progress/2011/06/21/two-is-one-and-one-is-none/). <br />
