@@ -6,7 +6,7 @@ type = 'post'
 tags = ["career", "best-of", "thought", "opinion", "project-mgmt", "jdub-isms"]
 +++
 
-I think of goofy sardonic turns-of-phrase, every so often.  Here's one that use occasionally, which I just used to day (and thought "hey I should write this down!") -- <br />
+I come up with these goofy sardonic turns-of-phrase, every so often.  Here's one that I just used today (and thought "hey I should write this down!") -- <br />
 
 “***Vertically-stupid***” is my shorthand for a *thoroughly misguided* idea or decision that manages to climb through the ranks of an organization, before anyone realizes how worthless it truly is. <br />
 
