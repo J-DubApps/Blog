@@ -6,28 +6,28 @@ description = 'A Word on THE JACKET'
 type = 'post'
 tags = ["thought", "special-write-up", "personal", "best-of"]
 +++
-What do *Steve Jobs*, *Albert Einstein*, and *Fred Rogers* all have in common? Aside from undeniable impacts on society, they embraced the concept of a simple personal “*uniform*” – a singular wardrobe for the everyday. Steve Jobs was instantly recognizable in his black mock turtleneck, jeans, and New Balance sneakers. Einstein famously bought several identical versions of his favorite gray suit. I grew up watching Fred Rogers come home from work, back to [the Neighborhood](https://en.wikipedia.org/wiki/Mister_Rogers%27_Neighborhood), and switch into the same cardigan and sneakers...with the occasional jacket color change: ***a relaxed symbol of calm, kindness, and familiarity for us [GenX](https://en.wikipedia.org/wiki/Generation_X) [latchkey kids](https://en.wikipedia.org/wiki/Latchkey_kid) tuning-in***.
+What do *Steve Jobs*, *Albert Einstein*, and *Fred Rogers* all have in common? Aside from undeniable impacts on society, they embraced the concept of a simple personal “*uniform*” – a singular wardrobe for the everyday. Steve Jobs was instantly recognizable in his black mock turtleneck, jeans, and New Balance sneakers. Einstein famously bought several identical versions of his favorite gray suit. I grew up watching Fred Rogers come home from work and switch into the same cardigan and sneakers...with the occasional sweater change-up: ***a relaxed symbol of calm, kindness, and familiarity for us [GenX](https://en.wikipedia.org/wiki/Generation_X) [latchkey kids](https://en.wikipedia.org/wiki/Latchkey_kid) tuning-in***.
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/steve-jobs-atd.jpeg" alt="Alt text" width="500" height="305"> 
     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/mister-rogers.jpeg" alt="Alt text" width="500" height="305">
 </div>
 i
-There are many "uniform wearers" out there of varying extremes (*Mark Zuckerberg* is another that comes to mind), and I have met a lot of regular people who dress this way.  Well, maybe not *regular people*, but people that eventually pick their thing and stick with it.  It's a pattern for people who must make a lot of decisions every day. It often starts unconciously and, later, just sort of becomes an intentional thing. <br /> 
+There are many "uniform wearers" out there of varying extremes (*Mark Zuckerberg* is another that comes to mind), but I have also met a lot of regular people who dress this way.  Well, maybe not *regular people*, but people that eventually pick their thing and stick with it.  It's a pattern for people who must make a lot of decisions every day. It often starts unconciously and, later, just sort of becomes their thing. <br /> 
 
-I first thought *uniforming*"was kind of cartoonish. I never considered why people might dress this way, but then one day a friend reminded me that ***I*** had already been "*uniforming*" since about 1989: <br />
+I first thought *uniforming*" was cartoonish and I never considered why people might dress this way. But then one day a friend reminded me that ***I*** had already been "*uniforming*" since about 1989: <br />
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-la.JPG" alt="Alt text" width="350" height="235"> <br />
     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-nyc.jpg" alt="Alt text" width="300" height="235">
   </div>
 
-My "style" was always a 90s GenX low-key punky nerd getup, my casual "look" since forever...
+My "style" was always a 90s GenX low-key "punky nerd" getup.  My casual "look" since forever...
 <div style="float: left; border: 1px; padding: 5px;">
  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg" alt="Alt text" width="200" height="135">
 </div>
 
-Nothing flashy. I like to blend in: plain jeans and [Chucks](https://en.m.wikipedia.org/wiki/Chuck_Taylor_All-Stars), a plain t-shirt, and sometimes a loose longsleeve shirt or light coat. And that's pretty much still me these days, with a few changes as I got older. It's like meal-planning, having my own simple no-fuss "uniform" on lock. But the people I mention above took it a *lot* farther in their daily lives. Personal styles became personal branding, and they illustrated that wearing the same thing each day probably even *amplified* creativity and individuality. Everyday people like ourselves may roll a "uniform", too. I have worked with a few busy ex-military friends who did this, and I once knew a lawyer who did the [Matlock](https://en.m.wikipedia.org/wiki/Matlock_(1986_TV_series)) thing, wearing similar suits. In my own case, I always liked to keep it simple and basic, and some time ago my defacto "*Winter uniform*" changed. ***JDub & THE JACKET*** emerged as my own personal mini-brand when consulting, giving talks, or otherwise doing anything involving PM or tech workshops during the winter months. It wasn't intentional, it's just where I comfortably ended up.
+Nothing flashy. just pain jeans and [Chucks](https://en.m.wikipedia.org/wiki/Chuck_Taylor_All-Stars), a t-shirt, and maybe sometimes a loose longs leeve shirt. And that's pretty much still me, with some tweaks as I got older. It's like meal-planning, having a simple no-fuss "uniform" on lock. But the people I mention above took it a *lot* farther. Personal styles became personal branding, and they illustrate that wearing the *same thing* daily can even *amplify* creativity and individuality. I have worked with a few busy ex-military friends who did this, and I once knew a lawyer who did the [Matlock](https://en.m.wikipedia.org/wiki/Matlock_(1986_TV_series)) thing, wearing similar suits all the time. In my own case, I just kept things simple and basic. I like to blend in mostly. But at some point ***JDub & THE JACKET*** emerged as my "*Winter Uniform*", and somehow became a mini-branding thing whenever consulting, giving talks, or otherwise doing PM or tech workshops during the winter months. It wasn't intentional, it's just where I comfortably ended up.
  
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-wtc.JPG" alt="Alt text" width="600" height="365">
