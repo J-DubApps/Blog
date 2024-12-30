@@ -1,13 +1,19 @@
 +++
-date = '2024-12-05T23:17:51-06:00'
+date = '2024-12-09T23:19:51-06:00'
 draft = false
 title = 'A Word on Employee Surveillance Technologies'
 description = 'Why Trust Beats Tracking, Every Time'
 type = 'post'
-tags = ["tech", "privacy", "career", "best-of", "thought", "news-link", "remote-work", "opinion"]
+tags = ["tech", "digital-privacy", "career", "best-of", "thought", "news-link", "remote-work", "opinion", "project-mgmt"]
 +++
 
-In a world where technology can enable companies to track every click, keystroke, or chat log, it’s tempting for organizations to think that intense monitoring is the path to managing a productive workforce. [According to one Apple employee's recent lawsuit](https://www.theverge.com/2024/12/2/24311060/apple-employee-surveillance-lawsuit), some Apple middle-managers have given-in to this fallacy.  Yet worker-surveillance often causes more harm than good: it can corrode trust, disempower employees, and shift leadership’s attention to the ***wrong metrics***.  I am going to explore how tech workers tend to face measures of productivity that are deceptively shallow, and why misguided data collection can backfire.  And, most importantly, why you should be hiring people you trust in the first place.
+In a world where technology can enable companies to track every click, keystroke, or chat log, it’s tempting for organizations to think that intense monitoring is the path to managing a productive workforce. [According to one Apple employee's recent lawsuit](https://www.theverge.com/2024/12/2/24311060/apple-employee-surveillance-lawsuit), some Apple middle-managers have given-in to this fallacy.  Yet worker-surveillance often causes more harm than good: it can corrode trust, disempower employees, and shift leadership’s attention to the ***wrong metrics***. [**But dont take my word for it**](https://www.seattletimes.com/business/boeing-aerospace/boeing-pauses-surveillance-plan-to-track-employees-at-the-office/). <br /> 
+
+I recently spoke with a colleague in another industry whose project team was undergoing a rollout of a employee-tracking tool.  He's already lost 3 SMEs, and likely will have to crash his project's schedule before looking at premature wind-down.  <br /> 
+
+I am going to use my poor friend's situation for some good, and share my thoughts about how tech workers can face ***measures of productivity that are deceptively shallow, and why misguided data collection can backfire***.  And, most importantly, why **you** should be hiring people you trust in the *first place*!
+
+___
 
 ### The Mirage of In-Person “FaceTime” as a Productivity Heuristic
 
@@ -44,11 +50,37 @@ Leaders should (no, *must*) think critically about which metrics will help drive
 
 ___
 
+This leads me to the *ENTIRE POINT* of this blog post- the ***MOST IMPORTANT QUESTION*** that I believe needs asking...
+
 ### Why Are You Hiring People You Think You Need to Surveil?
 
-At the heart of anti-surveillance thinking is a simple question: If you don’t trust the people you hire, why did you hire them in the first place?
-	•	Erosion of Trust – Once you implement intrusive surveillance, you send a clear message: “I believe you might slack off if I’m not watching.” This undermines the trust-based contract that encourages employees to be loyal, creative, and engaged.
-	•	Turnover & Talent Drain – Skilled professionals prefer workplaces where they’re treated with autonomy and respect. Surveillance-heavy cultures risk driving the best talent elsewhere.
-	•	Opportunity Cost – Time and resources spent on building and managing surveillance systems could be reallocated to leadership development, improved processes, or benefits that actually boost morale and productivity.
+At the heart of anti-surveillance thinking is a simple question: If you don’t trust the people you hire, why did you hire them in the *first place*? <br />
+•	**Erosion of Trust** – Once you implement intrusive surveillance, you send a clear message: “I believe you might slack off if I’m not watching.” This undermines the trust-based contract that encourages employees to be loyal, creative, and engaged.  To know if you can trust someone to work hard, and be productive -- you have to *first* trust them, and give them the opportunity to reward (or betray) Trust.  Digital software logging keystrokes is *not* how you do that. <br />
+•	**Turnover & Talent Drain** – Skilled professionals prefer workplaces where they’re treated with autonomy and respect. Surveillance-heavy cultures risk driving the *best* performers and smart talent elsewhere. <br />
+•	**Opportunity Cost** – Time and resources spent on building and managing surveillance systems could be reallocated to leadership development, improved processes, or benefits that actually boost morale and productivity. <br /> <br />
 
-Building a culture of trust and accountability is more effective in the long run than controlling people’s every digital move. People who feel trusted are more willing to tackle challenges proactively, communicate openly about obstacles, and go the extra mile.
+#### BONUS: HIRE SLOW, FIRE FAST
+
+**You should give hiring the respect it deserves, and not just check a box**:  thoroughly vetting candidates to find the best cultural and skill fit, before extending an offer, **is how you hire people you don't need to surveil**. When you *hire fast*, you get *the opposite*.  Hiring slow needn't take long: it just means multiple interviews, at least one skill assessment, and team interaction interview if you can swing it (during final interview the candidate meets some or all of the team). By taking the time upfront, organizations avoid costly mismatches and onboarding struggles. At the same time, when someone proves to be a poor fit: decisive removal ensures minimal disruptions and protects team morale.  And removes the need to install digital surveillance tools.
+
+Building a culture of trust and accountability is more effective in the long run than controlling people’s every digital move. People who feel trusted are more willing to tackle challenges proactively, communicate openly about obstacles, and truly go the extra mile.  Surveillance creates the opposite of these things.  Every time.  [But hey, don't take my word for it](https://www.raconteur.net/future-of-work/employee-monitoring-staff-response). <br />
+
+___
+
+### Moving Toward a Productive, Trust-Centric Workplace
+
+***I can't believe I had to write any of this***, but my friend's situation riend at a weird little company.  And it allowed me to think-through my own thoughts on all of this.  <br />
+
+**So what’s the alternative?** (I thought you'd never ask) <br />
+	1.	**Focus on Deliverables** – Define clear deliverables and objectives for each role and project. Let people manage their own time to hit these milestones, within reason.
+	2.	**Encourage Open Communication** – Instead of relying on digital “big brother,” cultivate an environment where employees feel comfortable discussing when they need help, more time, or resources.
+	3.	**Offer Meaningful Feedback** – Replace constant monitoring with regular check-ins that provide constructive feedback and guidance.  Don't "be nice" or sugar-coat, either, give your reports and project SMEs direct and timely feedback.  That is *on you* to do, and for them to take and run with it.  Adn when you trust your reports, that is 90% of the time what they'll do.
+	4.	**Celebrate Wins & Accountability** – When employees do meet or exceed expectations, recognize and reward them. This fosters an ecosystem of mutual respect and shared success.
+	5.	**Create Spaces for Innovation** – Trusting employees frees them to explore new ideas. And if they make mistakes, treat these as learning experiences rather than triggers for increased scrutiny. To know if you can trust an employee to grow and innovate -- you have to *first* trust them!
+___
+
+## tl;dr THE TAKEAWAY
+
+Ultimately when a company provides employees with computing devices, they can install whatever they want. But nothing is free: **surveilling workers does little more than create stress, mistrust, and a fixation on questionable metrics**. Many of the “productivity signals” companies cling to—like face time or keystroke logs—are easy to fake and tell us *horribly little* about ***genuine value creation***. If you want your team to perform at its best, measure what truly matters, and above all, trust the very people you brought on board to do the job. <br />
+
+When you’re tempted to reach for surveillance tools, ask yourself: ***Am I hiring too fast, without good vetting***?  ***Why risk hiring people I don’t trust***? By grounding your organization in autonomy, accountability, and clear objectives, you can build a culture that thrives on real productivity rather than micromanaged illusions.
