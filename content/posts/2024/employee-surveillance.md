@@ -1,8 +1,8 @@
 +++
 date = '2024-12-09T23:19:51-06:00'
 draft = false
-title = 'A Word on Employee Surveillance Technologies'
-description = 'Why Trust Beats Tracking, Every Time'
+title = '...About Employee Surveillance Technology'
+description = 'Why Trust Beats Tracking, Every Time...'
 type = 'post'
 tags = ["tech", "digital-privacy", "career", "best-of", "thought", "news-link", "remote-work", "opinion", "project-mgmt"]
 +++
