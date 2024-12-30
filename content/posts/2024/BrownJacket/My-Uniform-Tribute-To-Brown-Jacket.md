@@ -47,7 +47,7 @@ I wore *THE JACKET* pretty much everywhere over the years.  While fat or thin...
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-chilling.JPG" alt="Alt text" width="550" height="265">
 </div>
 
-*THE JACKET* has been to almost every major US city and parts of Europe. Same jacket. Same me. Just older, but [*time is a flat circle*](https://www.youtube.com/watch?v=RKRksnjSxWI) anyway. 🙃🤓  When I lost weight, eBay came in clutch with unsold stock, allowing me to keep my "uniform" into perpetuity.  I now have three of these, and my friends joke I will probably be *buried* in *THE JACKET*.  I still wear the original one the most, it's perfectly worn-in like a comfortable pair of slippers.  The newer jackets go to work and other functions.
+*THE JACKET* has been to almost every major US city and parts of Europe. Same jacket. Same me. Just older, but [*time is a flat circle*](https://www.youtube.com/watch?v=RKRksnjSxWI) anyway. 🙃🤓  When I lost weight, eBay came in clutch with unsold stock, allowing me to keep my winter "uniform" into perpetuity.  I now have three of these, and friends joke I will probably be *buried* in *THE JACKET*.  Maybe. I still wear the original jacket the most, it's perfectly worn-in like a comfortable pair of slippers.  The newer jackets go to work and other functions.
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-staten-island.JPG" alt="Alt text" width="300" height="105"> <br />
@@ -55,7 +55,7 @@ I wore *THE JACKET* pretty much everywhere over the years.  While fat or thin...
       <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-nyc2.JPG" alt="Alt text" width="300" height="105">
 </div><br />
 
-IT work generally allows casual dress, especially data center work and late-hour coding sprints.  Anytime I was out and about for work, it's been *THE JACKET* and me...
+IT work generally allows casual dress, especially data center work and late-hour coding sprints.  Anytime I was out and about for work in a *cool-not-cold* environment, it's been *THE JACKET* and me...
 
 <table>
   <tr>
