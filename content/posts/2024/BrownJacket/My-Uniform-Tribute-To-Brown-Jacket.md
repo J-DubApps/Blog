@@ -15,7 +15,7 @@ What do *Steve Jobs*, *Albert Einstein*, and *Fred Rogers* all have in common? A
 
 There are many "uniform wearers" out there of varying extremes (*Mark Zuckerberg* is another that comes to mind), but I have also met a lot of regular people who dress this way.  Well, maybe not *regular people*, but people that eventually pick their thing and stick with it.  It's a pattern for people who must make a lot of decisions every day. It often starts unconciously and, later, just sort of becomes their thing. <br /> 
 
-I first thought *uniforming*" was cartoonish and I never considered why people might dress this way. But then one day a friend reminded me that ***I*** had already been "*uniforming*" since about 1989: <br />
+I first thought "*uniforming*" was cartoonish and I never considered why people might dress this way. But then one day a friend reminded me that ***I*** had already been "*uniforming*" since about 1989: <br />
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-la.JPG" alt="Alt text" width="350" height="235"> <br />
