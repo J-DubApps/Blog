@@ -116,7 +116,9 @@ A lot of solemn, jolly, or otherwise ordinary day-to-day moments were all experi
     </td>
     <td>
       <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-cartoon.jpeg" alt="Description of image 2" width="215" height="115">
-      <div></div>
+      <div style="font-size: 9px;">
+<p style="text-align: center;"><i>Hey uniforming isn't cartoonish!  Drawn by a friend in 2016 before AI took over... </i></p>
+</div>
     </td>
   </tr>
 </table>
