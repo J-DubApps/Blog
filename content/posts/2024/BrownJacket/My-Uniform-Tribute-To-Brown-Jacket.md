@@ -13,14 +13,14 @@ What do *Steve Jobs*, *Albert Einstein*, and *Fred Rogers* all have in common? A
     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/mister-rogers.jpeg" alt="Alt text" width="500" height="305">
 </div>
 
-There are many "uniform wearers" out there of varying extremed (*Simon Cowell* and *Mark Zuckerberg*, just to name two more), and even more regular people dressing this way.  It is a pattern for people who must make a lot of decisions every day. It often starts unconciously and, later, just sort of becomes an intentional thing.  I first thought *uniforming*"was kind of cartoonish, to wear the same thing all the time. I never considered why people might dress this way, but then one day a friend reminded me that ***I*** had already been "*uniforming*" since about 1989: <br />
+There are many "uniform wearers" out there of varying extremes (*Simon Cowell* and *Mark Zuckerberg*, just to name two more), and even more regular people dressing this way.  It is a pattern for people who must make a lot of decisions every day. It often starts unconciously and, later, just sort of becomes an intentional thing.  I first thought *uniforming*"was kind of cartoonish. I never considered why people might dress this way, but then one day a friend reminded me that ***I*** had already been "*uniforming*" since about 1989: <br />
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-la.JPG" alt="Alt text" width="350" height="235"> <br />
     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-nyc.jpg" alt="Alt text" width="300" height="235">
   </div>
 
-My "style" was always 90s GenX low-key, a punky nerd getup and my casual "look" since forever...
+My "style" was always a 90s GenX low-key punky nerd getup, my casual "look" since forever...
 <div style="float: left; border: 1px; padding: 5px;">
  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg" alt="Alt text" width="200" height="135">
 </div>
