@@ -3,7 +3,7 @@ date = '2024-12-02T14:15:51-06:00'
 draft = false
 title = 'Microsoft Forcing Migration to New Outlook in January'
 type = 'post'
-tags = ["tech", "links", "microsoft", "ms-office", "outlook", "regitry", "intune-csp-gpo", "intune", "enterprise-it", "powershell"]
+tags = ["tech", "links", "microsoft", "ms-office", "outlook", "registry", "intune-csp-gpo", "intune", "enterprise-it", "powershell"]
 +++
 
  <style>
