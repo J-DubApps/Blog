@@ -69,7 +69,7 @@ ___
 
 ### Moving Toward a Productive, Trust-Centric Workplace
 
-***I can't believe I had to write any of this***, but my friend's situation riend at a weird little company.  And it allowed me to think-through my own thoughts on all of this.  <br />
+***I can't believe I had to write any of this***, but my friend's situation at his company gave me pause.  And it allowed me to think-through my own thoughts on all of this.  <br />
 
 **So what’s the alternative?** (I thought you'd never ask) <br />
 	1.	**Focus on Deliverables** – Define clear deliverables and objectives for each role and project. Let people manage their own time to hit these milestones, within reason.
