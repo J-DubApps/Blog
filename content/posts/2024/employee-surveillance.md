@@ -11,7 +11,7 @@ In a world where technology can enable companies to track every click, keystroke
 
 I recently spoke with a colleague in another industry whose project team was undergoing a rollout of a employee-tracking tool.  He's already lost 2 SMEs over it, and likely will have to crash his project's schedule before a premature wind-down.  <br /> 
 
-I am going to use my poor friend's situation for some good, and share my thoughts about how tech workers can face ***measures of productivity that are deceptively shallow, and why misguided data collection can backfire***.  And, most importantly, why **you** should be hiring people you trust in the *first place*!
+I am going to use my poor friend's situation for some good, and share my thoughts about how tech workers can face ***measures of productivity that are deceptively shallow, and why misguided data collection can backfire***.  Why employee surveillance stems from a vertically-stupid way of thinking. And, *most importantly*, why **you** should be hiring people you trust in the *first place*!
 
 ___
 
@@ -79,7 +79,7 @@ ___
 	5.	**Create Spaces for Innovation** – Trusting employees frees them to explore new ideas. And if they make mistakes, treat these as learning experiences rather than triggers for increased scrutiny. To know if you can trust an employee to grow and innovate -- you have to *first* trust them!
 ___
 
-## tl;dr THE TAKEAWAY
+## tl;dr *THE TAKEAWAY*
 
 Ultimately when a company provides employees with computing devices, they can install whatever they want. But nothing is free: **surveilling workers does little more than create stress, mistrust, and a fixation on questionable metrics**. Many of the “productivity signals” companies cling to—like face time or keystroke logs—are easy to fake and tell us *horribly little* about ***genuine value creation***. If you want your team to perform at its best, measure what truly matters, and above all, trust the very people you brought on board to do the job. <br />
 
