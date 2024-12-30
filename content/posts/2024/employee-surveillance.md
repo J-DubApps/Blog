@@ -11,7 +11,7 @@ In a world where technology can enable companies to track every click, keystroke
 
 I recently spoke with a colleague in another industry whose project team was undergoing a rollout of a employee-tracking tool and, unsurprisingly, he's already lost 2 SMEs over it.  He likely will have to crash his project's schedule before a premature wind-down.  <br /> 
 
-I am going to use my poor friend's situation for some good, and share my thoughts about how tech workers can face ***measures of productivity that are deceptively shallow, and why misguided data collection can backfire***.  Why employee surveillance stems from a [***vertically-stupid***](https://julianwest.me/Blog/vertically-stupid/) way of thinking. And, *most importantly*, why **you** should be hiring people you trust in the *first place* (hint: slow to hire, fast to fire).
+I am going to use my poor friend's situation for some good, and share my thoughts about how tech workers can face ***measures of productivity that are deceptively shallow, and why misguided data collection can backfire***.  Why employee surveillance stems from a [***vertically-stupid***](https://julianwest.me/Blog/vertically-stupid/) way of thinking. And, *most importantly*, why **you** should be hiring people you trust in the *first place* (hint:[slow to hire, fast to fire](https://hbr.org/2014/03/hire-slow-fire-fast) is one way to get employees you trust).  
 
 ___
 
