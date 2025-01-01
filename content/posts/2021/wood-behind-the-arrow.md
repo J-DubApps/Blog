@@ -21,7 +21,7 @@ Of course the phrase "the *un-aimed* arrow never misses" also comes to mind here
 
 Another variation I saw on this phrase, recently was:
 
-> "Experienced hunters bring only one arrow. They know how to aim (and they take plenty of time, when aiming), and they put all the wood behind that one arrow."
+> "Experienced hunters bring only one arrow. They know how to aim (and they take plenty of time, when aiming), and they put *all the wood* behind that one arrow."
 
 This is why we establish an *intentional backlog* in Agile and other project methodologies, and why your own personal productivity benefits from prioritizing: you can't do it ***all***, and so getting good at *aiming* (choosing one key *thing to finish* at-a-time, prioritizing tasks) allows you to put each task behind a single deliverable, or "*thing done*" (arrow!).  This ultimately increases your effictiveness and productivity, reduces your stress, and increases your sense of accomplishment. <br />
 
