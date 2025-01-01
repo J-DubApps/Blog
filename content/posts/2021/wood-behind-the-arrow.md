@@ -25,6 +25,6 @@ Another variation I saw on this phrase, recently was:
 
 This is why we establish an *intentional backlog* in Agile and other project methodologies, and why your own personal productivity benefits from prioritizing: you can't do it ***all***, and so getting good at *aiming* (choosing one key *thing to finish* at-a-time, prioritizing tasks) allows you to put each task behind a single deliverable, or "*thing done*" (arrow!).  This ultimately increases your effictiveness and productivity, reduces your stress, and increases your sense of accomplishment. <br />
 
-**And remember: when you're knocking things out *one-at-a-time* rapidly --- people on the outside only see "*multitasking*", anyway**! <br />
+And remember: when you're knocking things out *one-at-a-time* rapidly --- **people on the outside only see "*multitasking*", anyway**! <br />
 
 Happy (single)Tasking!!
