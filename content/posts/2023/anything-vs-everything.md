@@ -1,13 +1,13 @@
 +++
 date = '2023-10-07T11:14:51-06:00'
-draft = true
+draft = false
 title = 'We Can Do **Anything**, But Not **Everything**'
 description = 'My Short Guide to Focused Productivity'
 type = 'post'
 tags = ["philosophy", "thought", "special-write-up", "project-mgmt", "best-of", "jdub-ism"]
 +++
 
-In today’s fast-paced DevOps it’s tempting to believe we can accomplish it all. The truth, however, is captured beautifully in a phrase I repeat regularly to my team: “We can do *anything*, but not *everything*.” This isn’t a limitation; it’s a guiding principle for sustainable productivity and *intentional decision-making*. When you or your team face an overwhelming workload, the key to progress lies in effective prioritization. <br />
+In today’s fast-paced DevOps it’s tempting to believe we can accomplish it all. The truth, however, is captured beautifully in a phrase I repeat regularly to my team: “**We can do** ***anything***, **but not** ***everything***.” This isn’t a limitation; it’s a guiding principle for sustainable productivity and *intentional decision-making*. When you or your team face an overwhelming workload, the key to progress lies in effective prioritization. <br />
 
 ### Prioritization: The Compass for Productivity
 
@@ -17,7 +17,7 @@ Equally critical is recognizing that not everything is an emergency. A constant 
 
 ### The Lie of Multitasking
 
-*Multitasking* is often glorified as the ultimate productivity "skill", but in reality...it’s a deceptive trap. A hack, because the human brain isn’t wired to focus on multiple complex tasks simultaneously. Instead, what we call “*multitasking*” is actually rapid task-switching—and it comes at a cost. Each time you shift focus, your brain expends energy reorienting itself, leading to decreased efficiency and higher chances of mistakes or delays. <br />
+[I wrote about this a couple years ago](https://julianwest.me/Blog), and it's never been more true: *multitasking* is often glorified as the ultimate productivity "skill", but in reality it’s a deceptive trap. A low-value hack, because the human brain isn’t wired to focus on multiple complex tasks simultaneously. Instead, what we call “*multitasking*” is actually rapid task-switching—and it comes at a cost. Each time you shift focus, your brain expends energy reorienting itself, leading to decreased efficiency and higher chances of mistakes or delays. <br />
 
 Studies show that [multitasking can reduce productivity](https://www.verywellmind.com/multitasking-2795003?utm_source=chatgpt.com) (some show it reduces it by up to 40%!) and significantly impacts the quality of your work. It also increases stress and fosters a false sense of accomplishment, as we confuse busyness with effectiveness. The antidote? Single-tasking. Dedicate your attention to one task at a time, complete it well, and then move to the next. Not only will you finish faster, but the results will also reflect your full potential.
 
