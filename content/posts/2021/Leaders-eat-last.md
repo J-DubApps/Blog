@@ -1,5 +1,5 @@
 +++
-date = '2021-07-10T23:17:51-06:00'
+date = '2021-10-10T23:17:51-06:00'
 draft = false
 title = 'Book Review: Leaders Eat Last'
 type = 'post'
