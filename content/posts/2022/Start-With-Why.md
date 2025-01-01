@@ -3,7 +3,7 @@ date = '2021-07-10T23:17:51-06:00'
 draft = false
 title =  'Book Review: Start With Why'
 type = 'post'
-tags = ["tech", "career", "project-mgmt", "books", "thought"]
+tags = ["tech", "career", "project-mgmt", "books", "thought", "leadership"]
 +++
 
   <img src="https://julianwest.me/Blog/posts/images/start-w-why.jpg" alt="Alt text" width="125" height="350">

@@ -3,7 +3,7 @@ date = '2019-04-02T20:10:26-06:00'
 draft = false
 title = 'Empowering Independence: My Approach to Cross-Training'
 type = 'post'
-tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "project-mgmt", "thought", "best-of", "beginner-fundamentals"]
+tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "project-mgmt", "thought", "best-of", "beginner-fundamentals", "leadership"]
 +++
 
 In a dynamic world of IT Systems Ops and DevOps, effective cross-training is a always challenge. Skill-ups are essential for both individual growth *and* team success. Over many years of experience as a PM, manager, and mentor, I have developed a philosophy that emphasizes: ***self-reliance, initiative, and continuous learning***.  Here is my personal manifesto on cross-training, my contribution to developing proficient and empowered teams. <br />

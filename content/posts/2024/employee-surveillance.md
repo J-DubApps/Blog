@@ -4,7 +4,7 @@ draft = false
 title = '...About Employee Surveillance Technology'
 description = 'Why Trust Beats Tracking, Every Time...'
 type = 'post'
-tags = ["tech", "digital-privacy", "career", "best-of", "thought", "news-link", "remote-work", "opinion", "project-mgmt"]
+tags = ["tech", "digital-privacy", "career", "best-of", "thought", "news-link", "remote-work", "opinion", "project-mgmt", "leadership"]
 +++
 
 In a world where technology can enable companies to track every click, keystroke, or chat log, it’s tempting for organizations to think that intense monitoring is the path to managing a productive workforce. [**According to one Apple employee's recent lawsuit**](https://www.theverge.com/2024/12/2/24311060/apple-employee-surveillance-lawsuit), some Apple middle-managers have given-in to this fallacy.  Yet worker-surveillance often causes more harm than good: it can corrode trust, disempower employees, and shift leadership’s attention to the ***wrong metrics***. [**But dont take my word for it**](https://www.seattletimes.com/business/boeing-aerospace/boeing-pauses-surveillance-plan-to-track-employees-at-the-office/). <br /> 

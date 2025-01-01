@@ -4,7 +4,7 @@ draft = false
 title = 'Working With Me...'
 description = "(optional) Mini-Guide To How My Mind Works"
 type = 'post'
-tags = ["career", "project-mgmt", "opinion", "best-practice"]
+tags = ["career", "project-mgmt", "opinion", "best-practice", "leadership"]
 +++
 
   <style type="text/css">

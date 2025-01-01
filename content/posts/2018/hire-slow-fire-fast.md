@@ -3,7 +3,7 @@ date = '2018-11-02T11:19:51-06:00'
 draft = false
 title = 'Hire Slow, Fire Fast'
 type = 'post'
-tags = ["career", "thought", "opinion", "project-mgmt", "philosophy"]
+tags = ["career", "thought", "opinion", "project-mgmt", "philosophy", "leadership"]
 +++
 
 

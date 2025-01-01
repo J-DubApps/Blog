@@ -3,7 +3,7 @@ date = '2017-12-01T20:10:26-06:00'
 draft = false
 title = 'Thoughts On Project Management: 2017 Edition'
 type = 'post'
-tags = ["tech", "devops", "enterprise-it", "opinion", "project-mgmt", "thought", "career", "best-of"]
+tags = ["tech", "devops", "enterprise-it", "opinion", "project-mgmt", "thought", "career", "best-of", "leadership"]
 +++
 
 Having managed IT projects for over a decade now, and ringing the bell on the PMP, I have come to appreciate my <i>non-agile</i> experience, as a lost art.  Here are a few *hot-sports-opinions* I have developed over the years about PM'ing projects in professonal services firms. <br />

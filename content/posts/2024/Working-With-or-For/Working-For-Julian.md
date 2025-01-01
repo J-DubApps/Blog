@@ -4,7 +4,7 @@ draft = false
 title = 'Working For Me...'
 description = "(optional) Mini-Guide to how I think & Manage Teams..."
 type = 'post'
-tags = ["career", "project-mgmt", "opinion", "best-practice"]
+tags = ["career", "project-mgmt", "opinion", "best-practice", "leadership"]
 +++
 
   <style type="text/css">
