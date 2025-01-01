@@ -1,5 +1,5 @@
 +++
-date = '2021-12-06T11:19:51-06:00'
+date = '2021-09-01T11:19:51-06:00'
 draft = false
 title = 'Vertically-Stupid...'
 type = 'post'
