@@ -8,7 +8,7 @@ tags = ["health"]
 
 The fever broke yesterday, the day after Christmas, but I still feel like a train hit me. And the <i>cough</i> is insane.  It leaves me feeling like I can't breathe. <br />
 
-I know stress and work can lead to a lowered immune response, but this has been ridiculous and has to be some kind of virus.  On the one hand, it feels like the Flu, but on the other hand there's no nauseau.  It's bizarre, and the clinic here in Las Vegas I went to had me testing negative for flu and strep.  I truly feel like I picked up some kind of virus when I was in Austin, or at DFW airport flying out.  Who knows? <br />
+I know stress and work can lead to a lowered immune response, but this has been ridiculous and has to be some kind of virus.  On the one hand, it feels like the Flu, but on the other hand there's no nausea.  It's bizarre, and the clinic here in Las Vegas I went to had me testing negative for flu and strep.  I truly feel like I picked up some kind of virus when I was in Austin, or at DFW airport flying out.  Who knows? <br />
 
 Back on the stress: it was a busy year for me.  Having helped launch an office at the new <a href="https://en.wikipedia.org/wiki/One_Manhattan_West">One Manhattan West</a> building, and then on the heels of that a rebuild of virtual infra in Austin...I have been <i>hopping</i> and dodging bullets to nail project timelines.  The NYC project lasted over 8 months, and my company had to essentially light the building for bandwidth, as we were the first active tenant (other than the <a href="https://www.nhl.com">NHL</a> -- who really owes me season Stars tickets, for all the bandwidth our project pulled-in for their floors 😉). <br />
 

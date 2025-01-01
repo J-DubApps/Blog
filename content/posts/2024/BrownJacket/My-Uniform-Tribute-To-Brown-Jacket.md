@@ -6,7 +6,8 @@ description = 'A Word on THE JACKET'
 type = 'post'
 tags = ["thought", "special-write-up", "personal", "best-of"]
 +++
-What do *Steve Jobs*, *Albert Einstein*, and *Fred Rogers* all have in common? Aside from an undeniable impact on society, each of them embraced the concept of a simple personal “*uniform*” – a singular wardrobe for the everyday. Steve Jobs was instantly recognizable in his black mock turtleneck, jeans, and New Balance sneakers. Einstein famously bought several identical versions of his favorite gray suit. And I grew up watching Fred Rogers come home from work and switch into the same cardigan and sneakers...with the occasional sweater change-up: ***a relaxed symbol of calm, kindness, and familiarity for us [GenX](https://en.wikipedia.org/wiki/Generation_X) [latchkey kids](https://en.wikipedia.org/wiki/Latchkey_kid) tuning-in***.
+What do *Steve Jobs*, *Albert Einstein*, and *Fred Rogers* all have in common? Aside from an undeniable impact on society, each of them embraced the concept of a simple personal “*uniform*” – a singular wardrobe for the everyday. Steve Jobs was instantly recognizable in his black mock turtleneck, jeans, and New Balance sneakers. Einstein famously bought several identical versions of his favorite gray suit. And I grew up watching Fred Rogers come home everyday and pop into the same cardigan and sneakers: ***a relaxed symbol of calm, kindness, and familiarity for us [GenX](https://en.wikipedia.org/wiki/Generation_X) [latchkey kids](https://en.wikipedia.org/wiki/Latchkey_kid) tuning-in***. Sure, it was a
+TV show-but Fred Rogers was often seen wearing that uniform out and about.
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/steve-jobs-atd.jpeg" alt="Alt text" width="500" height="305"> 
