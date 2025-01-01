@@ -1,5 +1,5 @@
 +++
-date = '2023-10-07T11:14:51-06:00'
+date = '2024-02-07T11:14:51-06:00'
 draft = false
 title = 'We Can Do **Anything**, But Not ***Everything***'
 description = 'My Short Guide to Focused Productivity'
