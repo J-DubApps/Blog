@@ -12,7 +12,7 @@ When making a choice, the decision arises from a different place. By setting asi
 
 I open myself to new possibilities, new ways of seeing the world, and unfamiliar experiences. Choice involves embracing the unknown, inviting creativity, and taking risk.
 
-Choice is *brave* where decisions are *fearful*.
+Choice is *brave* where decisions are *fearful*. test
 
 Choice *expands*, where decisions *limit*.
 
