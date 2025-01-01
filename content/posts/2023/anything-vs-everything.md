@@ -7,7 +7,7 @@ type = 'post'
 tags = ["philosophy", "thought", "special-write-up", "project-mgmt", "best-of", "jdub-isms"]
 +++
 
-In today’s fast-paced DevOps it’s tempting to believe we can accomplish it all. The truth, however, is captured beautifully in a phrase I repeat regularly to my team: “**We can do** ***anything***, **but not** ***everything***.” This isn’t a limitation; it’s a guiding principle for sustainable productivity and *intentional decision-making*. When you or your team face an overwhelming workload, the key to progress lies in effective prioritization. <br />
+In today’s fast-paced tech world, it’s tempting to believe we can accomplish it all. The truth, however, is captured beautifully in a phrase I repeat regularly to my team: “**We can do** ***anything***, **but not** ***everything***.” This isn’t a limitation; it’s a guiding principle for sustainable productivity and *intentional decision-making*. When you or your team face an overwhelming workload, the key to progress lies in effective prioritization. <br />
 
 ### Prioritization: The Compass for Productivity
 
