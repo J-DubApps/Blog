@@ -1,17 +1,17 @@
 +++
 date = '2023-10-07T11:14:51-06:00'
 draft = false
-title = 'We Can Do **Anything**, But Not **Everything**'
+title = 'We Can Do **Anything**, But Not ***Everything***'
 description = 'My Short Guide to Focused Productivity'
 type = 'post'
-tags = ["philosophy", "thought", "special-write-up", "project-mgmt", "best-of", "jdub-ism"]
+tags = ["philosophy", "thought", "special-write-up", "project-mgmt", "best-of", "jdub-isms"]
 +++
 
 In today’s fast-paced DevOps it’s tempting to believe we can accomplish it all. The truth, however, is captured beautifully in a phrase I repeat regularly to my team: “**We can do** ***anything***, **but not** ***everything***.” This isn’t a limitation; it’s a guiding principle for sustainable productivity and *intentional decision-making*. When you or your team face an overwhelming workload, the key to progress lies in effective prioritization. <br />
 
 ### Prioritization: The Compass for Productivity
 
-Not every task holds equal weight. Prioritization helps you and your team separate the urgent from the important, the impactful from the peripheral. Start by categorizing tasks based on their urgency and importance. The Eisenhower Matrix—a simple tool that divides tasks into four quadrants (urgent/important, not urgent/important, urgent/not important, not urgent/not important)—can be a game-changer. Focus first on tasks that are both urgent and important, delegate or schedule the rest, and say “no” to distractions masquerading as priorities.
+Not every task holds equal weight. Prioritization helps you and your team separate the urgent from the important, the impactful from the peripheral. This applies to individual personal productivity, too. Start by categorizing tasks based on their urgency and importance. The [**Eisenhower Matrix**](https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method)—a simple tool that divides tasks into four quadrants (urgent/important, not urgent/important, urgent/not important, not urgent/not important)—can be a game-changer. Focus first on tasks that are both urgent and important, delegate or schedule the rest, and say “no” to distractions masquerading as priorities.
 
 Equally critical is recognizing that not everything is an emergency. A constant “firefighting” mentality leads to burnout and poor-quality work. Instead, foster a culture of proactive planning. Identify recurring emergencies and ask: “How can we prevent this from becoming urgent next time?” 
 
