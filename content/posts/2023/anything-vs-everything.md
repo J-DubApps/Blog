@@ -4,7 +4,7 @@ draft = false
 title = 'We Can Do **Anything**, But Not ***Everything***'
 description = 'My Short Guide to Focused Productivity'
 type = 'post'
-tags = ["philosophy", "thought", "special-write-up", "project-mgmt", "best-of", "jdub-isms"]
+tags = ["philosophy", "thought", "special-write-up", "project-mgmt", "best-of", "jdub-isms", "tech"]
 +++
 
 In today’s fast-paced tech world, it’s tempting to believe we can accomplish it all. The truth, however, is captured beautifully in a phrase I repeat regularly to my team: “**We can do** ***anything***, **but not** ***everything***.” This isn’t a limitation; it’s a guiding principle for sustainable productivity and *intentional decision-making*. When you or your team face an overwhelming workload, the key to progress lies in effective prioritization. <br />
