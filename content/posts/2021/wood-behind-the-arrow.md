@@ -15,7 +15,7 @@ There's a phrase I like to use for helping teams eliminate the *fractured focus*
 
 >"Put all your wood behind one arrowhead."
 
-The idea expressed here is, diffusion of effort means no single strand of activity gets fully realized: so no arrow hits its target.  "*Multitasking*" is nothing short of a diffusion of your efforts.  <br />
+The idea expressed here is, *diffusion of effort* means no single strand of activity gets fully realized: **so no arrow hits its target**.  "*Multitasking*" is nothing short of a diffusion of your efforts.  <br />
 
 Of course the phrase "the *un-aimed* arrow never misses" also comes to mind here, too, however: your team (or personal goals) already have an aim (hopefully!).  Or something you're trying to accomplish, a north star.  And "*multitasking*" can ruin that! So, we *must aim* (prioritize) and bring intentional focus (eliminate multitasking wherever practical). <br />
 
