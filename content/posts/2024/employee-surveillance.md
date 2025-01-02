@@ -78,7 +78,7 @@ ___
 	5.	**Create Spaces for Innovation** – Trusting employees frees them to explore new ideas. And if they make mistakes, treat these as learning experiences rather than triggers for increased scrutiny. To know if you can trust an employee to grow and innovate -- you have to *first* trust them!
 ___
 
-## tl;dr *THE TAKEAWAY*
+## tl;dr *The Takeaway*
 
 Ultimately when a company provides employees with computing devices, they can install whatever they want. But nothing is free: **surveilling workers does little more than create stress, mistrust, and a fixation on questionable metrics**. Many of the “productivity signals” companies cling to—like face time or keystroke logs—are easy to fake and tell us *horribly little* about ***genuine value creation***. If you want your team to perform at its best, measure what truly matters, and above all, trust the very people you brought on board to do the job. <br />
 
