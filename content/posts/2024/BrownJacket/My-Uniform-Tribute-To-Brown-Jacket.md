@@ -7,7 +7,7 @@ type = 'post'
 tags = ["thought", "special-write-up", "personal", "best-of"]
 +++
 What do *Steve Jobs*, *Albert Einstein*, and *Fred Rogers* all have in common? Aside from an undeniable impact on society, each of them embraced the concept of a simple personal “*uniform*” – a singular wardrobe for the everyday. Steve Jobs was instantly recognizable in his black mock turtleneck, jeans, and New Balance sneakers. Einstein famously bought several identical versions of his favorite gray suit. And I grew up watching Fred Rogers come home everyday and pop into the same cardigan and sneakers: ***a relaxed symbol of calm, kindness, and familiarity for us [GenX](https://en.wikipedia.org/wiki/Generation_X) [latchkey kids](https://en.wikipedia.org/wiki/Latchkey_kid) tuning-in***. Sure, it was a
-TV show-but Fred Rogers was often seen wearing that uniform out and about.
+TV show-but Fred Rogers was often seen wearing his "uniform" everywhere after the cameras stopped rolling.
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/steve-jobs-atd.jpeg" alt="Alt text" width="500" height="305"> 
@@ -28,7 +28,7 @@ My "style" was always a 90s GenX low-key "punky nerd" getup.  My casual "look" s
  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg" alt="Alt text" width="200" height="135">
 </div>
 
-Nothing flashy. just pain jeans and [Chucks](https://en.m.wikipedia.org/wiki/Chuck_Taylor_All-Stars), a t-shirt, and maybe sometimes a loose long sleeve shirt. And that's pretty much still me, with some tweaks as I got older. It's like meal-planning, having a simple no-fuss "uniform" on lock. But the people I mention above took it a *lot* farther. Personal styles became personal branding, and they illustrate that wearing the *same thing* daily can even *amplify* creativity and individuality. I have worked with a few busy ex-military friends who did this, and I once knew a lawyer who did the [Matlock](https://en.m.wikipedia.org/wiki/Matlock_(1986_TV_series)) thing, wearing similar suits all the time. <br /> 
+Nothing flashy. just plain jeans and [Chucks](https://en.m.wikipedia.org/wiki/Chuck_Taylor_All-Stars), a t-shirt, and maybe sometimes a loose long sleeve shirt. And that's pretty much still me, with some tweaks as I got older. It's like meal-planning, having a simple no-fuss "uniform" on lock. But the people I mention above took it a *lot* farther. Personal styles became personal branding, and they illustrate that wearing the *same thing* daily can even *amplify* creativity and individuality. I have worked with a few busy ex-military friends who did this, and I once knew a lawyer who did the [Matlock](https://en.m.wikipedia.org/wiki/Matlock_(1986_TV_series)) thing, wearing similar suits all the time. <br /> 
 
 In my own case, I just kept things simple and basic. I like to blend in mostly. But at some point ***JDub & THE JACKET*** emerged as my "*Winter Uniform*", and somehow became a mini-branding thing whenever consulting, giving talks, or otherwise doing PM or tech workshops during the winter months. It wasn't intentional, it's just where I comfortably ended up.
  
