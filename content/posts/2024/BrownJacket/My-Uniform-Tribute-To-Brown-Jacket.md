@@ -46,13 +46,13 @@ I purchased the *first iteration* of *THE JACKET* during a visit to see my broth
       <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-jackson-2015.JPG" alt="Alt text" width="250" height="135">
 </div><br />
 
-I wore *THE JACKET* pretty much everywhere over the years.  While fat or thin...while tired or rested...in different eras of hair style (and with a little grey now): unless there was a blizard this was my "winter getup" for the past 18 years...
+I wore *THE JACKET* pretty much everywhere over the years.  While fat or thin...tired or rested...in different eras of hair style (and with a little grey now): unless there was a blizard this was my "winter getup" for the past 18 years...
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-chilling.JPG" alt="Alt text" width="550" height="265">
 </div>
 
-*THE JACKET* has been to almost every major US city and parts of Europe. Same jacket. Same me. Just older, but [*time is a flat circle*](https://www.youtube.com/watch?v=RKRksnjSxWI) anyway. 🙃🤓  When I lost weight, eBay came in clutch with unsold stock, allowing me to keep my winter "uniform" into perpetuity.  I now have three of these, and friends joke I will probably be *buried* in *THE JACKET*.  Maybe. I still wear the original jacket the most, it's perfectly worn-in like a comfortable pair of slippers.  The newer jackets go to work and other functions.
+*THE JACKET* has been to almost every major US city and parts of Europe. Same jacket. Same me. Just *older*, but [*time is a flat circle*](https://www.youtube.com/watch?v=RKRksnjSxWI) anyway. 🙃🤓  When I lost weight, eBay came in clutch with unsold stock, allowing me to keep my winter "uniform" into perpetuity.  I now have three of these, and friends joke I will probably be *buried* in *THE JACKET*.  Maybe. I still wear the original jacket the most, it's perfectly worn-in like a comfortable pair of slippers.  The newer jackets go to work and other functions.
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-staten-island.JPG" alt="Alt text" width="300" height="105"> <br />
