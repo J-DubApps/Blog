@@ -6,7 +6,7 @@ description = 'A Word on THE JACKET'
 type = 'post'
 tags = ["thought", "special-write-up", "personal", "best-of"]
 +++
-What do *Steve Jobs*, *Albert Einstein*, and *Fred Rogers* all have in common? Aside from an undeniable impact on society, each of them embraced the concept of a simple personal “*uniform*” – a singular wardrobe for the everyday. Steve Jobs was instantly recognizable in his black mock turtleneck, jeans, and New Balance sneakers. Einstein famously bought several identical versions of his favorite gray suit. And I grew up watching Fred Rogers come home everyday and pop into the same cardigan and sneakers: ***a relaxed symbol of calm, kindness, and familiarity for us [GenX](https://en.wikipedia.org/wiki/Generation_X) [latchkey kids](https://en.wikipedia.org/wiki/Latchkey_kid) tuning-in***. Sure, it was a
+What do *Steve Jobs*, *Albert Einstein*, and *Fred Rogers* all have in common? Aside from obvious and undeniable impacts on society, each of them embraced the concept of a simple personal “*uniform*” – a singular wardrobe for the everyday. Steve Jobs was instantly recognizable in his black mock turtleneck, jeans, and New Balance sneakers. Einstein famously bought several identical versions of his favorite gray suit. And I grew up watching Fred Rogers come home everyday and pop into the same cardigan and sneakers: ***a relaxed symbol of calm, kindness, and familiarity for us [GenX](https://en.wikipedia.org/wiki/Generation_X) [latchkey kids](https://en.wikipedia.org/wiki/Latchkey_kid) tuning-in***. Sure, it was a
 TV show-but Fred Rogers was often seen wearing his "uniform" everywhere after the cameras stopped rolling.
 
 <div>
@@ -14,9 +14,9 @@ TV show-but Fred Rogers was often seen wearing his "uniform" everywhere after th
     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/mister-rogers.jpeg" alt="Alt text" width="500" height="305">
 </div>
 
-There are many "uniform wearers" out there of varying extremes (*Mark Zuckerberg* is another that comes to mind), but I alao know regular folk who dress this way too. Sometimes people pick their thing, and just stick with it. And with clothing, it's a pattern for people who must make a lot of decisions every day. It often starts unconciously and, later, just sort of becomes a person's "look". <br /> 
+There are many "uniform wearers" out there of varying extremes (*Mark Zuckerberg* is another one that comes to mind), but I alao know regular folk who dress this way too. Sometimes people just pick their thing, and they end up sticking with it for the long-haul. And with clothing, "*uniforming*" is a thinkg with people who must make a lot of decisions every day. And it eventually becomes a person's "look". <br /> 
 
-I first thought "*uniforming*" was cartoonish and I never considered why people might dress this way. But then one day a friend reminded me that ***I*** had already been "*uniforming*" since about 1989: <br />
+I first thought "*uniforming*" was cartoonish, and said-so to a friend...who then politely reminded me that ***I*** had been "*uniforming*" since about 1989: <br />
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-la.JPG" alt="Alt text" width="350" height="235"> <br />
