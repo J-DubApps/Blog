@@ -23,20 +23,20 @@ I first thought "*uniforming*" was cartoonish, and said-so to a friend...who the
     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-nyc.jpg" alt="Alt text" width="300" height="235">
   </div>
 
-My "style" was always a 90s GenX low-key "punky nerd" getup.  My casual "look" since forever...
+So my "style" was always a 90s GenX low-key "punky nerd" getup.  My casual "look" since forever...
 <div style="float: left; border: 1px; padding: 5px;">
  <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-style2.jpeg" alt="Alt text" width="200" height="135">
 </div>
 
-Nothing flashy. just plain jeans and [Chucks](https://en.m.wikipedia.org/wiki/Chuck_Taylor_All-Stars), a t-shirt, and maybe sometimes a loose long sleeve shirt. And that's pretty much still me, with some tweaks as I got older. It's like meal-planning, having a simple no-fuss "uniform" on lock. But the people I mention above took it a *lot* farther. Personal styles became personal branding, and they illustrate that wearing the *same thing* daily can even *amplify* creativity and individuality. I have worked with a few busy ex-military friends who did this, and I once knew a lawyer who did the [Matlock](https://en.m.wikipedia.org/wiki/Matlock_(1986_TV_series)) thing, wearing similar suits all the time. <br /> 
+Nothing flashy. just plain jeans and [Chucks](https://en.m.wikipedia.org/wiki/Chuck_Taylor_All-Stars), a t-shirt, and maybe sometimes a loose long sleeve shirt or jacket. And that's pretty much*still me*, with some tweaks as I aged. It's like meal-planning: a simple no-fuss habit to make my week ahead remain sane and manageable.  But the people I mention above took it a *lot* farther: personal style and taste became personal branding, and they illustrated that wearing the *same thing* daily can actually *amplify* creativity and individuality. I have worked with a few busy ex-military friends who still do this, and I once knew a lawyer who did a solid [Matlock](https://en.m.wikipedia.org/wiki/Matlock_(1986_TV_series)) thing, wearing the same style and color suit most of the time. <br /> 
 
-In my own case, I just kept things simple and basic. I like to blend in mostly. But at some point ***JDub & THE JACKET*** emerged as my "*Winter Uniform*", and somehow became a mini-branding thing whenever consulting, giving talks, or otherwise doing PM or tech workshops during the winter months. It wasn't intentional, it's just where I comfortably ended up.
+In my own case, I like to blend in mostly, so you probably couldn't tell I was "*uniforming*". But at some point ***JDub & THE JACKET*** emerged as my "*Winter Uniform*", same jacket all the time.  And it somehow became a mini-branding thing for me whenever consulting, giving talks, or otherwise doing PM or tech workshops during the winter months. It wasn't intentional, it's just where I comfortably ended up. 
  
 <div>
   <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-wtc.JPG" alt="Alt text" width="600" height="365">
 </div><br />
 
-So ***THE JACKET*** is this brownish scrimmage zip-up windbreaker, with blue stitching.  I may rock different glasses or shoes, but during the winter months it's jeans and *THE JACKET*. If I have be somewhere to do something, and it's cool out (but not *COLD*)...JDub & *THE JACKET* is what you're getting. <br />
+So ***THE JACKET*** is this brownish scrimmage zip-up windbreaker, with blue stitching.  I may rock different glasses or shoes, but during the winter months it's jeans and *THE JACKET*. If I have be somewhere to do something, and it's cool out (but not *COLD*)...JDub & *THE JACKET* is what you're getting.   Imagine a PM showing up to give a talk about Scrum teams while wearing a brown scrimmage jacket.  Maybe a bit *too* on the nose... 😂 <br />
 
 I purchased the *first iteration* of *THE JACKET* during a visit to see my brother & sister-in-law in Las Vegas. My wife's brother Brian had one, and I thought it looked comfortable. Cool even.  So I asked him where he bought it. *Tommy Bahama*. Huh?! The place I always thought only sold pricey island vacation shirts? Turns out they sell jackets and other things.  Decent jackets, even, and this particular jacket I just *had* to have. So I proceeded to hit the mall and get one in black, but it turned-out to have a couple of defects.  Returning the jacket, all they had to swap it was the brown version.  And that is how "JDub & *THE JACKET*" came to be. Every mild Texas winter, I'm in these duds until March or April. 😎
 
