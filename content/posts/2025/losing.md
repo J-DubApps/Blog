@@ -26,11 +26,11 @@ My relationship to food was always weird: **I won't put too fine a point on it**
 <table>
   <tr>
     <td>
-     <img src="https://julianwest.me/Blog/posts/images/JW-six.jpg" alt="Description of image 1" width="550" height="305">
+     <img src="https://julianwest.me/Blog/posts/images/JW-six.jpg" alt="Description of image 1" width="350" height="135">
       <div></div>
       </td>
       <td>
-      <img src="https://julianwest.me/Blog/posts/images/JW-eight.jpeg" alt="Description of image 2" width="500" height="255">
+      <img src="https://julianwest.me/Blog/posts/images/JW-eight.jpeg" alt="Description of image 2" width="300" height="115">
       <div></div>
       </td>
   </tr>
@@ -40,7 +40,7 @@ So a bit of food scarcity as a young kid turned me me into this "*clean your pla
 
 Over time I got these little problems here and there with my back, and my knees.  And those extra pounds weren't helping.  They became the “friend” who always borrows money and never pays you back. Not the greatest company to keep as you approach middle-age! <br />
 
-<img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdbub-heavy.jpeg" alt="Alt text" width="275" height="135"> <br />
+<img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-heavy.jpeg" alt="Alt text" width="275" height="135"> <br />
 
 ### Quality of Life Over Everything
 
