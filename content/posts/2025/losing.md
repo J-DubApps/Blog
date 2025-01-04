@@ -9,7 +9,7 @@ tags = ["thought", "personal", "health"]
 
 In the past few months I managed to shed about 30 pounds.  I only know that because I started tracking it 3 months in.  You see, my goal hasn't been *weight loss* so much as wanting to just *be healthier*.  After one too many back doctor visits, and less-than-stellar bloodwork recently, I decided to make a few changes.  So far, it's working.  But I have lost weight before, only to see it eventually return.  This time, I am going to really try and lock-in a *s-l-o-w* path to a healthier me.  The weight-loss is a visual side-effect, not the main event. <br />
 
-So, yeah, another one of *those* January health/weight-loss blog posts.  But in my defense I started way before the New Year.
+So, yeah, I guess this is one of *those* January health/weight-loss blog posts. In my defense, I started way before the New Year.
 
 #### How It's Going Down... (*The Weight, Apparently*)
 
@@ -17,13 +17,13 @@ I would love to tell you I hammered out a spreadsheet and meticulously tracked c
 
 You see, everything in its natural state is [*entropy*](https://en.wikipedia.org/wiki/Introduction_to_entropy) anyway: without a food source your body endothermically regulates itself by going after glycogen in your liver, then later exothermic activities like metabolising fat (though you must be careful to not have it go after muscle and protein).  A human body will sustain itself, and this is the delicate dance involved in any dietary weight-loss.<br />
 
-And the modern American food industrial complex would have you understand *none* of these things. <br /> 
+By the way, our modern American food industrial complex would have you understand *none* of these things. <br /> 
 
-But losing weight was never my goal, so much as trying to change my relationship to food... <br />
+Losing weight was never my goal, so much as trying to change my relationship to food... <br />
 
 #### Heavy-Set was Part of My *Identity*
 
-My relationship to food was always weird: **I won't put too fine a point on it** but I grew-up experiencing a few episodes of [***Food Insecurity***](https://en.wikipedia.org/wiki/Food_security).  My mother worked very hard and social security benefits after my father died helped, but money was always tight. Towards the end of any given month, food could sometimes get downright scarce. And though I was never *hungry*, the required food-budgeting of poverty (and not having constant-access to abundant food, that many kids take for granted), it really affected my regard for food later in life.
+**I won't put too fine a point on it** but I grew-up experiencing a few episodes of [***Food Insecurity***](https://en.wikipedia.org/wiki/Food_security).  My mother worked very hard and social security benefits after my father died helped, but money was always tight. Towards the end of any given month, food could sometimes get downright scarce. And though I was never *hungry*, the required food-budgeting of poverty (and not having constant-access to abundant food, that many kids take for granted), it really affected my relationship to food later in life.
 
 <table>
   <tr>
@@ -38,7 +38,7 @@ My relationship to food was always weird: **I won't put too fine a point on it**
   </tr>
 </table>
 
-So a bit of food scarcity as a young kid turned me me into this "*clean your plate*" adult. As a consequence, I have lived at some level of slight *overweight* (and sometimes *very overweight*) for most of my adult life. Just from overeating. "*Heavy-set*” was the usual first-descriptor that might pop into someone's head when meeting me. The extra poundage was my main accessory—only heavier, and less sparkly.  I like to think I carried it pretty well.  As well as anybody living a *singularly-American* off-and-on obsese lifestyle. My weight just never mattered much to me. Until it *did*.  <br /> 
+So a bit of food scarcity as a young kid turned me into this "*clean your plate*" adult. As a consequence, I have lived at some level of slight *overweight* (and sometimes *very overweight*) for most of my adult life. Just from overeating. "*Heavy-set*” was the usual first-descriptor that might pop into someone's head when meeting me. The extra poundage was my main accessory—only heavier, and less sparkly.  I like to think I carried it pretty well.  As well as anybody living a *singularly-American* off-and-on obsese lifestyle. My weight just never mattered much to me. Until it *did*.  <br /> 
 
 Over time I got these little problems here and there with my back, and my knees.  And those extra pounds weren't helping.  They became the “friend” who always borrows money and never pays you back. Not the greatest company to keep as you approach middle-age! <br />
 
