@@ -21,7 +21,7 @@ But losing weight has never been a goal for me, so much as trying to change my r
 
 ### Heavy-Set as Part of My *Identity*
 
-My relationship to food was always weird: **I won't put too fine a point on it**, and I wouldn't trade my childhood for anything, but I grew-up experiencing episodes of [*Food Insecurity*](https://en.wikipedia.org/wiki/Food_security) in my youth.  My mother worked very hard and social security benefits after my father died helped, but money was always tight. Towards the end of any given month, food could sometimes get downright scarce. And though I was never *hungry*, the required food-budgeting of poverty (and not having constant-access to abundant food, that many kids take for granted), it really affected my regard for food later in life.
+My relationship to food was always weird: **I won't put too fine a point on it** but I grew-up experiencing a few episodes of [***Food Insecurity***](https://en.wikipedia.org/wiki/Food_security).  My mother worked very hard and social security benefits after my father died helped, but money was always tight. Towards the end of any given month, food could sometimes get downright scarce. And though I was never *hungry*, the required food-budgeting of poverty (and not having constant-access to abundant food, that many kids take for granted), it really affected my regard for food later in life.
 
 <table>
   <tr>
