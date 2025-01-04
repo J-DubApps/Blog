@@ -36,7 +36,7 @@ My relationship to food was always weird: **I won't put too fine a point on it**
   </tr>
 </table>
 
-So a bit of food scarcity as a young kid turned me me into this "*clean your plate*" adult. As a consequence, I have lived at some level of slight *overweight* (and sometimes *very overweight*) for most of my adult life. Just from overeating. "*Heavy-set*” was the usual first-descriptor that might pop into someone's head when meeting me. The extra poundage was my best accessory—only heavier, and less sparkly.  I like to think I carried it pretty well.  As well as anybody living a *singularly-American* off-and-on obsese lifestyle. My weight just never mattered much to me. Until it *did*.  <br /> 
+So a bit of food scarcity as a young kid turned me me into this "*clean your plate*" adult. As a consequence, I have lived at some level of slight *overweight* (and sometimes *very overweight*) for most of my adult life. Just from overeating. "*Heavy-set*” was the usual first-descriptor that might pop into someone's head when meeting me. The extra poundage was my main accessory—only heavier, and less sparkly.  I like to think I carried it pretty well.  As well as anybody living a *singularly-American* off-and-on obsese lifestyle. My weight just never mattered much to me. Until it *did*.  <br /> 
 
 Over time I got these little problems here and there with my back, and my knees.  And those extra pounds weren't helping.  They became the “friend” who always borrows money and never pays you back. Not the greatest company to keep as you approach middle-age! <br />
 
