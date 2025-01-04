@@ -7,7 +7,7 @@ type = 'post'
 tags = ["thought", "personal", "health"]
 +++
 
-In the past few months I managed to shed about 30 pounds.  I only know that because I started tracking it 3 months in.  You see, my goal hasn't been *weight loss* so much as wanting to just be healthier.  After one too many back doctor visits, and less-than-stellar bloodwork recently, I decided to make a few changes.  So far, it's working.  But I have lost weight before, only to see it eventually return.  This time, I am going to really try and lock-in a *s-l-o-w* path to a healthier me.  And the weight part has been more side-benefit, instead of the main event. <br />
+In the past few months I managed to shed about 30 pounds.  I only know that because I started tracking it 3 months in.  You see, my goal hasn't been *weight loss* so much as wanting to just be healthier.  After one too many back doctor visits, and less-than-stellar bloodwork recently, I decided to make a few changes.  So far, it's working.  But I have lost weight before, only to see it eventually return.  This time, I am going to really try and lock-in a *s-l-o-w* path to a healthier me.  The weight-loss is a side-benefit, not the main event. <br />
 
 No, this is not another one of those January weight-loss blog posts.  The only thing more annoying to me than people talking about their weight-loss are born-again Christians: both are trying to tell you the *Good News*, and usually neither will shut up about it. 
 
