@@ -6,7 +6,7 @@ type = 'post'
 tags = ["tech", "thought", "opinion", "career", "remote-work", "video-content"]
 +++
 
-Another day, another video explaining the obvious in the usual predictable datapoints...
+Another day, another video explaining the obvious...
 
 <div class="video">
 {{< youtube 4ec_yZCWOCY >}}
