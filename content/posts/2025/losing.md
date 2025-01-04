@@ -15,9 +15,11 @@ No, this is not another one of those January weight-loss blog posts. Ok, maybe i
 
 I would love to tell you I hammered out a spreadsheet and meticulously tracked calories, balanced my diet, and hired a personal trainer. But, really, it was just more of a gentle decision to swap out every second slice of pizza for an apple, not drinking diet sodas like I used to, and drinking *way more* water.  That's really it. Over and over. Day in and day out.  I am going easy on myself. Basic changes, and incorporating them *s-l-o-w-l-y*. <br /> 
 
-You see, everything in its natural state is [*entropy*](https://en.wikipedia.org/wiki/Introduction_to_entropy) anyway: without a food source your body would endothermically regulate itself by going after glycogen in your liver, then later exothermic activities like metabolising fat (though you must be careful to not have it go after muscle and protein).  A human body will sustain itself, and this is the delicate dance involved in any dietary weight-loss. And the modern American food industrial complex would have you understand *none* of these things. <br /> 
+You see, everything in its natural state is [*entropy*](https://en.wikipedia.org/wiki/Introduction_to_entropy) anyway: without a food source your body would endothermically regulate itself by going after glycogen in your liver, then later exothermic activities like metabolising fat (though you must be careful to not have it go after muscle and protein).  A human body will sustain itself, and this is the delicate dance involved in any dietary weight-loss.<br />
 
-But losing weight has never been a goal for me, so much as trying to change my relationship to food... <br />
+And the modern American food industrial complex would have you understand *none* of these things. <br /> 
+
+But losing weight was never my goal, so much as trying to change my relationship to food... <br />
 
 ### Heavy-Set as Part of My *Identity*
 
@@ -56,14 +58,14 @@ I haven't even been counting weight lost: I've been letting my doctor's office d
 
 ### The Takeaway
 
-I’m not pretending this is easy for everyone, or that it was zero effort for me.  It wasn't.  I just didn’t *hyper-focus* on it, either. If living longer is a bonus [***DLC](https://en.wikipedia.org/wiki/Downloadable_content) I unlock in this life, great!  But I could also get hit by a bus after publishing this, too, so I try to keep things in perspective. I also found it's *really* important to forgive yourself and not have [toxic self-talk](https://www.verywellmind.com/negative-self-talk-and-how-it-affects-us-4161304) when trying anything new, or trying to figure out healthier habits.  Life is *hard* enough, without that.  <br />
+I’m not pretending changes in eating are easy for everyone, or that it was zero effort for me to eat differently and become more active.  It wasn't.  I just didn’t *hyper-focus* on it, either. If living longer is a bonus [***DLC](https://en.wikipedia.org/wiki/Downloadable_content) I unlock in this life, great!  But I could also get hit by a bus after publishing this blog post, too. So I try to keep things in perspective. I also found it's *really* important to forgive yourself and not have [toxic self-talk](https://www.verywellmind.com/negative-self-talk-and-how-it-affects-us-4161304) when trying anything new, or trying to figure out healthier habits.  Life is *hard* enough, without that.  <br />
 
-Also I kind of *hate* how I look right now, because I'm at that awkward "*nothing fits*" and "must buy new clothes" phase of this journey.  That's expensive!! <br /> 
+Also I kind of *hate* how I look right now, because I'm at that awkward "*nothing fits*" and "must buy new clothes" phase of the journey. Expensive!! <br /> 
 
-This is purely about being able to stand up straight, move with less pain, and hopefully add a little buffer to my total lifespan—just enough to try out 85 new breakfast spots. None of this will happen because I became a health-obsessed gym rat. 
+This is purely about being able to stand up straight, move with less pain, and hopefully add a little buffer to my total lifespan—just enough to try out 85 new breakfast spots. <br />
 
-Also, I'm not even *halfway* to where I ultimately need to *get* in order to *lock* all this in: I still need to lose another 15-ish pounds ***and then add*** back another 10-15 pounds of *muscle* just to be able to have a stronger core & weight for the years ahead.  To do that, I *must* get my body to hold (and be happy) at this new set point.  And that will take time. So this whole thing is turning into a multi-year project.  But it's the only way it can succeed for someone like me...going *s-l-o-w-l-y*.  <br />
+Also, I'm not even *halfway* to where I ultimately need to *get* in order to *lock* all this in: I still need to lose another 15-ish pounds ***and then add*** back another 10-15 pounds of *muscle* just to be able to have a stronger core & weight for the years ahead.  To do that, I *must* get my body to hold (and be happy) at this new set point.  And that will take time. None of this will happen because I became a health-obsessed gym rat, either.  This whole thing is probably a multi-year project.  But it's the only way it can succeed for someone like me...going *s-l-o-w-l-y*.  <br />
 
-I just say to myself, "*I want my back to work less, be sturdier, and my knees to handle a full day*" --- and that's enough for me. <br />
+So I just say to myself, over and over, "*I want my back to work less, be sturdier, and my knees to handle a full day*" --- and that's enough for me. <br />
 
 <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-blue-jacket.jpeg" alt="Alt text" width="500" height="235">
