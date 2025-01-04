@@ -40,7 +40,7 @@ So a bit of food scarcity as a young kid turned me me into this "*clean your pla
 
 Over time I got these little problems here and there with my back, and my knees.  And those extra pounds weren't helping.  They became the “friend” who always borrows money and never pays you back. Not the greatest company to keep as you approach middle-age! <br />
 
-<img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-heavy.jpeg" alt="Alt text" width="275" height="135"> <br />
+<img src="https://julianwest.me/Blog/posts/images/jdub-heavy.jpeg" alt="Alt text" width="275" height="135"> <br />
 
 ### Quality of Life Over Everything
 
