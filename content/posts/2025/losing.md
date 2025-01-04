@@ -7,21 +7,21 @@ type = 'post'
 tags = ["thought", "personal", "health"]
 +++
 
-In the past few months I managed to shed about 30 pounds.  I only know that because I started tracking it 3 months in.  You see, my goal hasn't been *weight loss* so much as wanting to just be healthier.  After one too many back doctor visits, and less-than-stellar bloodwork recently, I decided to make a few changes.  So far, it's working.  But I have lost weight before, only to see it eventually return.  This time, I am going to really try and lock-in a *s-l-o-w* path to a healthier me.  The weight-loss is a visual side-effect, not the main event. <br />
+In the past few months I managed to shed about 30 pounds.  I only know that because I started tracking it 3 months in.  You see, my goal hasn't been *weight loss* so much as wanting to just *be healthier*.  After one too many back doctor visits, and less-than-stellar bloodwork recently, I decided to make a few changes.  So far, it's working.  But I have lost weight before, only to see it eventually return.  This time, I am going to really try and lock-in a *s-l-o-w* path to a healthier me.  The weight-loss is a visual side-effect, not the main event. <br />
 
-No, this is not another one of those January weight-loss blog posts. Ok, maybe it *is* but people talking about their weight-loss wins are like freshly born-again Christians... both are endlessly extolling the *Good News*, and they stop talking about it.  That won't be me.
+So, yeah, another one of *those* January health/weight-loss blog posts.  But in my defense I started way before the New Year.
 
-### How It's Going Down... (*The Weight, Apparently*)
+#### How It's Going Down... (*The Weight, Apparently*)
 
-I would love to tell you I hammered out a spreadsheet and meticulously tracked calories, balanced my diet, and hired a personal trainer. But, really, it was just more of a gentle decision to swap out every second slice of pizza for an apple, not drinking diet sodas like I used to, and drinking *way more* water.  That's really it. Over and over. Day in and day out.  I am going easy on myself. Basic changes, and incorporating them *s-l-o-w-l-y*. <br /> 
+I would love to tell you I hammered out a spreadsheet and meticulously tracked calories, balanced my diet, and hired a personal trainer. But, really, it was just more of a gentle decision to swap out every second slice of pizza for an apple, not drinking diet sodas like I used to, and drinking *way more* water.  That's really it. Over and over. Day in and day out. I am going easy on myself. Basic changes, incorporating the changes *s-l-o-w-l-y*. <br /> 
 
-You see, everything in its natural state is [*entropy*](https://en.wikipedia.org/wiki/Introduction_to_entropy) anyway: without a food source your body would endothermically regulate itself by going after glycogen in your liver, then later exothermic activities like metabolising fat (though you must be careful to not have it go after muscle and protein).  A human body will sustain itself, and this is the delicate dance involved in any dietary weight-loss.<br />
+You see, everything in its natural state is [*entropy*](https://en.wikipedia.org/wiki/Introduction_to_entropy) anyway: without a food source your body endothermically regulates itself by going after glycogen in your liver, then later exothermic activities like metabolising fat (though you must be careful to not have it go after muscle and protein).  A human body will sustain itself, and this is the delicate dance involved in any dietary weight-loss.<br />
 
 And the modern American food industrial complex would have you understand *none* of these things. <br /> 
 
 But losing weight was never my goal, so much as trying to change my relationship to food... <br />
 
-### Heavy-Set as Part of My *Identity*
+#### Heavy-Set was Part of My *Identity*
 
 My relationship to food was always weird: **I won't put too fine a point on it** but I grew-up experiencing a few episodes of [***Food Insecurity***](https://en.wikipedia.org/wiki/Food_security).  My mother worked very hard and social security benefits after my father died helped, but money was always tight. Towards the end of any given month, food could sometimes get downright scarce. And though I was never *hungry*, the required food-budgeting of poverty (and not having constant-access to abundant food, that many kids take for granted), it really affected my regard for food later in life.
 
@@ -46,7 +46,7 @@ Over time I got these little problems here and there with my back, and my knees.
 <img src="https://julianwest.me/Blog/posts/images/jdub-heavy.jpeg" alt="Alt text" width="275" height="135"> 
 <i>My average build the past 30 years. </i></div>
 
-### Quality of Life Over Everything
+#### Quality of Life Over Everything
 
 A recent visit with my back doctor had him telling me "you could gain half an inch in height, and save your L1 through S5, just by losing 15% of your body weight".  That's an easy-sell, but *not* always *easy* to do! <br />  
 
@@ -56,7 +56,7 @@ When you're as obsese as I was -- 30 pounds can *quickly* and quietly leave the 
 
 I haven't even been counting weight lost: I've been letting my doctor's office do that.  I'm just "checking-in" every month or so to see how it's going, because any weight "lost" (when you're trying to just be healhier) is only half the story.   <br />
 
-### The Takeaway
+#### The Takeaway
 
 I’m not pretending changes in eating are easy for everyone, or that it was zero effort for me to eat differently and become more active.  It wasn't.  I just didn’t *hyper-focus* on it, either. If living longer is a bonus [***DLC](https://en.wikipedia.org/wiki/Downloadable_content) I unlock in this life, great!  But I could also get hit by a bus after publishing this blog post, too. So I try to keep things in perspective. I also found it's *really* important to forgive yourself and not have [toxic self-talk](https://www.verywellmind.com/negative-self-talk-and-how-it-affects-us-4161304) when trying anything new, or trying to figure out healthier habits.  Life is *hard* enough, without that.  <br />
 
