@@ -66,4 +66,4 @@ Also, I'm not even *halfway* to where I ultimately need to *get* in order to *lo
 
 I just say to myself, "*I want my back to work less, be sturdier, and my knees to handle a full day*" --- and that's enough for me. <br />
 
-<img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-blue-jacket.jpeg" alt="Alt text" width="275" height="135">
+<img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-blue-jacket.jpeg" alt="Alt text" width="500" height="235">
