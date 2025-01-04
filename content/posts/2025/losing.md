@@ -26,11 +26,11 @@ My relationship to food was always weird: **I won't put too fine a point on it**
 <table>
   <tr>
     <td>
-     <img src="https://julianwest.me/Blog/posts/images/JW-six.jpg" alt="Description of image 1" width="350" height="135">
+     <img src="https://julianwest.me/Blog/posts/images/JW-six.jpg" alt="Description of image 1" width="150" height="95">
       <div></div>
       </td>
       <td>
-      <img src="https://julianwest.me/Blog/posts/images/JW-eight.jpeg" alt="Description of image 2" width="300" height="115">
+      <img src="https://julianwest.me/Blog/posts/images/JW-eight.jpeg" alt="Description of image 2" width="175" height="95">
       <div></div>
       </td>
   </tr>
