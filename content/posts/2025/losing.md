@@ -7,13 +7,13 @@ type = 'post'
 tags = ["thought", "personal", "health"]
 +++
 
-In the past few months I managed to shed about 30 pounds.  I only know that because I started tracking it 3 months in.  You see, my goal hasn't been *weight loss* so much as wanting to just be healthier.  After one too many back doctor visits, and less-than-stellar bloodwork recently, I decided to make a few changes.  So far, it's working.  But I have lost weight before, only to see it eventually return.  This time, I am going to really try and lock-in a *s-l-o-w* path to a healthier me.  The weight-loss is a side-benefit, not the main event. <br />
+In the past few months I managed to shed about 30 pounds.  I only know that because I started tracking it 3 months in.  You see, my goal hasn't been *weight loss* so much as wanting to just be healthier.  After one too many back doctor visits, and less-than-stellar bloodwork recently, I decided to make a few changes.  So far, it's working.  But I have lost weight before, only to see it eventually return.  This time, I am going to really try and lock-in a *s-l-o-w* path to a healthier me.  The weight-loss is a visual side-effect, not the main event. <br />
 
-No, this is not another one of those January weight-loss blog posts.  The only thing more annoying to me than people talking about their weight-loss are born-again Christians: both are trying to tell you the *Good News*, and usually neither will shut up about it. 
+No, this is not another one of those January weight-loss blog posts. Ok, maybe it *is* but people talking about their weight-loss wins are like freshly born-again Christians... both are endlessly extolling the *Good News*, and they stop talking about it.  That won't be me.
 
-### How It's Going Down... (*The Weight*)
+### How It's Going Down... (*The Weight, Apparently*)
 
-I would love to tell you I hammered out a spreadsheet and meticulously tracked calories and balanced my diet. But, really, it was just more of a gentle decision to swap out every second slice of pizza for an apple, not drinking diet sodas like I used to, and drinking *way more* water.  That's really it. Over and over. Day in and day out.  I am going easy on myself. Basic changes, and incorporating them *s-l-o-w-l-y*. <br /> 
+I would love to tell you I hammered out a spreadsheet and meticulously tracked calories, balanced my diet, and hired a personal trainer. But, really, it was just more of a gentle decision to swap out every second slice of pizza for an apple, not drinking diet sodas like I used to, and drinking *way more* water.  That's really it. Over and over. Day in and day out.  I am going easy on myself. Basic changes, and incorporating them *s-l-o-w-l-y*. <br /> 
 
 You see, everything in its natural state is [*entropy*](https://en.wikipedia.org/wiki/Introduction_to_entropy) anyway: without a food source your body would endothermically regulate itself by going after glycogen in your liver, then later exothermic activities like metabolising fat (though you must be careful to not have it go after muscle and protein).  A human body will sustain itself, and this is the delicate dance involved in any dietary weight-loss. And the modern American food industrial complex would have you understand *none* of these things. <br /> 
 
