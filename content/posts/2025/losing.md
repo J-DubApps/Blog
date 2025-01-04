@@ -2,7 +2,7 @@
 date = '2025-01-03T01:17:51-06:00'
 draft = false
 title = 'Losing...'
-description = 'A 30-Pound Vanishing Act Is a Waypoint, and Not An Achievement...'
+description = 'A 30-Pound Vanishing Act Is a Waypoint, Not An Achievement...'
 type = 'post'
 tags = ["thought", "personal", "health"]
 +++
