@@ -19,7 +19,7 @@ You see, everything in its natural state is [*entropy*](https://en.wikipedia.org
 
 By the way, our modern American food industrial complex would have you understand *none* of these things. <br /> 
 
-Losing weight was never my goal, so much as trying to change my relationship to food... <br />
+Not that I am any expert. I'm just trying to get healthier and change my relationship to food a bit... <br />
 
 #### Heavy-Set = Part of My *Identity*
 
@@ -48,7 +48,7 @@ Over time I got these little problems here and there with my back, and my knees.
 
 #### Quality of Life Over Everything
 
-A recent visit with my back doctor had him telling me "you could gain half an inch in height, and save your L1 through S5, just by losing 15% of your body weight".  That's an easy-sell, but *not* always *easy* to do! <br />  
+A recent visit to back doctor had him telling me "you could gain half an inch in height, and save your L1 through S5, just by losing 15% of your body weight".  That's an easy-sell, but *not* always *easy* to do! <br />  
 
 But it motivated me, and my weight *finally mattered* enough for me to try and do something about it.  And working mostly-remote allowed me to avoid the constant "food in your face" vibe that permates modern office work these days. Of course now that my job hard-convered away from Remote to Hybrid, food in the office will once-again be a bit of a challenge.
 
