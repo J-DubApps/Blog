@@ -7,7 +7,7 @@ type = 'page'
 
 
 
-This is the personal blog of [Julian West](http://julianwest.me/Blog/about/about/). Site Disclosure can be found [here](https://julianwest.me/Blog/site-disclosure/).
+This is the personal blog of [Julian West](http://julianwest.me/Blog/about/). Site Disclosure can be found [here](https://julianwest.me/Blog/site-disclosure/).
 
 <img src="https://julianwest.me/Blog/posts/images/julian.jpeg" alt="Alt text" width="165" height="225">
 
