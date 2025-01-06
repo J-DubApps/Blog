@@ -3,14 +3,14 @@ date = '2025-01-06T01:17:51-06:00'
 draft = false
 title = 'Back-To-Work Reminders for 2025'
 type = 'post'
-tags = ["thought", "career", "jdub-isms"]
+tags = ["thought", "career", "leadership", "jdub-isms"]
 +++
 
 
 
 •	Everyone is replaceable—don’t oversacrifice or exhaust yourself for any single job.<br />
 •	Thoroughly document your work.<br />
-•	If you're irreplaceable, you're *unpromotable*: refer to the previous two reminders.<br />
+•	If your skillset becomes *irreplaceable*, ***you*** become ***unpromotable***: refer to the previous two reminders.  Documenting and working out a cross-train approach ([read my post on that here](https://julianwest.me/Blog/empowering-independence-it/)) is key.<br />
 •	Keep a record of important emails (and interactions, when needed)—proof beats promises & hearsay.<br />
 •	Free snacks or lunch is not a reward for your hard work, and usually unhealthy. Value yourself beyond that. <br />
 •	Unashamedly use your PTO days, you’ve earned them.<br />
