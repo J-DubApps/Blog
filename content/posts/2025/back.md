@@ -10,7 +10,7 @@ tags = ["thought", "career", "jdub-isms"]
 
 •	Everyone is replaceable—don’t oversacrifice or exhaust yourself for any single job.<br />
 •	Thoroughly document your work.<br />
-•	If you're irreplaceable, you're unpromotable: refer to the previous two reminders.<br />
+•	If you're irreplaceable, you're *unpromotable*: refer to the previous two reminders.<br />
 •	Keep a record of important emails (and interactions, when needed)—proof beats promises & hearsay.<br />
 •	Free snacks or lunch is not a reward for your hard work, and usually unhealthy. Value yourself beyond that. <br />
 •	Unashamedly use your PTO days, you’ve earned them.<br />
