@@ -19,9 +19,9 @@ tags = ["thought", "career", "jdub-isms"]
 •	Focus on *your own development* (see previous reminder), not just your job.  *Personal-development drive profesisonal performance*.  <br />
 •	Prioritize self-care, put your needs first, and always stay a step ahead.<br />
 •	***Never*** accept a promotion in name, if it doesn't include a bump in compensation.<br />
-•	Keep personal details about your life under wraps.  Don't overshare. <br />
-•	Familiarity breeds contempt: beware coworkers who want to know everything about you (see previous reminder).  Whether they're intending to or not, they may come to judge.
-•	Be kind and don't ever judge others, resist the base human instinct: [everyone you know is fighting a battle you know nothing about.  Be kind. Always.](https://www.goodreads.com/quotes/6697537-everyone-you-meet-is-fighting-a-battle-you-know-nothing)
+•	Keep personal details about your life under wraps.  Don't overshare (I know, I write a blog -- like I'm one to talk 🙃). <br />
+•	Familiarity breeds contempt: beware coworkers, consultants, or stakeholders who want to know *everything* about you (see previous reminder).  Whether they intend to or not, all humans instinctively judge. Over time, we all surender datapoints that people use.  It's just human nature, so don't nurture it!
+•	Be kind and don't ever judge others and resist the base human instinct I mentioned, in the previous reminder: [everyone you know is fighting a battle you know nothing about.  Be kind. Always.](https://www.goodreads.com/quotes/6697537-everyone-you-meet-is-fighting-a-battle-you-know-nothing)
 •	HR is not there to protect *you*, they are there to protect the company.  They're almost-always good people, but their positions are by-design to serve & protect company interests.  <br /><br />
 
 Here's to a great 2025!
