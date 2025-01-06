@@ -40,7 +40,7 @@ Not all IT jobs are the same, so not all IT jobs are suited for full-time remote
 
  I wholly admit I am not a work culture expert or know much about HR teams dealing with this.  But I do know a thing or two about office politics, and I have already heard about some hot sports opinions from colleages at other IT job environments. Usually these hot sports opinions are thrown HR's way by staff that already had to Return-to-Office last year. All it takes are those staff to be joined by a VIP in the C-Suite, and here comes another news cycle of RTO coverage.  I can see how many companies will throw their hands in the air and execute non-Hybrid mandatory RTO, to please a few. It's human nature, after all.  Still others may rework things into required on premises days, with hybrid remote days.  Either way, a major shift is underway, and corporate real estate seems to be a major part of it. We'll see how it goes! <br />
 
- At any rate, I enjoy the benefits of Remote Work currently, in my enterprise IT role, and with my own 1.5 to 2-hour commute to work...I have understandably have a specific point of view here. <br />
+ At any rate, I enjoy the benefits of Remote Work currently, in my enterprise IT role, and with my own 1.5 to 2-hour commute to work...I understandably have a specific point of view here. <br />
 
 My advice to companies struggling with RTO, and entertaining the idea removing Remote or Hybrid for your IT staff entirely: <br />
 
