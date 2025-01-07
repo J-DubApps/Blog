@@ -52,29 +52,29 @@ Over time I got these little pains here and there with my back, and my knees.  A
 
 A recent visit to back doctor had him telling me "you could gain half an inch in height, and save your L1 through S5 and never see me again, just by losing 15% of your body weight".  That's one helluva sell!  But *not* always *easy* to do! <br />  
 
-But it motivated me, and my weight *finally mattered* enough for me to try and do something about it. But I've been here before.  <br />
+But it motivated me to do something about my back, by losting weight. But this time it *had* to be lost gently. I've been here before, and was a VIP member of the American "yo-yo" diet culture, many times.  <br />
 
-In fact, I've been here *many* times before: lose, gain, and lose again...only to gain more back. The American "yo-yo" culture.  I wanted to make a change that would see me through retirement.  So I attacked this whole thing from a healthy eating angle, and ignored my weight.  I knew my weight would, eventually, reduce.  But if I didn't focus on *intake*, and boost my activity a bit, there would be no point.
+I want to make changes that will see me through retirement, at the right weight for me where my body functions with minimal pain or issue from weight.  Sure, I'm no spring chickenn and I'll get a sore back now and then...but at least I won't be looking at *weeks* of being sidelined due to an overburdened spine about to fall apart.<br /> 
 
-[**Working mostly-remote**](https://julianwest.me/Blog/opinion-remote-work-21/) allowed me to avoid the constant "food in your face" vibe that permates modern office work these days. Of course now that my job went from Remote to Hybrid, food in the office should allow me to test these new eating habits.  
+So I attacked this whole thing from a healthy eating angle, and ignored my weight entirely. Just intake. I knew my weight would, eventually, reduce.  [**Working mostly-remote**](https://julianwest.me/Blog/opinion-remote-work-21/) allowed me to avoid the constant "food in your face" vibe that permates modern office work these days. Of course now that my job went from Remote to Hybrid, food in the office should allow me to test these new eating habits.  
 
-When you're as obsese as I was -- 30 pounds can *quickly* and quietly leave the building, giving you a false sense of accomplishment. So this is just the *start*.  30 pounds can just as quickly come back, and bring friends.  So I view *any* weight-loss right now as just a ***waypoint*** along a *long-term path* to being healthier and stronger.  <br />
+When you're as obsese as I was -- 30 pounds *quickly* and quietly leaves the building, giving a false sense of accomplishment. So I remind myself: this is just the *start*.  30 pounds can just as quickly come back, and bring friends.  So I view *any* weight-loss right now as just a ***waypoint*** along a *long-term path* to being healthier and stronger.  <br />
 
 So this post is *not* about any kind of *achievement*.  It's about my spine doubling its strength and eliminating pain, or my knees and hips not needing to get replaced.  It's all just about *quality-of-life* as I get older.  And, for me, my eating habits (and weight from them) affects all that.  <br /> 
-
-I haven't even been counting weight, I've been letting my doctor's office do that.  I'm just "checking-in" every month or so to see how it's going, because any weight "lost" (when you're trying to just be healhier) is only half the story.   <br />
 
 #### The Takeaway
 
 I’m not pretending changes in eating are easy for everyone, or me.  It wasn't.  I just didn’t *hyper-focus* on it, either. If living longer is a bonus [***DLC](https://en.wikipedia.org/wiki/Downloadable_content) I unlock in this life, great!  But I could also get hit by a bus after publishing this blog post, too. So I try to keep things in perspective: it's about my back no longer hurting, and my bloodwork being a tad healthier overall.  That's it.  <br />
 
-I also found it's *really* important to forgive yourself and not have [toxic self-talk](https://www.verywellmind.com/negative-self-talk-and-how-it-affects-us-4161304) when trying anything new, or trying to figure out healthier habits.  Life is *hard* enough, without that.  <br />
+I also found it's *really* important to forgive yourself and not have [toxic self-talk](https://www.verywellmind.com/negative-self-talk-and-how-it-affects-us-4161304) when figuring out healthier habits.  Life is *hard* enough, without that.  <br />
 
 People are starting to notice, and compliment etc.  But to be honest, I kind of *hate* how I look right now, because I'm at that awkward "*nothing fits*" and "must buy new clothes" phase of the journey. Expensive!! 😂<br /> 
 
 This is purely about being able to stand up straight, move with less pain, and hopefully add a little buffer to my total lifespan—just enough to try out 85 new breakfast spots. Or see my nieces and nephews grow up. <br />
 
-Also, I'm not even *halfway* to where I ultimately need to *get* in order to *lock* all this in: I still need to lose another 15-ish pounds ***and then add*** back another 10-15 pounds of *muscle* --just to be able to have a stronger core & weight for the years ahead.  If I don't, all this progress reverses about as fast as it arrived.  To succeed, I *must* get my body to hold (and be happy) at this new set point, to get stronger in it.  It's a weird time. None of it happens overnight, and I know I will *never* be a health-obsessed gym rat, either.  This whole thing is probably a multi-year project (*ugh*!).  But it's the only way it can succeed for someone like me...going *s-l-o-w-l-y*.  <br />
+Also, I'm not even *halfway* to where I ultimately plan to *get*: to lock all this progress in, I still need to lose another 15-ish pounds ***and then add*** back another 10-15 pounds of *muscle* --just to be able to have a stronger core & weight for the years ahead.  If I don't, all this could reverse as fast as it arrived.  To succeed, I *must* get my body to hold (and be happy) at this new set point, to get stronger in it.  And I have to keep that hungry kid inside of me calm, and feeling secure about food and not stress-eat etc.  It's a weird time. None this happens overnight, and I know I must succeed if I am to contiue to have a decent quality-of-life as I age. <br />/
+
+I know I will *never* be a health-obsessed gym rat, either, so this whole thing is probably a multi-year project (*ugh*!).  But it's the only way it can succeed for someone like me...going *s-l-o-w-l-y* and calmly.  <br />
 
 So I just say to myself, over and over, "*I want my back to work less, be sturdier, and my knees to handle a full day*" --- and that's enough for me. <br />
 
