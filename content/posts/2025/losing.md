@@ -7,7 +7,7 @@ type = 'post'
 tags = ["thought", "personal", "health"]
 +++
 
-In the past few months I managed to shed about 30 pounds.  I only know that because I started tracking it 3 months in.  You see, my goal hasn't been *weight loss* so much as wanting to just *be healthier*.  After one too many back doctor visits, and less-than-stellar bloodwork recently, I decided to make a few changes.  So far, it's working.  But I have lost weight before, only to see it eventually return.  This time, I am going to really try and lock-in a *s-l-o-w* path to a healthier me.  The weight-loss is a visual side-effect, not the main event. <br />
+In the past few months I managed to shed about 30 pounds.  I only know that because I started tracking it 3 months in.  You see, my goal hasn't been *weight loss* so much as wanting to just *be healthier*.  After one too many back doctor visits, and less-than-stellar bloodwork recently, I decided to make a few changes.  So far, it's working.  But I have lost weight before, only to see it eventually return.  This time, I am going to really try and lock-in a *s-l-o-w* path to a healthier me.  The weight-loss is a visual side-effect, *not* the main event. <br />
 
 So, yeah, I guess this is one of *those* January health/weight-loss blog posts. In my defense, I started way before the New Year.
 
