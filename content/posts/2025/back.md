@@ -12,7 +12,7 @@ tags = ["thought", "career", "leadership", "remote-work", "jdub-isms"]
 •	Thoroughly document your work.<br />
 •	If your skillset becomes *irreplaceable*, ***you*** become ***unpromotable***: refer to the previous two reminders.  Documenting and working out a cross-train approach ([read my post on that here](https://julianwest.me/Blog/empowering-independence-it/)) is key.<br />
 •	Keep a record of important emails (and interactions, when needed)—proof beats promises & hearsay.<br />
-•	Free snacks or lunch is not a reward for your hard work, and mostly unhealthy anyway. Value yourself beyond that. <br />
+•	Free snacks or lunch is not a reward for your hard work. Value yourself beyond the chow line. <br />
 •	Minimize "eating in your office" (see previous reminder) and take walks -- this goes the same for when remote-working. It's unavoidable that you need to eat there sometimes, but don't make it every day. <br />
 •	Even if you're not super social, when on-prem officing *use the breakroom* at least once a day. It is an ecosystem of human dynamics that *must be navigated* if you are to work out your company culture. Trust me on this.
 •	Unashamedly use your PTO days, you’ve earned them.<br />
