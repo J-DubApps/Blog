@@ -1,16 +1,21 @@
 +++
 date = '2019-04-02T20:10:26-06:00'
 draft = false
-title = 'Empowering Independence: My Approach to Cross-Training'
+title = 'Empowering Independence'
+description = 'My Approach to Cross-Training'
 type = 'post'
 tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "project-mgmt", "thought", "best-of", "beginner-fundamentals", "leadership"]
 +++
 
-In a dynamic world of IT Systems Ops and DevOps, effective cross-training is a always challenge. Skill-ups are essential for both individual growth *and* team success. Over many years of experience as a PM, manager, and mentor, I have developed a philosophy that emphasizes: ***self-reliance, initiative, and continuous learning***.  Here is my personal manifesto on cross-training, my contribution to developing proficient and empowered teams. <br />
+In a dynamic world of IT Systems Ops and DevOps, effective cross-training is a always challenge. Skill-ups are essential for both individual growth *and* team success. Over many years of experience as a PM, manager, and mentor, I have developed a philosophy that emphasizes: ***self-reliance, initiative, and continuous learning***. Found below will be my personal manifesto on cross-training, my contribution to developing proficient and empowered teams. <br />
 
-### Teaching the *WHERE* or the *WHAT*, Not Always the *WHY* or the *HOW*
+### Teaching the *WHERE* or the *WHAT*, ***Not*** Always the *WHY* or the *HOW*
 
-I can provide you with the ***WHERE***—the documentation, server information, IP addresses, and other essential resources. ***However***, I may not always have the time to delve into the ***WHY*** behind every decision or the ***HOW*** of every process. I am not talking about "**Why**" for team motivation "Why" covered in the book [Start With Why](https://julianwest.me/Blog/start-with-why/).  I am talking about giving someone First Principles training, which always covers the *Why* of a thing.  The nuances of our systems and the depth of understanding come from *hands-on experience*, your own personal initiative, and time. While I can guide you to resources and sometimes briefly talk about a technology or tool, uncovering the *why* and *how* is ultimately ***your*** journey: and that journey must involve exploration and practice, sometimes on your own time.  It's how you get *good* at anything in this line of work.  If you put in your time, *same as everybody else*, you can become the expert you want to be.  And if you don't have the time (and I get it, I truly do) to uncover the *why* and *how* of stuff -- then you at least owe it to the team to work hard to use the *where* and the *what* as best you can.
+I can provide you with the ***WHERE***—the documentation, server information, IP addresses, and other essential resources. ***However***, I may not always have the time to delve into the ***WHY*** behind every decision or the ***HOW*** of every process. We are so busy everyday documenting the ***WHAT*** and the ***WHERE*** items I describe above, that it leaves precious *little-to-no* time for ever explaining the ***HOW*** --- that is where your own skills-growth must rise to the occasion.  <br /> 
+
+I am talking about [**First Principles**](https://en.wikipedia.org/wiki/First_principle) training, fundamentals which always cover the *Why* of a thing.  Not the *other* kind of *Why* [that may come up in our jobs](https://julianwest.me/Blog/start-with-why/), like motivation or reason for something is being done.  **First Principles** are needed, before any mentor can really help you in the ***knowing*** of the *How* and *Why* of something you are being trained on.  The nuances of our systems and the depth of understanding come from *hands-on experience*, your own personal initiative, and ***time***. While I can guide you to resources and sometimes briefly go over fundamentals about a technology or tool, uncovering the *why* and *how* is ultimately ***your*** journey: and that journey must involve personal exploration and practice, sometimes on your own time. I cannot do it for you, and taking your own time to push through learning those **First PrincipleS** is how you get *good* at anything in this line of work!  If you put in your time, *same as everybody else*, only then can others really help you become the expert you want to be.  Learning is a flow between personal time invested and collaboration. <br />
+
+But many people always want ALL learning to be collaborative: I'm sorry, but it just isn't.  Sometimes you will have to put in the time, build your own lab or code your own Powershell script, or configure your own network/server gear to really *get* the fundamentals of this stuff.  And if you don't have the time (and I get it, I truly do) to uncover the *why* and *how* of stuff -- then you at least owe it to the team to train-up to the point where you can figure out how to use system Documentation (the *where* and the *what*) as best you can.
 
 ### Setting Clear Expectations and Providing Support
 
