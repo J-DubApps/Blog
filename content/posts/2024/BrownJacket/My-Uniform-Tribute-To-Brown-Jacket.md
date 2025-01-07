@@ -168,5 +168,6 @@ So whether you’re reclaiming mental energy or just craving *simplicity*, the *
 
 <div>
 <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-ocean.jpg" alt="Alt text" width="350" height="205"> <br />
- <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-penny-2024.jpeg" alt="Alt text" width="350" height="205">
+ <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-penny-2024.jpeg" alt="Alt text" width="350" height="205"><br />
+ <img src="https://julianwest.me/Blog/posts/images/THE_JACKET.jpeg" alt="Alt text" width="350" height="205">
  </div>
