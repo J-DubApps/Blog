@@ -38,11 +38,11 @@ Not that I am any expert. I'm just getting healthier and changing my relationshi
   </tr>
 </table>
 
-So flash forward to my roaring 20s, where I was in the workforce and beginning my career, and I ate a *lot*. A bit of food scarcity as a young kid turned me into this "*clean your plate*" adult, and made me a foodie. As a consequence, I have lived at some level of slight *overweight* (and sometimes *very overweight*) for most of my adult life. Just from plain old *overeating*, the American way! 😂  "*Heavy-set*” was the usual first-descriptor that pops into someone's head when meeting me. The extra poundage was my main accessory—only heavier, and less sparkly.  I like to think I carried it well.  As well as anybody living a *singularly-American* off-and-on obsese lifestyle, anyway! <br /> 
+So flash-forward to my roaring 20s, where I was in the workforce, and I ate a *lot*. A bit of food scarcity as a young kid turned me into this "*clean your plate*" adult, and a hardcore foodie. As a consequence, I have lived at some level of slight *overweight* (and sometimes *very overweight*) for most of my adult life. Just from plain old *overeating*, the American way! 😂  "*Heavy-set*” was the usual first-descriptor that pops into someone's head when meeting me. The extra poundage was my main accessory—I like to think I carried it well.  As well as anybody living a *singularly-American* off-and-on obsese lifestyle, anyway! 🤣<br /> 
 
 And my weight just never mattered much to me. Until it *did*.  <br /> 
 
-Over time I got these little problems here and there with my back, and my knees.  And those extra pounds weren't helping.  They became the “friend” who always borrows money and never pays you back. Not the greatest company to keep as you approach middle-age! <br />
+Over time I got these little pains here and there with my back, and my knees.  And those extra pounds weren't helping: they were the “friend” who always borrows money and never pays you back. Not the greatest company to keep as you approach middle-age! <br />
 
 <div style="text-align: center; font-size: 9px;">
 <img src="https://julianwest.me/Blog/posts/images/jdub-heavy.jpeg" alt="Alt text" width="275" height="135"> 
