@@ -164,7 +164,7 @@ A lot of solemn, jolly, or otherwise ordinary day-to-day moments were all experi
 <i>Who is this?  Where did JDub go? </i></div><br />
 4.	**Minimalism Meets Practicality**: Fewer clothing options mean *fewer* distractions, *less* clutter, and a focus on quality over quantity. It’s long been my lifestyle to stay rooted in efficiency and intentionality, wherever I can.
 
-So whether you’re reclaiming mental energy or just craving *simplicity*, the *uniform thing* is an age-old method that may provide those benefits. Ultimately the trick to pulling it off is to be casual and not focus on the *sameness*, in the first place (*oops*). At the end of the day, it’s really not really about the clothes anyway—it’s about the person *wearing them*.
+So whether you’re reclaiming mental energy or just craving *simplicity*, the *uniform thing* is an age-old method that may provide those benefits. Ultimately the trick to pulling it off is to be casual and not focus on the *sameness*, in the first place (*oops*). At the end of the day, it’s really not really about the clothes anyway—it’s about the person *wearing* them.
 
 <div>
 <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-ocean.jpg" alt="Alt text" width="350" height="205"> <br />
