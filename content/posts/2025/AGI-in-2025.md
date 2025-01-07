@@ -2,7 +2,7 @@
 date = '2025-01-06T17:17:51-06:00'
 draft = false
 title = 'AGI in 2025&quest;'
-description = "Sam Altman Predicts We May See AI "join the workforce"'
+description = "Sam Altman Predicts We May See AI ''join the workforce''"
 type = 'post'
 tags = ["news-link", "ai", "tech", "history"]
 +++
