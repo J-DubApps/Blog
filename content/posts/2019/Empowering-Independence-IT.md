@@ -37,7 +37,7 @@ While I'm not responsible for always identifying the external training you might
 
 ## Take-Aways
 
-If this all feels like a "teach a man to fish" talk, it *is*.  I also believe in throwing the fisherman right into some waist-high water, to try catching those big fat fishes on their own, *before* doing any fishing *for them* or teaching angler techniques.  I do *neither of us* any favors if I am doing cross-training before you even *start* fishing, first! 😉  But if you're game, and working hard, I will cross-train all day. <br />
+If this all feels like a "teach a man to fish" talk, it very much *is*.  I also believe in throwing the fisherman right into some waist-high water.  Beginners need to catch a few fish on their own, *before* moving on to big fish and angler tricks.   I do *neither of us* any favors if I am doing "cross-train theater" (show and tell) before you even *staredt* fishing (working on the fundamentals)! 😉  But if you're game, and will put in the time it takes for mastery of first-principles of something, some great things can happen. <br />
 
 To foster a team environment where everyone takes initiative, learns proactively, and contributes effectively -- I believe people must leave their confort zones and build confidence.  Team leaders should always lead by example here.  Help enthusiastically, but always ask what has been tried. <br /> 
 
