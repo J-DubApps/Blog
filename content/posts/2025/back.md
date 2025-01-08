@@ -14,7 +14,7 @@ tags = ["thought", "career", "leadership", "remote-work", "jdub-isms"]
 •	Keep a record of important emails (and interactions, when needed)—proof beats promises & hearsay.<br />
 •	Free snacks or lunch is not a reward for your hard work. Culture isn’t about snacks, or the chow line: it’s about creating an environment where people feel valued, supported, and empowered to do their best work. <br />
 •	Minimize "eating in your office" (see previous reminder) and take walks -- this goes the same for when remote-working. It's unavoidable that you need to eat there sometimes, but don't make it every day. <br />
-•	Even if you're not super social, when on-prem officing *use the breakroom* at least once a day. It is an ecosystem of human dynamics that *must be navigated* if you are to work out your company culture. Trust me on this.
+•	Even if you're not super social, when on-prem officing *use the breakroom* at least once a day. It is an ecosystem of human dynamics that *must be navigated* if you are to work out your company culture. Trust me on this.<br />
 •	Unashamedly use your PTO days, you’ve earned them.<br />
 •	Family ultimately outranks any job.  *Always*.<br />
 •	Never stay at one job longer than 5 years unless the pay increase is substantial.  <br />Once you've stayed twice that long, even if the money is still great, you trade a significant portion of your value in the job-market for *comfort*.  **That's *ok*, but just understand that's the bargain -- and continue to develop personally and professionally**. <br />
