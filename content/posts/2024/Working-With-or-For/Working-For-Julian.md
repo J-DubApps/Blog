@@ -29,11 +29,9 @@ members. This allows leaders to build stronger rela?onships and inspire loyalty.
 
 - **Coach mode**. While I put a big value on being a Servant Leader, some?mes managed
 reports need a diﬀerent approach at crunch-?me. I help reports create a plan of aAack on a
-problem or task, to meet a challenge. This also means demonstra?ng values such as integrity,
+problem or task, to meet a challenge. This also means demonstratng values such as integrity,
 resilience, and hard work, which sets a standard for others. I call this “coach
-mode” because I am leading on the field (working tasks) with the team, and resolving performance issues that I
-see as-they-happen. Team leaders who can pivot to “coach mode” foster a culture where people
-feel secure, valued, and mo?vated, leading to a more cohesive high-performing team. <br />
+mode” because I am leading on the field (working tasks) with the team, and resolving performance issues that I see as-they-happen. Team leaders who can pivot to “coach mode” foster a culture where people feel secure, valued, and mo?vated, leading to a more cohesive high-performing team. <br />
 
 - **Collaboration over competion**. I want a collaborative environment, rather than one
 driven by internal competion, as it helps strengthen bonds among team members. A unified
@@ -49,29 +47,20 @@ toward a common goal. <br />
 
 # Management Style Preferences <br />
 
-- **Empowering Independence**. Over two decades in IT informs my management
+- [**Empowering Independence**](https://julianwest.me/Blog/empowering-independence-it/). Over two decades in IT informs my management
 philosophy to emphasize self-reliance, initiative, and continuous learning from my reports. I
 teach my reports that ***taking initative*** when startng a new task, and not needing a lot of
 immediate task guidance, increases their value on the team. Try to solve as much of a problem
 independently as you can, before reaching out for help. Remember getting “stuck” is *good*, so
-long as you worked the problem first, a necessary step toward self-reliance. Asking ques?ons
+long as you worked the problem first, a necessary step toward self-reliance. Asking questons
 before you work a problem robs you of growth and experience. When you come to me for help,
-know that I will always ask what you’ve tried up to that point. If you get stuck early and oPen
-on tasks, know that means we’ll be having a one-on-one to discuss your blind spots and skill
-gaps to determine where you are struggling
+know that [I will always ask what you’ve tried](https://julianwest.me/Blog/empowering-independence-it/) *up to that point*. If you stop early and often on tasks, without doing the work to *get stuck first*, know that means we’ll be having a one-on-one to discuss your blind spots and skill gaps to determine where you are struggling!
 
 - **Setting Clear Expecta?ons and Providing Support**. We’re all adults and professionals
-here, so I trust you to own your project tasks and escalations. I will set clear expectations and
-provide you all necessary tools and support for you to succeed. I do expect task work to get
-underway without requiring deep assistance at the *start* of task work, but I am here to help when you are stuck. If you require a lot of
-guidance to begin work on tasks, a one-on-one mee?ng may occur to assess your skill blind
-spots. I want a team culture where we all are eager to help each other, but we also trust each
-other to work our assigned tasks until stuck. And if training needs are found, I want to get you whatever you need to succeed.<br />
+here, so I trust you to own your project tasks and escalations. I will set clear expectations and provide you all necessary tools and support for you to succeed. I do expect task work to get underway without requiring deep assistance at the *start* of task work, but I am here to help when you are stuck. If you require a lot of guidance to begin work on tasks, a one-on-one mee?ng may occur to assess your skill blind spots. I want a team culture where we all are eager to help each other, but we also trust each other to work our assigned tasks until stuck. And if training needs are found, I want to get you whatever you need to succeed.<br />
 
-- **System Documentation should provide the WHERE and the WHAT,** <i><u><b>not</u></i> the HOW</b>. Good
-system documentation always provides the WHERE and WHAT— server information, IP
-addresses, and other essential information; <i><u><however</u></i></b>, it is ineﬀective and poor strategy for
-documentation to spend pages on the WHY or the HOW. It can be a time sink, reflecting skill gaps. Skilled and experienced team members usually only need the WHERE, in order to begin work on something. Anything needed for the **HOW** is ***process documentation** and, while helpful for new team members, it should be concise and outcome oriented. Documentation should almost always be about Systems, Infra, and assets is what the team needs moves, for ongoing Ops and Project deliverables (the HOW and WHAT). Good Documentation already is a time-consuming activity, so confusing process for systems documentation only leads to excess documentation iteration cycles and, ultimately, ineffective cross-training. 
+- **System Documentation should provide the WHERE and the WHAT,** <i><u><b>not</u></i> the HOW</b>. **Good system documentation always provides the ***WHERE*** and** ***WHAT***— server information, IP
+addresses, and other essential information; <i><u><however</u></i></b>, it is ineﬀective and poor strategy for documentation to spend pages on the WHY or the HOW. It can be a time sink, reflecting skill gaps. Skilled and experienced team members usually only need the WHERE, in order to begin work on something. Anything needed for the ***HOW*** must be brief ***process documentation*** and, while helpful for new team members, should only ever be concise and *outcome oriented*. Documentation is almost always be about Systems, Infra, and assets: what the team needs for ongoing Ops and Project deliverables (the HOW and WHAT). Good Documentation already is a time-consuming activity, so confusing process for systems documentation only leads to excess documentation iteration cycles and, ultimately, [**ineffective cross-training**](https://julianwest.me/Blog/empowering-independence-it/). 
 
  <br />
 
