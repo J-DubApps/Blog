@@ -236,7 +236,7 @@ You will find a lot of pre-compiled binaries in the [download section](https://i
 
 ## Documentation
 
-There is an excelent [documentation](https://iperf.fr/iperf-doc.php).
+There is an excellent [documentation here](https://iperf.fr/iperf-doc.php).
 
 ## GitHub
 
