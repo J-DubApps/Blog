@@ -16,7 +16,7 @@ tags = ["career", "project-mgmt", "opinion", "best-practice", "leadership", "jdu
     </style>
 
 <div style="font-size: 13px;">
-This contents in this post, below, is <a href="https://julianwest.me/Resume/Working%20with%20Julian.pdf">sourced from a pdf doc</a> I have always kept linked within my online [CV-Resume](https://julianwest.me/Resume/).  It exists as a mini-manual to my brain, for any teams that I am working with. 🤓
+This contents in this post, below, is <a href="https://julianwest.me/Resume/Working%20with%20Julian.pdf">sourced from a pdf doc</a> I have always kept linked within my online <a href=https://julianwest.me/Resume/>CV-Resume</a>.  It exists as a mini-manual to my brain, for any teams that I am working with. 🤓
 </div>
 
 # Leadership Principles <br />
