@@ -19,7 +19,7 @@ tags = ["career", "project-mgmt", "opinion", "best-practice", "leadership", "jdu
 This contents in this post, below, is <a href="https://julianwest.me/Resume/Working%20for%20Julian.pdf">sourced from a pdf doc</a> I have always kept linked within my online <a href=https://julianwest.me/Resume/>CV-Resume</a>.  It exists as a guide to understand how I think and manage teams in PM or Manager roles. 🤓
 </div>
 
-# Leadership Principles <br />
+# Leadership Principles
 
 - **Serving Others**. I lead by pu-ng the welfare of the team first. I have a service-oriented
 mindset to ensure the well-being (and, thus, eﬀec?veness) of my reports, which leads to higher
@@ -43,7 +43,7 @@ behind actions than by the ac?ons themselves. Leaders who communicate a clear *W
 deeper connections, trust, and loyalty among employees and clients or customers. Leaders who
 prioritize the *Why* are more likely to motivate and create a following that’s driven by shared
 purpose and values. Leaders need to inspire a sense of purpose to align the team’s eﬀorts
-toward a common goal. <br />
+toward a common goal.
 
 # Management Style Preferences <br />
 
@@ -60,9 +60,7 @@ know that [I will always ask what you’ve tried](https://julianwest.me/Blog/emp
 here, so I trust you to own your project tasks and escalations. I will set clear expectations and provide you all necessary tools and support for you to succeed. I do expect task work to get underway without requiring deep assistance at the *start* of task work, but I am here to help when you are stuck. If you require a lot of guidance to begin work on tasks, a one-on-one mee?ng may occur to assess your skill blind spots. I want a team culture where we all are eager to help each other, but we also trust each other to work our assigned tasks until stuck. And if training needs are found, I want to get you whatever you need to succeed.<br />
 
 - **System Documentation should provide the WHERE and the WHAT,** <i><u><b>not</u></i> the HOW</b>. **Good system documentation always provides the ***WHERE*** and** ***WHAT***— server information, IP
-addresses, and other essential information; <i><u><however</u></i></b>, it is ineﬀective and poor strategy for documentation to spend pages on the WHY or the HOW. It can be a time sink, reflecting skill gaps. Skilled and experienced team members usually only need the WHERE, in order to begin work on something. Anything needed for the ***HOW*** must be brief ***process documentation*** and, while helpful for new team members, should only ever be concise and *outcome oriented*. Documentation is almost always be about Systems, Infra, and assets: what the team needs for ongoing Ops and Project deliverables (the HOW and WHAT). Good Documentation already is a time-consuming activity, so confusing process for systems documentation only leads to excess documentation iteration cycles and, ultimately, [**ineffective cross-training**](https://julianwest.me/Blog/empowering-independence-it/). 
-
- <br />
+addresses, and other essential information; <i><u><however</u></i></b>, it is ineﬀective and poor strategy for documentation to spend pages on the WHY or the HOW. It can be a time sink, reflecting skill gaps. Skilled and experienced team members usually only need the WHERE, in order to begin work on something. Anything needed for the ***HOW*** must be brief ***process documentation*** and, while helpful for new team members, should only ever be concise and *outcome oriented*. Documentation is almost always be about Systems, Infra, and assets: what the team needs for ongoing Ops and Project deliverables (the HOW and WHAT). Good Documentation already is a time-consuming activity, so confusing process for systems documentation only leads to excess documentation iteration cycles and, ultimately, [**ineffective cross-training**](https://julianwest.me/Blog/empowering-independence-it/).<br />
 
 - **Process Documentation should be concise and extremely brief**. Process documentation
 should only come *after* system documentation, and is never a replacement for developing skills and

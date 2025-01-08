@@ -36,7 +36,7 @@ I hope our team & stakeholders would be less confused & can easily predict expec
 - **Directed Independence**. My ideal working style is we work together to define project
 deliverables/timemelines & let the team run with it. I love to get involved to remove roadblocks,
 problem solve or whiteboard new ideas. I also understand some team members want to iterate
-independently during sprints or task work, and I can adjust to the flow as project work unfolds.  <br />
+independently during sprints or task work, and I can adjust to the flow as project work unfolds.
 
 # Working Style Preferences
 
@@ -72,6 +72,5 @@ visualizing things because it allows me to easily understand how things are conn
 
 - **I'm a goofball**. We spend too much time at work not to enjoy it. I love cracking
 jokes, sharing memes & talking about personal interests. <br />
-
 
 <a href="https://julianwest.me/Resume/Working%20with%20Julian.pdf">Click here for the original pdf</a>.
