@@ -18,7 +18,7 @@ tags = ["thought", "career", "leadership", "remote-work", "jdub-isms"]
 •	Unashamedly use your PTO days, you’ve earned them.<br />
 •	Family ultimately outranks any job.  *Always*.<br />
 •	Never stay at one job longer than 5 years unless the pay increase is substantial.  <br />Once you've stayed twice that long, even if the money is still great, you trade a significant portion of your value in the job-market for *comfort*.  **That's *ok*, but just understand that's the bargain -- and continue to develop personally and professionally**. <br />
-•	Focus on *your own development* (see previous reminder), not just your job.  *Personal-development drives profesisonal performance*.  <br />
+•	Focus on *your own development* (see previous reminder), not just your job.  *Personal-development drives professional performance*.  <br />
 •	Prioritize self-care, put your needs first.<br />
 •	***Never*** accept a promotion in name, if it doesn't include a bump in compensation. If they can't afford your value, it's not your job to give them a discount. <br />
 •	Keep personal details about your life under wraps.  Don't overshare (I know, I have a blog -- I'm one to talk 🙃). <br />
