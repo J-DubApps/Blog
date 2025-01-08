@@ -5,10 +5,10 @@ title = 'Vertically-Stupid...'
 type = 'post'
 tags = ["career", "best-of", "thought", "opinion", "project-mgmt", "jdub-isms"]
 +++
+“***Vertically-stupid***” is my shorthand for a *thoroughly misguided* idea or decision that manages to climb through the ranks of an organization, before anyone realizes how worthless it truly is. <br />
+
 
 I come up with these goofy sardonic turns-of-phrase, every so often.  Here's one that I just used today (and thought "hey I should write this down!") -- <br />
-
-“***Vertically-stupid***” is my shorthand for a *thoroughly misguided* idea or decision that manages to climb through the ranks of an organization, before anyone realizes how worthless it truly is. <br />
 
 It’s akin to creating a new initiative, shiny tool, or even business vertical (pun intended) that, in hindsight, turns out to be completely useless to producing any value.  So useless, in fact, that someone in a boardroom somewhere asks "who TF thought of this?!" (I have seen this actually happen in project meetings, with nobody in-attendance owning the ***vertically-stupid*** idea).  <br />
 
