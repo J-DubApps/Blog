@@ -17,7 +17,7 @@ tags = ["thought", "career", "leadership", "remote-work", "jdub-isms"]
 •	Even if you're not super social, when on-prem officing *use the breakroom* at least once a day. It is an ecosystem of human dynamics that *must be navigated* if you are to work out your company culture. Trust me on this.<br />
 •	Unashamedly use your PTO days, you’ve earned them.<br />
 •	Family ultimately outranks any job.  *Always*.<br />
-•	Never stay at one job longer than 5 years unless the pay increase is substantial.  <br />Once you've stayed twice that long, even if the money is still great, you trade a significant portion of your value in the job-market for *comfort*.  **That's *ok*, but just understand that's the bargain -- and continue to develop personally and professionally**. <br />
+•	Never stay at one job longer than 5 years unless the pay increase is substantial. Once you've stayed twice that long, even if the money is great, you trade a significant portion of your value in the job-market for *comfort*.  **And that's *ok*, but just understand that's the bargain -- and continue to develop yourself personally, and your skills professionally**. <br />
 •	Focus on *your own development* (see previous reminder), not just your job.  *Personal-development drives professional performance*.  <br />
 •	Prioritize self-care, put your needs first.<br />
 •	***Never*** accept a promotion in name, if it doesn't include a bump in compensation. If they can't afford your value, it's not your job to give them a discount. <br />
