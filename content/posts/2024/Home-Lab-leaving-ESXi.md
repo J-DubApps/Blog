@@ -24,4 +24,4 @@ To be somewhat generous, Broadcom apparently did have a change-of-heart with VMW
 
 So I am looking <a href="https://www.proxmox.com/en/proxmox-virtual-environment/overview">Proxmox VE</a> or <a href="https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/">Hyper-V</a> to flee VMware.  A sad day, being as I have run VMware professionally and personally, in some form, since 2006.<br />
 
-I'm going to be trying both out in my HomeLab and will report what I end up doing. If anyone has any other suggestions on a good HomeLab platform beyond the above two options, <a href="http://julianwest.me/Blog/contact/contacting/">I'm all ears</a>. 
+I'm going to be trying both out in my HomeLab and will report what I end up doing. If anyone has any other suggestions on a good HomeLab platform beyond the above two options, <a href="http://julianwest.me/Blog/contact/">I'm all ears</a>. 
