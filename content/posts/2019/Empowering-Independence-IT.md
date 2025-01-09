@@ -7,9 +7,9 @@ type = 'post'
 tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "project-mgmt", "thought", "best-of", "beginner-fundamentals", "leadership"]
 +++
 
-In a dynamic world of IT Systems Ops and DevOps, effective cross-training is a always challenge. Skill-ups are essential for both individual growth *and* team success. Over many years of experience as a PM, manager, and mentor, I have developed a philosophy that emphasizes: ***self-reliance, initiative, and continuous learning***. Found below will be my personal manifesto on cross-training, my contribution to developing proficient and empowered teams. <br />
+In a dynamic world of IT Systems Ops and DevOps, effective cross-training is a always challenge. Skill-ups are essential for both individual growth *and* team success. Over many years of experience as a PM, manager, and mentor, I have developed a philosophy that emphasizes ***self-reliance, initiative, and continuous learning***. Found below is my (*imperfect*, but effective) personal manifesto on cross-training. In writing my own contribution to what I believe is key to developing proficient and empowered teams, I have seen what does and doesn't work.  What is below is my still-evolving approach... <br />
 
-### Teaching the *WHERE* or the *WHAT*, _***Not***_ Always the *WHY* or the _*HOW*_
+<h3>Teaching the WHERE or the WHAT, Not Always the <u>WHY</u> or the <u>HOW</u></h3>
 
 I can provide you with the ***WHERE***—the documentation, server information, IP addresses, and other essential resources. ***However***, I may not always have the time to delve into the ***WHY*** behind every decision or the ***HOW*** of every process. We are so busy everyday documenting the ***WHAT*** and the ***WHERE*** items I describe above, that it leaves precious *little-to-no* time for ever documenting (or explaining) exact click-by-click or CLI ***HOW*** steps to complete a task, or get an outcome: that is where *your own skills-growth* must rise to the occasion.  <br /> 
 
