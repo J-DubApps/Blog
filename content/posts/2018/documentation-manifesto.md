@@ -36,7 +36,7 @@ By separating the “WHY” and the “HOW” from your high-level documentation
 •	**Consistency**: A consistent format—“WHERE” + “WHAT”—helps your team know exactly what to expect from every document. <br />
 •	**Scalability**: As your environment grows, your documentation methodology remains the same. It’s simply a matter of adding a new entry for each resource or system. <br />
 
-Ultimately, having a single “source of truth” that is uncluttered by tutorials or historical footnotes ensures a streamlined approach to documentation. 
+Ultimately, having a single “***source of truth***” that is *uncluttered by tutorials* or historical footnotes ensures a streamlined approach to your IT team's documentation.
 
 ## tl;dr: *WHAT YOU SHOULD TAKE FRRM THE CONTENTS ABOVE*
 
