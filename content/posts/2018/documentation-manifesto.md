@@ -28,14 +28,14 @@ By zeroing-in on the “WHERE” and the “WHAT,” you create a handy referenc
 
 <div style="text-align: center; font-size: 10px;"><i>An example of effective System Documentation.  No "Why" or "How" stuff should be here. </i></div>
 
-### 2. Why (pun!) Skip the “*WHY*” in Documentation?
+### 2. Why (*pun*) Skip the “*WHY*” in Documentation?
 •   **Avoid Extra Complexity**: Documenting the rationale (“WHY”) behind an IT architecture or process creates rabbit holes of organizational or historical context. While the reasoning might be interesting or even *helpful* for training and outside consultants, it easily bogs down your System Documentation.  Storing it *elsewhere* is always the recommendation. <br /><br />
 •	**Maintain Relevance**: Over time, the original “***WHY***” might lose significance. Mergers, acquisitions, reorganizations, or technology refreshes can alter the big-picture reasoning behind a setup. If your documentation hinges on the “WHY,” it risks becoming outdated quickly. <br /><br />
 •	**Prevent Document Bloat**: Extensive background details can stretch your documentation into unwieldy text that obscures the actual references people need. Maintaining a lean approach reduces the burden on whoever updates the docs next. <br />
 
 If your team truly needs to preserve institutional knowledge or ***the story*** behind certain decisions, consider storing *that info* in a separate knowledgebase or a wiki specifically dedicated to historical or design decisions. It shouldn’t clutter day-to-day system doc references!
 
-### 4. How (pun!) to Handle the “*WHY*” and “*HOW*” Elsewhere
+### 4. How (*pun*) to Handle the “*WHY*” and “*HOW*” Elsewhere
 
 *Of course* the “***WHY***” and “***HOW***” are things taht *do matter* in an IT organization, but these details are best expressed through: <br /> <br />
 •	**Design Documents & Project (or PMO) Documentatin**: For large-scale projects or new implementations, a separate architectural or design document helps preserve the context, rationale, and detailed migration steps. These living documents cater to architects, senior engineers, or project teams. <br /> <br />
