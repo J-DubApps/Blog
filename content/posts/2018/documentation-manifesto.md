@@ -26,7 +26,7 @@ By zeroing-in on the “WHERE” and the “WHAT,” you create a handy referenc
 >•	Where: On-premises, Datacenter Rack B, Row 2, Slot 5
 >•	What: File server hosting long-term archival documents (read-only shared folders for old project data) <br />
 
-<div style="text-align: center; font-size: 9px;"><i>An example of effective System Documentation.  No "Why" or "How" is included here. </i></div><br />
+<div style="text-align: center; font-size: 10px;"><i>An example of effective System Documentation.  No "Why" or "How" is included here. </i></div><br />
 
 
 ### 2. Why Skip the “*WHY*” in Documentation?
