@@ -38,7 +38,7 @@ Remember that independently trying ***first*** is <u>***everything***</u> in tro
 
 ### Autonomy and Professional Growth
 
-Once I set a clear expectation or outcome, I'll step back and let you do your job. This autonomy empowers you to develop your expertise and confidence. The deeper understanding of our systems—the *WHY* and *HOW*—is best gained through experience, persistence, and self-directed learning.  Going straight to "***help***!!" teaches us nothing. <br />
+Once I set a clear expectation or outcome, I'll step back and let you do your job.  No mentor would ever do otherwise, if they care about you learning.  This autonomy empowers you to develop your expertise and confidence. I do you *no favors* if I am doing something for you immediately.  A *deeper understanding* of our systems (the *WHY* and the *HOW*) is best gained through experience, persistence, and self-directed learning.  Going straight to "***help***!!" teaches us nothing. <br />
 
 ### Taking Initiative for Your Own Training
 
@@ -46,10 +46,10 @@ While I'm not responsible for always identifying the external training you might
 
 ## Take-Aways
 
-If this all feels like a "teach a man to fish" talk, it very much *is*.  I also believe in throwing the fisherman right into some waist-high water.  Beginners need to catch a few fish on their own, *before* moving on to big fish and angler tricks.   I do *neither of us* any favors if I am doing "*cross-train theater*", which is just show and tell, before you even *started* fishing (working on the fundamentals)! 😉  But if you're game, and will put in the time it takes for mastery of first-principles of something, some great things can happen. <br />
+If this all felt like a "teach a man to fish" talk, it very much *was*. 😉 I believe in throwing the fisherman right into some waist-high water, to catch a few fish on their own, *before* moving on to big fish and angler tricks.  I do *neither of us* any favors if I am doing "*cross-train theater*": show and tell, click here / type that, before you even *started* learning the fundamentals. 😉  But if you're game, and you put in the time it takes learning first-principles of something, some great things will happen and your teammates and mentors will cheer you on! <br />
 
-To foster a team environment where everyone takes initiative, learns proactively, and contributes effectively -- I believe people must leave their confort zones and build confidence.  Team leaders should always lead by example here.  Help enthusiastically, but always ask what has been tried. <br /> 
+To foster a team environment where everyone takes initiative, learns proactively, and contributes effectively -- I believe people must leave their confort zones and build confidence. I do this by specifically *not* documenting deep inanely-detailed *HOW* documentation (which is a symptom of internal skill issues, usually) and having Process Pocumentation be *brief* and augmented by System Documentation.  Team leaders should always lead by example here.  Help *enthusiastically*, but always *always* first ask what has been tried.  If we all aren't continuously learning, we're failing ourselves and our team mission. <br /> 
 
-By focusing on self-reliance and continuous learning, we actually all grow *together* and meet the challenges in our field *head-on*. Embrace this approach, and you can work collaboratively on powerful teams that achieve amazing outcomes and shared success.
+**Last tl;dr**: by focusing on self-reliance and continuous learning, we actually all grow *together* and meet the challenges in our field *head-on*. Embrace this approach, and you can work collaboratively on powerful teams that achieve amazing outcomes and shared success.
 
-**I am rooting for you!**
+#I am rooting for you!
