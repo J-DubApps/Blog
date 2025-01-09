@@ -9,7 +9,7 @@ tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "project-
 
 In a dynamic world of IT Systems Ops and DevOps, effective cross-training is a always challenge. Skill-ups are essential for both individual growth *and* team success. Over many years of experience as a PM, manager, and mentor, I have developed a philosophy that emphasizes ***self-reliance, initiative, and continuous learning***. Found below is my (*imperfect*, but effective) personal manifesto on cross-training. In writing my own contribution to what I believe is key to developing proficient and empowered teams, I have seen what does and doesn't work.  What is below is my still-evolving approach... <br />
 
-<h3>Teaching the <i><b>WHERE</b></i> or the <i><b>WHAT</b></i>, Not Always the <u>WHY</u> or the <u>HOW</u></h3>
+<h3>Teaching the <i>WHERE</i> or the <i>WHAT</i>, </i>Not</i> Always the <u>WHY</u> or the <u><i>HOW</i></u></h3>
 
 I can provide you with the ***WHERE***—the documentation, server information, IP addresses, and other essential resources. ***However***, I may not always have the time to delve into the ***WHY*** behind every decision or the ***HOW*** of every process. We are so busy everyday documenting the ***WHAT*** and the ***WHERE*** items I describe above, that it leaves precious *little-to-no* time for ever documenting (or explaining) exact click-by-click or CLI ***HOW*** steps to complete a task, or get an outcome: that is where *your own skills-growth* must rise to the occasion.  <br /> 
 
