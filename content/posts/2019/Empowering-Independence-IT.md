@@ -50,6 +50,6 @@ If this all felt like a "teach a man to fish" talk, it very much *was*. 😉 I b
 
 To foster a team environment where everyone takes initiative, learns proactively, and contributes effectively -- I believe people must leave their comfort zones, to build confidence. I do this by specifically *not* documenting deep inanely-detailed *HOW* documentation (which is a symptom of internal skill issues, usually) and having Process Pocumentation be *brief* and augmented by System Documentation.  Team leaders should always lead by example here.  Help *enthusiastically*, but always *always* first ask what has been tried.  If we all aren't continuously learning, we're failing ourselves and our team mission. <br /> 
 
-**Last tl;dr**: *by focusing on self-reliance and continuous learning, we actually all grow *together* and meet the challenges in our field *head-on*. Embrace this approach, and you can work collaboratively on powerful teams that achieve amazing outcomes and shared success.*
+**Last tl;dr**: *by focusing on self-reliance and continuous learning, we actually all grow *together* and meet the challenges in our field *head-on*. *Embrace this approach, and you can work collaboratively on powerful teams that achieve amazing outcomes and shared success.*
 
 # I am rooting for you!
