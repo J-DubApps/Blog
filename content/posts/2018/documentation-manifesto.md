@@ -6,10 +6,10 @@ description = 'Why IT Docs Should Stick to the “WHERE” and the “WHAT”—
 type = 'post'
 tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "project-mgmt", "thought", "best-of", "beginner-fundamentals", "leadership"]
 +++
-**In a busy IT environment, *speed and clarity* are** ***everything***. When it comes to internal IT documentation, the *best practice* is to keep it short, sweet, and *accurate*—focusing on the location of systems (“***WHERE***”) and the function they serve (“***WHAT***”). Including detailed explanations of the “***WHY***” behind a setup or the step-by-step “***HOW***” to do something -- within a single KB or documenation system --- will turn your documentation into a sprawling novel that’s difficult to maintain! ***More importantly***, **it dilutes the primary mission of documentation: to guide you (or your team) quickly to just the facts**.
+**In a busy IT environment, *speed and clarity* are** ***everything***. When it comes to internal IT documentation, the *best practice* is to keep it short, sweet, and *accurate*—focusing on the location of systems (“***WHERE***”) and the function they serve (“***WHAT***”). Including detailed explanations of the “***WHY***” behind a setup or the step-by-step “***HOW***” to do something -- within a single KB or documenation system --- will turn your documentation into a sprawling novel that is difficult to maintain! ***More importantly***, **it dilutes the primary mission of documentation: to guide you (or your team) quickly to just the facts**.
 
 ### 1. The Purpose of IT Documentation: The “*WHERE*” and the “*WHAT*”
-•	**WHERE**: At its core, documentation should identify where a particular resource, server, or system resides. This might include which datacenter, which network segment, or which cloud region. Pinpointing the exact location (or location path) is the first thing your colleagues or future administrators will look for. If a database is moved, or an application is changed, documentation that succinctly captures its new coordinates is invaluable. <br />
+•	**WHERE**: At its core, documentation should identify where a particular resource, server, or system resides. This might include which datacenter, which network segment, or which cloud region. Pinpointing the exact location (or location path) is the first thing your colleagues or future administrators will look for. If a database is moved, or an application is changed, documentation that succinctly captures its new coordinates is invaluable. <br /><br />
 •	**WHAT**: Just as important is documenting what a system does. Is this server your primary domain controller, your file server for a particular department, or the home of your mail relay? The brief description of its role or function ensures that anyone scanning the documentation knows immediately why that system matters to the environment—and can either proceed with confidence or hand off the task to the correct team. <br />
 
 By zeroing-in on the “WHERE” and the “WHAT,” you create a handy reference that quickly orients your colleagues to the correct environment or component: <br />
@@ -30,8 +30,8 @@ By zeroing-in on the “WHERE” and the “WHAT,” you create a handy referenc
 
 
 ### 2. Why Skip the “*WHY*” in Documentation?
-•   **Avoid Extra Complexity**: Documenting the rationale (“WHY”) behind an IT architecture or process can become a rabbit hole of organizational or historical context. While the reasoning might be interesting or even helpful for training, it can easily bog down the documentation. <br />
-•	**Maintain Relevance**: Over time, the original “WHY” might lose significance. Mergers, acquisitions, reorganizations, or technology refreshes can alter the big-picture reasoning behind a setup. If your documentation hinges on the “WHY,” it risks becoming outdated quickly. <br />
+•   **Avoid Extra Complexity**: Documenting the rationale (“WHY”) behind an IT architecture or process can become a rabbit hole of organizational or historical context. While the reasoning might be interesting or even helpful for training, it can easily bog down the documentation. <br /><br />
+•	**Maintain Relevance**: Over time, the original “WHY” might lose significance. Mergers, acquisitions, reorganizations, or technology refreshes can alter the big-picture reasoning behind a setup. If your documentation hinges on the “WHY,” it risks becoming outdated quickly. <br /><br />
 •	**Prevent Document Bloat**: Extensive background details can stretch your documentation into unwieldy text that obscures the actual references people need. Maintaining a lean approach reduces the burden on whoever updates the docs next. <br />
 
 If your team truly needs to preserve institutional knowledge or ***the story*** behind certain choices and decision, consider storing *that info* in a separate knowledgebase or a wiki specifically dedicated to historical or design decisions. It shouldn’t clutter day-to-day system doc references!
@@ -46,9 +46,9 @@ If your team truly needs to preserve institutional knowledge or ***the story*** 
 By separating the “WHY” and the “HOW” from your high-level documentation, you maintain clarity in each resource type—ensuring that no single resource tries to be everything to everyone.
 
 ### 5. The Benefits of *Lean Documentation*
-•	**Speed**: Technicians can find the location and purpose of a system within seconds—no scrolling through irrelevant text. <br />
-•	**Maintenance**: It’s easier to keep short references up to date than pages of instructions. <br />
-•	**Consistency**: A consistent format—“WHERE” + “WHAT”—helps your team know exactly what to expect from every document. <br />
+•	**Speed**: Technicians can find the location and purpose of a system within seconds—no scrolling through irrelevant text. <br /> <br />
+•	**Maintenance**: It’s easier to keep short references up to date than pages of instructions. <br /> <br />
+•	**Consistency**: A consistent format—“WHERE” + “WHAT”—helps your team know exactly what to expect from every document. <br /> <br />
 •	**Scalability**: As your environment grows, your documentation methodology remains the same. It’s simply a matter of adding a new entry for each resource or system. <br />
 
 Ultimately, having a single “***source of truth***” that is *uncluttered by tutorials* or historical footnotes ensures a streamlined approach to your IT team's documentation.
