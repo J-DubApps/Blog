@@ -7,7 +7,7 @@ type = 'post'
 tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "project-mgmt", "thought", "best-of", "beginner-fundamentals", "leadership"]
 +++
 
-In a dynamic world of IT Systems Ops and DevOps, effective cross-training is a always challenge. Skill-ups are essential for both individual growth *and* team success. Over many years of experience as a PM, manager, and mentor, I have developed a philosophy that emphasizes ***self-reliance, initiative, and continuous learning***. Found below is my (*imperfect*, but effective) personal manifesto on cross-training. In writing my own contribution to what I believe is key to developing proficient and empowered teams, I have seen what does and doesn't work.  What is below is my still-evolving approach... <br />
+In a dynamic world of IT Systems Ops and DevOps, effective cross-training is a constant challenge. Skill-ups are essential for both individual growth *and* team success. Over many years of experience as a PM, manager, and mentor, I have developed a philosophy that emphasizes ***self-reliance, initiative, and continuous learning***. Found below is my (*imperfect*, but effective) personal manifesto on cross-training. In writing my own contribution to what I believe is key to developing proficient and empowered teams, I have seen what does and doesn't work.  What is below is my still-evolving approach... <br />
 
 <h3>Teaching the <i>WHERE</i> or the <i><u>WHAT</u></i>, </i><u>Not</u></i> Always the WHY or the <u><i>HOW</i></u></h3>
 
