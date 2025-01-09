@@ -12,17 +12,17 @@ tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "project-
 •	**WHERE**: At its core, documentation should identify where a particular resource, server, or system resides. This might include which datacenter, which network segment, or which cloud region. Pinpointing the exact location (or location path) is the first thing your colleagues or future administrators will look for. If a database is moved, or an application is changed, documentation that succinctly captures its new coordinates is invaluable. <br />
 •	**WHAT**: Just as important is documenting what a system does. Is this server your primary domain controller, your file server for a particular department, or the home of your mail relay? The brief description of its role or function ensures that anyone scanning the documentation knows immediately why that system matters to the environment—and can either proceed with confidence or hand off the task to the correct team. <br />
 
-By zeroing in on the “WHERE” and the “WHAT,” you create a handy reference that quickly orients your colleagues to the correct environment or component. <br />
+By zeroing-in on the “WHERE” and the “WHAT,” you create a handy reference that quickly orients your colleagues to the correct environment or component: <br />
 
->System Name: APP-SVR01 <br />
+>System Name: **APP-SVR01** (10.99.100.20 /24) <br />
 >•	Where: On-premises, Datacenter Rack A, Row 3, Slot 14 <br />
 >•	What: Runs Department A’s intranet application (handles internal user authentication & front-end web service) <br />
 
->System Name: SQL-PRD02 <br />
+>System Name: **SQL-PRD02** (192.168.30.5 /24) <br />
 >•	Where: Azure East US Region, Resource Group: ProdSQLGroup <br />
 >•	What: Primary production SQL server for the Financials database (central transactional DB for billing and invoicing) <br />
 
->System Name: FS-ARCHIVE
+>System Name: **FS-ARCHIVE** (172.16.35.24 /16)
 >•	Where: On-premises, Datacenter Rack B, Row 2, Slot 5
 >•	What: File server hosting long-term archival documents (read-only shared folders for old project data) <br />
 
