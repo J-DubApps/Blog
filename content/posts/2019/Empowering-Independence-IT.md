@@ -2,7 +2,7 @@
 date = '2019-04-02T20:10:26-06:00'
 draft = false
 title = 'Empowering Independence'
-description = 'My Approach to Cross-Training'
+description = 'My Approach to Cross-Training Jr Engineers'
 type = 'post'
 tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "project-mgmt", "thought", "best-of", "beginner-fundamentals", "leadership"]
 +++
@@ -33,7 +33,7 @@ Remember that independently trying ***first*** is <u>***everything***</u> in tro
 
 **Pro Tip**: The secret about getting *enthusiastic support* from your local SME or uber nerd is--*trying to solve the problem independently*, and be ok (even excited) to *get stuck first* before firing-off an email thread or asking for help.  If you operate this way, the help and support you receive is fierce and powerful.  If you don't, the help you receive may be unmotivated, uninterested, and sometimes tired.
 
-**tl;dr Being a self-starter (and putting in the time, first, to even get stuck) is *your currency* for being able to call-in enthusiastic support from your team!**
+**tl;dr: Being a self-starter (and putting in the time, first, to even get stuck) is *your currency* for being able to call-in enthusiastic support from your team!**
 <br />
 
 ### Autonomy and Professional Growth
