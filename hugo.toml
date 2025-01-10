@@ -140,7 +140,7 @@ defaultContentLanguage = "en"
       strikethrough = true
       table = true
       taskList = true
-      typographer = true
+      typographer = false
   [markup.goldmark.renderer]
   # whether to use HTML tags directly in the document
     unsafe = true # Allow HTML in md files
