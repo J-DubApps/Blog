@@ -23,7 +23,7 @@ Not that I am any expert. I'm just getting healthier and changing my relationshi
 
 #### Heavy-Set = Part of My *Identity*
 
-**I won't put too fine a point on it, but I grew-up experiencing episodes of [***Food Insecurity***](https://en.wikipedia.org/wiki/Food_security)**.  My single mother worked very hard, but odd jobs and and social security benefits after my father's death only took us so far.  Money was always tight.  I had a happy childhood, but towards the end of any given month food sometimes get downright scarce. And though I was never deeply *hungry*, the required food-budgeting of poverty (in a word) *sucked*.  I was a thin kid who got fat a lot, because I hoovered it up during plentiful times.  Not having constant-access to abundant food, that many kids take for granted, it really did a number on my relationship to food later in life.
+**I won't put too fine a point on it, but I grew-up experiencing episodes of [***Food Insecurity***](https://en.wikipedia.org/wiki/Food_security)**.  My single mother worked very hard, but odd jobs and and social security benefits after my father's death only took us so far.  Money was always tight.  I had a happy childhood, but towards the end of any given month food sometimes got downright scarce. And though I was never deeply *hungry*, the required food-budgeting of poverty (in a word) *sucked*.  I was a thin kid who got fat a lot, because I hoovered it up during plentiful times.  Not having constant-access to abundant food, that many kids take for granted, it really did a number on my relationship to food later in life.
 
 <table>
   <tr>
