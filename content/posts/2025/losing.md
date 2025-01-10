@@ -50,7 +50,7 @@ Over time I got these little pains here and there with my back, and my knees.  A
 
 #### Quality of Life Over Everything
 
-A recent visit to my back doctor had him telling me "you could gain half an inch in height, and save your L1 through S5 and never see me again, just by losing 15% of your body weight".  That's one helluva sell!  But *not* always *easy* to do! <br />  
+A recent visit to my back doctor had him telling me "you could gain half an inch in height, and save your L1 and S5 and never see me again, just by losing 15% of your body weight".  That's one helluva sell!  But *not* always *easy* to do! <br />  
 
 But it motivated me to do something about my back, by losting weight. But this time it *had* to be lost gently. I've been here before, and was a VIP member of the American "yo-yo" diet culture, many times.  <br />
 
