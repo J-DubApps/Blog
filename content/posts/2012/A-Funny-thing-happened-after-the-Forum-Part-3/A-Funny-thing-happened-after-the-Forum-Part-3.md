@@ -3,7 +3,7 @@ date = '2012-09-16T23:02:36-06:00'
 draft = false
 title = 'A Funny Thing Happened After the Forum -- Pt 3'
 type = 'post'
-tags = ["thought", "philosophy", "special-write-up", "best-of"]
+tags = ["thought", "philosophy", "special-write-up", "best-of", "self-development"]
 +++
 
 <div>
@@ -11,7 +11,7 @@ tags = ["thought", "philosophy", "special-write-up", "best-of"]
 </div>
 <br />
 
-<i>This is from a 3-part mini-memoir about the Landmark Forum from my old blog in March 2009. It received tens of thousands of views, and I still hear from people about it. You can read Part 1 here and Part 2 here…</i><br />
+<i>This is from a 3-part mini-memoir about the Landmark Forum from my old blog in March 2009. It received tens of thousands of views, and I still hear from people about it. You can read Part 1 <a href="https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-1/">here</a> and Part 2 <a href="https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-2/">here…</a></i><br />
 
 It’s “Day 3”, or, life after the Landmark Forum. Here I will give my final thoughts and opinions on the Forum and how it operates. I think I’ve recalled this subject in an informative manner, and I hope it’s helpful for anyone researching it.<br />
 

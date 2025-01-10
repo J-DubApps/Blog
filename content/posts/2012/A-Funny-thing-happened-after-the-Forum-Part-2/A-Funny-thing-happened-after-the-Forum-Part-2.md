@@ -3,7 +3,7 @@ date = '2012-09-15T23:02:36-06:00'
 draft = false
 title = 'A Funny Thing Happened After the Forum -- Pt 2'
 type = 'post'
-tags = ["thought", "philosophy", "special-write-up", "best-of"]
+tags = ["thought", "philosophy", "special-write-up", "best-of", "self-development"]
 +++
 
 <div>
@@ -13,7 +13,7 @@ tags = ["thought", "philosophy", "special-write-up", "best-of"]
 <p style="text-align: center;"><i>Hey, this presenter doesn’t appear to have a head or hands.</i></p>
 </div>
 
-<i>This is from a 3-part mini-memoir about the Landmark Forum from my old blog in March 2009. It received thousands of views, and I still hear from people about it. You can read Part 1 here…</i><br />
+<i>This is from a 3-part mini-memoir about the Landmark Forum from my old blog in March 2009. It received thousands of views, and I still hear from people about it. You can read Part 1 <a href="https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-1/">here…</a></i><br />
 
 Welcome to Day 2, or “<b>my <i>story</i> of what I learned</b>” <i>during</i> the Landmark Forum…<br />
 
