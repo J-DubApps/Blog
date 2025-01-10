@@ -2,7 +2,7 @@
 date = '2024-12-13T14:14:51-06:00'
 draft = false
 title = 'Thoughts On AI In A DevOps World'
-description = 'It's not AI that will take your job: it's people leveraging AI that will take your job.'
+description = 'It&apos;s not AI that will take your job: it&apos;s people leveraging AI that will take your job.'
 type = 'post'
 tags = ["tech", "thought", "opinion", "career", "AI", "enterprise-it", "best-of", "devops", "top-10", "self-development"]
 +++
