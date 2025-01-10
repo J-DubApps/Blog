@@ -23,7 +23,7 @@ Not that I am any expert. I'm just getting healthier and changing my relationshi
 
 #### Heavy-Set = Part of My *Identity*
 
-**I won't put too fine a point on it, but I grew-up experiencing episodes of [***Food Insecurity***](https://en.wikipedia.org/wiki/Food_security)**.  My single mother worked very hard, but odd jobs and and social security benefits after my father's death only took us so far.  Money was always tight.  I had a happy childhood, but towards the end of any given month food sometimes get downright scarce. And though I was never deeply *hungry*, the required food-budgeting of poverty (in a word) *sucked*.  I was a thin kid who got fat a lot, because I hoovered it up during plentiful times.  Not having constant-access to abundant food, that many kids take for granted, it really did a number on my relationship to food later in life.
+**I won't put too fine a point on it, but I grew-up experiencing episodes of [***Food Insecurity***](https://en.wikipedia.org/wiki/Food_security)**.  My single mother worked very hard, but odd jobs and and social security benefits after my father's death only took us so far.  Money was always tight.  I had a happy childhood, but towards the end of any given month food sometimes got downright scarce. And though I was never deeply *hungry*, the required food-budgeting of poverty (in a word) *sucked*.  I was a thin kid who got fat a lot, because I hoovered it up during plentiful times.  Not having constant-access to abundant food, that many kids take for granted, it really did a number on my relationship to food later in life.
 
 <table>
   <tr>
@@ -50,15 +50,15 @@ Over time I got these little pains here and there with my back, and my knees.  A
 
 #### Quality of Life Over Everything
 
-A recent visit to back doctor had him telling me "you could gain half an inch in height, and save your L1 through S5 and never see me again, just by losing 15% of your body weight".  That's one helluva sell!  But *not* always *easy* to do! <br />  
+A recent visit to my back doctor had him telling me "you could gain half an inch in height, and save your L1 and S5 and never see me again, just by losing 15% of your body weight".  That's one helluva sell!  But *not* always *easy* to do! <br />  
 
 But it motivated me to do something about my back, by losting weight. But this time it *had* to be lost gently. I've been here before, and was a VIP member of the American "yo-yo" diet culture, many times.  <br />
 
-I want to make changes that will see me through retirement, at the right weight for me where my body functions with minimal pain or issue from weight.  Sure, I'm no spring chickenn and I'll get a sore back now and then...but at least I won't be looking at *weeks* of being sidelined due to an overburdened spine about to fall apart.<br /> 
+I want to make changes that will see me through retirement, at the right weight for me where my body functions with minimal pain or issue from weight.  Sure, I'm no spring chicken and I'll get a sore back now and then...but at least I won't be looking at *weeks* of being sidelined due to an overburdened spine about to fall apart.<br /> 
 
-So I attacked this whole thing from a healthy eating angle, and ignored my weight entirely. Just intake. I knew my weight would, eventually, reduce.  [**Working mostly-remote**](https://julianwest.me/Blog/opinion-remote-work-21/) allowed me to avoid the constant "food in your face" vibe that permates modern office work these days. Of course now that my job went from Remote to Hybrid, food in the office should allow me to test these new eating habits.  
+So I attacked this whole thing from a healthy eating angle, and ignored my weight entirely. Just intake. I knew my weight would, eventually, reduce.  [**Working mostly-remote**](https://julianwest.me/Blog/opinion-remote-work-21/) allowed me to avoid the constant "food in your face" vibe that permates modern office work these days. Of course now that my job went from Remote to Hybrid, food in the office will help me test these new eating habits! 🫠  
 
-When you're as obsese as I was -- 30 pounds *quickly* and quietly leaves the building, giving a false sense of accomplishment. So I remind myself: this is just the *start*.  30 pounds can just as quickly come back, and bring friends.  So I view *any* weight-loss right now as just a ***waypoint*** along a *long-term path* to being healthier and stronger.  <br />
+When someone is as obsese as I was gettibg -- 30 pounds *quickly* and quietly leaves the building, giving a false sense of accomplishment. So I remind myself: this is just the *start*.  30 pounds can just as quickly come back, and bring friends.  So I view *any* weight-loss right now as just a ***waypoint*** along a *long-term path* to being healthier and stronger.  <br />
 
 So this post is *not* about any kind of *achievement*.  It's about my spine doubling its strength and eliminating pain, or my knees and hips not needing to get replaced.  It's all just about *quality-of-life* as I get older.  And, for me, my eating habits (and weight from them) affects all that.  <br /> 
 
@@ -70,7 +70,7 @@ I also found it's *really* important to forgive yourself and not have [toxic sel
 
 People are starting to notice, and compliment etc.  But to be honest, I kind of *hate* how I look right now, because I'm at that awkward "*nothing fits*" and "must buy new clothes" phase of the journey. Expensive!! 😂<br /> 
 
-This is purely about being able to stand up straight, move with less pain, and hopefully add a little buffer to my total lifespan—just enough to try out 85 new breakfast spots. Or see my nieces and nephews grow up. <br />
+For me, this is purely about standing straight and moving around with less pain, and hopefully adding a little buffer to my lifespan—*just* enough to try out 85 new breakfast spots. Or see my nieces and nephews grow up. <br />
 
 Also, I'm not even *halfway* to where I ultimately plan to *get*: to lock all this progress in, I still need to lose another 15-ish pounds ***and then add*** back another 10-15 pounds of *muscle* --just to be able to have a stronger core & weight for the years ahead.  If I don't, all this could reverse as fast as it arrived.  To succeed, I *must* get my body to hold (and be happy) at this new set point, to get stronger in it.  And I have to keep that hungry kid inside of me calm, and feeling secure about food and not stress-eat etc.  It's a weird time. None this happens overnight, and I know I must succeed if I am to contiue to have a decent quality-of-life as I age. <br />
 
