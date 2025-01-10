@@ -54,7 +54,7 @@ A recent visit to my back doctor had him telling me "you could gain half an inch
 
 But it motivated me to do something about my back, by losting weight. But this time it *had* to be lost gently. I've been here before, and was a VIP member of the American "yo-yo" diet culture, many times.  <br />
 
-I want to make changes that will see me through retirement, at the right weight for me where my body functions with minimal pain or issue from weight.  Sure, I'm no spring chickenn and I'll get a sore back now and then...but at least I won't be looking at *weeks* of being sidelined due to an overburdened spine about to fall apart.<br /> 
+I want to make changes that will see me through retirement, at the right weight for me where my body functions with minimal pain or issue from weight.  Sure, I'm no spring chicken and I'll get a sore back now and then...but at least I won't be looking at *weeks* of being sidelined due to an overburdened spine about to fall apart.<br /> 
 
 So I attacked this whole thing from a healthy eating angle, and ignored my weight entirely. Just intake. I knew my weight would, eventually, reduce.  [**Working mostly-remote**](https://julianwest.me/Blog/opinion-remote-work-21/) allowed me to avoid the constant "food in your face" vibe that permates modern office work these days. Of course now that my job went from Remote to Hybrid, food in the office should allow me to test these new eating habits.  
 
