@@ -47,7 +47,7 @@ By separating the “*WHY*” and the “*HOW*” from your high-level documenta
 ### 5. The Benefits of *Lean Documentation*
 •	**Speed**: Technicians can find the location and purpose of a system within seconds—no scrolling through irrelevant text. <br /> <br />
 •	**Maintenance**: It’s easier to keep short references up to date than pages of instructions. <br /> <br />
-•	**Consistency**: A consistent format—“WHERE” + “WHAT”—helps your team know exactly what to expect from every document. <br /> <br />
+•	**Consistency**: A consistent format—“**WHERE**” + “**WHAT**”—helps your team know exactly what to expect from every document. <br /> <br />
 •	**Scalability**: As your environment grows, your documentation methodology remains the same. It’s simply a matter of adding a new entry for each resource or system. <br />
 
 Ultimately, having a single “***source of truth***” that is *uncluttered by tutorials* or historical footnotes ensures a streamlined approach to your IT team's documentation.
