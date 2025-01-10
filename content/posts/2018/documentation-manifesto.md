@@ -52,7 +52,7 @@ By separating the “*WHY*” and the “*HOW*” from your high-level documenta
 
 Ultimately, having a single “***source of truth***” that is *uncluttered by tutorials* or historical footnotes ensures a streamlined approach to your IT team's documentation.
 
-### tl;dr: *WHAT YOU SHOULD TAKE FROM THIS BLOT POST*
+### tl;dr: *WHAT YOU SHOULD TAKE FROM THIS BLOG POST*
 
 **IT documentation should *never* be a maze of design justifications and step-by-step how-tos**. Instead, keep it plain, direct, and *readable* (almost *scannable* for your staf [SMEs](https://en.wikipedia.org/wiki/Subject-matter_expert)). By focusing on the “***WHERE***” (location) and the “***WHAT***” (function), you ensure your documentation remains precise, relevant, and easy to update. Let deeper context or procedural guides live in a ***separate place***—perfect for training and reference needs. As your environment evolves, you’ll be glad you took this lean approach from the start. 
 
