@@ -38,7 +38,7 @@ If your team truly needs to preserve institutional knowledge or ***the story*** 
 ### 4. How (*pun*) to Handle the “*WHY*” and “*HOW*” Elsewhere
 
 *Of course* the “**WHY**” and “**HOW**” are things that *do matter* in an IT organization, but these details are best expressed through: <br /> <br />
-•	**Design Documents & Project (or PMO) Documentation**: For large-scale projects or new implementations, a separate architectural or design document helps preserve the context, rationale, and detailed migration steps. These living documents cater to architects, senior engineers, or project teams. <br /> <br />
+•	**Design Documents / Project Documentation**: For large-scale projects or new implementations, a separate architectural or design document helps preserve the context, rationale, and detailed migration steps. These living documents cater to architects, senior engineers, or project teams. <br /> <br />
 •	**Runbooks / Standard Operating Procedures (SOPs)**: These are short, operational guides for day-to-day tasks, risk mitigation, or disaster recovery. They’re separate from higher-level references and are only relevant to those performing certain procedures. <br /> <br />
 •	**Cross-Training**: Hands-on demonstrations, workshops, or mentorship sessions that help bridge the skills gap and walk individuals through complex tasks. <br />
 
