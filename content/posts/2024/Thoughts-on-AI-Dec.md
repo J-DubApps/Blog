@@ -4,7 +4,7 @@ draft = false
 title = 'Thoughts On AI In A DevOps World'
 description = 'It&apos;s not AI that will take your job&#44; it&apos;s people leveraging AI that will take your job.'
 type = 'post'
-tags = ["tech", "thought", "opinion", "career", "AI", "enterprise-it", "best-of", "devops", "top-10"]
+tags = ["tech", "thought", "opinion", "career", "AI", "enterprise-it", "best-of", "devops", "top-10", "self-development"]
 +++
 People who code and automate things (whether it's for a big tech shop, or a smaller company's line-of-business pipeline) like to think we're *all that*.  We're really not. <br />
 

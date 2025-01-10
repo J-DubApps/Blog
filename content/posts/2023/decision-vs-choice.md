@@ -4,12 +4,15 @@ draft = true
 title = 'Choose or Decide'
 description = 'Decision vs Choice...some explanation required'
 type = 'post'
-tags = ["philosophy", "thought", "special-write-up"]
+tags = ["philosophy", "thought", "special-write-up", "self-development"]
 +++
 
 When making a [***decision***](https://en.wikipedia.org/wiki/Decision-making), usually involving a set of rational options.
 
 When making a [***choice***](https://en.wikipedia.org/wiki/Choice), the decision arises from a different place. By setting aside my experience, internal debate, and personal biases, I gain the freedom to ***choose***.
+
+
+*Deciding* is related to other "*cide" words (suicide, insecticide, genocide), and is the result of applying reason to eliminate alternatives, effectively killing them. Usually a single thing is left and that becomes the decision. Choosing is about making a choice purely for the sake of choosing, not applying reason, not applying logic, not removing or disqualifying the other choices. I have purposefully not quoted the Landmark definition of decision and choice as that is copywrited material by them. Everyone likes to use reason, but ultimately, at the bottom of every decision or even proofs, is either fundamental choice or reason: "I choose to believe ..." or "I choose to trust ..." adding "because" makes it a reason. By using reason, one then absolves oneself from responsibility for the choice, it becomes the fault of the reason or the reasoning process if it fails. Choice demands responsibility for making the choice.
 
 I open myself to new possibilities, new ways of seeing the world, or new experiences. Choice involves embracing the unknown, inviting creativity, and taking risk.
 

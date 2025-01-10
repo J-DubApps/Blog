@@ -4,7 +4,7 @@ draft = false
 title = 'Empowering Independence'
 description = 'My Approach to Cross-Training Jr Engineers'
 type = 'post'
-tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "project-mgmt", "thought", "best-of", "beginner-fundamentals", "leadership"]
+tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "project-mgmt", "thought", "best-of", "beginner-fundamentals", "leadership", "self-development"]
 +++
 
 In a dynamic world of IT Systems Ops and DevOps, effective cross-training is a constant challenge. Skill-ups are essential for both individual growth *and* team success. Over many years of experience as a PM, manager, and mentor I have developed a philosophy that emphasizes ***self-reliance, initiative, and continuous learning***. Found below is my (*imperfect*, but effective) personal manifesto on cross-training. In writing my own contribution to what I believe is key to developing proficient and empowered teams, I have seen what does and doesn't work.  Below is my own still-evolving approach... <br />
