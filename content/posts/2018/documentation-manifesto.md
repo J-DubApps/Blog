@@ -2,7 +2,7 @@
 date = '2018-08-02T20:10:26-06:00'
 draft = false
 title = 'My Approach To Documentation'
-description = 'Why IT Docs Should Stick to the “WHERE” and the “WHAT”—and Avoid the “WHY” or the “HOW”'
+description = 'Why IT Docs Should Stick to the “WHERE” and the “WHAT”—and Avoid the “WHY” and “HOW”'
 type = 'post'
 tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "project-mgmt", "thought", "best-of", "beginner-fundamentals", "leadership"]
 +++
