@@ -14,13 +14,13 @@ tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "project-
 
 By zeroing-in on the “WHERE” and the “WHAT,” you create a handy reference that quickly orients your colleagues to the correct environment or component: <br />
 
->System Name: **APP-SVR01** (10.99.100.20 /24) <br />
->•	Where: On-premises, Datacenter Rack A, Row 3, Slot 14 <br />
->•	What: Runs Department A’s intranet application (handles internal user authentication & front-end web service) <br />
+>System Name: **APP-SVR01** (10.99.100.20 /24)
+>•	Where: On-premises, Datacenter Rack A, Row 3, Slot 14
+>•	What: Runs Department A’s intranet application (handles internal user authentication & front-end web service)
 
->System Name: **SQL-PRD02** (192.168.30.5 /24) <br />
->•	Where: Azure East US Region, Resource Group: ProdSQLGroup <br />
->•	What: Primary production SQL server for the Financials database (central transactional DB for billing and invoicing) <br />
+>System Name: **SQL-PRD02** (192.168.30.5 /24)
+>•	Where: Azure East US Region, Resource Group: ProdSQLGroup
+>•	What: Primary production SQL server for the Financials database (central transactional DB for billing and invoicing)
 
 >System Name: **FS-ARCHIVE** (172.16.35.24 /16)
 >•	Where: On-premises, Datacenter Rack B, Row 2, Slot 5
