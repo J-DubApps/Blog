@@ -70,7 +70,7 @@ I also found it's *really* important to forgive yourself and not have [toxic sel
 
 People are starting to notice, and compliment etc.  But to be honest, I kind of *hate* how I look right now, because I'm at that awkward "*nothing fits*" and "must buy new clothes" phase of the journey. Expensive!! 😂<br /> 
 
-This is purely about being able to stand up straight, move with less pain, and hopefully add a little buffer to my total lifespan—just enough to try out 85 new breakfast spots. Or see my nieces and nephews grow up. <br />
+For me, this is purely about standing straight and moving around with less pain, and hopefully adding a little buffer to my lifespan—*just* enough to try out 85 new breakfast spots. Or see my nieces and nephews grow up. <br />
 
 Also, I'm not even *halfway* to where I ultimately plan to *get*: to lock all this progress in, I still need to lose another 15-ish pounds ***and then add*** back another 10-15 pounds of *muscle* --just to be able to have a stronger core & weight for the years ahead.  If I don't, all this could reverse as fast as it arrived.  To succeed, I *must* get my body to hold (and be happy) at this new set point, to get stronger in it.  And I have to keep that hungry kid inside of me calm, and feeling secure about food and not stress-eat etc.  It's a weird time. None this happens overnight, and I know I must succeed if I am to contiue to have a decent quality-of-life as I age. <br />
 
