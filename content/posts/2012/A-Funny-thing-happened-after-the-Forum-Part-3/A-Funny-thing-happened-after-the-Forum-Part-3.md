@@ -77,4 +77,6 @@ Since my experience in 1994 I have had my own personal successes, failings, and 
 
 The ability view life as moments that I am attaching meaning to, essentially meaningless, and to learn that I’m free to remove and create my own meaning was always a useful thing. To some people that’s Zen Buddhism, to others it’s God. Whatever your own beliefs or thoughts about what it means to be a human being…there are many types of “Forums” out there that you can learn from. Whichever place you choose to get new knowledge from is entirely your own individual choice. As imperfect as beliefs, ideas, and new ways of thinking are….they are out there in the world for us to learn about, and maybe even benefit from. Or discard. Good luck!<br />
 
-<i>Originally published at mydigitalpathos.com in 2009, and re-published at julianwest.me on September 15, 2012.</i>
+<i>Originally published at mydigitalpathos.com in 2009, and re-published at julianwest.me on September 15, 2012.</i> <br />
+
+***Footnotes***: My custom *Definitions Page* for terms in these articles can be found [***here***](https://julianwest.me/Blog/landmark-glossary/)

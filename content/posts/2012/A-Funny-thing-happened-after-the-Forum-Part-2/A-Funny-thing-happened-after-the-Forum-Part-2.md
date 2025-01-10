@@ -86,4 +86,6 @@ Even with the brainwashing concern, I have found that the above-mentioned concep
 
 This leads us me to my third and final post on the Forum, including my own problems I have with the Forum. Tune-in for <i>that post</i> <b>tomorrow</b>.<br />
 
-<i>Originally published at mydigitalpathos.com in 2009, and re-published at julianwest.me on September 15, 2012.</i>
+<i>Originally published at mydigitalpathos.com in 2009, and re-published at julianwest.me on September 15, 2012.</i> <br />
+
+***Footnotes***: My custom *Definitions Page* for terms in these articles can be found [***here***](https://julianwest.me/Blog/landmark-glossary/)
