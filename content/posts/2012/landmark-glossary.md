@@ -17,6 +17,8 @@ tags = ["thought", "philosophy", "self-development"]
 - [Definitions](#definitions)
 - [FAQ](#faq)
 
+
+<a id="preface"></a>
 ## Preface
 
 <i>This page is a companion document to my 3-part special write-up revisiting <b><a href="https://en.wikipedia.org/wiki/Landmark_Worldwide#Landmark_Forum">The Landmark Forum</a></b> in 2009: <b><a href="https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-1/">Part 1</a>, <a href="https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-2/">Part 2</a>, and <a href="https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-3/">Part 3</a></b></i><br />
@@ -25,6 +27,7 @@ These definitions include a *modified fork* of the original [Landmartian Terms P
 
 #### IMPORTANT NOTE: The definitions on this page are my own work product (using afforementioned resources) and are ***not*** reviewed or approved by Landmark Worldwide.
 
+<a id="special-notes"></a>
 ## Special Notes
 
 **Special Note 1**: The *intended audience* here is ***limited only to***: **Landmark Forum** ***Graduates*** seeking a refresher, or academic researchers. It is ***not*** to be used, *cited*, or linkback-referenced by those with any ax to grind (*or Racket*) with [Landmark Worldwide](https://www.landmarkworldwide.com)!  If you bring traffic here from a hate content page, I will see it in the logs and block you. The *only* points-of-view about Landmark expressed here are those from my articles above, or personal unbiased side-notes below. The terms are my own *personal interpretation* of [***The Landmark Forum***](https://en.wikipedia.org/wiki/Landmark_Worldwide#Landmark_Forum) technology, sourced from 30 year-old notes and the above-referenced Wiki University page.  Nothing more.  <br />
@@ -35,6 +38,7 @@ These definitions include a *modified fork* of the original [Landmartian Terms P
 
 Terms with "&trade;" or "&reg;" are trademarked or registered properties of [Landmark Worldwide](https://www.landmarkworldwide.com), are openly used in their public literature, and are only referenced here for complete Definitions.  All rights to these terms belong to Landmark Education and [Landmark Worldwide](https://www.landmarkworldwide.com), and no authorship or ownership is claimed in *any* way.
 
+<a id="terminology"></a>
 ## Terminology
 
 **Terms and Definitions here are Landmark Grad-written and *not* endorsed or *approved* by Landmark Worldwide**. *At all*.  This resource is intended to briefly cover the Ontology used by Forum Leaders during the 3-day seminar, by Landmark Forum graduates in the Landmark community.  This page does *not* propose (or state) that any of these definitions are the "correct" *meanings* of Landmark's terminology. *At all*. <br />
@@ -45,6 +49,7 @@ Feel free to write-in definitions for me, if you see something here that needs a
 
 #### IMPORTANT NOTE: These definitions are my own, and have ***not*** been reviewed or approved by Landmark Worldwide.
 
+<a id="definition"></a>
 ## Definitions
 
 • [***Act***](#act). An act is an ***inauthentic*** way of ***being*** that you project to others to *make yourself look good*; or (motivated by *being right*) a manner you take on for yourself *in furtherance of your own* desired self-image or as part of your [***strong suit***](#strong-suit). Many guys, for example, think of themselves as "tough guys", and perhaps should take a closer look at ways in which they really *are not* "*tough*". True tough guys don't need to prove it by treating people badly. Truly wealthy people don't need to prove it by ostentatious lifestyles. You may like to think of yourself as a responsible person, or as a generous person, but *are you*? You may like to show up for others as an extroverted or outgoing person, but if you're always feeling a need to prove it...it's simply an ***Act***. <br />
@@ -111,5 +116,5 @@ Terms with "&trade;" or "&reg;" are trademarked or registered properties of [Lan
 
 #### IMPORTANT NOTE: The definitions on this page are my own work product (using afforementioned resources) and are ***not*** reviewed or approved by Landmark Worldwide.
 
-
+<a id="faq"></a>
 ## FAQ
