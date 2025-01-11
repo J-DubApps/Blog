@@ -18,7 +18,6 @@ tags = ["thought", "philosophy", "self-development"]
 - [FAQ](#faq)
 
 
-<a id="preface"></a>
 ## Preface
 
 <i>This page is a companion document to my 3-part special write-up revisiting <b><a href="https://en.wikipedia.org/wiki/Landmark_Worldwide#Landmark_Forum">The Landmark Forum</a></b> in 2009: <b><a href="https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-1/">Part 1</a>, <a href="https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-2/">Part 2</a>, and <a href="https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-3/">Part 3</a></b></i><br />
@@ -27,7 +26,6 @@ These definitions include a *modified fork* of the original [Landmartian Terms P
 
 #### IMPORTANT NOTE: The definitions on this page are my own work product (using afforementioned resources) and are ***not*** reviewed or approved by Landmark Worldwide.
 
-<a id="special-notes"></a>
 ## Special Notes
 
 **Special Note 1**: The *intended audience* here is ***limited only to***: **Landmark Forum** ***Graduates*** seeking a refresher, or academic researchers. It is ***not*** to be used, *cited*, or linkback-referenced by those with any ax to grind (*or Racket*) with [Landmark Worldwide](https://www.landmarkworldwide.com)!  If you bring traffic here from a hate content page, I will see it in the logs and block you. The *only* points-of-view about Landmark expressed here are those from my articles above, or personal unbiased side-notes below. The terms are my own *personal interpretation* of [***The Landmark Forum***](https://en.wikipedia.org/wiki/Landmark_Worldwide#Landmark_Forum) technology, sourced from 30 year-old notes and the above-referenced Wiki University page.  Nothing more.  <br />
@@ -38,7 +36,6 @@ These definitions include a *modified fork* of the original [Landmartian Terms P
 
 Terms with "&trade;" or "&reg;" are trademarked or registered properties of [Landmark Worldwide](https://www.landmarkworldwide.com), are openly used in their public literature, and are only referenced here for complete Definitions.  All rights to these terms belong to Landmark Education and [Landmark Worldwide](https://www.landmarkworldwide.com), and no authorship or ownership is claimed in *any* way.
 
-<a id="terminology"></a>
 ## Terminology
 
 **Terms and Definitions here are Landmark Grad-written and *not* endorsed or *approved* by Landmark Worldwide**. *At all*.  This resource is intended to briefly cover the Ontology used by Forum Leaders during the 3-day seminar, by Landmark Forum graduates in the Landmark community.  This page does *not* propose (or state) that any of these definitions are the "correct" *meanings* of Landmark's terminology. *At all*. <br />
@@ -49,11 +46,10 @@ Feel free to write-in definitions for me, if you see something here that needs a
 
 #### IMPORTANT NOTE: These definitions are my own, and have ***not*** been reviewed or approved by Landmark Worldwide.
 
-<a id="definition"></a>
 ## Definitions
 
-• [***Act***](#act). An act is an ***inauthentic*** way of ***being*** that you project to others to *make yourself look good*; or (motivated by *being right*) a manner you take on for yourself *in furtherance of your own* desired self-image or as part of your [***strong suit***](#strong-suit). Many guys, for example, think of themselves as "tough guys", and perhaps should take a closer look at ways in which they really *are not* "*tough*". True tough guys don't need to prove it by treating people badly. Truly wealthy people don't need to prove it by ostentatious lifestyles. You may like to think of yourself as a responsible person, or as a generous person, but *are you*? You may like to show up for others as an extroverted or outgoing person, but if you're always feeling a need to prove it...it's simply an ***Act***. <br />
-• [***Already always listening***](#already-always-listening).&trade;  Undistinguished *pre-existing interpretations* that shape, color and influence the way people *experience* their relationships with other people, circumstances, and *even themselves*. AAL is that "little voice in your head" that is finishing other peoples' sentences, the voice of your imagination, and the *interpretations* you're constantly making. Recognizing and changing *your* ***Listening*** is a huge concept (and end goal) in the Landmark Forum. <br />
+• ***Act***<a id="act"></a>. An act is an ***inauthentic*** way of ***being*** that you project to others to *make yourself look good*; or (motivated by *being right*) a manner you take on for yourself *in furtherance of your own* desired self-image or as part of your [***strong suit***](#strong-suit). Many guys, for example, think of themselves as "tough guys", and perhaps should take a closer look at ways in which they really *are not* "*tough*". True tough guys don't need to prove it by treating people badly. Truly wealthy people don't need to prove it by ostentatious lifestyles. You may like to think of yourself as a responsible person, or as a generous person, but *are you*? You may like to show up for others as an extroverted or outgoing person, but if you're always feeling a need to prove it...it's simply an [***Act***](#act). <br />
+• ***Already always listening***<a id="aal"></a>.&trade;  Undistinguished *pre-existing interpretations* that shape, color and influence the way people *experience* their relationships with other people, circumstances, and *even themselves*. AAL is that "little voice in your head" that is finishing other peoples' sentences, the voice of your imagination, and the *interpretations* you're constantly making. Recognizing and changing *your* ***Listening*** is a huge concept (and end goal) in the Landmark Forum. <br />
 • ***Advanced Course***(s). The next immediate course, which now appears to be selection of courses you can choose from.  When I attended, the immediate second required course was *fixed* as you needed to complate that Advanced Course as part of what Landmark called the "***Curriculum for Living***."  I never attended beyond the original 3-day Landmark Forum, mainly due to work projects and family obligations.<br />
 • ***Aliveness***. A sense of being fully aware, fully present and fully yourself.  It is a **state of** ***being*** that Landmark Forum wants to help you deliver for yourself. <br />
 • [***At Cause***](#at-cause). **Taking responsibility for** ***how you experience*** **and** ***respond*** **to events**, believing you can generate new possibilities *rather than* being *limited* by old *stories* or external constraints. “**Cause**”: You create your experience. *See also* [***At Effect***](#at-effect).  <br />
@@ -110,11 +106,11 @@ Feel free to write-in definitions for me, if you see something here that needs a
 • ***Unreasonable***. Not to be mistaken for irrational, going *beyond* one’s reasons, justifications and considerations to act on something one is committed to.<br />
 • ***Unreasonable Request***. A request that requires one to go *beyond* one’s reasons, justifications and considerations to act on something one is committed to.<br />
 • ***Vicious circle***.&trade; The human tendency to collapse ***what happened*** with **the** ***story we tell*** **ourselves (or others)** ***ABOUT what happened***. **The story** creates a clearing, a ***listening***, for *that which supports the story* (confirmation bias, etc), resulting in *more occurrences* of *things that further support* ***the story***, forming a self-supporting ***Vicious Circle***.<br />
-• ***What Happened***. **Consensual reality**, "*objective*" reality, aside from judgment, blame, right/wrong, good/bad, and *other forms of* "**meaning**." **What happens** ***occurs*** to us *as it is analyzed* our ***Already Always Listening*** to be good/bad, etc. If my ex-wife told me she had a problem with what I've done, that's ***what happened***. If I say that "*she was unreasonable*", ***that's my story about it***, **not** ***what happened***. *See also* ***Story***. --NOTE: This is not a Landmark term. Just the generic meaning of the word is used in Landmark programs.<br />
+• ***What Happened***. **Consensual reality**, "*objective*" reality, aside from judgment, blame, right/wrong, good/bad, and *other forms of* "**meaning**." **What happens** ***occurs*** to us *as it is analyzed* our [***Already Always Listening***](#aal) to be good/bad, etc. If my ex-wife told me she had a problem with what I've done, that's ***what happened***. If I say that "*she was unreasonable*", ***that's my story about it***, **not** ***what happened***. *See also* ***Story***. --NOTE: This is not a Landmark term. Just the generic meaning of the word is used in Landmark programs.<br />
 
 Terms with "&trade;" or "&reg;" are trademarked or registered properties of [Landmark Worldwide](https://www.landmarkworldwide.com), are openly used in their public literature, and are only referenced here for complete Definitions.  All rights to these terms belong to Landmark Education and [Landmark Worldwide](https://www.landmarkworldwide.com), and no authorship or ownership is claimed in *any* way.
 
 #### IMPORTANT NOTE: The definitions on this page are my own work product (using afforementioned resources) and are ***not*** reviewed or approved by Landmark Worldwide.
 
-<a id="faq"></a>
+
 ## FAQ
