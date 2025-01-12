@@ -10,7 +10,7 @@ tags = ["thought", "career", "leadership", "remote-work", "jdub-isms", "self-dev
 
 •	Everyone is replaceable—don’t oversacrifice or exhaust yourself for any single job.<br />
 •	Thoroughly document your work.<br />
-•	If your skillset becomes *irreplaceable*, ***you*** become ***unpromotable***: refer to the previous two reminders.  Documenting and working out a cross-train approach ([read my post on that here](https://julianwest.me/Blog/empowering-independence-it/)) is key.<br />
+•	If your skillset becomes *irreplaceable*, ***you*** become ***unpromotable***: refer to the previous two reminders.  Documenting and working out a cross-train approach ([read my post on that ***here***](https://julianwest.me/Blog/empowering-independence-it/)) is key.<br />
 •	Keep a record of important emails (and interactions, when needed)—proof beats promises & hearsay.<br />
 •	Free snacks or lunch is not a reward for your hard work. Culture isn’t about snacks, or the chow line: it’s about creating an environment where people feel valued, supported, and empowered to do their best work. <br />
 •	Minimize "eating in your office" (see previous reminder) and take walks -- this goes the same for when remote-working. It's unavoidable that you need to eat there sometimes, but don't make it every day. <br />
