@@ -220,12 +220,12 @@ Terms or phrases with "&trade;" or "&reg;" are *trademarked* or *registered* pro
 
 #### 2. Are you a Landmark Forum fan, enthusiast, or shill?  Otherwise what is the point of this page?
 
-No.  I am just a guy who got a free ride (company *sponsored / paid-for*) to attend The **Landmark Forum** in 1994.  And the *point* of this Glossary is *twofold*: <br /><br />
+No.  I am just a guy who got a free ride (company *sponsored / paid-for*) to attend The **Landmark Forum** in 1994.  And the *point* of this Glossary is *twofold*: <br />
 
 1. This Glossary is a companion piece to my 3-part special write-up on The **Landmark Forum** that I published here in 2009.  <br />
-2. This Glossary is *my own personal reference* and offered to **Landmark** Grads-to provide a place for unbiased and direct definitions of **Landmark** terms, as *I understood them* after attending over 30 years ago.  <br /> <br />
+2. This Glossary is *my own personal reference* and offered to **Landmark** Grads-to provide a place for unbiased and direct definitions of **Landmark** terms, as *I understood them* after attending over 30 years ago.  <br />
 
-So I talk about **Landmark Forum** without fear or favor, and I am not any kind of proseletyzing fan. That I attended and *got something out of* **Landmark** way back in 1994 was *personal* ***for me***, and me alone.  But my personal ***stand*** here is to create a place to keep track of my original notes on these concepts from 30 years ago, because I find some of them useful to this day.  Nothing more. <br /> <br />
+So I talk about **Landmark Forum** without fear or favor, and I am not any kind of proseletyzing fan. That I attended and *got something out of* **Landmark** way back in 1994 was *personal* ***for me***, and me alone.  But my personal ***stand*** here is to create a place to keep track of my original notes on these concepts from 30 years ago, because I find some of them useful to this day.  Nothing more. <br />
 
 So I am not trying to "*get people to join*" **Landmark Worldwide**, nor will I wave people away from **The Forum**.  I *do* beleive **The Forum** *is* useful for *some* types of people with certain personality traits which include curiosity, and a strong sense of who they already are (and don't mind self-examination from time-to-time). It is certainly ***not for everyone***, and I think **Landmark Worldwide** reps and **Forum** Leaders would 100% agree with me on that.
 
