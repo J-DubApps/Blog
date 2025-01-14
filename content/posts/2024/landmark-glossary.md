@@ -24,7 +24,7 @@ tags = ["thought", "philosophy", "self-development"]
 
 The terms, phrases, and definitions below are a *modified fork* of the original [Landmartian Glossary - Wiki University](https://en.wikiversity.org/w/index.php?title=Landmark_Education%2FAbd%2FGlossary&oldid=1963288), a Landmark Graduate-created page no longer maintained and ***not*** endorsed by [Landmark Worldwide](https://www.landmarkworldwide.com). <br />
 
-#### IMPORTANT NOTE: terms and definitions on this page are my own work product (using afforementioned resources) and are ***not*** reviewed or approved by [Landmark Worldwide](https://www.landmarkworldwide.com).
+#### IMPORTANT NOTE: terms and definitions on this page are my own personal work product (merging afforementioned resources with my understanding) and are ***not*** reviewed or approved by [Landmark Worldwide](https://www.landmarkworldwide.com).
 
 ## Special Notes
 
@@ -46,7 +46,7 @@ Feel free to write-in other terms or definitions to me, if you see something her
 
 **Terms and Definitions here are Landmark *Grad-written* and *not* endorsed or *approved* by Landmark Worldwide**. *At all*.  This resource is intended to briefly cover the [***Ontology***](#ontology) used by Forum Leaders during the 3-day seminar, and by **Landmark Forum** graduates in the community.  This page does *not* propose (or state) that any of these definitions are the "*correct*" *meanings* of **Landmark's terminology**. *At all*. <br />
 
-#### IMPORTANT NOTE: These definitions are my own, and have ***not*** been reviewed or approved by Landmark Worldwide.
+#### IMPORTANT NOTE: These definitions are my own personal work product and have ***not*** been reviewed or approved by Landmark Worldwide.
 
 ## Definitions
 <a id="act"></a>
@@ -205,7 +205,7 @@ Rather than labeling an ***unworkable*** situation as “*bad*,” **Landmark** 
 
 Terms or phrases with "&trade;" or "&reg;" are *trademarked* or *registered* properties of [Landmark Worldwide](https://www.landmarkworldwide.com), are openly used in their public literature, and are only referenced here for complete Definitions.  All rights to these terms belong to Landmark Education and [Landmark Worldwide](https://www.landmarkworldwide.com), and no authorship or ownership is claimed in *any* way.
 
-#### IMPORTANT NOTE: The terms and definitions on this page are my own work product (using afforementioned resources) and are ***not*** reviewed or approved by [Landmark Worldwide](https://www.landmarkworldwide.com).
+#### IMPORTANT NOTE: The terms and definitions on this page are my own personal work product and are ***not*** reviewed or approved by [Landmark Worldwide](https://www.landmarkworldwide.com).
 
 
 ## FAQ
