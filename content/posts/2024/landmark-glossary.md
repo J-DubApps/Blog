@@ -214,11 +214,22 @@ Terms or phrases with "&trade;" or "&reg;" are *trademarked* or *registered* pro
 
 **To put succintly**: the phrase "[**If you know, you** ***know***...](https://www.planoly.com/glossary/iykyk)" (IYKYK) applies here.  The *knowing* (*understanding* and retention) of these terms and concepts typically requires *attending* The **Landmark Forum** (or perhaps pursuing a degree focused on *both* Eastern and Western Philosophies...but The **Landmark Forum** is quicker and *cheaper*).  I believe people reading this Glossary *without* having attended **The Forum** is *folly*, and only invites frustration if your goal is to try and learn it. That is why the intended audiance are **Forum** grads or non-biased/academic researches.
 
-#### 2. I have read many of these terms and concepts in other materials, or experienced them in other seminar-based courses I took in the past. Can you share what *Philosophies* inform the Landmark Forum curriculum?
+#### 2. Are you a Landmark Forum fan, enthusiast, or shill?  Otherwise what is the point of this page?
+
+No.  I am just a guy who got a free ride (company *sponsored / paid-for*) to attend The **Landmark Forum** in 1994.  And the *point* of this Glossary is *twofold*: <br /><br />
+
+1. This Glossary is a companion piece to my 3-part special write-up on The **Landmark Forum** that I published here in 2009.  <br />
+2. This Glossary is *my own personal reference* and offered to **Landmark** Grads-to provide a place for unbiased and direct definitions of **Landmark** terms, as *I understood them* after attending over 30 years ago.  <br /> <br />
+
+So I talk about **Landmark Forum** without fear or favor, and I am not any kind of proseletyzing fan. That I attended and *got something* out of **Landmark** in 1994 was *personal* ***for me***, and me alone.  But my ***stand*** here is to create a place to keep track of my original notes on these concepts from 30 years ago, because I find some of them useful to this day.  Nothing more. <br /> <br />
+
+I have even been contacted by a **Forum** Leader who discreetly cautioning me, so that I won't become ***At-Effect*** of legal contact from **Landmark** -- hence my disclamiers as I make no claim on their IP.  I am not trying to "*get people to join*" **Landmark Worldwide**, nor will I wave people away from it.  I *do* beleive the **Forum** is useful for *some* types of people with certain personality traits, curiosity, and a strong sense of who they already are (and don't mind looking inside) It is certainly ***not for everyone***, and I think **Landmark Worldwide** reps would 100% agree with me on that.
+
+#### 3. I have read many of these terms and concepts in other materials, or experienced them in *other* seminars and conferences that I have attended in the past. Can you share what *Philosophies* inform the Landmark Forum curriculum?
 
 **A:** <br />
 
-Below is a list I compiled, of some of the primary philosophies (or philosophers) that I have *personally-read* (or read works *of*) which informed [Werner Erhard](https://en.wikipedia.org/wiki/Werner_Erhard) in his creation of the original [**est**]https://en.wikipedia.org/wiki/Erhard_Seminars_Training() and the newer [**Landmark**](https://en.wikipedia.org/wiki/Landmark_Worldwide) curriculums. I will include specific **Landmark** terms (in ***parenthesis***) next to each philosopher or philosophy that I cite: <br />
+Below is a list I compiled over the years, of some of the primary philosophies (or philosophers) that I have read, which seem to be the core knowledge that informed [Werner Erhard](https://en.wikipedia.org/wiki/Werner_Erhard) in his creation of the original [**est**](https://en.wikipedia.org/wiki/Erhard_Seminars_Training) curriculums. I will include specific **Landmark** terms (in ***parenthesis***) next to each philosopher *or* philosophy that I cite: <br />
 
 Alan Watts ()
 Edmund Husserl and *phenomenology* (the rigorous study of concious *experience as it appears*) influenced 20th-century existential thought ([***Occur***](#occur)), Epictetus (Stoicism)
