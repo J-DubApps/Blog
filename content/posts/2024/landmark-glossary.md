@@ -255,8 +255,8 @@ Yes! Below is a list I compiled over the years, of some of the primary philosoph
 [**Ludwig Wittgenstein**](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein) ([***Distinctions***](#distinction) and [***Story***](#story)) <br />
 [**Marcus Aurelius**](https://en.wikipedia.org/wiki/Marcus_Aurelius) ([***At Cause***](#at-cause) and [***At Effect***](#at-effect) come from ***Stoicism***) <br />
 [**Martin Heidegger**](https://en.wikipedia.org/wiki/Martin_Heidegger) and also [**The Kyoto School of Zen Philosphers**](https://plato.stanford.edu/entries/kyoto-school/) ([***Being***](#being)) <br /> 
-Seneca (his letters are studied in Stoicism as they encouraged *self-master*, *choice*, and *detachment from circumstances* as paths to equanimity) <br />
-Taoism (Taoist notion that events are empty until we give them meaning resonates with Taoist themes of ***wu wei*** (non-forcing) and the idea of “allowing” or “not resisting” [***what is***](#whats-so)) <br />
+[**Seneca**](https://en.wikipedia.org/wiki/Seneca_the_Younger) (his letters are studied in Stoicism as they encouraged *self-master*, *choice*, and *detachment from circumstances* as paths to equanimity) <br />
+[**Taoism**](https://en.wikipedia.org/wiki/Taoism) (Taoist notion that events are empty until we give them meaning resonates with Taoist themes of ***wu wei*** (non-forcing) and the idea of “allowing” or “not resisting” [***what is***](#whats-so)) <br />
 [**Zen**](https://plato.stanford.edu/entries/japanese-zen/) ([***Being***](#Being), [***Ontology***](#ontology))
 
 #### 4. I read somewhere that est borrows a lot, or steals, from Scientology. Is that true?
