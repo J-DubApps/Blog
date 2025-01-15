@@ -3,7 +3,7 @@ date = '2025-01-08T01:17:51-06:00'
 draft = false
 title = 'MDT Hard-Stop In Upcoming CM Update'
 type = 'post'
-tags = ["tech", "devops", "enterprise-it", "ms-config-mgr", "intune"]
+tags = ["tech", "devops", "enterprise-it", "ms-config-mgr", "intune", "endpoint-mgmt"]
 +++
 <img src="https://julianwest.me/Blog/posts/images/mdt-cm-jan-25.jpeg" alt="Alt text">
 
