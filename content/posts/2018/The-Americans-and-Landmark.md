@@ -4,7 +4,7 @@ draft = false
 title = 'My Tiny Contribution to FX&apos; &quot;The Americans&quot;'
 description = 'A PA For the show hit me Up about my EST / Landmark Forum write-up...'
 type = 'post'
-tags = ["thought", "philosophy", "self-development", "film-tv", "funny"]
+tags = ["thought", "philosophy", "self-development", "film-tv", "personal", "special-write-up"]
 +++
 #### DISCLAIMER NOTE: The views expressed on this blog are my personal views, and are not the views of Landmark. Refer to this site's [Terms of Use](https://julianwest.me/Blog/site-disclosure/) for further details.
 
@@ -28,4 +28,6 @@ So it's fun to think that my write-up perhaps led to some of what we saw depicte
 
 So that's my bit of tea I had to spill, about how my **Landmark Forum** write-up led to some interesting contact from FX a year and a half ago!  And, now that "*The Americans*" is over, I'm left wishing they kept going longer.  But all good things must come to an end.  I like to think Phillip and Elizabeth are back in modern post-soviet Russia, and their two kids are still over here and now spying for [Putin](https://en.wikipedia.org/wiki/Vladimir_Putin) and his Oligarch government.<br />
 
-Now wait...*that* would make a great revival plot for *The Americans*!!  🤔 ☺️
+Now wait...*that* would make a great revival plot for *The Americans*!!  🤔 ☺️ <br />
+
+<img src="https://julianwest.me/Blog/posts/images/Americans-Apr-2017.JPG" alt="Alt text">
