@@ -2,7 +2,7 @@
 date = '2018-08-16T23:02:36-06:00'
 draft = false
 title = 'My Tiny Contribution to FX&apos;s &quot;The Americans&quot;'
-description = 'A PA For the show hits me up about my EST / Landmark Forum write-up...'
+description = 'A PA for the show hits me up about my EST / Landmark Forum write-up...'
 type = 'post'
 tags = ["thought", "philosophy", "self-development", "film-tv", "personal", "special-write-up"]
 +++
