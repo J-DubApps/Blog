@@ -26,8 +26,8 @@ Anyway, my involvement with "*The Americans'*" final season was *minor* to say t
 
 So it's fun to think that my write-up perhaps led to some of what we saw depicted in the brief **Landmark** scenes in the Season 6!  I also have to think the PA I spoke with (and perhaps even producers) went to [Landmark Worldwide](https://en.wikipedia.org/wiki/Landmark_Worldwide#Landmark_Forum) as well, and I'd be surprised if at some of the writers and producers weren't **Landmark Forum** Graduates themselves. <br />  
 
-So that's my bit of tea I had to spill, about how my **Landmark Forum** write-up led to some interesting contact from FX a year and a half ago!  And, now that "*The Americans*" is over, I'm left wishing they kept going longer.  But all good things must come to an end.  I like to think Phillip and Elizabeth are back in modern post-soviet Russia, and their two kids are still over here and now spying for [Putin](https://en.wikipedia.org/wiki/Vladimir_Putin) and his Oligarch government.<br />
+So that's my bit of tea I had to spill, about how my **Landmark Forum** write-up led to some interesting contact from FX a year and a half ago!  And, now that "*The Americans*" is over, I'm left wishing they kept going longer.  But all good things must come to an end.  I like to think Phillip and Elizabeth are back in modern post-soviet Russia, and their two kids are still over here all grown-up and now spying for [Putin](https://en.wikipedia.org/wiki/Vladimir_Putin) and his Oligarch government.<br />
 
-Now wait...*that* would make a great revival plot for *The Americans*!!  🤔 ☺️ <br />
+Now wait...*that* would make a topical revival plot, to bring back *The Americans*!!  🤔 ☺️ <br />
 
 <img src="https://julianwest.me/Blog/posts/images/Americans-Apr-2017.JPG" alt="Alt text">
