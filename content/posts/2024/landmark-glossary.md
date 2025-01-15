@@ -245,16 +245,25 @@ So I am not trying to "*get people to join*" **Landmark Worldwide**, nor am I *a
 
 Yes! Below is a list I compiled over the years, of some of the primary philosophies (or philosophers) that I have read, which seem to be the core knowledge that informed [Werner Erhard](https://en.wikipedia.org/wiki/Werner_Erhard) in his creation of the original [**est**](https://en.wikipedia.org/wiki/Erhard_Seminars_Training) curriculums. I will include specific **Landmark** terms (in ***parenthesis***) next to each philosopher *or* philosophy that I cite: <br />
 
-Alan Watts ()
-Edmund Husserl and *phenomenology* (the rigorous study of concious *experience as it appears*) influenced 20th-century existential thought ([***Occur***](#occur)), Epictetus (Stoicism)
-[**Marcus Aurelius**](https://en.wikipedia.org/wiki/Marcus_Aurelius) ([***At Cause***](#at-cause) and [***At Effect***](#at-effect) come from Stoicism), [**Martin Heidegger**](https://en.wikipedia.org/wiki/Martin_Heidegger) and also [**The Kyoto School of Zen Philosphers**](https://plato.stanford.edu/entries/kyoto-school/) ([***Being***](#being)), Seneca (his letters are studied in Stoicism as they encouraged *self-master*, *choice*, and *detachment from circumstances* as paths to equanimity), Taoism (Taoist notion that events are empty until we give them meaning resonates with Taoist themes of ***wu wei*** (non-forcing) and the idea of “allowing” or “not resisting” [***what is***](#whats-so)), [**Zen**](https://plato.stanford.edu/entries/japanese-zen/) ([***Being***](#Being), [***Ontology***](#ontology))
+[**Abraham Maslow**](https://en.wikipedia.org/wiki/Abraham_Maslow) (emphasized self-actualization and *peak experiences* / the impetus for personal transformation found in **est** correlates with the push toward self-actualization and tapping hidden human potential) <br />
+[**Alan Watts**](https://en.wikipedia.org/wiki/Alan_Watts), (not strictly a philosopher, but popularized Zen and Eastern thought in the West) <br />
+[**Alfred Korzybski**](https://en.wikipedia.org/wiki/Alfred_Korzybski) and ***General Semantics*** ([***What Happened***](#what-happened) and [***What's So***](#whats-so)) - famous for "The map is not the territory" - teaches the difference between reality and *our understanding (interpretation) of it*. <br />
+[**R. Buckminster Fuller**](https://en.wikipedia.org/wiki/Buckminster_Fuller) (Werner Erhard was directly inspired by Fuller, who taught about ***integrity***, design science, and “doing more with less”) <br />
+[**Edmund Husserl**](https://en.wikipedia.org/wiki/Edmund_Husserl) and ***phenomenology*** (the rigorous study of concious *experience as it appears*) influenced 20th-century existential thought ([***Occur***](#occur)) <br />
+[**Epictetus**](https://en.wikipedia.org/wiki/Epictetus) (***Stoicism***) <br />
+[**Jean-Paul Sartre**](https://en.wikipedia.org/wiki/Jean-Paul_Sartre) ([***Freedom***](#freedom) and [***Responsibility***](#responsibility)) <br />
+[**Ludwig Wittgenstein**](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein) ([***Distinctions***](#distinction) and [***Story***](#story)) <br />
+[**Marcus Aurelius**](https://en.wikipedia.org/wiki/Marcus_Aurelius) ([***At Cause***](#at-cause) and [***At Effect***](#at-effect) come from ***Stoicism***) <br />
+[**Martin Heidegger**](https://en.wikipedia.org/wiki/Martin_Heidegger) and also [**The Kyoto School of Zen Philosphers**](https://plato.stanford.edu/entries/kyoto-school/) ([***Being***](#being)) <br /> 
+Seneca (his letters are studied in Stoicism as they encouraged *self-master*, *choice*, and *detachment from circumstances* as paths to equanimity) <br />
+Taoism (Taoist notion that events are empty until we give them meaning resonates with Taoist themes of ***wu wei*** (non-forcing) and the idea of “allowing” or “not resisting” [***what is***](#whats-so)) <br />
+[**Zen**](https://plato.stanford.edu/entries/japanese-zen/) ([***Being***](#Being), [***Ontology***](#ontology))
 
-#### 3.
+#### 4. I read somewhere that est borrows a lot, or steals, from Scientology. Is that true?
 
 **A:**
 
-
-
+While Werner Erhard was involved with [**Scientology**](https://en.wikipedia.org/wiki/Scientology) for a brief period, the extent of direct influence on **est** is debated. Some see parallels in the intense group sessions, the focus on *personal* ***responsibility***, and the breakdown of personal narratives. Others note major conceptual differences (no emphasis on “thetans” or “reactive mind,” for instance). Having read a little about **Scientology**, there really is very little it has in common with the modern **Forum**.  Still, many historians list it as an early exposure Erhard had before launching **est**.  And it's no secret that L. Ron Hubbard cribbed many concepts and teachings from people I listed above, when he wrote "*Dianetics*" and later **Scientology** courses.  I think maybe credit to Erhard, though, for not creating a *religion* from those philosophers. 🙃 <br /> <br /> 
 
 Terms or phrases with "&trade;" or "&reg;" are *trademarked* or *registered* properties of [Landmark Worldwide](https://www.landmarkworldwide.com), are openly used in their public literature, and are only referenced here for complete Definitions.  All rights to these terms belong to Landmark Education and [Landmark Worldwide](https://www.landmarkworldwide.com), and *no authorship or ownership* to any material in this Glossary is claimed in *any* way.
 
