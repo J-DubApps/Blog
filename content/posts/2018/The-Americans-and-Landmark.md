@@ -2,11 +2,11 @@
 date = '2018-08-16T23:02:36-06:00'
 draft = false
 title = 'My Tiny Contribution to FX&apos;s &quot;The Americans&quot;'
-description = 'A PA For the show hit me Up about my EST / Landmark Forum write-up...'
+description = 'A PA For the show hits me up about my EST / Landmark Forum write-up...'
 type = 'post'
 tags = ["thought", "philosophy", "self-development", "film-tv", "personal", "special-write-up"]
 +++
-Well I just remembered (read: *mourned*) that one of my absolute favorite TV shows, [FX's](https://en.wikipedia.org/wiki/FX_(TV_channel)) "[*The Americans*](https://en.wikipedia.org/wiki/The_Americans)" ended its six-season run earlier this year.  And that reminded me that I am no longer under any kind of lid to talk about it, so here's a quick word on my *tiny*, humble, but *fun* contribution to Season 6!  <br />
+Well I just remembered (read: *mourned*) that one of my absolute favorite TV shows, [FX's](https://en.wikipedia.org/wiki/FX_(TV_channel)) "[*The Americans*](https://en.wikipedia.org/wiki/The_Americans)", wrapped earlier this year-ending its six-season run.  That reminded me that I am no longer under a lid to talk about it, so here's a quick blog post on my *tiny*, humble, but *fun* possible contribution to Season 6!  <br />
 
 First, a little background if you are unfamiliar with "*The Americans*" TV series. It is a [Cold War](https://en.wikipedia.org/wiki/Cold_War) spy-drama set in the late 1970s through the 80s, in which two Soviet [KGB](https://en.wikipedia.org/wiki/KGB) Intel Officers pose as an American married couple living in a Virginia suburb outside Washington DC. The couple are raising their two American-born kids, and they balance their family life with their spying duties (which get pretty intense, dark, and downright *insane*). <br />
 
