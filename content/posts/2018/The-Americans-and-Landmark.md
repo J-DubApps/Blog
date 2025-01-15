@@ -6,8 +6,6 @@ description = 'A PA For the show hit me Up about my EST / Landmark Forum write-u
 type = 'post'
 tags = ["thought", "philosophy", "self-development", "film-tv", "personal", "special-write-up"]
 +++
-#### DISCLAIMER NOTE: The views expressed on this blog are my personal views, and are not the views of Landmark. Refer to this site's [Terms of Use](https://julianwest.me/Blog/site-disclosure/) for further details.
-
 Well I just remembered (read: *mourned*) that one of my absolute favorite TV shows, [FX's](https://en.wikipedia.org/wiki/FX_(TV_channel)) "[*The Americans*](https://en.wikipedia.org/wiki/The_Americans)" ended its six-season run earlier this year.  And that reminded me that I am no longer under any kind of lid to talk about it, so here's a quick word on my *tiny*, humble, but *fun* contribution to Season 6!  <br />
 
 First, a little background if you are unfamiliar with "*The Americans*" TV series. It is a [Cold War](https://en.wikipedia.org/wiki/Cold_War) spy-drama set in the late 1970s through the 80s, in which two Soviet [KGB](https://en.wikipedia.org/wiki/KGB) Intel Officers pose as an American married couple living in a Virginia suburb outside Washington DC. The couple are raising their two American-born kids, and they balance their family life with their spying duties (which get pretty intense, dark, and downright *insane*). <br />
