@@ -4,7 +4,7 @@ draft = false
 title = 'My Personal Favorite AI Prompts'
 description = "Get your LLM Prompt Engineering On..."
 type = 'post'
-tags =  "ai", "tech", "links"]
+tags =  ["ai", "tech", "links"]
 +++
 [**My Favorite AI Prompts Here**](https://github.com/J-DubApps/J-Dub-Prompts/tree/main)
 
