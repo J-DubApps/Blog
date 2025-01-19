@@ -1,0 +1,41 @@
++++
+date = '2018-10-16T23:02:36-06:00'
+draft = false
+title = 'The Americans EST Episodes'
+description = 'As-requested: A list of episodes featuring est / Landmark...'
+type = 'post'
+tags = ["thought", "philosophy", "self-development", "film-tv", "personal", "special-write-up"]
++++
+
+After [**my recent post**](https://julianwest.me/Blog/the-americans-and-landmark/) about the FX series “[***The Americans***](https://en.wikipedia.org/wiki/The_Americans),” where a PA and writer reached-out to discuss [**my Landmark Forum posts**](https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-1/), I have heared from people asking which episodes of “***The Americans***” features [**Erhard Seminars Training**](https://en.wikipedia.org/wiki/Erhard_Seminars_Training) (est) scenes. Est plays a notable role in the character development of *Philip Jennings*, who actually uses [Werner Erhard's](https://en.wikipedia.org/wiki/Werner_Erhard) self-improvement seminars to (ironically) become more Authentic and centered while *at the same time* being a specialized killer spy who practices deep *inauthenticity*.  Something that would probably have given someone like Erhard a breakdown.  It was wild to imagine people in service of the Soviet KGB, taking American self-improvement seminars. An interesting juxtaposition and a credit to the writers for adding that est / Landmark angle. <br /> 
+
+So there aren't actually *that many* episodes of “The Americans” that feature **est**, and even fewer featuring **Landmark Forum**.  They are little side-bits which add a lot of color to each season's story arc.  At any rate here's my list, for those asking:
+
+### 1. Season 2, Episode 8: “New Car”
+•	This episode is the first time est is ever mentioned, almost in-passing, but I am including it anyway.  Sandra reminds Stan about her est graduation.  <br />
+
+### 2. Season 3, Episode 1: “EST Men”
+•	This episode introduces the est storyline, where Philip and Stan Beeman attend a weekend est seminar. Stan finds the experience unappealing, while Philip (who really only went to keep tabs on Stan, or maybe be his buddy - who knows?) ends up starting to explore its concepts.  <br />
+
+### 3. Season 3, Episode 4: “Dimebag”
+•	This episode continnues the est storyline, where Philip and Stan Beeman attend another weekend est seminar. Stan gets called-on to share.  It doesn't go well and Stan says est is all "bullsh*t", and he gets applause for it.  On an unrelated note, Philip really pulls a perfect 80s "David Koresh" look (or maybe Mitch Hedberg) as a disguise for one of his ongoing Ops.   <br />
+
+### 4. Season 4, Episode 1: “Glanders”
+•	Phillip is in an est (or Landmark Forum, it's unclear) seminar, going through an exercise on how he felt guilty or *at effect* of how he handled a situation with kid bully (in Soviet Russia, but Phillip leaves that out).  It's a brief scene, but reminds the audience Phillip is continuing to attend est (with Stan Beeman's wife, no less).  <br />
+
+### 5. Season 4, Episode 8: “The Magic of David Copperfield V: The Statue of Liberty Disappears”
+•	Elizabeth Jennings attends an est session, reflecting the program’s influence on the characters’ introspection and personal conflicts.  They later talk about est and have a fight when Elizabeth calls "*getting it*" bullsh*t.  Their fight isn't really about est so much as it is about their lives as spies, and the toll it's taking.   <br />
+
+### 6. Season 4, Episode 13: “Persona Non Grata”
+•	Philip participates in an est meeting, where he expresses his dissatisfaction with his covert life, highlighting his internal struggles.  This may be the last-appearance of est in the series, as we're heading into the mid-80s now and any future seminar apperances will not show any "est" branding.  <br />
+
+### 7. Season 5, Episode 5: “Lotus 1-2-3"
+•	Philip attends a Forum seminar session about how Story affects how we experience (or don't experience) love.  Philiip seems to be thinking about his Russian son.   <br />
+
+### 8. Season 5, Episode 10: “Darkroom"
+•	A montage scene with Philip jogging is juxtaposed to a recent Landmark Forum meeting he attended (by this time, the "est" aspects seem to be gone -- and the overall look is that of "*The Forum*" which would about match the time period of Season 5).   <br />
+
+### 9. Season 6, Episode 6: "Rififi"
+•	Philip asks Elizabeth about a sudden urgen mission she's taking, and when he tries to ask her what's going on -- and they should talk, and not let things "fester".  Elizabeth responds with "Why don't you take your Forum bullsh*t** and shove it up your ass". The first *official* acknowledgement we're in the mid-80s "*The Forum*", and further confirmation Elizabeth just doesn't share Philip's est / Forum learnings.  As far as I know this is the last appearance or mention of **The Forum**.   <br />
+
+<img src="https://julianwest.me/Blog/posts/images/Americans-Apr-2017.JPG" alt="Alt text">

@@ -263,9 +263,33 @@ Yes! Below is a list I compiled over the years, of some of the primary philosoph
 
 #### 4. I read somewhere that est borrows a lot, or steals, from Scientology. Is that true?
 
-**A:**
+**A:** <br />
 
 While Werner Erhard was involved with [**Scientology**](https://en.wikipedia.org/wiki/Scientology) for a brief period, the extent of direct influence on **est** is debated. Some see parallels in the intense group sessions, the focus on *personal* ***responsibility***, and the breakdown of personal narratives. Others note major conceptual differences (no emphasis on “thetans” or “reactive mind,” for instance). Having read a little about **Scientology**, there really is very little it has in common with the modern **Forum**.  Still, many historians list it as an early exposure Erhard had before launching **est**.  And it's no secret that L. Ron Hubbard cribbed many concepts and teachings from people I listed above, when he wrote "*Dianetics*" and later **Scientology** courses.  I think maybe credit to Erhard, though, for not creating a *religion* from those philosophers. 🙃 <br /> <br /> 
+
+#### 5. What are other sites, beyond this one, where I can read about Landmark Forum?  
+
+**A:** <br />
+
+Well there's always the official [**Landmark Worldwide**](https://www.landmarkworldwide.com) site, but for reviews or write-ups I enjoyed the following articles below.  Several unvarnished opinions, critiques, etc as well.  <br />
+
+[**A Skeptic Goes to the Landmark Forum**](https://fortelabs.com/blog/a-skeptic-goes-to-the-landmark-forum/) <br />
+[**The Landmark Forum: 42 Hours, $500, 65 Breakdowns**](https://www.motherjones.com/politics/2009/08/landmark-42-hours-500-65-breakdowns/) <br />
+[**A Review and Summary of the Landmark Forum**](https://www.lesswrong.com/posts/BrF3jGCHnNm9iCCxp/a-review-and-summary-of-the-landmark-forum) <br />
+[**My Review of Landmark Forum**](https://ozchen.com/landmark-forum-review/) <br />
+[**My Landmark Forum Review: The Good, The Bad, and The Boring**](https://nickgray.net/landmark-forum/) <br />
+[**Landmark Education A Cult? (Not Even Close)**](https://nickglassett.com/landmark-education-cult/) <br />
+[**The Landmark Forum — a rationalist's first impression**](https://www.lesswrong.com/posts/s4JE7cNqxqwxFmFe2/the-landmark-forum-a-rationalist-s-first-impression) <br />
+[**Landmark Forum: Mysterious training course coming to your office**](https://www.news.com.au/lifestyle/real-life/news-life/landmark-forum-mysterious-training-course-coming-to-your-office/news-story/59b95a445f1049228b8ea7863ac183f3) <br />
+[**You’re O.K., but I’m Not. Let’s Share.**](https://www.nytimes.com/2010/11/28/fashion/28Landmark.html) <br />
+[](https://www.peterjthomson.com/2012/01/zen-at-work/) <br />
+[**Get Confident, Stupid!**](https://www.gq.com/story/landmark-forum-get-confident-stupid-gq-may-2005) <br />
+[**I thought I'd be brainwashed. But how wrong could I be...**](https://www.theguardian.com/uk/2003/dec/14/ameliahill.theobserver) <br />
+
+
+
+[**The Return of Werner Erhard**](https://www.nytimes.com/2015/11/29/fashion/the-return-of-werner-erhard-father-of-self-help.html) <br />
+
 
 Terms or phrases with "&trade;" or "&reg;" are *trademarked* or *registered* properties of [Landmark Worldwide](https://www.landmarkworldwide.com), are openly used in their public literature, and are only referenced here for complete Definitions.  All rights to these terms belong to Landmark Education and [Landmark Worldwide](https://www.landmarkworldwide.com), and *no authorship or ownership* to any material in this Glossary is claimed in *any* way.
 
