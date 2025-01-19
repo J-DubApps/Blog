@@ -4,7 +4,7 @@ draft = false
 title = 'The Americans EST Episodes'
 description = 'As-requested: A list of episodes featuring est / Landmark...'
 type = 'post'
-tags = ["thought", "philosophy", "self-development", "film-tv", "personal", "special-write-up"]
+tags = ["thought", "philosophy", "self-development", "film-tv"]
 +++
 
 After [**my recent post**](https://julianwest.me/Blog/the-americans-and-landmark/) about the FX series “[***The Americans***](https://en.wikipedia.org/wiki/The_Americans),” where a PA and writer reached-out to discuss [**my Landmark Forum posts**](https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-1/), I have heared from people asking which episodes of “***The Americans***” features [**Erhard Seminars Training**](https://en.wikipedia.org/wiki/Erhard_Seminars_Training) (est) scenes. Est plays a notable role in the character development of *Philip Jennings*, who actually uses [Werner Erhard's](https://en.wikipedia.org/wiki/Werner_Erhard) self-improvement seminars to (ironically) become more Authentic and centered while *at the same time* being a specialized killer spy who practices deep *inauthenticity*.  Something that would probably have given someone like Erhard a breakdown.  It was wild to imagine people in service of the Soviet KGB, taking American self-improvement seminars. An interesting juxtaposition and a credit to the writers for adding that est / Landmark angle. <br /> 
@@ -36,6 +36,8 @@ So there aren't actually *that many* episodes of “The Americans” that featur
 •	A montage scene with Philip jogging is juxtaposed to a recent Landmark Forum meeting he attended (by this time, the "est" aspects seem to be gone -- and the overall look is that of "*The Forum*" which would about match the time period of Season 5).   <br />
 
 ### 9. Season 6, Episode 6: "Rififi"
-•	Philip asks Elizabeth about a sudden urgen mission she's taking, and when he tries to ask her what's going on -- and they should talk, and not let things "fester".  Elizabeth responds with "Why don't you take your Forum bullsh*t** and shove it up your ass". The first *official* acknowledgement we're in the mid-80s "*The Forum*", and further confirmation Elizabeth just doesn't share Philip's est / Forum learnings.  As far as I know this is the last appearance or mention of **The Forum**.   <br />
+•	Philip asks Elizabeth about a sudden urgent mission she's taking, and when he tries to ask her what's going on -- and they should talk, and not let things "fester".  Elizabeth responds with "Why don't you take your Forum bullsh*t** and shove it up your ass". The first *official* acknowledgement we're in the mid-80s "*The Forum*", and further confirmation Elizabeth just doesn't share Philip's est / Forum learnings.  Elizabeth later asks Philip for help, without trying to ask, and he heads out to save her mission.  As far as I know this is the last appearance or mention of **The Forum**.  As a side note, this seems to be where Stan Beeman's suspicions of Philip and Elizabeth begin accelerating toward a fever-pitch.  He asks Philip what's going on, and Stan sees through Philip's obvious lie, setting them all on a sad collision-course in the finale just 4 episodes later. <br />
 
-<img src="https://julianwest.me/Blog/posts/images/Americans-Apr-2017.JPG" alt="Alt text">
+All-in-all, I can't emphasize how great this show was.  It didn't need any of the est or Forum stuff to be the amazing show that it was.  Well-worth binging all 6 seasons, and ignore people who say Season 5 is a quiet boring season -- it's got some cool stuff, too.   One of the best series I ever watched, self-help siliness, or no. <br /> <br />
+
+<img src="https://julianwest.me/Blog/posts/images/The_Americans_EST.jpeg" alt="Alt text"> <img src="https://julianwest.me/Blog/posts/images/the-americans-forum.jpeg" alt="Alt text">
