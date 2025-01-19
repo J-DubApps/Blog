@@ -40,4 +40,4 @@ So there aren't actually *that many* episodes of “The Americans” that featur
 
 All-in-all, I can't emphasize how great this show was.  It didn't need any of the est or Forum stuff to be the amazing show that it was.  Well-worth binging all 6 seasons, and ignore people who say Season 5 is a quiet boring season -- it's got some cool stuff, too.   One of the best series I ever watched, self-help siliness, or no. <br /> <br />
 
-<img src="https://julianwest.me/Blog/posts/images/The_Americans_EST.jpeg" alt="Alt text"> <img src="https://julianwest.me/Blog/posts/images/the-americans-forum.jpeg" alt="Alt text">
+<img src="https://julianwest.me/Blog/posts/images/The_Americans_EST.jpeg" alt="Alt text"> <br /> <img src="https://julianwest.me/Blog/posts/images/the-americans-forum.jpeg" alt="Alt text">
