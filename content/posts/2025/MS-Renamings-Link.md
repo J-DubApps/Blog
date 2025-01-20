@@ -1,8 +1,8 @@
 +++
 date = '2025-01-20T01:15:51-06:00'
 draft = false
-title = 'Microsoft Product Name-Change Tracking Tool'
-description = 'Keeping track of Microsoft's Bipolar & Aimless Marketing...'
+title = 'Microsoft Product Name&#8208;Change Tracking Tool'
+description = 'Keeping track of Microsoft&#39;s Bipolar Branding Shifts...'
 type = 'post'
 tags = ["tech", "links", "microsoft", "cloud", "ms-office", "ms-teams", "azure", "entra-id", "intune"]
 +++
