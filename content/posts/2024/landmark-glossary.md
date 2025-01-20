@@ -20,7 +20,7 @@ tags = ["thought", "philosophy", "self-development"]
 
 ## Preface
 
-<i>This page is a *companion document* to my original 3-part special write-up revisiting my attendance of <b> <a href="https://en.wikipedia.org/wiki/Landmark_Worldwide#Landmark_Forum">The Landmark Forum</a></b> in 1994, originally published to this blog in 2009: <a href="https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-1/"> Part 1</a>, <a href="https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-2/">Part 2</a>, and <a href="https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-3/">Part 3</a></b></i>.  I regularly get asked questions about *word meanings* and *terminology* from readers of that 3-part write-up, which is how this rough *Glossary* came to be.  I really have nothing *new* to add about my **Landmark** experience that hasn't already been *said* in those write-ups, and I speak with no authority on this subject *there* or *here*: just my own personal, unbiased, memory. <br />
+<i>This page is a *companion piece* for my original 3-part special write-up revisiting my attendance of <b> <a href="https://en.wikipedia.org/wiki/Landmark_Worldwide#Landmark_Forum">The Landmark Forum</a></b> (in 1994) originally published to this blog in 2009: <a href="https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-1/"> Part 1</a>, <a href="https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-2/">Part 2</a>, and <a href="https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-3/">Part 3</a></b></i>.  I regularly get asked questions about *word meanings* and *terminology* from readers of that 3-part write-up, even [fielding a few questions from FX's team behind "*The Americans*"](https://julianwest.me/Blog/the-americans-and-landmark/).  Those conversations led to this rough *Glossary* coming together.  I really have nothing *new* to add about my original **Landmark** write-ups that hasn't already been *said*, and I speak with no authority on this topic: just my own personal, unbiased and vivid memory of The **Landmark Forum**. <br />
 
 The terms, phrases, and definitions below are a *modified fork* of the original [Landmartian Glossary - Wiki University](https://en.wikiversity.org/w/index.php?title=Landmark_Education%2FAbd%2FGlossary&oldid=1963288), a Landmark Graduate-created page no longer maintained and ***not*** endorsed by [Landmark Worldwide](https://www.landmarkworldwide.com). <br />
 
@@ -286,10 +286,19 @@ Well there's always the official [**Landmark Worldwide**](https://www.landmarkwo
 [](https://www.peterjthomson.com/2012/01/zen-at-work/) <br />
 [**Get Confident, Stupid!**](https://www.gq.com/story/landmark-forum-get-confident-stupid-gq-may-2005) <br />
 [**I thought I'd be brainwashed. But how wrong could I be...**](https://www.theguardian.com/uk/2003/dec/14/ameliahill.theobserver) <br />
-
-
-
 [**The Return of Werner Erhard**](https://www.nytimes.com/2015/11/29/fashion/the-return-of-werner-erhard-father-of-self-help.html) <br />
+
+#### 6. There really aren't *a lot* of books or official public documents about the original [est](https://en.wikipedia.org/wiki/Erhard_Seminars_Training), or about **Landmark** (or even books published *by* [**Landmark Worldwide**](https://www.landmarkworldwide.com) *itself*).  Are there any kind of books you can point me to, aside from the online articles and write-ups you gave here?
+
+**A:** <br />
+
+It's true there aren't a lot of books written about est and Landmark.  The seminars and training curriculum of both were meant to be provided in specific contexts which centered around an active dialog within a group setting.  So not a lot of written materials were really ever provided for est seminars or advanced courses (same with Landmark).  Since the training depended to a great extent on group dynamics, privacy for participants dictated that filming of entire seminars never be allowed.  Other than a few excerpts allowed by Erhard (and some, later, by Landmark in their marketing), it is nigh impossible to truly "*read about all the concepts*" (or get a blow-by-blow) of the training.  Like est before, Landmark believes you have to *experience* the Forum's dialog and flow, not read about it. But if you're willing to hunt down some out-of-print books from the 70s about est (some of which had input from est trainers, and [Werner Erhard](https://en.wikipedia.org/wiki/Werner_Erhard) himself) there is some interesting reading out there: <br /> 
+
+[Est: Erhard Seminars Training: 60 Hours That Transform Your Life](https://www.amazon.com/Est-Erhard-Seminars-Training-Transform/dp/0380006979) by Adelaide Bry <br />
+[EST: Playing The Game* The New Way](https://www.amazon.com/dp/0615547001/) by Carl L. Frederick <br />
+[est, Tools For Life, Transformation, And The Western Mind](https://www.amazon.com/Tools-Life-Transformation-Western-Mind/dp/B0C5P9M12P) by Ernie Schultze <br />
+[Speaking Being: Werner Erhard, Martin Heidegger, and a New Possibility of Being Human](https://www.amazon.com/dp/1119549906) by Bruce Hyde and Drew Kopp <br />
+[Werner Erhard The Transformation of a Man: The Founding of EST](https://www.amazon.com/dp/0517535025) by William Warren Bartley III <br />
 
 
 Terms or phrases with "&trade;" or "&reg;" are *trademarked* or *registered* properties of [Landmark Worldwide](https://www.landmarkworldwide.com), are openly used in their public literature, and are only referenced here for complete Definitions.  All rights to these terms belong to Landmark Education and [Landmark Worldwide](https://www.landmarkworldwide.com), and *no authorship or ownership* to any material in this Glossary is claimed in *any* way.
