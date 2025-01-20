@@ -20,4 +20,4 @@ tags = ["tech", "links", "microsoft", "cloud", "ms-office", "ms-teams", "azure",
         }
 </style>
 
-[**Here is a great site listing all recent Microsoft rebranding and name-changes**](https://m365maps.com/renames.htm).  Bookmark it.  Because Microsoft will probably rebrand something else, very soon.
+[**Here is a great site listing all recent Microsoft rebranding and name-changes**](https://m365maps.com/renames.htm).  Bookmark it.  Because Microsoft will probably rebrand something else in the next 5 minutes...
