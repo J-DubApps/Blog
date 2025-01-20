@@ -2,7 +2,7 @@
 date = '2025-01-20T01:15:51-06:00'
 draft = false
 title = 'Microsoft Product Name&#8208;Change Tracking Tool'
-description = "Keeping track of Microsoft's Manic Branding Shifts..."
+description = "Keeping track of Microsoft's manic branding shifts..."
 type = 'post'
 tags = ["tech", "links", "microsoft", "cloud", "ms-office", "ms-teams", "azure", "entra-id", "intune"]
 +++
