@@ -6,18 +6,6 @@ description = "Keeping track of Microsoft's Manic Branding Shifts..."
 type = 'post'
 tags = ["tech", "links", "microsoft", "cloud", "ms-office", "ms-teams", "azure", "entra-id", "intune"]
 +++
+[**Here is a useful site listing all recent Microsoft rebranding and name-changes**](https://m365maps.com/renames.htm).  Bookmark it, because another Microsoft rebranding is probably coming in the next 5 minutes... 🙄 <br />
 
- <style>
-        .truncate {
-            width: 300px; /* Set the desired width */
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
-        }
-        .truncate a {
-            text-decoration: none;
-            color: blue;
-        }
-</style>
-
-[**Here is a great site listing all recent Microsoft rebranding and name-changes**](https://m365maps.com/renames.htm).  Bookmark it.  Because Microsoft will probably rebrand something else in the next 5 minutes...
+<img src="https://julianwest.me/Blog/posts/images/MS-office-rebrand.jpg">
