@@ -8,4 +8,5 @@ tags = ["tech", "links", "microsoft", "cloud", "ms-office", "ms-teams", "azure",
 +++
 [**Here is a useful site listing all recent Microsoft rebranding and name-changes**](https://m365maps.com/renames.htm).  Bookmark it, because another Microsoft rebranding is probably coming in the next 5 minutes... 🙄 <br />
 
-<img src="https://julianwest.me/Blog/posts/images/MS-office-rebrand.jpg">
+<img src="https://julianwest.me/Blog/posts/images/MS-office-rebrand.jpg"><br/>
+<small> (Image credit: Microsoft / Future) </small>
