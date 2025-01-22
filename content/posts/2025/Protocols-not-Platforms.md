@@ -54,7 +54,7 @@ I personally think the shockwave is yet to come, but the rumble is well-underway
 3.	**Easier to Innovate**: Anyone can build new tools and services on top of an open protocol, spurring creativity and fresh ideas. <br />
 4.	**Real-World Example**: Email is a widely used protocol; you can have a Gmail address or a Yahoo address, or run *your own* email server, and still send messages back and forth with anyone else who uses email—**no single company** “***owns***” or “**controls**” all of email. <br />
 
-If we rely on *open protocols* rather than single, centralized platforms, in the next-era of social media-we encourage a healthier, more vibrant online ecosystem where people have greater autonomy, control, and freedom of speech. Protocols lower barriers to entry, foster competition, and help protect against any one authority deciding "*what is acceptable*" online. <br />
+If we rely on *open protocols* rather than single, centralized platforms, in the next-era of social media-we encourage a healthier, more vibrant online ecosystem where people have greater autonomy, control, and freedom of speech. Protocols lower barriers to entry, foster competition, and help protect against any one singular commercial entity deciding "*what is acceptable*" online. <br />
 
 If you're a non-technical person, the **tl;dr** (quick-takeway) is simply: **open, decentralized systems can naturally preserve more freedom and choice than closed, centralized platforms**. <br />
 
