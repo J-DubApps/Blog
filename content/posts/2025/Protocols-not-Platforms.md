@@ -1,5 +1,5 @@
 +++
-date = '2025-01-06T17:17:51-06:00'
+date = '2025-01-22T17:09:51-06:00'
 draft = false
 title = "Protocols &gt; Platforms"
 description = 'My take on a great think&ndash;piece&#44; and how it helped Bluesky get its moment...'
