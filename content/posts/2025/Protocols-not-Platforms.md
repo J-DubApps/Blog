@@ -36,11 +36,11 @@ According to [**Masnick's fantastic article**](https://knightcolumbia.org/conten
 ### Platform Approach:
 	•	Centralized. <br />
 	•	Company sets the rules (like content moderation policies). <br />
-	•	Innovation often comes from that one company, at its pace, in its ecosystem. 
+	•	Innovation often comes from that one company, at its pace, in its custome / owned ecosystem. 
 
 ### Protocol Approach:
 	•	Distributed. <br />
-	•	Many independent services and communities connect through a shared technical language. <br />
+	•	Many independent services and communities connect through a shared technical standard or "language". <br />
 	•	People can build new services on top of the same protocol, allowing for more choice and experimentation. <br />
 
 ## The Key Takeaways
