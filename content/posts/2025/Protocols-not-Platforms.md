@@ -2,7 +2,7 @@
 date = '2025-01-22T17:09:51-06:00'
 draft = false
 title = "Protocols &gt; Platforms"
-description = 'My take on a great think-piece, and how it helped Bluesky get its moment...'
+description = 'My take on a great think-piece, and how it helped Bluesky get to this moment...'
 type = 'post'
 tags = ["news-link", "social-media", "tech", "networking"]
 +++
