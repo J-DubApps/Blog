@@ -20,15 +20,15 @@ So Mike's essay provided this great *conceptual blueprint* which created conditi
 
 ## So What Are “Protocols” / “Platforms” in Internet & Social Media?
 
-- [***Platforms***](https://en.wikipedia.org/wiki/Digital_platform_(infrastructure)) – These are centralized online services like Facebook, YouTube, or Twitter. A platform is run by a single company or organization that controls how people interact, what content is allowed, how it’s displayed, and so forth. Since platforms are centralized, they can set and enforce rules from the top down. <br />
+- [***Platforms***](https://en.wikipedia.org/wiki/Digital_platform_(infrastructure)) – These are centralized online services like Facebook, YouTube, or Twitter. A platform is run by a single company or organization that controls how people interact, what content is allowed, how it’s displayed, and so forth. Since platforms are centralized, they can set and enforce rules from the top down. <br /> <br />
 - [***Protocols***](https://en.wikipedia.org/wiki/Communication_protocol) – These are agreed-upon rules or standards that let different computer systems talk to each other. Think of it like the “language” the Internet uses behind the scenes. For example, the basic protocols that move data from one place to another (TCP/IP) let anyone who follows them exchange information across the Internet—no single company owns or controls those protocols (for sake of argument we'll leave out DNS & BGP peering on ISPs -- fact is they all are robust and mostly free running atop TCP). Email (SMTP) is *another protocol* that ensures messages can flow freely across different email providers—again, no single gatekeeper is in charge (and, again, for sake of argument we'll leave out RBLs and spam filters).  With the social media [***AT Protocol***](https://en.wikipedia.org/wiki/AT_Protocol),, which [**Bluesky**](https://bsky.app) is runs on, the standardization on an *open protocols* works much the same way: no one owns it or can impact its function.<br />
 
 ## Why Protocols May Enhance Freedom of Expression
 
 According to [**Masnick's fantastic article**](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech), protocols give you the potential of ***decentralized control***, ***innovation***, and ***resilience***. <br />
 
-•	**Decentralized Control**: Because protocols are open standards rather than closed services, no one person (*ahem, Elon...ahem Zuck*) or company can easily block or censor entire communities (or networks). If you don’t like the rules on one email or social media service, you can switch to another that still “*speaks*” the same protocol. And so you remain part of the broader *network* no matter which community you might like. <br />
-•	**Encouraging Innovation**: When you have an open standard, anyone can create a new tool or service that uses the protocol. Think about how countless email clients or web browsers exist, each with different features—yet all speak the same basic “language.” This flexibility spurs competition and new ideas. <br />
+•	**Decentralized Control**: Because protocols are open standards rather than closed services, no one person (*ahem, Elon...ahem Zuck*) or company can easily block or censor entire communities (or networks). If you don’t like the rules on one email or social media service, you can switch to another that still “*speaks*” the same protocol. And so you remain part of the broader *network* no matter which community you might like. <br /><br />
+•	**Encouraging Innovation**: When you have an open standard, anyone can create a new tool or service that uses the protocol. Think about how countless email clients or web browsers exist, each with different features—yet all speak the same basic “language.” This flexibility spurs competition and new ideas. <br /> <br />
 •	**Resilience**: Because protocols are shared across many servers and operators (rather than concentrated in a single platform’s data centers), there’s no single point of failure or control. The Internet remains more durable and less prone to shutdowns. <br />
 
 **So it comes down to where we are *now***: <br />
@@ -49,10 +49,10 @@ According to [**Masnick's fantastic article**](https://knightcolumbia.org/conten
 
 I personally think the shockwave is yet to come, but the rumble is well-underway.  And we have a [***fascinating conceptual blueprint***(https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech) that laid it all out: <br / >
 
-	1. **Choice & Control**: Protocols grant you more choices about who you trust or which service you use. You’re not locked into a single entity’s decisions. <br />
-	2.	**Free Speech Concerns**: Under a *protocol system*, it’s harder for ***one big company*** to go and decide what billions of people can say or read. <br />
-	3.	**Easier to Innovate**: Anyone can build new tools and services on top of an open protocol, spurring creativity and fresh ideas. <br />
-	4.	**Real-World Example**: Email is a widely used protocol; you can have a Gmail address or a Yahoo address, or run *your own* email server, and still send messages back and forth with anyone else who uses email—**no single company** “***owns***” or “**controls**” all of email. <br />
+1. **Choice & Control**: Protocols grant you more choices about who you trust or which service you use. You’re not locked into a single entity’s decisions. <br />
+2.	**Free Speech Concerns**: Under a *protocol system*, it’s harder for ***one big company*** to go and decide what billions of people can say or read. <br />
+3.	**Easier to Innovate**: Anyone can build new tools and services on top of an open protocol, spurring creativity and fresh ideas. <br />
+4.	**Real-World Example**: Email is a widely used protocol; you can have a Gmail address or a Yahoo address, or run *your own* email server, and still send messages back and forth with anyone else who uses email—**no single company** “***owns***” or “**controls**” all of email. <br />
 
 If we rely on *open protocols* rather than single, centralized platforms, in the next-era of social media-we encourage a healthier, more vibrant online ecosystem where people have greater autonomy, control, and freedom of speech. Protocols lower barriers to entry, foster competition, and help protect against any one authority deciding "*what is acceptable*" online. <br />
 
