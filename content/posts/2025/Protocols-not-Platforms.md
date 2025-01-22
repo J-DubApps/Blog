@@ -25,7 +25,7 @@ So Mike's essay provided this great *conceptual blueprint* which created conditi
 
 ## Why Protocols May Enhance Freedom of Expression
 
-According to [**Masnick's fantastic article**](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech), protocols give you the potential of decentralized control, innovation, and resilience. <br />
+According to [**Masnick's fantastic article**](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech), protocols give you the potential of ***decentralized control***, ***innovation***, and ***resilience***. <br />
 
 •	**Decentralized Control**: Because protocols are open standards rather than closed services, no one person (*ahem, Elon...ahem Zuck*) or company can easily block or censor entire communities (or networks). If you don’t like the rules on one email or social media service, you can switch to another that still “*speaks*” the same protocol. And so you remain part of the broader *network* no matter which community you might like. <br />
 •	**Encouraging Innovation**: When you have an open standard, anyone can create a new tool or service that uses the protocol. Think about how countless email clients or web browsers exist, each with different features—yet all speak the same basic “language.” This flexibility spurs competition and new ideas. <br />
@@ -34,14 +34,14 @@ According to [**Masnick's fantastic article**](https://knightcolumbia.org/conten
 **So it comes down to where we are *now***: <br />
 
 ### Platform Approach:
-	•	Centralized. <br />
-	•	Company sets the rules (like content moderation policies). <br />
-	•	Innovation often comes from that one company, at its pace, in its custome / owned ecosystem. 
+•	Centralized. <br />
+•	Company sets the rules (like content moderation policies). <br />
+•	Innovation often comes from that one company, at its pace, in its custome / owned ecosystem. 
 
 ### Protocol Approach:
-	•	Distributed. <br />
-	•	Many independent services and communities connect through a shared technical standard or "language". <br />
-	•	People can build new services on top of the same protocol, allowing for more choice and experimentation. <br />
+•	Distributed. <br />
+•	Many independent services and communities connect through a shared technical standard or "language". <br />
+•	People can build new services on top of the same protocol, allowing for more choice and experimentation. <br />
 
 ## The Key Takeaways
 
