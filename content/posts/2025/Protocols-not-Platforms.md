@@ -6,7 +6,7 @@ description = 'My take on a great think-piece, and how it helped Bluesky get to 
 type = 'post'
 tags = ["news-link", "social-media", "tech", "networking"]
 +++
-**More people should read** [***this 2019 Essay***](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech) by [**Mike Masnick**](https://bsky.app/profile/did:plc:cak4klqoj3bqgk5rj6b4f5do)-and then they should read it ***again***.  That fantastic write-up is why, in large part, we got to where we are here 2025.  [**Bluesky**](https://bsky.app) is surging, and social media is undergoing major shifts.  The *other* reasons social media is flux-[***I'll leave to history to decide***](https://www.thecut.com/article/elon-musk-jeff-bezos-mark-zuckerberg-trumps-broligarchy-is-here.html). <br />
+**More people should read** [***this 2019 Essay***](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech) by [**Mike Masnick**](https://bsky.app/profile/did:plc:cak4klqoj3bqgk5rj6b4f5do)-and then they should read it ***again***.  That fantastic write-up is why, in large part, we got to where we are here in 2025.  [**Bluesky**](https://bsky.app) is surging, and social media is undergoing major shifts.  The *other* reasons social media is flux-[***I'll leave to history to decide***](https://www.thecut.com/article/elon-musk-jeff-bezos-mark-zuckerberg-trumps-broligarchy-is-here.html). <br />
 
 But I found these two passages prescient from [**Masnick's article**](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech): 
 
