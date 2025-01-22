@@ -56,6 +56,6 @@ I personally think the shockwave is yet to come, but the rumble is well-underway
 
 If we rely on *open protocols* rather than single, centralized platforms, in the next-era of social media-we encourage a healthier, more vibrant online ecosystem where people have greater autonomy, control, and freedom of speech. Protocols lower barriers to entry, foster competition, and help protect against any one authority deciding "*what is acceptable*" online. <br />
 
-If you're a non-technical person, the **tl;dr** (quick-takeway) is simply: **open, decentralized systems naturally preserve more freedom and choice than closed, centralized platforms do**. <br />
+If you're a non-technical person, the **tl;dr** (quick-takeway) is simply: **open, decentralized systems can naturally preserve more freedom and choice than closed, centralized platforms**. <br />
 
 More great reads on the AT Protocol [***HERE***](https://atproto.com) and [***HERE***](https://docs.bsky.app/docs/advanced-guides/atproto).
