@@ -1,8 +1,8 @@
 +++
 date = '2025-01-06T17:17:51-06:00'
 draft = false
-title = 'Protocols > Platforms'
-description = "My take on a great think-piece, and how it helped Bluesky get its moment..."
+title = 'Protocols &gt; Platforms'
+description = "My take on a great think&ndash;piece, and how it helped Bluesky get its moment..."
 type = 'post'
 tags = ["news-link", "social-media", "tech", "networking"]
 +++
