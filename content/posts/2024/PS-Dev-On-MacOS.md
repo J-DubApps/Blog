@@ -176,12 +176,10 @@ By default, VS Code might still open bash/zsh in its integrated terminal. To ope
 
 **b) Execution Policy on Mac** <br />
 
-macOS has fewer restrictions on script execution than Windows, which can present objections from CISOs or SOCs that are not 100% familiar with how PowerShell operates on Macs. To illustrate, inside a PowerShell session issue this command: <br />
-
+macOS has fewer restrictions on script execution than Windows, which can present objections from CISOs or SOCs that are not 100% familiar with how PowerShell operates on Macs. To illustrate, inside a PowerShell session issue this command:
 ```
 Get-ExecutionPolicy -List
 ```
-
 You will notice right away that everything is "*unrestricted*", which is *not* the norm on Windows.  **The thing to *know*, here, is**: on macOS and Linux you *cannot* issue the <span class="mono">"Set-ExecutionPolicy"</span> command in order change PowerShell Core's execution policy.  ***But do not despair***! You and your SOC team might be relieved to know that, when you run <span class="mono">"pwsh"</span> to launch a PowerShell session in Terminal on macOS or Linux, PowerShell already runs in a limited user-context ([user-mode](https://en.wikipedia.org/wiki/User-mode_Linux)).  Just as it does on Windows.  So you're already in a basic secure footing working with PowerShell scripts on Mac when running PowerShell the default way as the logged-in user. <br />
 
 While you *can* run <span class="mono">"sudo pwsh"</span> as the superuser (root), take care as most IT Enterprise security tools (EDR/endpoint protection suites) will alert on this or perhaps even not allow it.  This is because you would be running pwsh with the ability to make privileged system-level changes. So in any corporate IT or DevOps environment where you're using your Mac, it's important to see what the rules of the road are, here.<br />
@@ -225,14 +223,11 @@ PowerShell Core (the cross-platform edition) preserves a *lot* of compatibility 
 
 If you aren’t already, consider using Git for all your PowerShell scripts. Version control is essential for tracking changes, collaborating, and rolling back mistakes.  You don't have to be using [GitHub](https://github.com) or [Azure DevOps](https://azure.microsoft.com/en-us/products/devops), to use source control *locally*; however, I *highly-recommend* you (or your company IT/DevOps team) adopt something like GitHub *minimum*, if you haven't yet.  GitHub has has an [Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/about-github-for-enterprises) tier/plan and supports private company-only [Repos](https://en.wikipedia.org/wiki/Repository_(version_control).  It's a must for collaborative work, as your team needs a common source-control and Repository to work in. <br />
 
-To install Git on macOS with Homebrew: <br /> 
-
+To install Git on macOS with Homebrew:
 ```
 brew install git
 ```
-
-...and you can also install GitHub Desktop GUI tool through HomeBrew or direct-download, too.  Here's the Homebrew way: <br />
-
+...and you can also install GitHub Desktop GUI tool through HomeBrew or direct-download, too.  Here's the Homebrew way: 
 ```
 brew install --cask github
 ```
