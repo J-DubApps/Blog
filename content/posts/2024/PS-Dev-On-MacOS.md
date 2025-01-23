@@ -58,13 +58,13 @@ tags = ["tech", "powershell", "devops", "microsoft", "code", "apple", "beginner-
 }
 </style>
 
-Welcome back! [**In my previous post**](https://julianwest.me/Blog/ps-dev-on-windows/), I walked you through how to set up a modern **PowerShell** development environment on Windows with **VS Code**. Now we're going to give [macOS](https://en.wikipedia.org/wiki/MacOS) the same treatment. If you’re a cross-platform PowerShell engineer like myself—or just curious how the setup differs on a Mac—this basic starter guide is for *you*.<br />  
+Welcome back! [**In my previous post**](https://julianwest.me/Blog/ps-dev-on-windows/) I walked you through how to set up a modern **PowerShell** development environment on Windows with **VS Code**. Now we're doing again, giving [macOS](https://en.wikipedia.org/wiki/MacOS) the same treatment. If you’re a cross-platform PowerShell engineer like myself—or just curious how the setup differs on a Mac—this basic starter guide is for *you*.<br />  
 
 Similar to my previous post, the path will be --> installing PowerShell Core, getting VS Code ready, and customizing your environment.  We'll also be tuning your Mac for a smooth PowerShell experience.  ***Buuuuut FIRST***... <br />
 
-## Why PowerShell on Mac?
+## *Why PowerShell on Mac*?
 
-**PowerShell isn’t just for Windows anymore**, not for 6 years now: Microsoft open-sourced the engine awhile back, making it cross-platform: Windows, macOS, and yes Linux are all able to run the same [**PowerShell Core**](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.4). For those who like to keep the same workflow across multiple OSes, this was *game-changing*.  With a uniform scripting language: you can automate tasks, manage cloud services, and more—no matter which machine you’re on (*almost* -- there *are* a tiny few PowerShell Core commands that are still Windows-only, and I'll list those at the end of this tutorial -- but they are very *few*).  ***Another reason*** to be familiar with PS scripting on Mac is that a *lot* of SEs and DevOps people are multi-platform these days, like *yours-truly*.  I live in Windows ARM *all the time now*, running on my Macbook Pro. While I am using several Wintel laptops (*and* servers) in my daily DevOps project work, **I'd wager the past three years of my scripts on [my GitHub](https://github.com/J-DubApps) were all written on Mac** (same for my blog posts, and most of my [markdown](https://en.wikipedia.org/wiki/Markdown) document editing). <br />
+**PowerShell isn’t just for Windows anymore**, not for 6 years now: Microsoft open-sourced the engine awhile back, making it cross-platform. Windows, macOS, and Linux are all able to run the same [**PowerShell Core**](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.4). For those who like to keep the same workflow across multiple OSes, this was *game-changing*.  With a uniform scripting language: you can automate tasks, manage cloud services, and more—no matter which machine you’re on (*almost* -- there *are* a tiny few PowerShell Core commands that are still Windows-only, and I'll list those at the end of this tutorial -- but they are very *few*).  ***Another reason*** to be familiar with PS scripting on Mac is that a *lot* of SEs and DevOps people are multi-platform these days, like *yours-truly*.  I live in Windows ARM *all the time now*, running on my Macbook Pro. While I am using several Wintel laptops (*and* servers) in my daily DevOps project work, **I'd wager the past three years of my scripts on [my GitHub](https://github.com/J-DubApps) were all written on Mac** (same for my blog posts, and most of my [markdown](https://en.wikipedia.org/wiki/Markdown) document editing). <br />
 
 ## Installing VS Code
 
@@ -214,15 +214,24 @@ If your organization requires signed scripts, you’ll need to configure a signi
 4.	**Auto-Update** <br />
 Using Homebrew means you can run <span class="mono">brew upgrade</span> to keep PowerShell and other tools updated. For major PowerShell updates or changes, check the official PowerShell release notes.
 
+5. **Windows *OS-Specific* Cmdlets** <br />
+Certain cmdlets aimed at Windows simply won't work withing PowerShell on macOS or Linux (see above, for Virtual Machine tip).  Commands like Get-EventLog, Get-WmiObject, and commands that manage Windows Services (or use AD PS Modules) will not run nativelyh on the cross-platform PowerShell edition. Same for any PS script code that use any Graphical or Windows Shell-specific cmdlets (really *any cmdlets* that depend on Windows‑specific APIs). So I recommend Windows VMs to run those cmdlets, or sync'ing your scripts so you can test on available Wintel PCs (see my note on Git in the next section).  <br />
+
+You *may* be able run some Windows-specific PowerShell cmdlets from your Mac to remote Windows PCs via <span class="mono">Enter-PSSession</span>; however, that is a whole other write-up and outside the scope of this tutorial. 😉 <br />
+
+PowerShell Core (the cross-platform edition) preserves a *lot* of compatibility between Windows/macOS/Linux, but some cmdlets just can never work.  Especially many commands from “classic” Windows built-in PowerShell. **So if you're doing a lot of Windows PowerShell scripting development on your Mac, just keep that in mind**! ☺️
+
 ## Version Control & Syncing
 
-If you aren’t already, consider using Git for all your PowerShell scripts. Version control is essential for tracking changes, collaborating, and rolling back mistakes.  You don't have to be using [GitHub](https://github.com) or [Azure DevOps](https://azure.microsoft.com/en-us/products/devops), to get the *local* benefit of Git source control on your single Mac/PC/Linux workstation; however, I highly-recommend you (or your company IT/DevOps team) adopt something like GitHub *minimum*, if you haven't yet.  GitHub has has an [Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/about-github-for-enterprises) tier/plan and supports private company-only [Repos](https://en.wikipedia.org/wiki/Repository_(version_control).  It's just a must if you're going to collaboratively work with others on scripts, so that your team needs a common source-control and Repository to work in.  To install Git, minimum, <br /> 
+If you aren’t already, consider using Git for all your PowerShell scripts. Version control is essential for tracking changes, collaborating, and rolling back mistakes.  You don't have to be using [GitHub](https://github.com) or [Azure DevOps](https://azure.microsoft.com/en-us/products/devops), to use source control *locally*; however, I *highly-recommend* you (or your company IT/DevOps team) adopt something like GitHub *minimum*, if you haven't yet.  GitHub has has an [Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/about-github-for-enterprises) tier/plan and supports private company-only [Repos](https://en.wikipedia.org/wiki/Repository_(version_control).  It's a must for collaborative work, as your team needs a common source-control and Repository to work in. <br />
+
+To install Git on macOS with Homebrew: <br /> 
 
 ```
 brew install git
 ```
 
-...and you can also install GitHub Desktop GUI tool through HomeBrew, or direct-download.  Here's the Homebrew way: <br />
+...and you can also install GitHub Desktop GUI tool through HomeBrew or direct-download, too.  Here's the Homebrew way: <br />
 
 ```
 brew install --cask github
