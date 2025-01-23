@@ -90,7 +90,7 @@ Once installed (or to just confirm it's already installed) let's get back into t
 Verify PowerShell installation by typing this in **Terminal**: <br />
 
 <span class="mono">pwsh --version</span> <br />
-<span style="font-size:smaller">You should see a version number for PowerShell Core.</span> <br />
+<span style="font-size:smaller"><i>You should see a version number for PowerShell Core.</i></span> <br />
 
 As you might guess, launching PowerShell on macOS is --> launching **Terminal** and typing <span class="mono">pwsh</span> + ***return***-which opens a new PowerShell session right there inside your **Terminal**. <br />
 
