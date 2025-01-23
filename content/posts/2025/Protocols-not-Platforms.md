@@ -6,17 +6,17 @@ description = 'My take on a great think-piece, and how it helped Bluesky get to 
 type = 'post'
 tags = ["news-link", "social-media", "tech", "networking"]
 +++
-**More people should read** [***this 2019 Essay***](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech) by [**Mike Masnick**](https://bsky.app/profile/did:plc:cak4klqoj3bqgk5rj6b4f5do)-and then they should read it ***again***.  That fantastic write-up is why, in large part, we got to where we are here in 2025.  [**Bluesky**](https://bsky.app) is surging, and social media is undergoing major shifts.  The *other* reasons social media is in flux-[***I'll leave to history to decide***](https://www.thecut.com/article/elon-musk-jeff-bezos-mark-zuckerberg-trumps-broligarchy-is-here.html). <br />
+**More people should read** [***this 2019 Essay***](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech) by [**Mike Masnick**](https://bsky.app/profile/did:plc:cak4klqoj3bqgk5rj6b4f5do)-and then they should read it ***again***.  It is a fantastic write-up that tells us why, in large part, we got to where we are here in 2025-with [**Bluesky**](https://bsky.app) surging, and social media is undergoing major shifts.  The *other* reasons social media is in flux-[***I'll leave to history to figure out***](https://www.thecut.com/article/elon-musk-jeff-bezos-mark-zuckerberg-trumps-broligarchy-is-here.html). For me, the fascination is about how Masnick *created a burst of technological innovation* from this single article. <br />
 
-But I found these two passages prescient from [**Masnick's article**](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech): 
+found *these two passages* extremely prescient from [**Masnick's article**](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech): 
 
 > "While there is no silver bullet, a system of protocols could serve to do a better job of protecting both user privacy and free speech, while at the same time minimizing the impact of abusive behavior online and creating new and compelling business models that are more aligned with user interests."
 
 > "The key to making this work is that while there would be specific protocols for the various types of platforms we see today, there would then be many competing interface implementations of that protocol. The competition would come from those implementations..."
 
-Fast-forward a short time later, and [**Bluesky**](https://en.wikipedia.org/wiki/Bluesky) **was born inside Twitter** before the end of 2019.  It became an independent company in 2021. <br />
+Fast-forward a short time later, and [**Bluesky**](https://en.wikipedia.org/wiki/Bluesky) **was born inside Twitter** before the end of 2019.  It became an independent company in 2021. That's a *lot* of mileage gained from [***one single think-piece***](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech)!<br />
 
-So Mike's essay provided this great *conceptual blueprint* which created conditions for Bluesky to even *exist* and, later, grow *rapidly*.  I will briefly explain why that is, summarizing the key take-aways from Mike's great write-up.  But I do recommend people taking the time to [*read it for themselves*](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech). <br />
+So Mike's essay provided this great *conceptual blueprint* which created conditions for Bluesky to *exist* and, later, *grow rapidly*. I want to briefly explain why this happened, ummarizing the key take-aways from Mike's great write-up.  But I *do* recommend people taking the time to [*read it for themselves*](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech). <br />
 
 ## So What Are “Protocols” / “Platforms” in Social Media?
 
