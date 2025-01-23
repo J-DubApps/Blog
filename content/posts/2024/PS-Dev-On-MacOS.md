@@ -1,6 +1,6 @@
 +++
 date = '2024-09-12T14:14:51-06:00'
-draft = true
+draft = false
 title = 'Setting up VSCode for PowerShell Work - MacOS'
 type = 'post'
 tags = ["tech", "powershell", "devops", "microsoft", "code", "apple", "beginner-fundamentals", "enterprise-it", "best-of", "walk-thru"]
@@ -131,7 +131,7 @@ From here you can launch VS Code and pin it to your Dock:
   <img src="https://julianwest.me/Blog/posts/images/VSCode-on-macOS-Dock.jpeg" alt="Alt text" width="400" height="215">
 </div>
 
-## VS Code PowerShell Extension / Tweaking macOS Config
+## VS Code PowerShell Extension
 
 With VS Code launched for the first time, it should look something like this: 
 
@@ -153,65 +153,89 @@ Click the blue Install button, and then Enable the extension afterward.  <br />
 
 This extension will be your Swiss Army Knife for PowerShell development—syntax highlighting, debugging, IntelliSense, integrated console, and so on. <br />
 
-**While the Windows and Mac workflows are similar, there are a *few* macOS-specific tweaks you might find helpful**:
+## Recommended Additional Extensions & Add-Ons
 
-a) Configure the Integrated Terminal
+While the core PowerShell extension might be all you strictly need, here are a few more suggestions to supercharge your environment: <br />
 
-By default, VS Code might still open bash/zsh in its integrated terminal. To open PowerShell in the integrated terminal:
-	1.	Open the Command Palette (⇧⌘P) and type “Terminal: Select Default Profile”.
-	2.	Choose PowerShell from the dropdown (if you don’t see it, make sure pwsh is on your PATH).
-	3.	Close and re-open the integrated terminal (or reload VS Code) to confirm it’s now running PowerShell.
+•	**PowerShell Preview** – Offers early access to PowerShell extension features. <br />
+•	**GitLens** – If you’re working with Git source control, GitLens offers line-by-line blame, advanced diffing, and more. <br />
+•	**Pester Test Adapter** – Great optional Extension if you're an intermediate or advanced scripter and your team is using Pester tests in their [CI/CD pipeline](https://en.wikipedia.org/wiki/CI/CD). <br />
 
-b) Execution Policy on Mac
+One last Extension recommendation, is for any Mac or Linux users who use [vim](https://en.wikipedia.org/wiki/Vim_(text_editor)). You can have a vim-like workflow in VS Code via a [vim exension](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)!  It lets VS Code offer vim key bindings and workflow, which is pretty slick! <br />
 
-macOS has fewer restrictions on script execution than Windows, but you may still want to tweak the execution policy to match your security requirements.
+## macOS-Specific Configuration Tweaks
 
-7. Working with PowerShell on macOS
-<br />
+**While the Windows and Mac workflows are similar, there are a *few* macOS-specific tweaks you might find helpful**: <br />
+
+**a) Configure the Integrated Terminal** <br />
+
+By default, VS Code might still open bash/zsh in its integrated terminal. To open PowerShell in the integrated terminal: <br />
+1.	Open the Command Palette (⇧⌘P) and type <span class="mono">“Terminal: Select Default Profile”</span>. <br />
+2.	Choose PowerShell from the dropdown (if you don’t see it, make sure pwsh is on your PATH). <br />
+3.	Close and re-open the integrated terminal (or reload VS Code) to confirm it’s now running PowerShell (***note***: you can easily switch this back if you also do a fair bit of ['nix](https://en.wikipedia.org/wiki/Unix-like) bash scripting). <br />
+
+**b) Execution Policy on Mac** <br />
+
+macOS has fewer restrictions on script execution than Windows, which can present objections from CISOs or SOCs that are not 100% familiar with how PowerShell operates on Macs. To illustrate, inside a PowerShell session issue this command: <br />
 
 ```
-Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
-```>
+Get-ExecutionPolicy -List
+```
 
+You will notice right away that everything is "*unrestricted*", which is *not* the norm on Windows.  **The thing to *know*, here, is**: on macOS and Linux you *cannot* issue the <span class="mono">"Set-ExecutionPolicy"</span> command in order change PowerShell Core's execution policy.  ***But do not despair***! You and your SOC team might be relieved to know that, when you run <span class="mono">"pwsh"</span> to launch a PowerShell session in Terminal on macOS or Linux, PowerShell already runs in a limited user-context ([user-mode](https://en.wikipedia.org/wiki/User-mode_Linux)).  Just as it does on Windows.  So you're already in a basic secure footing working with PowerShell scripts on Mac when running PowerShell the default way as the logged-in user. <br />
 
+While you *can* run <span class="mono">"sudo pwsh"</span> as the superuser (root), take care as most IT Enterprise security tools (EDR/endpoint protection suites) will alert on this or perhaps even not allow it.  This is because you would be running pwsh with the ability to make privileged system-level changes. So in any corporate IT or DevOps environment where you're using your Mac, it's important to see what the rules of the road are, here.<br />
 
-Hit <span class="mono">Ctrl+N</span> to start a new tab, and VS Code immediate starts a new window for coding -- notice it wants you to select the language you'll be working with.  I almost *never* do that, as VS Code can 99% of the time autodetect whatever language you're working with once you get going.  But in the empty window here, feel free to select PowerShell in advance, if you want. <br />
+## Working with PowerShell in VS Code on macOS
 
-The first VS Code tip I always share, at this piint, is remember <span class="mono">Ctrl+=</span> and <span class="mono">Ctrl+-</span> commands for zooming in and out your active window.  Depending on the size of your screen, zooming in and out becomes your "*go-to*" for efficiently srolling through readable window content, making screen contents larger/smaller when diving into PS code.  <br />
+Once PowerShell and the VS Code extension are installed, the workflow is pretty much identical to Windows:<br />
 
-Ok next we need to install <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell">the PowerShell VS Code Extension</a>, which you can do easily by clicking on the lowest item in the left horizontal menu, circled in the screen shot below.  Then search powershell, and click the Install button to add the PowerShell extension.  <br />
+1.	Create a new file in VS Code and save it with a .ps1 extension to trigger PowerShell IntelliSense. <br />
+2.	Write or paste your script. <br />
+3.	Press F5 (or click on the Run/Debug icon on the left) to debug the script with breakpoints, variable watch, etc. <br />
 
-<div class="image-row">
-  <img src="https://julianwest.me/Blog/posts/images/vscode-ps-extension.jpeg" alt="Alt text" width="600" height="415">
-</div>
+You’ll get the same color-coding, tab completion, and debugging experience you’re used to on Windows—only you’re on macOS!  😉 <br />
 
-Now that the VS Code PS Extension is installed, let's toss an old go-to PS cmd into your new and empty tab which you created a minute ago: <br />
+**A word on testing your PowerShell scripts that target Windows OS**: on recent Mac models you can generally test *most* of your Windows scripts, by running Windows ARM [Virtual Machine](https://en.wikipedia.org/wiki/Virtual_machine).  For *that* you need to either purchase [Parallels](https://en.wikipedia.org/wiki/Parallels_Desktop_for_Mac)  (*what I use), or go with low-cost/free solutions like [UTM](https://apps.apple.com/us/app/utm-virtual-machines/id1538878817?mt=12) or [VMWare Fusion Pro](https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html) (made *free* in late 2024 for non-commercial use). <br />
 
-<span class="mono">Get-Process</span> <br />
+I can test 85% or more of my Windows-targeting PowerShell scripts right here on my Mac; however, if your environment has a lot of Wintel endpoints to suport-keep a PC around for basic testing as well.  It will save you additional time. 
 
-Assuming you installed PowerShell 7 earlier, with the PS extension installed you're seeing two things: 
+## Tips & Gotchas for Windows VS Code Users
 
-1. the text colors in your new tab have changec, as VS Code now can highlight and color the PS command in the active tab.
-2. A PowerShell terminal window is opened in VS Code.
+1.	**Path Differences** <br />
+On macOS, the <span class="mono">$HOME</span> directory is typically <span class="mono">/Users/YourName</span>. In scripts that might reference Windows paths (like <span class="mono">C:\Users</span>), you’ll want to adapt them to macOS file paths.<br />
 
-<div class="image-row">
-  <img src="https://julianwest.me/Blog/posts/images/vs-code-ps-terminal.jpeg" alt="Alt text" width="500" height="315">
-</div>
+2.	**Case Sensitivity** <br />
+macOS file systems can be case-sensitive (depending on your disk format). Keep that in mind for any file references in scripts or module imports.<br />
 
-This integrated PS shell in VS Code is a Godsend because you never have to leave the editor to test snippets and scripts. <br />
+3.	**Script Signing** <br />
+If your organization requires signed scripts, you’ll need to configure a signing certificate that works on macOS. Typically, that’s done via a code-signing certificate from a recognized authority or your internal PKI.<br />
 
-Save your open tab somewhere, call the file "**get-process-test.ps1**".  Now come back to your tab, now named ***get-process-test.ps1***.  Hit the <b><span class="mono">F5</span></b> key.  <br />
+4.	**Auto-Update** <br />
+Using Homebrew means you can run <span class="mono">brew upgrade</span> to keep PowerShell and other tools updated. For major PowerShell updates or changes, check the official PowerShell release notes.
 
-***BOOM!*** you just executed and tested your first PS script in VS Code! 
+## Version Control & Syncing
 
-<div class="image-row">
-  <img src="https://julianwest.me/Blog/posts/images/vs-code-ps-terminal.jpeg" alt="Alt text" width="500" height="315">
-</div>
+If you aren’t already, consider using Git for all your PowerShell scripts. Version control is essential for tracking changes, collaborating, and rolling back mistakes.  You don't have to be using [GitHub](https://github.com) or [Azure DevOps](https://azure.microsoft.com/en-us/products/devops), to get the *local* benefit of Git source control on your single Mac/PC/Linux workstation; however, I highly-recommend you (or your company IT/DevOps team) adopt something like GitHub *minimum*, if you haven't yet.  GitHub has has an [Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/about-github-for-enterprises) tier/plan and supports private company-only [Repos](https://en.wikipedia.org/wiki/Repository_(version_control).  It's just a must if you're going to collaboratively work with others on scripts, so that your team needs a common source-control and Repository to work in.  To install Git, minimum, <br /> 
 
-And that's it for a basic new PowerShell Dev setup for a Windows PC.  You'll never need to run PowerShell ISE (*Yuck*!) ever again.  <br /> 
+```
+brew install git
+```
 
-There is lots more to discover and tweak, and I didn't get into the next logical progression: additionl extension, leveraging Git /GitHub Repos, and creating modules (to name a few things that you may progress into, in time...).  But if there is any interest in more advanced tutorials, I am happy to do some follow-ups building upon this one.   In fact, I am already drafting a follow-up for running VS Code on ***MacOS*** for PS development.  I do 85% of my PS development on a MacBook Pro & Mac Studio with PowerShell 7 installed on them (and I test my Windows-specific scripts in a Parallels Windows ARM Virtual Machine, on both of them).  So I will give equal time here, soon, for Mac admins who manage Windows servers and endpoints on-the-daily.  <br /> 
+...and you can also install GitHub Desktop GUI tool through HomeBrew, or direct-download.  Here's the Homebrew way: <br />
 
-Maybe I will do a Neovim tutorial in the near future, too.  I use it for some PS dev, but mostly for collaborative python and javascript stuff on GitHub.  One cool thing about vim editors and VS Code: <a href="https://marketplace.visualstudio.com/items?itemName=vscodevim.vim">you can make VSCode offer vim nav</a> as well. <br />
+```
+brew install --cask github
+```
 
-I hope this was helpful, if it was drop me a line to let me know.  Happy scripting!
+**Also remember that VS Code can** [***sync settings***](https://code.visualstudio.com/docs/editor/settings-sync) (like extensions, preferences, and keybindings) across all your devices using Settings Sync. Log into your GitHub or Microsoft account from within VS Code, to enable this feature. <br />
+
+## Wrapping Up
+
+***And there you have it***—your Mac is now a bona fide PowerShell development workstation, powered by VS Code, complete with debugging, IntelliSense, and the convenience of a cross-platform scripting language. 😎  If you’ve followed along from my previous Windows guide, you’ll notice how similar the experience is; Microsoft has done a stellar job keeping PowerShell consistent across platforms.  You could probably follow this guide right now on a Linux machine, and the steps would be similar-except you'd be using a different package manager as Homebrew is a Mac thing *only*. <br />
+
+**Whether you’re scripting out big automation tasks, or simply dabbling in cross-platform command-line tools**, **a Mac + PowerShell + VS Code setup will let you work confidently**. If you have any macOS-specific tweaks or customizations you love, feel free to drop me a line and share your tips, a <br />
+
+I hope this was helpful, if it was please drop me a line to let me know. I welcome feedback, and routinely add corrections / follow-up post from it.  <br /> 
+
+***Happy scripting***!

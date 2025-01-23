@@ -129,8 +129,24 @@ Save your open tab somewhere, call the file "**get-process-test.ps1**".  Now com
 
 And that's it for a basic new PowerShell Dev setup for a Windows PC.  You'll never need to run PowerShell ISE (*Yuck*!) ever again.  <br /> 
 
-There is lots more to discover and tweak, and I didn't get into the next logical progression: additionl extension, leveraging Git /GitHub Repos, and creating modules (to name a few things that you may progress into, in time...).  But if there is any interest in more advanced tutorials, I am happy to do some follow-ups building upon this one.   In fact, I am already drafting a follow-up for running VS Code on ***macOS*** for PS development.  I do 85% of my PS development on a MacBook Pro & Mac Studio with PowerShell 7 installed on them (and I test my Windows-specific scripts in a Parallels Windows ARM Virtual Machine, on both of them).  So I will give equal time here, soon, for Mac admins who manage Windows servers and endpoints on-the-daily.  <br /> 
+Let's talk about a few more helpful PowerShell and VS Code settings, before we wrap-up.  <br />
 
-Maybe I will do a Neovim tutorial in the near future, too.  I use it for some PS dev, but mostly for collaborative python and javascript stuff on GitHub.  One cool thing about vim editors and VS Code: <a href="https://marketplace.visualstudio.com/items?itemName=vscodevim.vim">you can make VSCode offer vim nav</a> as well. <br />
+## Version Control & Syncing
 
-I hope this was helpful, if it was drop me a line to let me know.  Happy scripting!
+If you aren’t already, consider using Git for all your PowerShell scripts. Version control is essential for tracking changes, collaborating, and rolling back mistakes.  You don't have to be using [GitHub](https://github.com) or [Azure DevOps](https://azure.microsoft.com/en-us/products/devops), to get the *local* benefit of Git source control on your single Mac/PC/Linux workstation; however, I highly-recommend you (or your org) adopt something at least GitHub minimum (which has an [Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/about-github-for-enterprises) plan and supports private company-only [Repos](https://en.wikipedia.org/wiki/Repository_(version_control)).  It's just a must if you're going to collaboratively work with others on scripts, so that your team needs a common source-control and Repository to work in. <br /> 
+
+**Also remember that VS Code can** [***sync settings***](https://code.visualstudio.com/docs/editor/settings-sync) (like extensions, preferences, and keybindings) across all your devices using Settings Sync. Log into your GitHub or Microsoft account from within VS Code, to enable this feature. <br />
+
+## Wrapping Up
+
+There is lots more to discover and tweak in VS Code, but this should get you started. I recommend any next-steps be writing up a few scripts, and just getting used to the workflow of VS Code.  Deeper learning comes with time, but for now now you're in a perfect spot with a great PowerShell setup!  There are a lot of additionl extensions (and Git / GitHub workflows you can get into later on) but the key takeaway here is that you're on a modern PowerShell dev environment, and it's all free and powerful! <br /> 
+
+**If there is any interest in more advanced tutorials** for VS Code & GitHub workflows in the future, drop me a line on that and I would be happy to do some follow-up posts, building upon this one. <br /> 
+
+In fact I am already drafting a companion piece to this one doing all this on ***macOS***! I do 85% of my PS development on a MacBook Pro & Mac Studio, these days.  On the Mac I even generally test my Windows scripts via a [Parallels](https://en.wikipedia.org/wiki/Parallels_Desktop_for_Mac) Windows ARM Virtual Machine, with any further testing on a work Wintel PC.  So I intend to give equal time here, soon! 😉  <br /> 
+
+Perhaps I can also do a [Neovim](https://neovim.io) tutorial in the near future, too.  I use that for some PS dev as well, though I'm using mostly for collaborative python and javascript stuff on GitHub.  **One cool thing about vim editors and VS Code**: [you can make VS Code offer vim key bindings](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)> as well! <br />
+
+I hope this was helpful, if it was drop me a line to let me know.  <br /> 
+
+***Happy scripting***!
