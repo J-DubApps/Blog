@@ -119,7 +119,7 @@ To download [**go here**](https://code.visualstudio.com/download) and choose you
   <img src="https://julianwest.me/Blog/posts/images/download-vs-code.jpeg" alt="Alt text" width="400" height="215">
 </div>
 
-A .zip file download will complete, and extract the actual "Visual Studio Code.app" file.  You will then simply click-drag this file into your Applications folder:
+A .zip file download will complete, and auto-extract the actual "Visual Studio Code.app" file in your **Downloads** folder.  Just simply click-drag this file into your Applications folder:
 
 <div class="image-row">
   <img src="https://julianwest.me/Blog/posts/images/VSCode-Downloads.jpeg" alt="Alt text" width="400" height="215">
@@ -128,7 +128,7 @@ A .zip file download will complete, and extract the actual "Visual Studio Code.a
 From here you can launch VS Code and pin it to your Dock:
 
 <div class="image-row">
-  <img src="https://julianwest.me/Blog/posts/images/VSCode-on-macOS-Dock.jpeg" alt="Alt text" width="400" height="215">
+  <img src="https://julianwest.me/Blog/posts/images/VSCode-on-macOS-Dock.jpeg" alt="Alt text" width="200" height="115">
 </div>
 
 ## VS Code PowerShell Extension
@@ -136,7 +136,7 @@ From here you can launch VS Code and pin it to your Dock:
 With VS Code launched for the first time, it should look something like this: 
 
 <div class="image-row">
-  <img src="https://julianwest.me/Blog/posts/images/vscode_launch_macos.jpeg" alt="Alt text" width="400" height="215">
+  <img src="https://julianwest.me/Blog/posts/images/vscode_launch_macos.jpeg" alt="Alt text" width="500" height="315">
 </div>
 
 At this point I want to refer you to Microsoft's well-done <a href="https://code.visualstudio.com/docs/getstarted/userinterface">VS Code UI walkthrough</a>.  Go through that before we move on, I'll be right here when you get back.  <br /> 
@@ -215,13 +215,13 @@ Using Homebrew means you can run <span class="mono">brew upgrade</span> to keep 
 5. **Windows *OS-Specific* Cmdlets** <br />
 Certain cmdlets aimed at Windows simply won't work withing PowerShell on macOS or Linux (see above, for Virtual Machine tip).  Commands like Get-EventLog, Get-WmiObject, and commands that manage Windows Services (or use AD PS Modules) will not run nativelyh on the cross-platform PowerShell edition. Same for any PS script code that use any Graphical or Windows Shell-specific cmdlets (really *any cmdlets* that depend on Windows‑specific APIs). So I recommend Windows VMs to run those cmdlets, or sync'ing your scripts so you can test on available Wintel PCs (see my note on Git in the next section).  <br />
 
-You *may* be able run some Windows-specific PowerShell cmdlets from your Mac to remote Windows PCs via <span class="mono">Enter-PSSession</span>; however, that is a whole other write-up and outside the scope of this tutorial. 😉 <br />
+You *may* be able run some Windows-specific PowerShell cmdlets from your Mac to remote Windows PCs via <span class="mono">Enter-PSSession</span>; *however*, that is a whole other write-up and outside the scope of this tutorial. 😉 <br />
 
 PowerShell Core (the cross-platform edition) preserves a *lot* of compatibility between Windows/macOS/Linux, but some cmdlets just can never work.  Especially many commands from “classic” Windows built-in PowerShell. **So if you're doing a lot of Windows PowerShell scripting development on your Mac, just keep that in mind**! ☺️
 
 ## Version Control & Syncing
 
-If you aren’t already, consider using Git for all your PowerShell scripts. Version control is essential for tracking changes, collaborating, and rolling back mistakes.  You don't have to be using [GitHub](https://github.com) or [Azure DevOps](https://azure.microsoft.com/en-us/products/devops), to use source control *locally*; however, I *highly-recommend* you (or your company IT/DevOps team) adopt something like GitHub *minimum*, if you haven't yet.  GitHub has has an [Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/about-github-for-enterprises) tier/plan and supports private company-only [Repos](https://en.wikipedia.org/wiki/Repository_(version_control).  It's a must for collaborative work, as your team needs a common source-control and Repository to work in. <br />
+If you aren’t already, consider using Git for all your PowerShell scripts. Version control is essential for tracking changes, collaborating, and rolling back mistakes.  You don't have to be using [GitHub](https://github.com) or [Azure DevOps](https://azure.microsoft.com/en-us/products/devops), to use source control *locally**; *however*, I *highly-recommend* you (or your company IT/DevOps team) adopt something like GitHub *minimum*, if you haven't yet.  GitHub has has an [Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/about-github-for-enterprises) tier/plan and supports private company-only [Repos](https://en.wikipedia.org/wiki/Repository_(version_control).  It's a must for collaborative work, as your team needs a common source-control and Repository to work in. <br />
 
 To install Git on macOS with Homebrew:
 ```
