@@ -68,9 +68,9 @@ If you're a nascent PowerShell scripter, you need a decent editing setup in plac
 
 **First, let's start with a couple of pre-requisites:** <br /> 
 
-You need to be running *at least* the last most-recent release of Windows 10, or (more preferred) a current version of Windows 11, to get anything out of this tutorial.  And, second, you need to have already installed <a href="https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4">PowerShell 7</a> (or latest PS Core version, if they've moved on to 8x +) onto your machine, at some point.  For any PowerShell dev work you want both one bundled with Windows (5x) *and* PowerShell Core, so follow the link I just shared and install it if you need to.   Now, on with the show... <br />
+You need to be running *at least* the last most-recent release of Windows 10, or (more preferred) a current version of Windows 11, to get anything out of this tutorial.  And, second, you need to have already installed <a href="https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4">PowerShell 7</a> (or latest PS Core version, if they've moved on to 8x*+* by now) onto your machine, at some point.  For any PowerShell dev work you want both one bundled with Windows (5x) *and* PowerShell Core, so follow the link I just shared and install it if you need to.   Now, on with the show... <br />
 
-In my work environment I package/publish VS Code into our CM Software Center and Intune Company Portal, for convenience.  But we're not at work here (well, you may be, but I'm not...) so let's do a fast walk-through of installing it onto your chosen Windows PC. First go here and download for your OS:<br />
+In my work environment I package/publish VS Code into our CM Software Center and Intune Company Portal, for convenience.  But we're not at work here (well, *you* may be, but I'm not! 😉) so let's do a fast walk-through of installing it onto your chosen Windows PC. First [**go here**](https://code.visualstudio.com/download) and download VS Code:<br />
 
 <div class="image-row">
   <img src="https://julianwest.me/Blog/posts/images/download-vs-code.jpeg" alt="Alt text" width="400" height="215">
@@ -82,7 +82,7 @@ Once you download the install bits to your Downloads folder, start the installat
   <img src="https://julianwest.me/Blog/posts/images/install-vscode.jpeg" alt="Alt text" width="300" height="165">
 </div>
 
-***Note***: if you're on another OS you can follow-along (and I do intend to do a MacOS write-up for PS Dev on that platform, soon) but the rest of this is pretty Windows-centric.
+***Note***: if you're on another OS you can follow-along (and I do intend to do a macOS write-up for PS Dev on that platform, soon) but the rest of this is pretty Windows-centric.
 
 ## Tweaking VS Code and Adding PowerShell Extension
 
@@ -129,7 +129,7 @@ Save your open tab somewhere, call the file "**get-process-test.ps1**".  Now com
 
 And that's it for a basic new PowerShell Dev setup for a Windows PC.  You'll never need to run PowerShell ISE (*Yuck*!) ever again.  <br /> 
 
-There is lots more to discover and tweak, and I didn't get into the next logical progression: additionl extension, leveraging Git /GitHub Repos, and creating modules (to name a few things that you may progress into, in time...).  But if there is any interest in more advanced tutorials, I am happy to do some follow-ups building upon this one.   In fact, I am already drafting a follow-up for running VS Code on ***MacOS*** for PS development.  I do 85% of my PS development on a MacBook Pro & Mac Studio with PowerShell 7 installed on them (and I test my Windows-specific scripts in a Parallels Windows ARM Virtual Machine, on both of them).  So I will give equal time here, soon, for Mac admins who manage Windows servers and endpoints on-the-daily.  <br /> 
+There is lots more to discover and tweak, and I didn't get into the next logical progression: additionl extension, leveraging Git /GitHub Repos, and creating modules (to name a few things that you may progress into, in time...).  But if there is any interest in more advanced tutorials, I am happy to do some follow-ups building upon this one.   In fact, I am already drafting a follow-up for running VS Code on ***macOS*** for PS development.  I do 85% of my PS development on a MacBook Pro & Mac Studio with PowerShell 7 installed on them (and I test my Windows-specific scripts in a Parallels Windows ARM Virtual Machine, on both of them).  So I will give equal time here, soon, for Mac admins who manage Windows servers and endpoints on-the-daily.  <br /> 
 
 Maybe I will do a Neovim tutorial in the near future, too.  I use it for some PS dev, but mostly for collaborative python and javascript stuff on GitHub.  One cool thing about vim editors and VS Code: <a href="https://marketplace.visualstudio.com/items?itemName=vscodevim.vim">you can make VSCode offer vim nav</a> as well. <br />
 
