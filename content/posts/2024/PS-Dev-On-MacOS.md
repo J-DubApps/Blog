@@ -83,18 +83,13 @@ Once installed (or to just confirm it's already installed) let's get back into t
 1.  Optional - verify Homebrew by typing: <span class="mono">which brew</span> & ***return*** (or <span class="mono">brew help</span> & ***return***).  Brew should give you the nod... <br />
 2.	**Install PowerShell using Homebrew**: <br />
 
-```
-brew install --cask powershell 
-```
+<span class="mono">brew install --cask powershell</span>
 
 <span style="font-size:smaller">(Depending on Homebrew’s current naming conventions, you might see brew install powershell --cask. Check the [PowerShell GitHub docs](https://github.com/PowerShell/PowerShell) if you run into issues.)</span> <br />
 
 Verify PowerShell installation by typing this in **Terminal**: <br />
 
-```
-pwsh --version
-```
-
+<span class="mono">pwsh --version</span> <br />
 <span style="font-size:smaller">You should see a version number for PowerShell Core.</span> <br />
 
 As you might guess, launching PowerShell on macOS is --> launching **Terminal** and typing <span class="mono">pwsh</span> + ***return***-which opens a new PowerShell session right there inside your **Terminal**. <br />
@@ -106,14 +101,11 @@ Before we move on to installing VS Code, if you got lost anywhere [**here is som
 
 **Ok *next* we're installing VS Code** and, as you may have guessed, you have the **Homebrew** option vs direct-download-we'll cover both starting with the former. In **Terminal** (you didn't close it, did you? If so no worries, just do the steps again of: **⌘ + spacebar + "terminal" + *return***) we're going to enter these commands: <br />
 
-```
-brew install --cask visual-studio-code
-```
+<span class="mono">brew install --cask visual-studio-code</span> <br />
 
 And that's it!  Check your Applications folder or Launchpad area, and you'll find VS Code has been installed by Homebrew. <br />
 
 To download [**go here**](https://code.visualstudio.com/download) and choose your Mac's CPU type (Intel or Apple Silicon):
-
 
 <div class="image-row">
   <img src="https://julianwest.me/Blog/posts/images/download-vs-code.jpeg" alt="Alt text" width="400" height="215">
@@ -176,10 +168,10 @@ By default, VS Code might still open bash/zsh in its integrated terminal. To ope
 
 **b) Execution Policy on Mac** <br />
 
-macOS has fewer restrictions on script execution than Windows, which can present objections from CISOs or SOCs that are not 100% familiar with how PowerShell operates on Macs. To illustrate, inside a PowerShell session issue this command:
-```
-Get-ExecutionPolicy -List
-```
+macOS has fewer restrictions on script execution than Windows, which can present objections from CISOs or SOCs that are not 100% familiar with how PowerShell operates on Macs. To illustrate, inside a PowerShell session issue this command: <br />
+
+<span class="mono">Get-ExecutionPolicy -List</span> <br />
+
 You will notice right away that everything is "*unrestricted*", which is *not* the norm on Windows.  **The thing to *know*, here, is**: on macOS and Linux you *cannot* issue the <span class="mono">"Set-ExecutionPolicy"</span> command in order change PowerShell Core's execution policy.  ***But do not despair***! You and your SOC team might be relieved to know that, when you run <span class="mono">"pwsh"</span> to launch a PowerShell session in Terminal on macOS or Linux, PowerShell already runs in a limited user-context ([user-mode](https://en.wikipedia.org/wiki/User-mode_Linux)).  Just as it does on Windows.  So you're already in a basic secure footing working with PowerShell scripts on Mac when running PowerShell the default way as the logged-in user. <br />
 
 While you *can* run <span class="mono">"sudo pwsh"</span> as the superuser (root), take care as most IT Enterprise security tools (EDR/endpoint protection suites) will alert on this or perhaps even not allow it.  This is because you would be running pwsh with the ability to make privileged system-level changes. So in any corporate IT or DevOps environment where you're using your Mac, it's important to see what the rules of the road are, here.<br />
@@ -223,14 +215,13 @@ PowerShell Core (the cross-platform edition) preserves a *lot* of compatibility 
 
 If you aren’t already, consider using Git for all your PowerShell scripts. Version control is essential for tracking changes, collaborating, and rolling back mistakes.  You don't have to be using [GitHub](https://github.com) or [Azure DevOps](https://azure.microsoft.com/en-us/products/devops), to use source control *locally**; *however*, I *highly-recommend* you (or your company IT/DevOps team) adopt something like GitHub *minimum*, if you haven't yet.  GitHub has has an [Enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/about-github-for-enterprises) tier/plan and supports private company-only [Repos](https://en.wikipedia.org/wiki/Repository_(version_control).  It's a must for collaborative work, as your team needs a common source-control and Repository to work in. <br />
 
-To install Git on macOS with Homebrew:
-```
-brew install git
-```
-...and you can also install GitHub Desktop GUI tool through HomeBrew or direct-download, too.  Here's the Homebrew way: 
-```
-brew install --cask github
-```
+To install Git on macOS with Homebrew: <br />
+
+<span class="mono">brew install git</span> <br />
+
+...and you can also install GitHub Desktop GUI tool through HomeBrew or direct-download, too.  Here's the Homebrew way:  <br />
+
+<span class="mono">brew install --cask github</span> <br />
 
 **Also remember that VS Code can** [***sync settings***](https://code.visualstudio.com/docs/editor/settings-sync) (like extensions, preferences, and keybindings) across all your devices using Settings Sync. Log into your GitHub or Microsoft account from within VS Code, to enable this feature. <br />
 
