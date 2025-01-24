@@ -18,7 +18,7 @@ Bluesky stores Media files (e.g., images) on the **data server** where they get 
 
 ## *tl;dr* for fhe above: 
 
-**Each individual Bluesky user gets their *own* personal database that stores their follows, posts, and so forth (PDS).  This is used to locate their likes, comments, etc.  By defaut Bluesky creates/registers and hosts that personal database on Bluesky data servers, which fetches your data and merges it with everyone else’s to generate your feed.  Your even able have your personal database *live* just about *anywhere else outside of* Bluesky's infrastructure: giving you total control of your "*identity*" and social media activity**. <br />
+**Each individual Bluesky user gets their *own* personal database that stores their follows, posts, and so forth (PDS).  This is used to locate their likes, comments, etc.  By defaut Bluesky creates/registers and hosts that personal database on Bluesky data servers, which fetches your data and merges it with everyone else’s to generate your feed on-the-fly.  You're even able have your personal database *live* just about *anywhere else outside of* Bluesky's infrastructure: giving you total control of your "*identity*" and social media activity**. <br />
 
 Here's a handy visual flow of what I describe above, from Bluesky's [October 2024 Whitepaper](https://arxiv.org/pdf/2402.03239) on how all this works: 
 
@@ -29,7 +29,7 @@ Here's a handy visual flow of what I describe above, from Bluesky's [October 202
 <p style="text-align: center;"><i>The main services involved in providing Bluesky, and data flows between them.</i></p>
 </div>
 
-So each user repository(*database*) stores primary data, while the **index server** stores data derived from repositories.  A user updates only *their repository* when they follow someone. Other  The index server must keep up with all this, and so consequently it is the most ***resource-intensive*** part of the overall Bluesky service.  Thus, the **index server** is big on caching results.  Results get cached in [Redis](https://github.com/redis/redis), via in-memory database, to optimize performance.
+So each user repository(*database*) stores primary data, while the **index server** stores data derived from repositories.  A user updates only *their repository* when they follow someone or write a post. Other  The index server must keep up with all this, and so consequently it is the most ***resource-intensive*** part of the overall Bluesky service.  Thus, the **index server** is big on caching results.  Results get cached in [Redis](https://github.com/redis/redis), via in-memory database, to optimize performance.
 
 Based on this flow, here is what is happening for posts displayed on your timeline:
 
@@ -39,9 +39,9 @@ Based on this flow, here is what is happening for posts displayed on your timeli
 4. The index server expands the list of post IDs to full posts with content.
 5. The index server then responds to the client. <br />
 
-The user’s timeline is rendered during this request, and shows posts to the user in reverse chronological order. Since a user's personal repository doesn’t contain information about likes / comments on a post, the index server is is queried for this-and it returns this data during the timeline render, with aggregated data. <br />
+The user’s timeline is rendered during this request, and shows posts to the user in reverse chronological order. Since a user's personal repository doesn’t contain information about likes / comments on a post, the index server is queried for this-and it returns this data during the timeline render, with aggregated data. <br />
 
-What I find *revolutionary* about ATProto + Bluesky is: users don't *have* to store their own *personal repository* on Bluesky's **data servers** at all.  You can have your own PDS and store your personal repository virtually *anywhere* on your own. This takes away the *lock-in* that places like X-Twitter, where if you use a different social media servers - you have to "*start all over*" finding people you follow, etc.  More on that [here](https://docs.bsky.app/docs/advanced-guides/federation-architecture#:~:text=Personal%20Data%20Server%20(PDS)%E2%80%8B&text=This%20is%20what%20hosts%20your,talk%20to%20for%20any%20request.). <br />
+What I find *revolutionary* about ATProto + Bluesky is: users don't *have* to store their own *personal repository* on Bluesky's **data servers** at all.  You own it!  So you can have your own PDS and store your personal repository virtually *anywhere* on your own. This takes away the *lock-in* that places like X-Twitter, where if you use a different social media servers - you have to "*start all over*" finding people you follow, etc.  More on that [here](https://docs.bsky.app/docs/advanced-guides/federation-architecture#:~:text=Personal%20Data%20Server%20(PDS)%E2%80%8B&text=This%20is%20what%20hosts%20your,talk%20to%20for%20any%20request.). <br />
 
 
 ## Wrapping Up
