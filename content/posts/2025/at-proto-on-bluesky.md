@@ -52,7 +52,7 @@ I may go deeper on more of this in the coming weeks, as this constitutes just th
 
 **Bluesky's approach permits a timeline that balances being "*less noisy*" with FOMO (e.g. you won't miss stuff, but you need not see stuff you *don't wanna see*, either...)**. <br />
 
-**Here are some helpful articles, and video, used in creating this post**. <br />
+<small> **Here are some helpful articles, and video, used in creating this post**. </small> <br />
 
 https://arxiv.org/pdf/2402.03239
 
