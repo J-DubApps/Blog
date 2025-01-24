@@ -50,7 +50,7 @@ What I find *revolutionary* about ATProto + Bluesky is: users don't *have* to st
 
 I may go deeper on more of this in the coming weeks, as this constitutes just the basic fundamentals of how ATProto and Bluesky function-they are a **huge** *shift in design* from how legacy social media evolved. Bluesky supports feeds with custom logic (and there are nearly 60K custom feeds available), as well as a number of moderation features available to *individual users* get to control and manage if they want. This all means you can have *multiple* focused, targeted timelines that are not directed by any *single algorithm* or owned/influenced by any social media service owner.  This results in a feed that has a better signal-to-noise setup (and is quite a bit less *troll-happy* over time). <br />
 
-**Bluesky's approach permits a timeline that balances being "*less noisy*" with FOMO (e.g. you won't miss stuff, but you need not see stuff you *don't wanna see*, either...)**. <br />
+**Bluesky's approach permits a timeline that balances being "*less noisy*" with FOMO (e.g. you won't miss stuff, but you need not see stuff you *don't wanna see*, either...)** And the above "*how-it-works*" flow (as clumsy as I might be, in explaining it) is part of why Bluesky is even able to a potentially *saner* timeline. <br />
 
 <small> **Here are some helpful articles, and video, used in creating this post**. </small> <br />
 
