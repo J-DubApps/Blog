@@ -16,7 +16,7 @@ Bluesky then uses a crawler service which collects data from each repository, an
 
 Bluesky stores Media files (e.g., images) on the **data server** where they get referenced in the repositories. On user requests, the **index server** fetches these media files *from* the **data server**.  These fetches get cache on a [CDN](https://en.wikipedia.org/wiki/Content_delivery_network).
 
-### *tl;dr* of all of the above: 
+## *tl;dr* for fhe above: 
 
 **Each individual Bluesky user gets their *own* personal database that stores their likes, comments, and so forth (PDS).  By defaut Bluesky creates/hosts and registers that personal database with the Bluesky server, which fetches your data and merges it with everyone else’s to generate your feed.  Your able to, however, have your personal database live just about *anywhere* of Bluesky's infra: giving you total control of your "*identity*" and social media activity**. <br />
 
