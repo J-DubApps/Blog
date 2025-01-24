@@ -25,7 +25,9 @@ Here's a handy visual flow of what I describe above, from Bluesky's handy [Octob
 <div class="image-row">
   <img src="https://julianwest.me/Blog/posts/images/Bluesky-Flow.jpeg" alt="Alt text" width="600" height="415">
 </div>
-<smaller>The main services involved in providing Bluesky, and data flows between them.</smaller> <br />
+<div style="font-size: 9px;">
+<p style="text-align: center;"><i>The main services involved in providing Bluesky, and data flows between them.</i></p>
+</div>
 
 So each user repository(*database*) stores primary data, while the **index server** stores data derived from repositories.  A user updates only *their repository* when they follow someone. Other  The index server must keep up with all this, and so consequently it is the most ***resource-intensive*** part of the overall Bluesky service.  Thus, the **index server** is big on caching results.  Results get cached in [Redis](https://github.com/redis/redis), via in-memory database, to optimize performance.
 
