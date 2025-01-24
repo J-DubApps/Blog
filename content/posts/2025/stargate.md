@@ -10,7 +10,7 @@ tags = ["tech", "news-link", "AI", "usa"]
 
 No wonder [Satya was emphatic the other day](https://www.youtube.com/watch?v=lb_ZJylekWo) that Microsoft is still "good for $80 billion" for this already-existing project, regardless of re-announcements. <br />
 
-I think a lot of previous admin initiatives go through this, it's nothing new or unique to the Trump admin.  But I am surprised that Trump didn't even bother re-branding it-just (re)announcing it as if it's a *new thing*.
+I think a lot of previous admin initiatives go through this, it's nothing new or unique to the Trump admin.  But I am surprised that Trump didn't even bother re-branding it-just (re)announcing it as if it's a *brand new thing*.
 
 
 <div class="image-row">
