@@ -31,7 +31,7 @@ Here's a handy visual flow of what I describe above, from Bluesky's [October 202
 
 So each user repository(*database*) stores primary data, while the **index server** stores data derived from repositories.  A user updates only *their repository* when they follow someone. Other  The index server must keep up with all this, and so consequently it is the most ***resource-intensive*** part of the overall Bluesky service.  Thus, the **index server** is big on caching results.  Results get cached in [Redis](https://github.com/redis/redis), via in-memory database, to optimize performance.
 
-Based on this flow, here is what is happening posts are displayed on your timeline:
+Based on this flow, here is what is happening for posts displayed on your timeline:
 
 1. A user’s request is routed via their data server to the index server.
 2. The data server finds the people a user follows by looking at their repository.
