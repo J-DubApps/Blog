@@ -1,5 +1,5 @@
 +++
-date = '2025-01-24T14:14:51-06:00'
+date = '2025-01-24T06:14:51-06:00'
 draft = false
 title = 'Stargate'
 description = "Sam and Larry's Performative Stargate (Re)Announcement"
