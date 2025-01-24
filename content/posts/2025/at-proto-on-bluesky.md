@@ -1,8 +1,8 @@
 +++
 date = '2025-01-22T17:09:51-06:00'
-draft = true
+draft = false
 title = "How AT Protocol and Bluesky Work..."
-description = "A very basic walkthrough on roughly how ATProto and Bluesky works, and why it&#39;s kind of a big deal"
+description = "A very basic walkthrough on roughly how ATProto and Bluesky work together, and why it&#39;s kind of a big deal"
 type = 'post'
 tags = ["news-link", "social-media", "tech", "networking", "devops", "deep-dive"]
 +++
