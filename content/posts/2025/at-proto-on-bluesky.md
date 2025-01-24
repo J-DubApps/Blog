@@ -18,7 +18,7 @@ Bluesky stores Media files (e.g., images) on the **data server** where they get 
 
 ## *tl;dr* for fhe above: 
 
-**Each individual Bluesky user gets their *own* personal database that stores their likes, comments, and so forth (PDS).  By defaut Bluesky creates/hosts and registers that personal database with the Bluesky server, which fetches your data and merges it with everyone else’s to generate your feed.  Your able to, however, have your personal database live just about *anywhere* of Bluesky's infra: giving you total control of your "*identity*" and social media activity**. <br />
+**Each individual Bluesky user gets their *own* personal database that stores their follows, posts, and so forth (PDS).  This is used to locate their likes, comments, etc.  By defaut Bluesky creates/registers and hosts that personal database on Bluesky data servers, which fetches your data and merges it with everyone else’s to generate your feed.  Your even able have your personal database *live* just about *anywhere else outside of* Bluesky's infrastructure: giving you total control of your "*identity*" and social media activity**. <br />
 
 Here's a handy visual flow of what I describe above, from Bluesky's [October 2024 Whitepaper](https://arxiv.org/pdf/2402.03239) on how all this works: 
 
