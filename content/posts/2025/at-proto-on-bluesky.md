@@ -6,7 +6,7 @@ description = "A very basic walkthrough on roughly how ATProto and Bluesky work 
 type = 'post'
 tags = ["news-link", "social-media", "tech", "networking", "devops", "deep-dive"]
 +++
-As a continuation of [**my post the other day about Protocols as a better design approach than Platforms**](https://julianwest.me/Blog/protocols-not-platforms/), I want to offer more details about ***how*** [***ATProto***](https://atproto.com) **and** [**Bluesky**](https://bsky.app) ***work***. <br />
+As a continuation of [**my post the other day about Protocols as a *better* design approach *than Platforms***](https://julianwest.me/Blog/protocols-not-platforms/), I want to offer more details about ***how*** [***ATProto***](https://atproto.com) **and** [**Bluesky**](https://bsky.app) ***work***. <br />
 
 So Bluesky is this *decentralized* social network that distributes control across multiple servers, built on the open-source ATProto framework. Bluesky uses a federated architecture render the familiar client-server model of traditional social media. But Bluesky is *anything but* "traditional". <br />
 
