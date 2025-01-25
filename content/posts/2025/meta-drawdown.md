@@ -14,17 +14,17 @@ This will be a quick update about my social media presence in '25... the ***tl;d
 
 • **Threads & WhatsApp**: Both have been deleted and accounts deactivated. I’m just not finding value in continuing to use them, compared to other options in those spaces. <br /> <br />
 
-•	**Staying Reachable**: Don’t worry, I’m not disappearing! I’ll remain active on Facebook Messenger (since I’m keeping my FB account open), and I am also still active on LinkedIn, and Bluesky. You can always find my whereabouts online using the "***About***" menu item, up at the top-right on this site.  <br />
+•	**Staying Reachable**: Don’t worry, I’m not disappearing! I’ll remain active on Facebook Messenger (since I’m keeping my FB account open), and I am also still active on [LinkedIn](https://www.linkedin.com/in/julianwest/), and [Bluesky](https://bsky.app/profile/julianwest.me). You can always find my whereabouts online using the "***About***" menu item, on the top-right on this site.  <br />
 
 Of course I'll *still stop by* Facebook from time-to-time, to keep tabs.  And my wife and close friends/fam will all keep me in the loop on big news, so I won't miss it.😊 
 
 ### What's behind the change?
 
-Over past decade, I've used quite a bit of social media.  I was on Twitter in 2007, and Facebook in 2008. And, yes, I had a MySpace and Friendster account.  If I had a friend trying some new social media out, usually I would to. And, early on, it was fun connecting to friends, family, or colleagues in tech.  Over time social media kind of supplanted other information streams for us all (old media, RSS feeds, etc), and in the past three+ years I have come to really see how dysfunctional social media platforms have become.  As each service struggled to figure balance moderation with free speech, many kind of went through manic changes, edicts, or buyouts. <br />
+Over past decade, I've used quite a bit of social media.  I was on Twitter in 2007. Facebook in 2008. And, yes, I had MySpace and Friendster accounts.  If I had a friend trying some site out, usually I would too. And, early on, it was fun connecting to friends, family, or colleagues in tech.  That whole "Web 2.0" era was a blast early on, but over time social media became an information system for news, not just platforms for communication and connecting with people.  And in the past three+ years I have come to see how dysfunctional social media platforms became. As each service struggled to balance moderation with free speech, they went through manic changes, edicts, or [buyouts](https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk). <br />
 
-Consequently, last year I began a pullback from social media use.  That involved, deleting Twitter(X), from my phone and setting my account to *private*.  As Threads and Bluesky became compelling replacements for it, I eventually just delete my 17 year-old Twitter(X) account entirely. And I really haven't missed it it all.  <br />
+Consequently, last year I began a pullback from social media use.  That involved deleting Twitter(X) from my phone, and setting my account to *private*.  As Threads and Bluesky became compelling replacements for it, I eventually just deleted my 17 year-old Twitter(X) account altogether. And I really haven't missed it it all.  <br />
 
-But I still found myself bouncing between Threads and Facebook, and it's a real time sink for me as I have begun one of the busier years at work.  So I decided to close-out of Threads and Whatsapp, and go inactive on Facebook/Instagram.  Though I have never been about giving anybody reasons for such things, I'll share my thinking on all this below-anyway:
+But I still found myself bouncing between Threads and Facebook, and it's a real time sink for me.  So I decided to close-out of Threads and Whatsapp, and go inactive on Facebook/Instagram.  Though I have never been about giving anybody reasons for such things, I'll share my thinking on all this below-anyway:
 
 1.	**Time Hog**
 I’ve noticed Facebook can be a huge time sink. I’d already been scaling back my usage for the last year, so this feels like a natural progression.
