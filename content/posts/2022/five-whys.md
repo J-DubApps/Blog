@@ -31,11 +31,11 @@ This technique is often linked to [Sakichi Toyoda](https://en.wikipedia.org/wiki
 
 ## Example of the 5 Whys In Action
 
-**Problem**: <br />
+### Problem: <br />
 
 > ``` The production line stopped working. ```
 
-**Why Questions**:  <br />
+### Why Questions:  <br />
 
 ***Why*** **did the production line stop**?
 
