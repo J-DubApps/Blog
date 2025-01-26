@@ -37,7 +37,7 @@ Meta has such a poor track record of data breaches, and while WhatsApp claims to
 4.	“**Free**” **Means** [***You’re the Product***](https://www.forbes.com/sites/marketshare/2012/03/05/if-youre-not-paying-for-it-you-become-the-product/) (*always has, always will*...) <br />
 With a company so focused on collecting our data, there’s always the feeling they’re monetizing every click. It’s not just selling ads with Zuck; it’s selling *us*.  Meta gets around *directly* selling your datay, but heavily-monitoring your interactions/searches/activity to target personalized ads at you ([*officially*](https://www.facebook.com/help/152637448140583/), anyway).  But they have to really get up in there and "*know you*" in order to provide advertisers with reports on how their ads are playing.  And they've never offered any kind of paid-tier, to give us choice.  The age-old rule applies: when it's free, *you're the product*. <br /> 
 5.	**Moderation Rollback** <br />
-Zuck's recent move to significantly dial back moderation feels like we could be going back to the old 2014-2020 Facebook, with wild misinformation and conflict in our newsfeed again—yeah that's a '*nope*' for me. <br /> 
+[Zuck's recent move to significantly dial back fact-checking](https://www.nbcnews.com/tech/social-media/zuckerbergs-fact-checking-rollback-ushers-chaotic-online-era-rcna186561) feels like we're going back to the old 2014-2020 Facebook, with wild misinformation and conflict in our newsfeed again—yeah that's a '*nope*' for me. <br /> 
 
 ## My Whereabouts Here On Out... 
 
