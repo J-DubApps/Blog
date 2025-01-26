@@ -55,4 +55,4 @@ So that's how it is with me in '25, with social media.  **My Facebook is just a 
 
 Cheers! --*Julian* <br /> <br />
 
-<img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-jan-25.jpeg" alt="Alt text" width="500" height="235">
+<img src="https://julianwest.me/Blog/posts/images/jdub-jan-25.jpeg" alt="Alt text" width="500" height="235">
