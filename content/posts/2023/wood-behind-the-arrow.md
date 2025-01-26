@@ -2,7 +2,7 @@
 date = '2023-10-07T11:14:51-06:00'
 draft = false
 title = 'The Lie of Multitasking'
-description = 'Put All Your Wood Behind A Single Arrow'
+description = 'Put All Your Wood Behind A Single Arrow At-A-Time'
 type = 'post'
 tags = ["philosophy", "thought", "special-write-up", "project-mgmt", "best-of", "jdub-isms", "devops", "tech", "troubleshooting", "task-mgmt"]
 +++
