@@ -47,7 +47,7 @@ And yes, I’m still on [LinkedIn](https://www.linkedin.com/in/julianwest/) for 
 
 ## To my friends and family on Facebook etc...
 
-...**I want to *stress*** this is just *my own* personal choice. I am super supportive of my friends, family, and colleagues who enjoy Facebook, Instagram, etc. You do you! I'll still be stoppby by, now and then, in a *read-only* manner keeping-up with people I care about.   But for me it's about preserving my focus and attention these days-and less social media is the way.  I also plan to invest more energy in real-life interactions.  I've come to believe Humans derive more meaning and connection in person.  Perhaps that should be the main lesson to take from this era of *mega social media*, that we live in.
+...**I want to *stress*** this is just *my own* personal choice, and I am super supportive of my friends and family who enjoy Facebook etc. You do you! I will still stop by, now and then (*read-only*), to keep-up with the people I care about. But, for me, it's about preserving my focus and attention these days.  I also plan invest more time and energy in real-life interactions.  
 
 ## Wrapping Up
 
