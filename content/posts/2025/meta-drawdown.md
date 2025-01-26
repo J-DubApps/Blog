@@ -49,4 +49,8 @@ And yes, I’m still on [LinkedIn](https://www.linkedin.com/in/julianwest/) for 
 
 ## Wrapping Up
 
-So that's how it is with me in '25, with social media.  **My Facebook is just a "Contact" page for me now**.  No posting anymore, but you might occassionally "*see me*" around via "*Likes*" or a Comment now and then.  And you can still reach me through Messenger.  But for keeping tabs, you can always stop by julianwest.me or Bluesky. 
+So that's how it is with me in '25, with social media.  **My Facebook is just a "Contact" page for me now**.  No posting anymore, but you might occassionally "*see me*" around via "*Likes*" or a Comment now and then.  And you can still reach me through Messenger.  But for keeping tabs, you can always stop by julianwest.me or Bluesky. <br /> 
+
+Cheers! --*Julian* <br /> <br />
+
+<img src="https://julianwest.me/Blog/posts/2024/BrownJacket/jdub-jan-25.jpeg" alt="Alt text" width="500" height="235">
