@@ -5,7 +5,7 @@ title = 'Skill Gap'
 type = 'post'
 tags = ["tech", "devops", "jdub-isms, "enterprise-it", "beginner-fundamentals", "leadership", "self-development", "troubleshooting"]
 +++
-#Skill Gap
+# Skill Gap
 
 You may have heard me use this term a time or two. Let's define it: <br />
 
