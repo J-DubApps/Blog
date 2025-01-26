@@ -12,7 +12,7 @@ The ***tl;dr*** of it is: **I'm stepping back from day-to-day Facebook use, and 
 
 ## What's getting the boot?
 
-• **Facebook & Instagram**: I’ve decided to go ***mostly inactive*** on those, deleting the apps from my devices, but **I'll keep my accounts enabled** and profiles "*on*".  I just won’t be really doing a lot, other than checking-in with close friends and family. <br />
+• **Facebook & Instagram**: I’ve decided to go ***mostly inactive*** on those, but **keeping my accounts enabled** and profiles "*on*". I deleted the apps from phone, and I just won’t be visiting them much, other than checking-in with close friends and family from time-to-time. <br />
 
 • **Threads & WhatsApp**: Both are **deleted** and their accounts ***deactivated***. I find little value them compared to other options. <br />
 
