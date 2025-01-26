@@ -3,7 +3,7 @@ date = '2019-03-03T20:10:26-06:00'
 draft = true
 title = 'Skill Gap'
 type = 'post'
-tags = ["tech", "devops", "jdub-isms, "enterprise-it", "beginner-fundamentals", "leadership", "self-development", "troubleshooting"]
+tags = ["tech", "devops", "jdub-isms", "enterprise-it", "beginner-fundamentals", "leadership", "self-development", "troubleshooting"]
 +++
 # Skill Gap
 
