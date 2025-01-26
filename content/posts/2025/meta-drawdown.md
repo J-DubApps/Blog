@@ -31,7 +31,7 @@ Not that it should matter, but here's a recap of what led me to make these chang
 1.	**Time Hogs** <br />
 Facebook can be a huge time sink.  More-so with Threads etc in the mix. I started scaling back my usage last year, so this feels like a natural thing to do. <br /> 
 2.	**Meta Products Are Slow & Bloated** <br />
-Between invasive-tracking and Ad software, everything loads at a snail’s pace on Meta properties. WhatsApp in particular felt clunky, even though it’s marketed as “lightweight.” <br /> 
+Between invasive-tracking and Ad software layers, everything loads at a snail’s pace on Meta properties.  It's like that everywhere, but really bad on Facebook. WhatsApp in particular felt clunky, even though it’s marketed as “lightweight.” <br /> 
 3.	**Security Concerns**
 Meta has such a poor track record of data breaches, and while WhatsApp claims to be *s*ecure* you can’t help but question it—especially when you see how it never replaced Facebook Messenger.  If seems like Signal, by contrast, does everything Whatsapp's original roadmap *said it would do*, before [Zuck](https://en.wikipedia.org/wiki/Mark_Zuckerberg) bought it and [nerfed it](https://en.wikipedia.org/wiki/Game_balance#Buffs_and_nerfs).
 4.	“**Free**” **Means** [***You’re* the Product***](https://www.forbes.com/sites/marketshare/2012/03/05/if-youre-not-paying-for-it-you-become-the-product/) (*always has, always will*...) <br />
