@@ -68,4 +68,4 @@ The repetitive questioning challenges assumptions and compels teams to think mor
 3.	**Simple and Cost-Effective** <br />
 The 5 Whys doesn’t require specialized tools or extensive training. It’s an easy-to-implement method suitable for organizations of any size. <br />
 
-Keep in mind that “***five***” is not set in stone—sometimes you’ll reach the root cause in *fewer* steps, or sometimes you may need more. The goal is simply to continue asking “***why***” until you’re confident you’ve arrived at a clear *root cause* and *actionable solution*.
+Keep in mind that “***five***” is not set in stone—sometimes you’ll reach the root cause in *fewer* steps, or sometimes you may need *more*. The goal is simply to continue asking “***why***” until you’re confident you’ve arrived at a clear *root cause* and *actionable solution*.
