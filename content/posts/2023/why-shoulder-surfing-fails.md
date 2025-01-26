@@ -1,7 +1,7 @@
 +++
 date = '2023-04-07T20:10:26-06:00'
 draft = false
-title = 'Downtime&#45;Hovering On The Lead Troubleshooting Engineer'
+title = 'Downtime-Hovering On The Lead Troubleshooting Engineer'
 description = 'Why Shoulder Surfing Your SME Is Counterproductive'
 type = 'post'
 tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "thought", "beginner-fundamentals", "leadership", "self-development", "troubleshooting"]
