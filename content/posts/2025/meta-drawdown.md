@@ -6,28 +6,27 @@ description = "Meta joins my social media pullback..."
 type = 'post'
 tags = ["personal", "social-media", "blog"]
 +++
-This will be a quick update about my social media use in '25.  If we're friends on Facebook you may notice [my profile](https://www.facebook.com/west.julian) is devoid of posts now. Just photos and memory events remain...and this blog post.  Pinned to the top of my profile. <br />
+This is an update about my social media whereabouts in '25.  If we're friends on Facebook you might've noticed [my profile](https://www.facebook.com/west.julian) is devoid of posts: just photos and memory events remain...and *this blog post* pinned to the top of my profile. <br />
 
-The ***tl;dr*** of it is: **I'm stepping back from day-to-day Facebook use, and closing accounts on other Meta products altogether**.  *Read on for the deets*...<br />
-
+The ***tl;dr*** of it is: **I'm stepping back from day-to-day Facebook use, and closing accounts on other Meta products**.  *Read on for the deets*...
 
 ## What's getting the boot?
 
-• **Facebook & Instagram**: I’ve decided to go ***mostly inactive*** on those, but **keeping my accounts enabled** and profiles "*on*". I deleted the apps from phone, and I just won’t be visiting them much, other than checking-in with close friends and family from time-to-time. <br />
+• **Facebook & Instagram**: Still there but I'm going ***mostly inactive*** on those, **keeping my accounts enabled** to check-in with close friends and family from time-to-time. I deleted the apps from my phone. <br />
 
-• **Threads & WhatsApp**: Both are **deleted** and their accounts ***deactivated***. I find little value in them compared to other options. <br />
+• **Threads & WhatsApp**: Both are **deleted** and accounts ***deactivated***. I find little value in them compared to other options like Signal and Bluesky. <br />
 
-•	**Staying Reachable**: Don’t worry, I’m not disappearing! I remain active on **Facebook Messenger**, [LinkedIn](https://www.linkedin.com/in/julianwest/), and [Bluesky](https://bsky.app/profile/julianwest.me). You can *always* find my latest whereabouts from the "***About***" menu item up top on this site [julianwest.me](https://julianwest.me).  <br />
+•	**Staying Reachable**: Don’t worry, I’m not disappearing! I remain active on **Facebook Messenger**, [LinkedIn](https://www.linkedin.com/in/julianwest/), and [Bluesky](https://bsky.app/profile/julianwest.me). You can *always* find my latest whereabouts from the ["***About***" menu](https://julianwest.me/Blog/about/) on this site [***julianwest.me***](https://julianwest.me).  <br />
 
-Of course I'll *still stop by* Facebook from time-to-time, keeping tabs when I have free time. And my wife and close friends/fam will keep me in the loop on any big news, so I won't miss it.😊
+Of course I'm *still stopping-by* Facebook from time-to-time, keeping tabs when I get time. And my wife and closest friends/fam will keep me in the loop.  I won't be missing any big news, don't worry.😊
 
 ## What's behind the change?
 
-Over past two decades, I was an early adopter of just about *every* social media. They didn't even *call it* "social media" when I jumped onto Twitter in 2007, or Facebook in 2008 (and, yes, I used MySpace and Friendster before that).  In those early days it was fun connecting to friends and family. That whole "[***Web 2.0***](https://en.wikipedia.org/wiki/Web_2.0)" era was wild and fun for a little while, but over time [the Corey Doctrow formula](https://julianwest.me/Blog/enshittification-of-the-internet/) took hold-and much of it started to really suck.  Social media isn't a place for connecting people anymore: it morphed into an *information system* that destroyed traditional media's role for news and public discourse. In the past three+ years it's hard to ignore how *dysfunctional* social media became, and how it gets abused for influence. As each social media service struggled to balance moderation with free speech-they all went through manic changes, edicts, or [buyouts](https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk). Now most social media either just divides people into their *preferred tribal camps*, or it puts misinformation on blast. <br />
+Over the past two decades I was an early adopter of just about *every* social media. They didn't even *call it* "social media" back when I jumped on Twitter in 2007, or Facebook in 2008 (and, yes, I used MySpace and Friendster 😂). In those early days it was fun connecting to friends and family. That whole "[***Web 2.0***](https://en.wikipedia.org/wiki/Web_2.0)" era was wild and fun, but over time [the Corey Doctrow formula](https://julianwest.me/Blog/enshittification-of-the-internet/) took hold of social media-and most of it started to really suck. Social media isn't a place for *connecting people* anymore, not *really*: it morphed into an *information system* that destroyed traditional media, news-gathering, and public discourse. In the past five+ years it's hard to ignore how *dysfunctional* social media is, and how it's abused for influence.  As each site struggled to balance moderation with free speech-they all went through manic changes, edicts, or [buyouts](https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk). Now social media either mostly divides people into their *preferred tribal camps*, or it puts harmful misinformation out on blast. <br />
 
-So I began a quiet pullback the last couple years, deleting Twitter(X) from my phone and setting the account to *private*. As Threads and Bluesky became compelling replacements, I deleted my 17 year-old Twitter(X) account altogether.  But in record time Threads is proving [the Corey Doctrow formula](https://julianwest.me/Blog/enshittification-of-the-internet/) correct, all over again. <br />
+I *get it* if you don't share the above take, but at any rate I began a quiet pullback the last couple years.  I deleted Twitter(X) from my phone in 2023 and set my account to *private*. Threads and Bluesky became compelling replacement in '24, so I deleted my 17 year-old Twitter(X) account altogether.  And in record time, Threads *itself* went through [the Corey Doctrow process of Ensh*tiffication](https://julianwest.me/Blog/enshittification-of-the-internet/). So I deleted Threads as well. <br />
 
-Not that it should matter, but here's a recap of what led me to make these changes:
+*Not that it should matter*, but here's a recap of why I have cooled on [Zuck's](https://en.wikipedia.org/wiki/Mark_Zuckerberg) Meta sites:
 
 1.	**Time Hogs** <br />
 Facebook can be a huge time sink.  More-so with Threads etc in the mix. I started scaling back my usage last year, so this feels like a natural thing to do. <br /> 
@@ -46,13 +45,13 @@ If you’re wondering where I’ll be posting my usual weird thoughts or (someti
 
 And yes, I’m still on [LinkedIn](https://www.linkedin.com/in/julianwest/) for professional connections and the usual work stuff. And Facebook Messenger remains active of course.  I just don’t plan to actively use Facebook a lot.
 
-## To my friends and family on Facebook etc...
+## To my friends and family on Facebook etc... (I love ya'll!)
 
-...**I want to *stress*** this is just *my own personal choice*, and I am super supportive of my friends and family enjoying Facebook / Insta / etc. You do you! I will still stop by, now and then (*read-only*), to keep-up with the people I care about. But, for me, it's about preserving my focus and attention these days.  I also plan invest more time and energy in real-life interactions.  
+...**I wanna *stress*** this is just *my own personal choice*, and I am super supportive of my friends and family still enjoying Facebook / Insta / etc. *You do you*! I will still stop by now and then to keep-up with the folks I care about. But, *for me* anyway, it's about preserving my focus and attention these days.  I also plan invest more time and energy in real-life interactions.
 
 ## Wrapping Up
 
-**So that's how it is with me in '25, on the social media thing**.  **My Facebook is a "*Contact*" page for me now**.  While I won't be posting anything new over there, when I stop by you'll occassionally "*see me*" from my *Likes*-or the odd comment-reply now and then.  You can still reach me through Messenger, and for whatever I'm "posting" you can always see it here on julianwest.me, or over on [Bluesky](https://bsky.app/profile/julianwest.me) (or [LinkedIn](https://www.linkedin.com/in/julianwest/) for work stuff). <br /> 
+**So that's how it is with me in '25, on the social media stuff**.  **My Facebook is mostly just a "*Contact*" page** for family/friends to track me, now.  While I won't be posting anything new over there you might occassionally "*see me*" from my *Likes*-or the odd comment-reply now and then.  You can still reach me through Messenger, too.  As for whatever I'm "posting" these days -- well, it's always here on [julianwest.me](https://julianwest.me) or over on [Bluesky](https://bsky.app/profile/julianwest.me) (or [LinkedIn](https://www.linkedin.com/in/julianwest/) for work stuff). <br /> 
 
 Cheers and best wishes for an awesome 2025! --*Julian* <br /> <br />
 
