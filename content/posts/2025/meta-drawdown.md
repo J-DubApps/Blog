@@ -2,7 +2,7 @@
 date = '2025-01-25T12:09:51-06:00'
 draft = false
 title = "My Social Media Drawdown"
-description = "Meta products join my social media pullback..."
+description = "Meta joins my social media pullback..."
 type = 'post'
 tags = ["personal", "social-media", "blog"]
 +++
@@ -12,17 +12,17 @@ The ***tl;dr*** of it is: **I'm stepping back from day-to-day Facebook use, and 
 
 ## What's getting the boot?
 
-• **Facebook & Instagram**: I’ve decided to go ***mostly inactive*** on those, deleting the apps from my devices, but **I'll keep my accounts enabled** and profiles "*on*".  I just won’t be really doing a lot, other than checking-in on friends and family. <br />
+• **Facebook & Instagram**: I’ve decided to go ***mostly inactive*** on those, deleting the apps from my devices, but **I'll keep my accounts enabled** and profiles "*on*".  I just won’t be really doing a lot, other than checking-in with close friends and family. <br />
 
-• **Threads & WhatsApp**: Both are **deleted** and accounts ***deactivated***. I’m just not finding value them, compared to other options. <br />
+• **Threads & WhatsApp**: Both are **deleted** and their accounts ***deactivated***. I find little value them compared to other options. <br />
 
-•	**Staying Reachable**: Don’t worry, I’m not disappearing! I remain active on **Facebook Messenger** (since I’m keeping my FB account open), and I am also still active on [LinkedIn](https://www.linkedin.com/in/julianwest/) and [Bluesky](https://bsky.app/profile/julianwest.me). You can *always* find my whereabouts online from the "***About***" menu item up top (top-*right*) on this site [julianwest.me](https://julianwest.me).  <br />
+•	**Staying Reachable**: Don’t worry, I’m not disappearing! I remain active on **Facebook Messenger**, [LinkedIn](https://www.linkedin.com/in/julianwest/), and [Bluesky](https://bsky.app/profile/julianwest.me). You can *always* find my latest whereabouts from the "***About***" menu item up top on this site [julianwest.me](https://julianwest.me).  <br />
 
-Of course I'll *still stop by* Facebook from time-to-time, to keep tabs.  And my wife and close friends/fam will all keep me in the loop on big news, so I won't miss it.😊
+Of course I'll *still stop by* Facebook from time-to-time, keeping tabs when I have free time. And my wife and close friends/fam will keep me in the loop on any big news, so I won't miss it.😊
 
 ## What's behind the change?
 
-Over past two decades, I was an early adopter of just about *every* social media that came out. They didn't even *call it* "social media" when I jumped onto Twitter in 2007, and Facebook in 2008 (and, yes, I had MySpace and Friendster accounts before that).  In those early days it was fun connecting to friends and family, and that whole "Web 2.0" era was wild, and fun for a little while. But over time social media followed [the Corey Doctrow formula](https://julianwest.me/Blog/enshittification-of-the-internet/), and just started to really suck. Social media is not really a place for connecting people, like it was *back then*: it morphed into an *information system* that destroyed traditional media's role for news and public discourse. In the past three+ years it's hard to ignore how *dysfunctional* social media became, and how it gets abused for influence. As each social media service struggled to balance moderation with free speech-they all went through manic changes, edicts, or [buyouts](https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk). Now most social media either just divides people into their *preferred tribal camps*, or it puts misinformation on blast. <br />
+Over past two decades, I was an early adopter of just about *every* social media. They didn't even *call it* "social media" when I jumped onto Twitter in 2007, or Facebook in 2008 (and, yes, I used MySpace and Friendster before that).  In those early days it was fun connecting to friends and family. That whole "[***Web 2.0***](https://en.wikipedia.org/wiki/Web_2.0)" era was wild and fun for a little while, but over time [the Corey Doctrow formula](https://julianwest.me/Blog/enshittification-of-the-internet/) took hold-and much of it started to really suck.  Social media isn't a place for connecting people anymore: it morphed into an *information system* that destroyed traditional media's role for news and public discourse. In the past three+ years it's hard to ignore how *dysfunctional* social media became, and how it gets abused for influence. As each social media service struggled to balance moderation with free speech-they all went through manic changes, edicts, or [buyouts](https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk). Now most social media either just divides people into their *preferred tribal camps*, or it puts misinformation on blast. <br />
 
 So I began a quiet pullback the last couple years, deleting Twitter(X) from my phone and setting the account to *private*. As Threads and Bluesky became compelling replacements, I deleted my 17 year-old Twitter(X) account altogether.  But in record time Threads is proving [the Corey Doctrow formula](https://julianwest.me/Blog/enshittification-of-the-internet/) correct, all over again. <br />
 
