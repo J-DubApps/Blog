@@ -68,4 +68,6 @@ A better approach: **wait until the dust settles**. Conduct a proper review once
 ***Related Posts***:  <br />
 
 [My Approach To Cross-Training](https://julianwest.me/Blog/empowering-independence-it/). <br />
-[My recommended best-practices on documentation](https://julianwest.me/Blog/documentation-manifesto/).
+[My recommended best-practices on documentation](https://julianwest.me/Blog/documentation-manifesto/). <br /> <br />
+
+ <img src="https://julianwest.me/Blog/posts/images/shoulder-surfing.jpg" alt="Alt text">
