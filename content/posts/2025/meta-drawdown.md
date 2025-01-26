@@ -29,7 +29,7 @@ So I began a quiet pullback the last couple years, deleting Twitter(X) from my p
 Not that it should matter, but here's a recap of what led me to make these changes:
 
 1.	**Time Hogs** <br />
-Facebook can be a huge time sink.  More-so with Threads etc in the mix. I started scaling back my usage last year, so this feels like a natural progression. <br /> 
+Facebook can be a huge time sink.  More-so with Threads etc in the mix. I started scaling back my usage last year, so this feels like a natural thing to do. <br /> 
 2.	**Meta Products Are Slow & Bloated** <br />
 Between invasive-tracking and Ad software, everything loads at a snail’s pace on Meta properties. WhatsApp in particular felt clunky, even though it’s marketed as “lightweight.” <br /> 
 3.	**Security Concerns**
