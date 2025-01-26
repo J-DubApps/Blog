@@ -12,7 +12,7 @@ The ***tl;dr*** of it is: **I'm stepping back from day-to-day Facebook use, and 
 
 ## What's getting the boot?
 
-• **Facebook & Instagram**: I’ve decided to go ***mostly inactive*** on those, deleting the apps from my devices, but **I'll keep my accounts enabled** and profiles "*on*".  I just won’t be really doing a lot, other than checking-in on friends and family.  While I might comment or "*Like*" stuff, I won't be posting anything new. <br /> <br />
+• **Facebook & Instagram**: I’ve decided to go ***mostly inactive*** on those, deleting the apps from my devices, but **I'll keep my accounts enabled** and profiles "*on*".  I just won’t be really doing a lot, other than checking-in on friends and family. <br /> <br />
 
 • **Threads & WhatsApp**: Both are deleted and accounts deactivated. I’m just not finding value them, compared to other options. <br /> <br />
 
@@ -51,7 +51,7 @@ And yes, I’m still on [LinkedIn](https://www.linkedin.com/in/julianwest/) for 
 
 ## Wrapping Up
 
-**So that's how it is with me in '25, on the social media thing**.  **My Facebook is a "*Contact*" page for me now**.  While I won't be posting, you might occassionally "*see me*" around via "*Likes*" or a Comment now and then-when I stop by. You can still reach me through Messenger, and for whatever I'm "posting" you can always see it here on julianwest.me, or over on [Bluesky](https://bsky.app/profile/julianwest.me) (or [LinkedIn](https://www.linkedin.com/in/julianwest/) for work stuff). <br /> 
+**So that's how it is with me in '25, on the social media thing**.  **My Facebook is a "*Contact*" page for me now**.  While I won't be posting anything new over there, when I stop by you'll occassionally "*see me*" from my *Likes*-or the odd comment-reply now and then.  You can still reach me through Messenger, and for whatever I'm "posting" you can always see it here on julianwest.me, or over on [Bluesky](https://bsky.app/profile/julianwest.me) (or [LinkedIn](https://www.linkedin.com/in/julianwest/) for work stuff). <br /> 
 
 Cheers and best wishes for an awesome 2025! --*Julian* <br /> <br />
 
