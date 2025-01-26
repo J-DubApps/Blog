@@ -22,22 +22,22 @@ Of course I'll *still stop by* Facebook from time-to-time, to keep tabs.  And my
 
 ## What's behind the change?
 
-Over past two decades, I was an early adopter of just about every social media service that came out.  I was on Twitter in 2007. Facebook in 2008. And, yes, I had MySpace and Friendster accounts before that.  In those early days it was fun connecting to friends, family, or colleagues.  That whole "Web 2.0" era was wild, and fun for a little while. But over time social media followed [the Corey Doctrow formula](https://julianwest.me/Blog/enshittification-of-the-internet/), and it stopped being places for connecting people.  It morphed into an *information system* that destroyed traditional media's role in news and public discourse. In the past three+ years it's hard to ignore just how *dysfunctional* social media has become, and how its abused for influence.  It no longer really connects people, and each social media service struggled to balance moderation with free speech-going through manic changes, edicts, or [buyouts](https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk). Now most social media divides peopl into their preferred tribal camps, and puts misinformation on blast. <br />
+Over past two decades, I was an early adopter of just about *every* social media that came out. They didn't even *call it* "social media" when I jumped onto Twitter in 2007, and Facebook in 2008 (and, yes, I had MySpace and Friendster accounts before that).  In those early days it was fun connecting to friends and family, and that whole "Web 2.0" era was wild, and fun for a little while. But over time social media followed [the Corey Doctrow formula](https://julianwest.me/Blog/enshittification-of-the-internet/), and just started to really suck. Social media is not really a place for connecting people, like it was *back then*: it morphed into an *information system* that destroyed traditional media's role for news and public discourse. In the past three+ years it's hard to ignore how *dysfunctional* social media became, and how it gets abused for influence. As each social media service struggled to balance moderation with free speech-they all went through manic changes, edicts, or [buyouts](https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk). Now most social media either just divides people into their *preferred tribal camps*, or it puts misinformation on blast. <br />
 
-So I began a pullback from social media use the last couple years.  That involved deleting Twitter(X) from my phone, and setting my account to *private*. As Threads and Bluesky became compelling replacements, I deleted my 17 year-old Twitter(X) account altogether. And I haven't missed it it all.  <br />
+So I began a quiet pullback the last couple years, deleting Twitter(X) from my phone and setting the account to *private*. As Threads and Bluesky became compelling replacements, I deleted my 17 year-old Twitter(X) account altogether.  But in record time Threads is proving [the Corey Doctrow formula](https://julianwest.me/Blog/enshittification-of-the-internet/) correct, all over again. <br />
 
-Not that it should matter, here's a recap of what led me to make the change:
+Not that it should matter, but here's a recap of what led me to make these changes:
 
-1.	**Time Hog**
+1.	**Time Hogs** <br />
 I’ve noticed Facebook can be a huge time sink. I’d already been scaling back my usage for the last year, so this feels like a natural progression. <br /> 
-2.	**Meta Products Are Slow & Bloated**
+2.	**Meta Products Are Slow & Bloated** <br />
 Between invasive-tracking and Ad software, everything loads at a snail’s pace on Meta properties. WhatsApp in particular felt clunky, even though it’s marketed as “lightweight.” <br /> 
 3.	**Security Concerns**
 Meta has such a poor track record of data breaches, and while WhatsApp claims to be *s*ecure* you can’t help but question it—especially when you see how it never replaced Facebook Messenger.  If seems like Signal, by contrast, does everything Whatsapp's original roadmap *said it would do*, before [Zuck](https://en.wikipedia.org/wiki/Mark_Zuckerberg) bought it and [nerfed it](https://en.wikipedia.org/wiki/Game_balance#Buffs_and_nerfs).
-4.	“**Free**” **Means** [***You’re* the Product***](https://www.forbes.com/sites/marketshare/2012/03/05/if-youre-not-paying-for-it-you-become-the-product/) (*always has, always will*...)
+4.	“**Free**” **Means** [***You’re* the Product***](https://www.forbes.com/sites/marketshare/2012/03/05/if-youre-not-paying-for-it-you-become-the-product/) (*always has, always will*...) <br />
 With a company so focused on collecting our data, there’s always the feeling they’re monetizing every click. It’s not just selling ads with Zuck; it’s selling *us*.  Meta gets around *directly* selling your datay, but heavily-monitoring your interactions/searches/activity to target personalized ads at you ([*officially*](https://www.facebook.com/help/152637448140583/), anyway).  But they have to really get up in there and "*know you*" in order to provide advertisers with reports on how their ads are playing.  And they've never offered any kind of paid-tier, to give us choice.  The age-old rule applies: when it's free, *you're the product*. <br /> 
-5.	**Moderation Rollback**
-Zuck's recent move to significantly dial back moderation feels like we could be going back to the old 2015-2020 roller coaster Facebook.  With wild misinformation and conflict in my newsfeed again—yeah that's a '*nope' for me. <br /> 
+5.	**Moderation Rollback** <br />
+Zuck's recent move to significantly dial back moderation feels like we could be going back to the old 2015-2020 roller coaster Facebook.  With wild misinformation and conflict in my newsfeed again—yeah that's a '*nope*' for me. <br /> 
 
 ## Where I'll Be Posting Here On Out... 
 
