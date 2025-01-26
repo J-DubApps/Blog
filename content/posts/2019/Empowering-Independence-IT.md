@@ -52,4 +52,4 @@ To foster a team environment where everyone takes initiative, learns proactively
 
 **Last tl;dr**: *by focusing on self-reliance and continuous learning, we actually all grow ***together*** and meet the challenges in our field ***head-on***. Embrace this approach, and you can work collaboratively on powerful teams that achieve amazing outcomes and shared success*!
 
-# I am rooting for you!
+# *I am rooting for you*!

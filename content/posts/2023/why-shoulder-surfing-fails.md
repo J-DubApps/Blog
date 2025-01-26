@@ -6,7 +6,7 @@ description = 'Why Shoulder Surfing Your SME Is Counterproductive'
 type = 'post'
 tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "thought", "beginner-fundamentals", "leadership", "self-development", "troubleshooting"]
 +++
-**When systems are *on the fritz* and everyone is scrambling to restore service**, it’s tempting to just hover behind the most experienced colleague—usually your Lead Engineer or nearby [Subject Matter Expert](https://en.wikipedia.org/wiki/Subject-matter_expert) (SME)—and observe them in action. The logic seems sound: “Watch what the expert does, maybe jot down notes, and learn advanced troubleshooting techniques on-the-fly.” ***In reality*** the classic “shoulder surfing” approach consistently *falls flat* and can even *hinder the diagnostics* and troubleshooting. Below I am going explain ***why this is***—and **why it’s not always the best way to get cross-training** or close skills gaps. <br />
+**When systems are *on the fritz* and everyone is scrambling to restore service**, it’s tempting to just hover behind the most experienced colleague—usually your Lead Engineer or nearby [Subject Matter Expert](https://en.wikipedia.org/wiki/Subject-matter_expert) (SME)—and observe them in action. The logic seems sound: “Watch what the expert does, maybe jot down notes, and learn advanced troubleshooting techniques on-the-fly.” ***In reality*** the classic “shoulder surfing” approach consistently *falls flat* and can even *hinder the diagnostics* and troubleshooting. Below I am going explain ***why this is***—and **why it’s not always the best way to get cross-training** or close [skills gaps](https://julianwest.me/Blog/skill-gap/). <br />
 
 ## Stressful Environment and Split Priorities
 
@@ -39,7 +39,7 @@ There’s a real performance penalty when someone feels closely monitored. You m
 
 ## Note-Taking Doesn’t Always "Stick"
 
-Observers often try to take notes: copying down commands, writing bullet points of steps. But this approach doesn’t usually hold up in a high-speed troubleshooting scenario. And any nearby SME seeing you *do this* tells them you've got a Skills Gap going on (or you're really *in over your head*).  Here are 3 reasons why note-taking is counterproductive *during a downtime event*: <br />
+Observers often try to take notes: copying down commands, writing bullet points of steps. But this approach doesn’t usually hold up in a high-speed troubleshooting scenario. And any nearby SME seeing you take notes is usualy an identifier of a [*Skills Gap*](https://julianwest.me/Blog/skill-gap/) that you have going on.  Here are 3 reasons why note-taking is counterproductive ***during*** *a downtime event*: <br />
 •	**Out-of-context commands**: Capturing commands without deeper context leads to confusion when you try them later. <br />
 •	**Rapid changes**: You might not have enough time to note why a particular file path is important, or when a certain configuration flag should (or shouldn’t) be used. <br />
 •	**Messy or incomplete**: Because you’re focused on capturing details quickly, your notes might be incomplete or indecipherable afterward.
@@ -65,4 +65,4 @@ A better approach: **wait until the dust settles**. Conduct a proper review once
 
 Please refer to my post on [cross-training](https://julianwest.me/Blog/empowering-independence-it/), from a couple years ago, on my thinking on that topic.  Another companion to that would be [my recommended best-practice on documentation](https://julianwest.me/Blog/documentation-manifesto/).
 
-# I am rooting for you!
+# *I am rooting for you*!
