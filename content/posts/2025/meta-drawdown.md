@@ -51,9 +51,9 @@ And yes, I’m still on [LinkedIn](https://www.linkedin.com/in/julianwest/) for 
 
 ## Wrapping Up
 
-So that's how it is with me in '25, with the social media thing.  **My Facebook is a "Contact" page for me now**.  While I won't be posting there, you might occassionally "*see me*" around via "*Likes*" or a Comment now and then. And you can still reach me through Messenger.  For keeping up wtih *me*, just load up julianwest.me for the latest, or visit me on [LinkedIn](https://www.linkedin.com/in/julianwest/) or [Bluesky](https://bsky.app/profile/julianwest.me). <br /> 
+**So that's how it is with me in '25, on the social media thing**.  **My Facebook is a "*Contact*" page for me now**.  While I won't be posting, you might occassionally "*see me*" around via "*Likes*" or a Comment now and then-when I stop by. You can still reach me through Messenger, and for whatever I'm "posting" you can always see it here on julianwest.me, or over on [Bluesky](https://bsky.app/profile/julianwest.me) (or [LinkedIn](https://www.linkedin.com/in/julianwest/) for work stuff). <br /> 
 
-Cheers! --*Julian* <br /> <br />
+Cheers and best wishes for an awesome 2025! --*Julian* <br /> <br />
 
 <img src="https://julianwest.me/Blog/posts/images/jdub-jan-25.jpeg" alt="Alt text" width="500" height="235">
 <div style="font-size: 9px;">
