@@ -6,9 +6,10 @@ description = "Meta joins my social media pullback..."
 type = 'post'
 tags = ["personal", "social-media", "blog"]
 +++
-This will be a quick update about my social media use in '25... <br /> 
+This will be a quick update about my social media use in '25.  If we're friends on Facebook you may notice [my profile](https://www.facebook.com/west.julian) is devoid of posts now. Just photos and memory events remain...and this blog post.  Pinned to the top of my profile. <br />
 
 The ***tl;dr*** of it is: **I'm stepping back from day-to-day Facebook use, and closing accounts on other Meta products altogether**.  *Read on for the deets*...<br />
+
 
 ## What's getting the boot?
 
