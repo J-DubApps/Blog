@@ -47,7 +47,7 @@ And yes, I’m still on [LinkedIn](https://www.linkedin.com/in/julianwest/) for 
 
 ## To my friends and family on Facebook etc...
 
-...**I want to *stress*** this is just *my own* personal choice, and I am super supportive of my friends and family who enjoy Facebook etc. You do you! I will still stop by, now and then (*read-only*), to keep-up with the people I care about. But, for me, it's about preserving my focus and attention these days.  I also plan invest more time and energy in real-life interactions.  
+...**I want to *stress*** this is just *my own personal choice*, and I am super supportive of my friends and family enjoying Facebook / Insta / etc. You do you! I will still stop by, now and then (*read-only*), to keep-up with the people I care about. But, for me, it's about preserving my focus and attention these days.  I also plan invest more time and energy in real-life interactions.  
 
 ## Wrapping Up
 
