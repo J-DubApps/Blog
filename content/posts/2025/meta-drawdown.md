@@ -14,9 +14,9 @@ The ***tl;dr*** of it is: **I'm stepping back from day-to-day Facebook use, and 
 
 • **Facebook & Instagram**: I’ve decided to go ***mostly inactive*** on those, deleting the apps from my devices, but **I'll keep my accounts enabled** and profiles "*on*".  I just won’t be really doing a lot, other than checking-in on friends and family. <br />
 
-• **Threads & WhatsApp**: Both are deleted and accounts deactivated. I’m just not finding value them, compared to other options. <br />
+• **Threads & WhatsApp**: Both are **deleted** and accounts ***deactivated***. I’m just not finding value them, compared to other options. <br />
 
-•	**Staying Reachable**: Don’t worry, I’m not disappearing! I’ll remain active on Facebook Messenger (since I’m keeping my FB account open), and I am also still active on [LinkedIn](https://www.linkedin.com/in/julianwest/), and [Bluesky](https://bsky.app/profile/julianwest.me). You can always find my whereabouts online using the "***About***" menu item, on the top-right on this site.  <br />
+•	**Staying Reachable**: Don’t worry, I’m not disappearing! I remain active on **Facebook Messenger** (since I’m keeping my FB account open), and I am also still active on [LinkedIn](https://www.linkedin.com/in/julianwest/) and [Bluesky](https://bsky.app/profile/julianwest.me). You can *always* find my whereabouts online from the "***About***" menu item up top (top-*right*) on this site [julianwest.me](https://julianwest.me).  <br />
 
 Of course I'll *still stop by* Facebook from time-to-time, to keep tabs.  And my wife and close friends/fam will all keep me in the loop on big news, so I won't miss it.😊
 
