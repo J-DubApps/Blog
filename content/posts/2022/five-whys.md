@@ -57,7 +57,7 @@ This technique is often linked to [Sakichi Toyoda](https://en.wikipedia.org/wiki
 
 > ``` Because there wasn’t a scheduled maintenance plan in place.  ```
 
-In this example, asking "***Why***" several times allows the team to identify root cause-of the production line stopping.  The lack of a maintenance plan being identified, and addressed as root cause, allows this particular issue with the production line to be prevented, in the future. <br />
+In this example, asking "***Why***" several times allows the team to identify root cause-of the production line stopping.  The ***lack of a maintenance plan*** is identified and addressed as root cause. So this particular issue with the production line should now be preventable in the future. <br />
 
 ### Benefits of the 5 Whys
 
