@@ -6,7 +6,9 @@ description = "Meta products join my social media pullback..."
 type = 'post'
 tags = ["personal", "social-media", "blog"]
 +++
-This will be a quick update about my social media use in '25... the ***tl;dr*** of it is-**I'm stepping back from day-to-day Facebook use, and closing accounts on other Meta products altogether**.  Read on for deets...<br />
+This will be a quick update about my social media use in '25... <br /> 
+
+The ***tl;dr*** of it is-**I'm stepping back from day-to-day Facebook use, and closing accounts on other Meta products altogether**.  Read on for deets...<br />
 
 ## What's getting the boot?
 
