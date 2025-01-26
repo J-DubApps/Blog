@@ -17,9 +17,9 @@ tags = ["tech", "devops", "best-practice", "enterprise-it", "beginner-fundamenta
 
 ## What Are the "5 Whys"?
 
-The 5 Whys is a straightforward but powerful problem-solving strategy. It seeks to uncover the true source of a problem by repeatedly asking “why”—**usually *five* times**—until you reach the fundamental cause. <br />
+The "**5 Whys**" is a straightforward but powerful problem-solving strategy. It seeks to uncover the true source of a problem by repeatedly asking “***why***”—**usually *five* times**—until you reach the fundamental cause. <br />
 
-In practice, you begin by asking “why” the problem occurred. Each time you find a new explanation, you ask “why” again. This process continues until you’re confident you’ve revealed the underlying reason behind the issue. <br />
+In practice, you begin by asking “**why**” the problem occurred. Each time you find a new explanation, you ask “***why***” *again*. This process continues until you’re confident you’ve revealed the underlying reason behind the issue.  If this technique sounds a little familiar, you've probably seen it before as a part of the [Scientific Method](https://en.wikipedia.org/wiki/Scientific_method). The "*5 Whys*" isn't *that exhaustive* or time-consuming, but is a very popular quick troubleshooting technique.  <br />
 
 ## Why Use the 5 Whys?
 
@@ -27,7 +27,7 @@ By going beyond surface-level symptoms, the 5 Whys helps you identify the real r
 
 ### Origins of the 5 Whys
 
-This technique is often linked to Sakichi Toyoda, the founder of Toyota Industries. It became a key part of the Toyota Production System (TPS), widely known for its commitment to continuous improvement. Although rooted in manufacturing, the 5 Whys has proven valuable in many different fields. <br />
+This technique is often linked to [Sakichi Toyoda](https://en.wikipedia.org/wiki/Sakichi_Toyoda), the founder of [Toyota Industries](https://en.wikipedia.org/wiki/Toyota_Industries). It became a key part of the Toyota Production System (TPS), widely known for its commitment to continuous improvement. Although rooted in manufacturing, the 5 Whys has proven valuable in many different fields. <br />
 
 ## Example of the 5 Whys In Action
 

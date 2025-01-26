@@ -6,7 +6,7 @@ description = 'Why Shoulder Surfing Your SME Is Counterproductive'
 type = 'post'
 tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "thought", "beginner-fundamentals", "leadership", "self-development", "troubleshooting"]
 +++
-When systems are on the fritz and everyone is scrambling to restore service, it’s tempting to just hover behind the most experienced colleague—this is usually your Lead Engineer or nearby [Subject Matter Expert](https://en.wikipedia.org/wiki/Subject-matter_expert) (SME)—and observe them in action. The logic seems sound: “Watch what the expert does, jot down notes, and learn advanced troubleshooting techniques on-the-fly.” ***In reality***, the classic “shoulder surfing” approach consistently falls flat and can even hinder the diagnostics and troubleshooting. Below I am going to explore the reasons ***why this is***—and **why it’s not the best way to get cross-training** or learn new skills. <br />
+**When systems are *on the fritz* and everyone is scrambling to restore service**, it’s tempting to just hover behind the most experienced colleague—usually your Lead Engineer or nearby [Subject Matter Expert](https://en.wikipedia.org/wiki/Subject-matter_expert) (SME)—and observe them in action. The logic seems sound: “Watch what the expert does, maybe jot down notes, and learn advanced troubleshooting techniques on-the-fly.” ***In reality*** the classic “shoulder surfing” approach consistently *falls flat* and can even *hinder the diagnostics* and troubleshooting. Below I am going explain ***why this is***—and **why it’s not always the best way to get cross-training** or close skills gaps. <br />
 
 ## Stressful Environment and Split Priorities
 
