@@ -49,7 +49,7 @@ Observers often try to take notes: copying down commands, writing bullet points 
 1.	**Scheduled Debriefs and Walkthroughs** <br />
 After the outage is resolved, schedule a debrief or “post-mortem” session. Have the SME calmly walk through *what* went wrong, *why* it went wrong, and how they identified and fixed it. This environment—without the chaos of an *active downtime incident*—encourages methodical explanation, Q&A, and deeper understanding. <br />
 2.	**Documentation and Knowledge Bases** <br />
-Encourage your SME to document known fixes, tips, and best practices when not under pressure. A well-curated internal knowledge base is more valuable than sporadic notes taken during a crisis. <br />
+Encourage your SME to document known fixes, tips, and best practices when not under pressure. A well-curated internal knowledge base is more valuable than sporadic notes taken during a crisis. [Visit this link](https://julianwest.me/Blog/documentation-manifesto/) for my recommended Documentation practices <br />
 3.	**Hands-On Training Sessions** <br />
 Provide structured labs or sandbox environments to try out the SME’s troubleshooting steps in a controlled setting. Working through a simulated problem fosters better retention and confidence. <br />
 4.	**Mentorship or Pairing** <br />
@@ -63,6 +63,9 @@ While it might be tempting to learn from your best in-house expert by simply wat
 
 A better approach: **wait until the dust settles**. Conduct a proper review once systems are stable, and invest in **structured**, **calm**, and ***intentional*** training sessions with Senior and Jr Engineers. **In the long run, that’s how you’ll really glean insights from your team’s subject matter experts and build a more resilient IT organization.**
 
-Please refer to my post on [cross-training](https://julianwest.me/Blog/empowering-independence-it/), from a couple years ago, on my thinking on that topic.  Another companion to that would be [my recommended best-practice on documentation](https://julianwest.me/Blog/documentation-manifesto/).
-
 # *I am rooting for you*!
+
+***Related Posts***:  <br />
+
+[My Approach To Cross-Training](https://julianwest.me/Blog/empowering-independence-it/). <br />
+[My recommended best-practices on documentation](https://julianwest.me/Blog/documentation-manifesto/).
