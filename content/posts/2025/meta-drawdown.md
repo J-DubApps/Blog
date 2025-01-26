@@ -56,3 +56,6 @@ So that's how it is with me in '25, with the social media thing.  **My Facebook 
 Cheers! --*Julian* <br /> <br />
 
 <img src="https://julianwest.me/Blog/posts/images/jdub-jan-25.jpeg" alt="Alt text" width="500" height="235">
+<div style="font-size: 9px;">
+<p style="text-align: center;"><i>What an old nerd who downsizes his social media looks like...</i></p>
+</div>
