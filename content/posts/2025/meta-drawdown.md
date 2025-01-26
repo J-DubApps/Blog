@@ -39,9 +39,9 @@ With a company so focused on collecting our data, there’s always the feeling t
 5.	**Moderation Rollback** <br />
 Zuck's recent move to significantly dial back moderation feels like we could be going back to the old 2015-2020 roller coaster Facebook.  With wild misinformation and conflict in my newsfeed again—yeah that's a '*nope*' for me. <br /> 
 
-## Where I'll Be Posting Here On Out... 
+## My Whereabouts Here On Out... 
 
-If you’re wondering where I’ll be posting my usual weird thoughts or (sometimes) witty takes—you're *on it right now*.  I'll be carrying-on right here on [my blog](https://julianwest.me/Blog/) and on [Bluesky](https://bsky.app/profile/julianwest.me). There's probably something for everyone on either place. On the blog, just clieck on the "Tags" area in the top menu to find topics of interest.  Though I mostly talk about tech stuff, the tags are there to help you find the non-tech stuff. Chances are if I was gonna say it on Facebook, I'll say it here and [Bluesky](https://bsky.app/profile/julianwest.me).
+If you’re wondering where I’ll be posting my usual weird thoughts or (sometimes) witty takes—you're [on it *right now*](https://julianwest.me).  I'll be carrying-on [right here](https://julianwest.me/Blog/) and on [Bluesky](https://bsky.app/profile/julianwest.me). Just clieck on the "Tags" area in the top menu to find topics of interest, or [**click here**](https://julianwest.me/Blog/nav-tips/) for shortcuts to various topics.  Though I mostly talk about tech stuff, it's not all tech and there's always [Bluesky](https://bsky.app/profile/julianwest.me).  Chances are if I was gonna say it on Facebook, I'll be saying it on one of those places, instead.
 
 And yes, I’m still on [LinkedIn](https://www.linkedin.com/in/julianwest/) for professional connections and the usual work stuff. And Facebook Messenger remains active of course.  I just don’t plan to actively use Facebook a lot.
 
