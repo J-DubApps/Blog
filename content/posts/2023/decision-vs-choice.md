@@ -42,21 +42,21 @@ When we *overemphasize* the process of deciding, we might lose sight of possibil
 
 ## Leveraging “Choice”
 
-So we just defined what a ***decision*** typically is.  A ***choice***, on the other hand, *simply* ***is***. It doesn’t always come with a mental checklist or a bullet-point rationale. Instead of an exercise in logic, a ***choice*** can be an act of *creation*—giving life to something new, opening doors you hadn’t previously considered. <br />
+So we just defined what a ***decision*** is.  A ***choice***, on the other hand, *simply* ***is***. It doesn’t always come with a mental checklist or a bullet-point rationale. Instead of an exercise in logic, a ***choosing*** can be an act of *creation*—giving life to something new, opening doors you hadn’t previously considered. <br />
 
-**Think about how the word** "***choice***" **exists in our language, compared to** "***decisions***": <br />
+**Think about *how* the word** "***choice***" **exists in our language, compared to** "***decisions***": <br />
 
 **Choice** ***expands***, where **decisions** ***limit***. <br />
 
 **Choice** ***creates***, where **decisions** ***protect***. <br />
 
-**Choice** is ***brave*** where **decisions** are ***fearful***. <br />
+**Choice** is ***brave***, where **decisions** may be ***fearful***. <br />
 
 A **decision** can always be ***explained***, a *true* **choice** simply ***exists***. <br />
 
-When making a [***choice***](https://en.wikipedia.org/wiki/Choice), the "*decision*" arises from a *different place*. By setting aside my experience, internal debate, and personal biases, I gain the freedom to truly ***choose***.  <br />
+When making a [***choice***](https://en.wikipedia.org/wiki/Choice), the "*decision*" arises from a *different place*. By setting aside my experience, internal debate, and personal biases, I gain the freedom to **truly** ***choose***.  <br />
 
-In ***choosing***, I become open and vulnerable to a ***new possibility***, a new way of seeing the world, or a new experience. ***Choice*** is about something unknown, something creative, and may sometimes even involve a little *risk* and *reward*. <Br />
+In ***choosing***, I become open and vulnerable to a ***new possibility***, or a new way of seeing the world, or gaining new experience. ***Choice*** is about something unknown, something creative, and may sometimes even involve a little *risk* and *reward* (entrepreneurs and CEOs, or example, are naturals at pivoting between *decision* and *choice*). <br />
 
 ***Choosing*** can often be about **making a** ***choice*** **purely for the** ***sake of choosing***: **not** applying reason, **not** applying logic, **not** removing or disqualifying the **other** ***choices***. <br /> 
 
