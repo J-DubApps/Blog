@@ -47,7 +47,7 @@ Begin by sketching all the possible contributors to the problem. This gives you 
 2.	**Use the 5 Whys to Probe Further** <br />
 After identifying a likely cause or category from the Fishbone Diagram, employ the 5 Whys method to dive deeper. Keep asking “Why?” about each answer until you isolate the fundamental cause. <br />
 
-By blending the broad view of the Fishbone Diagram with the targeted inquiry of the 5 Whys, you’ll have a solid roadmap for getting to the bottom of even the most perplexing challenges. <br /> <br />
+By blending the broad view of the Fishbone Diagram with the targeted inquiry from ***the 5 Whys***, you’ll have a solid roadmap for getting to the bottom of even the most perplexing challenges. <br /> <br />
 
 
 
