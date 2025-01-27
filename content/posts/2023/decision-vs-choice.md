@@ -13,11 +13,11 @@ tags = ["philosophy", "thought", "special-write-up", "self-development"]
 
 I recently witnessed a friend hitting an indecisive moment, about something fairly mundane: trying to pick what to cook guests for dinner, and if there was time for a grocery store run.  It was a pretty ordinary moment all of us go through, especially when entertaining guests.  But in my friend's case, his wavering and indecision about what to cook went on for several minutes-like it was an internal debate going on. It became THE topic of discussion for nearly half an hour-with everyone present making suggestions to help *bring closure* for our friend's amusing moment of *indecision*.<br />
 
-Now if you know *me*, you know that I probably had a hard time seeing my friend going through a long moment indecision like that-*especially* when it had occured before. My friend sometimes [*vascillated*](https://en.wiktionary.org/wiki/vacillate) on similar decisions, and I wanted to help.  We all have our moments like that, it's ***ok*** and very human. But ***severe indecisiveness***, where it is *occuring a lot* for someone, could signal a deeper issue with confidence. <br />
+Now if you know *me*, you know that I probably had a hard time seeing my friend going through a long moment indecision like that-*especially* when it had occured before. My friend sometimes [*vascillated*](https://en.wiktionary.org/wiki/vacillate) on similar decisions, and I wanted to help.  We all have our moments like that, it's ***ok*** and very human. But ***severe indecisiveness***, where it is *occuring a lot* for someone, could signal a deeper issue with confidence. <br /> <br />
 
 
-> More is lost by indecision than wrong decision. Indecision is the thief of opportunity. It will steal you blind.” — Cicero
-
+> More is lost by indecision than wrong decision. Indecision is the thief of opportunity. It will steal you blind.” — Cicero 
+<br />
 
 ## The *Power* of Choice vs. The *Purpose* of Decision
 
