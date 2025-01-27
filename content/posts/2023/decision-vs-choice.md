@@ -28,7 +28,7 @@ But what if we *shifted* our perspective, here?  What if there is a meaningful *
 
 ## Defining “Decision”
 
-***Decide*** is one of those " &#42;cide" words which aren't always rooted in *creation*: *suicide*, *insecticide*, or *genocide* are but three " words shared with "***decide***"-and for good reason: the Latin root for "***cide***" is ***caedere*** which means "**to cut**" or "***to kill***."  The root "*cide*" carries significant weight, for serious situations, deliberate acts, and justifications.  Stay with me on this, because it gets interesting. <br />
+***Decide*** is one of those "&#42;*cide*" words which aren't always rooted in *creation*: sui*cide*, insecti*cide*, or geno*cide* are but three words shared with "***decide***"-and for good reason: the Latin root for "***cide***" is ***caedere*** which means "**to cut**" or "***to kill***."  The root "*cide*" carries significant weight, for serious situations, deliberate acts, and justifications.  Stay with me on this, because it gets interesting. <br />
 
 When we ***decide***: we are applying *reason* to *eliminate alternatives*, effectively *killing* each alternative...until a *single* thing is left...and *that* becomes ***the decision***.  Often we look at this as arriving at the ***best decision***, or "***the right decision***". <br />
 
