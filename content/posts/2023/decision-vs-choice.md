@@ -24,7 +24,7 @@ Now if you know *me*, you know that I probably had a hard time seeing my friend 
 
 We often sell ourselves short from from stepping into a new possibility,  simply because we are worried about making the “***wrong decision***”.  We’ve all been there—torn between multiple paths, searching desperately for ***reasons*** or ***justifications*** to confirm we’ve made the *smartest move*. <br /> 
 
-**But what if we *shifted* our perspective, here**?  What if there is a meaningful ***distinction*** *between* ***making a decision*** and ***exercising a choice***—**and recognizing that difference to gift ourselves new avenues of freedom and confidence**? <br />
+But what if we *shifted* our perspective, here?  What if there is a meaningful ***distinction*** *between* ***making a decision*** and ***exercising a choice***—**and recognizing that difference to gift ourselves new avenues of freedom and confidence**? <br />
 
 ## Defining “Decision”
 
