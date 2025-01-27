@@ -17,11 +17,11 @@ tags = ["tech", "devops", "best-practice", "enterprise-it", "beginner-fundamenta
 
 Ever feel like you’re running in circles trying to solve a problem, never getting to the real heart of the matter? That’s where the ***Fishbone Diagram*** comes to the rescue.
 
-It's actually originally-known as the [Ishikawa Diagra](https://en.wikipedia.org/wiki/Ishikawa_diagram), and I still call it that, but whatever you call it: this practical tool helps you cut through all confusion, organize your ideas, and uncover underlying causes of the challenges you may be facing on a project.  It's used with another technique [I just blogged about called "the 5 whys"](https://julianwest.me/Blog/five-whys/).  <br />
+It's actually originally-known as the [Ishikawa Diagram](https://en.wikipedia.org/wiki/Ishikawa_diagram), and I still call it that, but whatever you call it: this practical tool helps you cut through all confusion, organize your ideas, and uncover underlying causes of the challenges you may be facing on a project.  It's used with another technique [I just blogged about called "the 5 whys"](https://julianwest.me/Blog/five-whys/).  <br />
 
 ## What Is the Fishbone Diagram? 
 
-The Fishbone Diagram is a visual technique for organizing and analyzing the potential causes of a specific issue. <br />
+The **Fishbone Diagram** is a visual technique for organizing and analyzing the potential causes of a specific issue. <br />
 
 Picture a fish skeleton: the “head” represents the problem, and the “bones” are the categories of possible causes. Think of it as a roadmap that reveals what’s truly going on. <br />
 
@@ -53,6 +53,9 @@ By blending the broad view of the Fishbone Diagram with the targeted inquiry fro
 
  <img src="https://julianwest.me/Blog/posts/images/Ishikawa_Fishbone_Diagram.png" alt="Alt text"> <br /> <br />
 
-
+<smaller> The typical format of a Fishbone Diagram </smaller>
 
  <img src="https://julianwest.me/Blog/posts/images/Blurry_photo_fishbone_diagram.png" alt="Alt text">
+
+ <smaller> A Fishbone Diagram For Troubleshooting A Problem With A Camera </smaller>
+ 
