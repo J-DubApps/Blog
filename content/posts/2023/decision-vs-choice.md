@@ -56,7 +56,7 @@ A **decision** can always be ***explained***, a *true* **choice** simply ***exis
 
 When making a [***choice***](https://en.wikipedia.org/wiki/Choice), the "*decision*" arises from a *different place*. By setting aside my experience, internal debate, and personal biases, I gain the freedom to truly ***choose***.  <br />
 
-In ***choosing***, I become open and vulnerable to a ***new possibility***, a new way of seeing the world, or a new experience. ***Choice*** is about something unknown, something creative, and may sometimes even involve a little *risk* and *reward*. <Br />
+In ***choosing***, I become open and vulnerable to a ***new possibility***, a new way of seeing the world, or a new experience. ***Choice*** is about something unknown, or something creative, or may sometimes even involve a little *risk* and *reward* (entrepreneurs are naturals at pivoting to ***choice***). <br />
 
 ***Choosing*** can often be about **making a** ***choice*** **purely for the** ***sake of choosing***: **not** applying reason, **not** applying logic, **not** removing or disqualifying the **other** ***choices***. <br /> 
 
