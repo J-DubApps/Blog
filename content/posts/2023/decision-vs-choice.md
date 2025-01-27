@@ -19,11 +19,11 @@ Now if you know *me*, then you *know* that I have a hard time seeing indecision-
 
 ## The *Power* of Choice vs. The *Purpose* of Decision
 
-We often sell ourselves short from from new opportunities, or stepping into some new possibility, simply because we are worried about making the “***wrong decision***”.  We’ve all been there—torn between multiple paths, searching for ***reasons*** or ***justifications*** to confirm we’ve made the *smartest move*. <br /> 
+We often can sell ourselves short from from new opportunities or seeing some *other* possibilities, *simply because* we are worried about making the “***wrong decision***”.  We’ve all been there—torn between multiple paths, searching for ***reasons*** or ***justifications*** to confirm we’ve made the *smartest move*. <br /> 
 
-**But what if we *shifted* our perspective, here**?  What if there is a meaningful ***distinction*** to be made *between* ***making a decision***...and ***exercising a choice***?  And what if **recognizing that difference gave us new avenues of freedom and confidence**? <br />
+**But what if we *shifted* our perspective, here**?  What if there is a meaningful ***distinction*** to be made *between* ***making a decision***...and ***exercising a choice***?  And what if I told you that **recognizing that difference can give us new avenues of freedom and confidence**? <br />
 
-To get rolling on this, we first need to define *the two big terms here*, so that we can make that powerful ***distinction*** *between* ***decision*** and ***choice***-let's go!
+Sound interesting? To get rolling, *first* we need to define *the two big terms here* (*decision* & *choice*), so that we can make this powerful ***distinction***. A distinction *between* ***deciding*** and ***choosing***-let's go!
 
 ## Defining “*Decision*”
 
