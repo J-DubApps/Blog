@@ -31,7 +31,7 @@ To get rolling on this, we first need to define *the two big terms here*, so tha
 
 When we "***decide***" or make a "***decision***": we are applying *reason* to ***eliminate alternatives***, effectively "*killing* off" each alternative...until a *single* thing is left...and *that* becomes ***the decision***.  Often we call this arriving at the ***best decision***, or "***the right decision***". <br />
 
-When making a [***decision***](https://en.wikipedia.org/wiki/Decision-making), it usually involves a set of rational options typically rooted in analysis or reasoning: you consider everything, weigh pros and cons, gather data-you might even consult with friends and experts. *Then you pick* the path that appears most *rational*, or with the least risk. **In many ways, *decisions* are about** ***protection***: <br />
+When making a [***decision***](https://en.wikipedia.org/wiki/Decision-making), it usually involves a set of rational options typically rooted in analysis or reasoning: you consider everything, weigh pros and cons, gather data-you might even consult with friends and experts. *Then you pick* the path that appears *most rational*, reasonable, or has the least risk. **In many ways, *decisions* are about** ***protection***: <br />
 
 •	**Decisions protect us from perceived risk by ensuring we follow a logical process**. <br />
 •	**Decisions protect us from *blame*, because we have a line of reasoning that justifies why we did what we did**. <br />
