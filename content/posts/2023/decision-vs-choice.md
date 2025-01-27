@@ -56,7 +56,7 @@ A **decision** can always be ***explained***, a *true* **choice** simply ***exis
 
 When making a [***choice***](https://en.wikipedia.org/wiki/Choice), the "*decision*" arises from a *different place*. By setting aside my experience, internal debate, and personal biases, I gain the freedom to truly ***choose***.  <br />
 
-In ***choosing***, I become open and vulnerable to a ***new possibility***, a new way of seeing the world, or a new experience. ***Choice*** is about something unknown, or something creative, or may sometimes even involve a little *risk* and *reward* (entrepreneurs are naturals at pivoting to ***choice***). <br />
+In ***choosing***, I become open and vulnerable to a ***new possibility***, a new way of seeing the world, or a new experience. ***Choice*** is about something unknown, or something creative, or may sometimes even involve a little *risk* and *reward* (entrepreneurs and CEOs are often *naturals* at pivoting to ***choice***). <br />
 
 ***Choosing*** can often be about **making a** ***choice*** **purely for the** ***sake of choosing***: **not** applying reason, **not** applying logic, **not** removing or disqualifying the **other** ***choices***. <br /> 
 
@@ -65,7 +65,7 @@ Here are a few ways to recognize a “choice” moment:
 2.	**Possibility & Creativity** – Choosing can be about generating something fresh—a new direction, a new mindset, or a new approach to a challenge.
 3.	**No Justification Needed** – While it’s perfectly fine to have reasons, a choice doesn’t need them. Sometimes you just feel moved to go in a certain direction.
 
-When you choose, you tap into your power to create. You aren’t bound by having to “get it right” through a rational formula. You step into a moment of true ownership: “This is what I’m doing, because I choose to.”
+When you ***choose***, you tap into your power to create. You aren’t bound by having to “get it right” through a rational formula. You step into a moment of true ownership: “This is what I’m doing, because I choose to.”
 
 ## When A Choice *Morphs Into* A Decision
 
