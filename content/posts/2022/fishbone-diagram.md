@@ -1,6 +1,6 @@
 +++
 date = '2022-08-02T20:10:26-06:00'
-draft = true
+draft = false
 title = 'The Fishbone Diagram'
 description = "A Companion to "The Five Whys" for Uncovering Root Cause"
 type = 'post'
@@ -36,7 +36,7 @@ The Fishbone Diagram excels at transforming chaotic, disjointed thoughts into a 
 
 ## How It Relates to "*the 5 Whys*"
 
-The Fishbone Diagram and the 5 Whys go hand in hand in a comprehensive problem-solving approach—they actually work together seamlessly. <br />
+The Fishbone Diagram and ["***the 5 Whys***"](https://julianwest.me/Blog/five-whys/) go hand-in-hand in a comprehensive problem-solving approach—they actually work together seamlessly. <br />
 •	**Fishbone Diagram**: Offers a broad perspective on all the potential causes of the problem, categorizing them clearly. <br />
 •	**5 Whys**: Drills down into one particular cause until you hit the root issue. <br />
 
