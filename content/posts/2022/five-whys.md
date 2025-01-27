@@ -4,7 +4,7 @@ draft = false
 title = 'The 5 Whys'
 description = 'A Technique to Improve Your Troubleshooting (and/or Project Management)'
 type = 'post'
-tags = ["tech", "devops", "best-practice", "enterprise-it", "beginner-fundamentals", "troubleshooting", "jdub-isms", "self-development", "project-mgmt"]
+tags = ["tech", "devops", "best-practice", "enterprise-it", "beginner-fundamentals", "troubleshooting", "self-development", "project-mgmt"]
 +++
 
   <style type="text/css">
@@ -57,12 +57,12 @@ This technique is often linked to [Sakichi Toyoda](https://en.wikipedia.org/wiki
 
 > ``` Because there wasn’t a scheduled maintenance plan in place.  ```
 
-In this example, asking "***Why***" several times allows the team to identify root cause-of the production line stopping.  The ***lack of a maintenance plan*** is identified and addressed as root cause. So this particular issue with the production line should now be preventable in the future. <br />
+In this example, asking "***Why***" several times allows the team to identify root cause-of the production line stopping.  The ***lack of a maintenance plan*** is identified and addressed as root cause. So this particular issue with the production line should now be preventable in the future.  In IT and DevOps work, this is a great troubleshooting method; however, it also comes in handy for any **Project** dealing with product or process issues that come-up. So Project Managers might use it with the team, to work out major issues before they impact any deliverables. <br />
 
 ### Benefits of the 5 Whys
 
 1.	**Identifies Root Causes** <br />
-By persisting with “why,” you can move past superficial fixes and locate the core factors driving the problem. <br />
+By persisting with “***why***,” you can move past superficial fixes and locate the core factors driving the problem. <br />
 2.	**Encourages Critical Thinking** <br />
 The repetitive questioning challenges assumptions and compels teams to think more deeply about interrelated factors. <br />
 3.	**Simple and Cost-Effective** <br />
