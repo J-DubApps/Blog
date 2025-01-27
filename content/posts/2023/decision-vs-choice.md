@@ -6,7 +6,7 @@ description = 'Moving Beyond the Fear of "Being Wrong" '
 type = 'post'
 tags = ["philosophy", "thought", "special-write-up", "self-development"]
 +++
-**Note**: This post is about *self-development*, *building confidence*, and offers *a tool* I learned to use many years ago, when making tough calls...*or not*. This can be helpful, but only if the reader steps outside of his or her comfort zone. Also please note: if you suffer from [diagnosed OCD](https://en.wikipedia.org/wiki/Obsessive–compulsive_disorder), this write-up is *not* going to be helpful and I would skip it-as *making choices* is downright *intolerable* for people suffering with OCD. <br />
+**Note**: This post is about *self-development* and *building confidence* when making tough calls...*or not*. This can be helpful, but only if the reader steps outside of his or her comfort zone. Also please note: if you suffer from [diagnosed OCD](https://en.wikipedia.org/wiki/Obsessive–compulsive_disorder), this write-up is *not* going to be helpful and I would skip it-as *making choices* is downright *intolerable* for people suffering with OCD. <br />
 
 I recently witnessed a friend hitting an indecisive moment, about something fairly mundane (trying to pick what to cook guests for dinner, and if there was time for a grocery store run).  It was a pretty ordinary moment all of us go through, especially when entertaining guests.  But in my friend's case, his wavering and indecision went on for several minutes-and it became THE topic of discussion for nearly half an hour-with everyone present making suggestions to help *bring closure* for our friend's amusing moment of *indecision*.<br />
 
@@ -52,15 +52,25 @@ Think about how ***choices*** exist in our language: <br />
 
 **Choice** is ***brave*** where **decisions** are ***fearful***. <br />
 
-A decision can always be *explained*, a choice simply *exists*. <br />
+A **decision** can always be ***explained***, a **choice** simply ***exists***. <br />
 
-When making a [***choice***](https://en.wikipedia.org/wiki/Choice), the decision arises from a different place. By setting aside my experience, internal debate, and personal biases, I gain the freedom to ***choose***.  <br />
+When making a [***choice***](https://en.wikipedia.org/wiki/Choice), the "*decision*" arises from a *different place*. By setting aside my experience, internal debate, and personal biases, I gain the freedom to ***choose***.  <br />
 
 In ***choosing*** I become open and vulnerable to a ***new possibility***, a new way of seeing the world, or a new experience. ***Choice*** is about something unknown, something creative, and may involve *some risk* and *reward*. <Br />
 
 ***Choosing*** can often be about **making a** ***choice*** **purely for the** ***sake of choosing***: **not** applying reason, **not** applying logic, **not** removing or disqualifying the **other** ***choices***. <br /> 
 
-It is tempting to still ***give reasons*** when making a ***choice*** but that's no bueno and goes *against* what ***choosing is*** and turns it into a ***decision****: ultimately at the bottom of *every* ***decision*** is *either* fundamental ***choice*** **or** fundamental ***reason***: "*I choose to believe* ..." or "*I choose to trust* ..."-but *adding* "***because***" immediately ***makes it a reason***! **And by using** ***reason*** **in any** ***choice***, **you're absolving yourself from the responsibility of** ***owning your choice***.  You didn't make a choice if you applied *external* reasons, analysis, or factors.  And *that means*: if your ***choice*** didn't work out, it becomes the *fault* of the *reason* or *reasoning process* if it fails. **This is why *truly learning* to embrace *choice* is *SCARY***: **choice demands responsibility for** ***making the choice***! 😉 **But *that's* also why *choosing* is a such HUGE *confidence-builder***!! <br />
+
+Here are a few ways to recognize a “choice” moment:
+	1.	Spontaneity & Freedom – You aren’t required to lay out all the reasons; you’re simply free to act.
+	2.	Possibility & Creativity – Choosing can be about generating something fresh—a new direction, a new mindset, or a new approach to a challenge.
+	3.	No Justification Needed – While it’s perfectly fine to have reasons, a choice doesn’t need them. Sometimes you just feel moved to go in a certain direction.
+
+When you choose, you tap into your power to create. You aren’t bound by having to “get it right” through a rational formula. You step into a moment of true ownership: “This is what I’m doing, because I choose to.”
+
+## When A Choice Morphs Into A Decision
+
+It is tempting to still ***give reasons*** when *making a* ***choice*** but that's no bueno and *goes against* what ***choosing is about***, turning it into a ***decision***. Ultimately at the bottom of *every* ***decision*** is *either* fundamental ***choice*** **or** fundamental ***reason***: "*I choose to believe* ..." or "*I choose to trust* ..."-but *adding* "***because***" immediately ***makes it a reason***! **And by using** ***reason*** **in any** ***choice***, **you're absolving yourself from the responsibility of** ***owning your choice***.  You didn't make a choice if you applied *external* reasons, analysis, or factors.  And *that means*: if your ***choice*** didn't work out, it becomes the *fault* of the *reason* or *reasoning process* if it fails. **This is why *truly learning* to embrace *choice* is *SCARY***: **choice demands responsibility for** ***making the choice***! 😉 **But *that's* also why *choosing* is a such HUGE *confidence-builder***!! <br />
 
 # *When* to *Decide* and *When* to *Choose*
 
@@ -74,7 +84,7 @@ Learning to move fluidly between ***decision-making*** *and* ***choosing*** help
 
 # Overcoming the Fear of “*Being Wrong*”
 
-Often, the dread of making an incorrect decision comes from thinking every step we take must be ***rationally validated***. **That’s a lot of pressure**! If you are in a place where you want to spark *fresh ideas* or *break free* from stagnation, ***let yourself choose*** without *over-explaining* or feeling you *owe a justification* to others—or even yourself. <br />
+Often, the dread of making an *incorrect* ***decision*** comes from thinking every step we take *must be* ***rationally validated***. **That’s a lot of pressure**! If you are in a place where you want to spark a *fresh idea* or *break free* from stagnation, ***let yourself choose*** without *over-explaining* or feeling you *owe a justification* to others—or even to yourself. <br />
 
 A few practical tips to relax into this mindset: <br />
 1.	**Practice “Small Choices”** – Begin with tiny, low-consequence choices. Skip the mental acrobatics and ***just pick*** *something*—maybe it’s which new coffee flavor to try or which neighborhood to explore on a weekend. These little acts of unencumbered *choice* **build your tolerance for the unknown**.
