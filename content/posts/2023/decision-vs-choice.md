@@ -1,7 +1,7 @@
 +++
 date = '2023-08-04T23:14:51-06:00'
 draft = false
-title = 'Choosing or Deciding'
+title = 'Choosing or Deciding...'
 description = 'Moving Beyond the Fear of "Being Wrong" '
 type = 'post'
 tags = ["philosophy", "thought", "special-write-up", "self-development"]
