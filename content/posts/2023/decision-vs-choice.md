@@ -6,7 +6,7 @@ description = 'Moving Beyond the Fear of "Being Wrong" '
 type = 'post'
 tags = ["philosophy", "thought", "special-write-up", "self-development"]
 +++
-**Note**: This post is about *self-development*, *building confidence*, and offers *a tool* I learned to use many years ago, when making tough calls...*or not*. This can be helpful, but only if the reader steps outside of his or her comfort zone.  If you know anyone gripped in moments of indecision now-and-then, maybe throw this their way... <br />
+**Note**: This post is about *self-development*, *building confidence*, and offers *a tool* I learned to use many years ago, when making tough calls...*or not*. This can be helpful, but only if the reader steps outside of his or her comfort zone. Also please note: if you suffer from [diagnosed OCD](https://en.wikipedia.org/wiki/Obsessive–compulsive_disorder), this write-up is *not* going to be helpful and I would skip it-as *making choices* is downright *intolerable* for people suffering with OCD. <br />
 
 I recently witnessed a friend hitting an indecisive moment, about something fairly mundane (trying to pick what to cook guests for dinner, and if there was time for a grocery store run).  It was a pretty ordinary moment all of us go through, especially when entertaining guests.  But in my friend's case, his wavering and indecision went on for several minutes-and it became THE topic of discussion for nearly half an hour-with everyone present making suggestions to help *bring closure* for our friend's amusing moment of *indecision*.<br />
 
