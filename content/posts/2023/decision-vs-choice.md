@@ -6,26 +6,24 @@ description = 'Moving Beyond the Fear of "Being Wrong" '
 type = 'post'
 tags = ["philosophy", "thought", "special-write-up", "self-development"]
 +++
-**Note**: This post is about *self-development* and *building confidence* when making tough calls...*or not*. It's *my own* thinking on the topic of Decisions vs Choices from a *place of empowerment*, and is not really a "one size fits all" , and it may not be everyone. This can be helpful, but only if the reader steps outside of his or her comfort zone. Also please note: if you suffer from [diagnosed OCD](https://en.wikipedia.org/wiki/Obsessive–compulsive_disorder), this write-up is *not* going to be helpful and I would skip it-as *making choices* (without analysis or reasons) is downright *intolerable* for people suffering with OCD.  <br />
+**Note**: This post is about *self-development* and *building confidence* when making tough calls...*or not*. It's *my own* thinking on the topic of *Decision vs Choice* from a *place of empowerment*, not necesarilly from a place of knowledge or expertise on this subject.  So this write-up on *Decision vs Choice* is not not for *everyone*, and certainly not a "one size fits all" article.  Also please note: if you are undergoing treatment from [diagnosed OCD](https://en.wikipedia.org/wiki/Obsessive–compulsive_disorder), I would recommend skipping this write-up altogether-because I can't imagine something as *intolerable* for someone with OCD, than reading about *making choices* without analyisis. <br />
 
  <img src="https://julianwest.me/Blog/posts/images/decision-vs-choice.jpg" alt="Alt text" width="500" height="235">
 
+I recently witnessed a friend hitting an indecisive moment, about something fairly mundane: trying to pick what to cook guests for dinner, and if there was time for a grocery store run. It was a pretty ordinary moment all of us go through, when entertaining guests.  But in my friend's case, he kept discussing options and why each options *might be good*, but then found reasons why x or y food choice might be *bad*.  The wavering and indecision about what to cook went on for several minutes-and it became THE topic of discussion for nearly half an hour-with everyone present making suggestions to ease our friend's amusing moment of *indecision*.<br />
 
-I recently witnessed a friend hitting an indecisive moment, about something fairly mundane: trying to pick what to cook guests for dinner, and if there was time for a grocery store run.  It was a pretty ordinary moment all of us go through, especially when entertaining guests.  But in my friend's case, his wavering and indecision about what to cook went on for several minutes-like it was an internal debate going on. It became THE topic of discussion for nearly half an hour-with everyone present making suggestions to help *bring closure* for our friend's amusing moment of *indecision*.<br />
-
-Now if you know *me*, you know that I probably had a hard time seeing my friend going through a long moment indecision like that-*especially* when it had occured before. My friend sometimes [*vascillated*](https://en.wiktionary.org/wiki/vacillate) on similar decisions, and I wanted to help.  We all have our moments like that, it's ***ok*** and very human. But ***severe indecisiveness***, where it is *occuring a lot* for someone, could signal a deeper issue with anxiety or doubt-which affect our confidence. <br /> <br />
-
+Now if you know *me*, you know that I have a hard seeing indecision or any friends going through it-*especially* it it's something that happens a lot for them. My friend sometimes [*vascillated*](https://en.wiktionary.org/wiki/vacillate) between so many options-each option with its own data pont-that I felt compelled to ask if they're ok. I mean, we *all* have our moments of indecision like that, it's ***ok*** and very human; however, reoccuring ***indecisiveness*** might signal a deeper issue with anxiety or self doubt-both things we don't like seeing close friends go through.  So I walked my friend through an exercise on distinguishing ***deciding*** from ***choosing***, which I am going to explain here in this post.<br /> <br />
 
 > More is lost by indecision than wrong decision. Indecision is the thief of opportunity. It will steal you blind.” — Cicero
 <br />
 
 ## The *Power* of Choice vs. The *Purpose* of Decision
 
-We often sell ourselves short from from stepping into a new possibility,  simply because we are worried about making the “***wrong decision***”.  We’ve all been there—torn between multiple paths, searching desperately for ***reasons*** or ***justifications*** to confirm we’ve made the *smartest move*. <br /> 
+We often sell ourselves short from from new opportunities, or stepping into new possibilities, simply because we are worried about making the “***wrong decision***”.  We’ve all been there—torn between multiple paths, searching desperately for ***reasons*** or ***justifications*** to confirm we’ve made the *smartest move*. <br /> 
 
-But what if we *shifted* our perspective, here?  What if there is a meaningful ***distinction*** *between* ***making a decision*** and ***exercising a choice***—**and recognizing that difference to gift ourselves new avenues of freedom and confidence**? <br />
+**But what if we *shifted* our perspective, here**?  What if there is a meaningful ***distinction*** to be made *between* ***making a decision***...and ***exercising a choice***?  And what if **recognizing that difference can give us new avenues of freedom and confidence**? <br />
 
-To unravel this, and make the ***distinction*** *between* ***decision*** and ***choice***-we need to define and discuss both.
+To unravel this, and make the ***distinction*** *between* ***decision*** and ***choice***-we first need to define and discuss both of them.
 
 ## Defining “*Decision*”
 
