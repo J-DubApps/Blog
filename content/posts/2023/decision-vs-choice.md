@@ -6,7 +6,10 @@ description = 'Moving Beyond the Fear of "Being Wrong" '
 type = 'post'
 tags = ["philosophy", "thought", "special-write-up", "self-development"]
 +++
-**Note**: This post is about *self-development* and *building confidence* when making tough calls...*or not*. This can be helpful, but only if the reader steps outside of his or her comfort zone. Also please note: if you suffer from [diagnosed OCD](https://en.wikipedia.org/wiki/Obsessive–compulsive_disorder), this write-up is *not* going to be helpful and I would skip it-as *making choices* is downright *intolerable* for people suffering with OCD. <br />
+<smaller> **Note**: This post is about *self-development* and *building confidence* when making tough calls...*or not*. This can be helpful, but only if the reader steps outside of his or her comfort zone. Also please note: if you suffer from [diagnosed OCD](https://en.wikipedia.org/wiki/Obsessive–compulsive_disorder), this write-up is *not* going to be helpful and I would skip it-as *making choices* is downright *intolerable* for people suffering with OCD. </smaller> <br />
+
+ <img src="https://julianwest.me/Blog/posts/images/decision-vs-choice.jpg" alt="Alt text" width="500" height="235">
+
 
 I recently witnessed a friend hitting an indecisive moment, about something fairly mundane (trying to pick what to cook guests for dinner, and if there was time for a grocery store run).  It was a pretty ordinary moment all of us go through, especially when entertaining guests.  But in my friend's case, his wavering and indecision went on for several minutes-and it became THE topic of discussion for nearly half an hour-with everyone present making suggestions to help *bring closure* for our friend's amusing moment of *indecision*.<br />
 
@@ -105,4 +108,4 @@ When you feel yourself teetering on the edge of a big question—hesitant, anxio
 
 ***Give up*** the constant need to justify. That is the *first step* into a world where you can lovingly safeguard what needs protecting (***deciding***), but ***also*** joyfully leap into the unknown when it calls (***choosing***). Learning the distinction between ***decision*** vs ***choice*** (and then ***exercising choice***) tkes a little effort, but eventually it comes naturally and fosters greater confidence-and dissolves the fear of “*being wrong*,” allowing you to live, learn, and create: one ***choice*** at-a-time! <br /> <br />
 
- <img src="https://julianwest.me/Blog/posts/images/decision-vs-choice.jpg" alt="Alt text">
+ <img src="https://julianwest.me/Blog/posts/images/decision-vs-choice2.jpg" alt="Alt text">
