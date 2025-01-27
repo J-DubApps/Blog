@@ -19,14 +19,15 @@ Now if you know *me*, you know that I probably had a hard time seeing my friend 
 > More is lost by indecision than wrong decision. Indecision is the thief of opportunity. It will steal you blind.” — Cicero
 
 
-
 ## The *Power* of Choice vs. The *Purpose* of Decision
 
 We often sell ourselves short from from stepping into a new possibility,  simply because we are worried about making the “***wrong decision***”.  We’ve all been there—torn between multiple paths, searching desperately for ***reasons*** or ***justifications*** to confirm we’ve made the *smartest move*. <br /> 
 
 But what if we *shifted* our perspective, here?  What if there is a meaningful ***distinction*** *between* ***making a decision*** and ***exercising a choice***—**and recognizing that difference to gift ourselves new avenues of freedom and confidence**? <br />
 
-## Defining “Decision”
+To unravel this, and make the ***distinction*** *between* ***decision*** and ***choice***-we need to define and discuss both.
+
+## Defining “*Decision*”
 
 ***Decide*** is one of those "&#42;*cide*" words which aren't always rooted in *creation*: sui*cide*, insecti*cide*, or geno*cide* are but three words shared with "***decide***"-and for good reason: the Latin root for "***cide***" is ***caedere*** which means "**to cut**" or "***to kill***."  The root "*cide*" carries significant weight, for serious situations, deliberate acts, and justifications.  Stay with me on this, because it gets interesting. <br />
 
@@ -106,6 +107,6 @@ When you feel yourself teetering on the edge of a big question—hesitant, anxio
 
 **A decision explains and *protects*; a choice creates and simply *exists***. <br />
 
-***Give up*** the constant need to justify. That is the *first step* into a world where you can lovingly safeguard what needs protecting (***deciding***), but ***also*** joyfully leap into the unknown when it calls (***choosing***). Learning the distinction between ***decision*** vs ***choice*** (and then ***exercising choice***) tkes a little effort, but eventually it comes naturally and fosters greater confidence-and dissolves the fear of “*being wrong*,” allowing you to live, learn, and create: one ***choice*** at-a-time! <br /> <br />
+***Give up*** the constant need to justify. That is the *first step* into a world where you can lovingly safeguard what needs protecting (***deciding***), but ***also*** joyfully leap into the unknown when it calls (***choosing***). Learning the ***distinction*** *between* ***decision*** vs ***choice*** (and then ***exercising choice***) tkes a little effort, but eventually it comes naturally and fosters greater confidence-and dissolves the fear of “*being wrong*,” allowing you to live, learn, and create: one ***choice*** at-a-time! <br /> <br />
 
  <img src="https://julianwest.me/Blog/posts/images/decision-vs-choice2.jpg" alt="Alt text">
