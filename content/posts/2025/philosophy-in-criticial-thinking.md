@@ -60,7 +60,7 @@ This final review in the 4th step helps guarantee the completeness and accuracy 
 
 It’s clear-cut and straightforward, but it's not always natural for people to break things down, and build them back up to understand something.  <br />
 
-In many interpretations, people often label the third step as “*From the Simple to the Complex*.”  But it's really just "**Reintegrating**” what you broke down in the second step.  In step 3 you're piecing together all the insights, to get to a fuller perspective.  But it’s not merely transitioning from *simple to complex*—it’s about unifying ideas to form a coherent understanding. <br />
+In many interpretations, people often label the third step as “*From the Simple to the Complex*.”  But it's really just "***Reintegrating***” what you broke down in the second step.  In step 3 you're piecing together all the insights, to get to a fuller perspective.  But it’s not merely transitioning from *simple to complex*—it’s about unifying ideas to form a coherent understanding. <br />
 
 ## Cartesian Reasoning
 
