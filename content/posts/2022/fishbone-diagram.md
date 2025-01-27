@@ -53,9 +53,13 @@ By blending the broad view of the Fishbone Diagram with the targeted inquiry fro
 
  <img src="https://julianwest.me/Blog/posts/images/Ishikawa_Fishbone_Diagram.png" alt="Alt text"> <br /> <br />
 
-<smaller> The typical format of a Fishbone Diagram </smaller>
+<div style="font-size: 9px;">
+<p style="text-align: center;"><i>The typical format of a Fishbone Diagram</i> </p>
+</div>
 
  <img src="https://julianwest.me/Blog/posts/images/Blurry_photo_fishbone_diagram.png" alt="Alt text">
 
- <smaller> A Fishbone Diagram For Troubleshooting A Problem With A Camera </smaller>
+<div style="font-size: 9px;">
+<p style="text-align: center;"><i>A Fishbone Diagram For Troubleshooting A Problem With A Camera</i> </p>
+</div>
  
