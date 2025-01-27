@@ -51,7 +51,7 @@ By blending the broad view of the Fishbone Diagram with the targeted inquiry fro
 
 
 
- <img src="https://julianwest.me/Blog/posts/images/Ishikawa_Fishbone_Diagram.png" alt="Alt text"> <br /> <br />
+ <img src="https://julianwest.me/Blog/posts/images/Ishikawa_Fishbone_Diagram.png" alt="Alt text">
 
 <div style="font-size: 9px;">
 <p style="text-align: center;"><i>The typical format of a Fishbone Diagram</i> </p>
