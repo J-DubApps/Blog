@@ -73,7 +73,7 @@ It is tempting to still ***give reasons*** when *making a* ***choice***-but *str
 
 **Ultimately at the bottom of *every*** ***decision*** **is *either* fundamental** ***choice*** ***or*** **fundamental** ***reason***: "*I choose to believe* ..." or "*I choose to trust* ..."--but *adding* "***because***" immediately ***makes it a reason***, and techically *could* transform your ***choice*** into a ***decision***. Because you're using ***reason*** in your ***choice***. And the *spirit* of ***truly choosing*** (compared to ***deciding***) asks you to be spontaneous and ***less reasonable*** in low-stakes or creative situations.  So if you're adding very many **reasons** into your "***choice***", **you're kind of absolving yourself from the responsibility of** ***owning your choice***.  *Not always*, but its hard to say you exercised ***choice*** if you applied a lot of *external* reasons, analysis, or factors.  <br />
 
-**And this is why *truly learning* to embrace *choice* is *SCARY* for some people: **choice demands responsibility for** ***making the choice***! *Owning it*! 😉 **But *that's* also why true exercising real honest-to-goodness *choice* is a such *HUGE* *confidence-booster***!!** When you ***CHOOSE*** you are declaring that you don't need to justify *making-the-call* to anyone else. <br />
+**And this is why *truly learning* to embrace *choice* is *SCARY* for some people: **choice demands responsibility for**... ***making the choice***! *Owning it*! 😉 **But *that's* also why true exercising real honest-to-goodness *choice* is a such *HUGE* *confidence-booster***!!** When you ***CHOOSE*** you are declaring that you don't need to justify *making-the-call* to anyone else. <br />
 
 **It's hard to explain this concept in writing**, but ***trust me***-when we can distinguish ***deciding*** *from* ***choosing*** in our minds *on-the-fly*-intentionally practicing ***choice*** allows us to become *more decisive* and way ***more confident***.
 
@@ -91,14 +91,14 @@ Learning to move fluidly between ***decision-making*** *and* ***choosing*** help
 
 Often, the dread of making an *incorrect* ***decision*** comes from thinking every step we take *must be* ***rationally validated***. **That’s a lot of pressure**! If you are in a place where you want to spark a *fresh idea* or *break free* from stagnation, ***let yourself choose*** without *over-explaining* or feeling you *owe a justification* to anybody-even to yourself. <br />
 
-**A few practical tips to relax into this powerful mindset**: <br />
+**A few practical tips to move into this powerful mindset**: <br />
 1.	**Practice “Small Choices”** – Begin with tiny, low-consequence ***choices***. Skip the mental acrobatics and ***just pick*** *something*—*anything*: maybe it’s which new coffee flavor to try, or which neighborhood to explore on a weekend. These little acts of unencumbered ***choice*** **build your tolerance for the unknown**. <br />
 2.	**Let Go of Over-Explaining** – Notice when you start defending yourself unnecessarily. It’s often a sign you’re anxious about how others may judge you, or a sign you're not feeling confident about the decision.  **Recognize that *you have the right* to choose what aligns *for you*—no lengthy explanations required**!! <br />
 3.	**Trust Your Inner Compass** – If you’ve already done your due diligence in those *decision-heavy* areas of your life (school, career, a home), then **give yourself permission** to *trust your instincts* elsewhere! Let your curiosity lead, focusing on ***what you might create*** *instead of* fixating on possible pitfalls.
 
 ## The Confidence Connection
 
-**Confidence grows when we realize that life isn’t solely about “*getting it right*” *all* the time**; it’s *also* about ***experiencing***, ***learning***, and ***generating*** new possibilities for ourselves. A ***powerful shift*** happens when we can see that *not every move* requires exhaustive justification. *Some* moments call for a ***decision*** based on reason, while *other* moments unfold best when we simply ***choose*** and see where it leads! <br />
+**Confidence *grows* when we realize that life isn’t solely about always “*getting it right*” *all* the time**; it’s *also* about ***experiencing***, ***learning***, and ***generating*** new possibilities for ourselves. A ***powerful shift*** happens when we can see that *not every move* requires exhaustive justification. *Some* moments call for a ***decision*** based on reason, while *other* moments unfold best when we simply ***choose*** and see where it leads! <br />
 
 Being confident means respecting *both* dimensions—knowing you are capable of solid [***decision-making***](https://en.wikipedia.org/wiki/Decision-making) when you need it, but also *free to* [***choose***](https://en.wikipedia.org/wiki/Choice) without fear of condemnation or second-guessing. **By embracing this *distinction*, you reclaim your agency and move through life with a deep sense of possibility**.
 
