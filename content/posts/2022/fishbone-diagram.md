@@ -49,14 +49,12 @@ After identifying a likely cause or category from the Fishbone Diagram, employ t
 
 By blending the broad view of the Fishbone Diagram with the targeted inquiry from ***the 5 Whys***, you’ll have a solid roadmap for getting to the bottom of even the most perplexing challenges. <br /> <br />
 
-
-
  <img src="https://julianwest.me/Blog/posts/images/Ishikawa_Fishbone_Diagram.png" alt="Alt text">
-
 <div style="font-size: 9px;">
 <p style="text-align: center;"><i>The typical format of a Fishbone Diagram</i> </p>
 </div>
 
+<br />
  <img src="https://julianwest.me/Blog/posts/images/Blurry_photo_fishbone_diagram.png" alt="Alt text">
 
 <div style="font-size: 9px;">
