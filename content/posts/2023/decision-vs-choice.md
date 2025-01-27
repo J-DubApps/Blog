@@ -60,7 +60,6 @@ In ***choosing***, I become open and vulnerable to a ***new possibility***, a ne
 
 ***Choosing*** can often be about **making a** ***choice*** **purely for the** ***sake of choosing***: **not** applying reason, **not** applying logic, **not** removing or disqualifying the **other** ***choices***. <br /> 
 
-
 Here are a few ways to recognize a “choice” moment:
 1.	**Spontaneity & Freedom** – You aren’t required to lay out all the reasons; you’re simply free to act.
 2.	**Possibility & Creativity** – Choosing can be about generating something fresh—a new direction, a new mindset, or a new approach to a challenge.
@@ -68,9 +67,9 @@ Here are a few ways to recognize a “choice” moment:
 
 When you choose, you tap into your power to create. You aren’t bound by having to “get it right” through a rational formula. You step into a moment of true ownership: “This is what I’m doing, because I choose to.”
 
-## When A Choice Morphs Into A Decision
+## When A Choice *Morphs Into* A Decision
 
-It is tempting to still ***give reasons*** when *making a* ***choice***-but *strictly-speaking*: a lot of *reasons* added will turn your ***choice*** ---> *into* a ***decision***.  That's totally ***OK***, but now you've moved into the ***decision*** realm and may want to double-check: "am I doing something creative or low-stakes?" -- becuase, if not, then switching to a ***decision*** makes sense. But sometmies we "*slip into*" ***decision-mode*** without knowing it, and that might go *against* what ***choosing is all about***.  Your mileage may vary, and sometimes we *should* examine a ***choice*** we're making-aer we keeping it ***a choice*** or does it need to really be a ***decision***?  <br />
+It is tempting to still ***give reasons*** when *making a* ***choice***-but *strictly-speaking*: adding a lot of considerations and reasons turns your ***choice*** ---> *into* a ***decision***.  That's totally ***OK***, but now you've moved into the ***decision*** realm and may want to double-check: "am I doing something creative or low-stakes?" -- becuase, if not, then switching to a ***decision*** makes sense. But sometmies we "*slip into*" ***decision-mode*** without knowing it, and that might go *against* what ***choosing is all about***.  Your mileage may vary, and sometimes we *should* examine a ***choice*** we're making-aer we keeping it ***a choice*** or does it need to really be a ***decision***?  <br />
 
 **Ultimately at the bottom of *every*** ***decision*** **is *either* fundamental** ***choice*** ***or*** **fundamental** ***reason***: "*I choose to believe* ..." or "*I choose to trust* ..."--but *adding* "***because***" immediately ***makes it a reason***, and techically *could* transform your ***choice*** into a ***decision***. Because you're using ***reason*** in your ***choice***. And the *spirit* of ***truly choosing*** (compared to ***deciding***) asks you to be spontaneous and ***less reasonable*** in low-stakes or creative situations.  So if you're adding very many **reasons** into your "***choice***", **you're kind of absolving yourself from the responsibility of** ***owning your choice***.  *Not always*, but its hard to say you exercised ***choice*** if you applied a lot of *external* reasons, analysis, or factors.  <br />
 
