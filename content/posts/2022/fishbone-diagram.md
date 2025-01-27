@@ -2,7 +2,7 @@
 date = '2022-08-02T20:10:26-06:00'
 draft = false
 title = 'The Fishbone Diagram'
-description = 'A Companion to "The Five Whys" for Uncovering Root Cause'
+description = 'A Classic Tool For Uncovering Root Cause (and a companion to "The Five Whys")'
 type = 'post'
 tags = ["tech", "devops", "best-practice", "enterprise-it", "beginner-fundamentals", "troubleshooting", "self-development", "project-mgmt"]
 +++
