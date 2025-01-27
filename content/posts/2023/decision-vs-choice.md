@@ -6,7 +6,7 @@ description = 'Moving Beyond the Fear of "Being Wrong" '
 type = 'post'
 tags = ["philosophy", "thought", "special-write-up", "self-development"]
 +++
-**Note**: This post is about *self-development* and *building confidence* when making tough calls...*or not* making them. It's *my own* thinking on the topic of "*Decision vs Choice*" from a *place of empowerment*, not necesarilly from a place of knowledge or *expertise* on the subject.  So this write-up is not not for *everyone*, and it's not a "one size fits all" article.  *Also please note*: if you are undergoing treatment for [OCD](https://en.wikipedia.org/wiki/Obsessive–compulsive_disorder) or have the diagnosis, I would recommend skipping this write-up altogether. I can't imagine something as *intolerable* for someone with OCD, as contemplating *making choices* the way I lay it out.  It's already kind of a stretch for non-OCD folks! <br />
+**Note**: This post is about *self-development* and *building confidence* when making tough calls...*or not* making them. It's *my own* thinking on the topic of "*Decision vs Choice*" from a *place of empowerment*, not necesarilly from a place of knowledge or *expertise* on the subject.  So this write-up is not not for *everyone* or "one size fits all".  *Also please note*: if you are undergoing treatment for [OCD](https://en.wikipedia.org/wiki/Obsessive–compulsive_disorder) or have the diagnosis, I would recommend skipping this write-up altogether. I can't imagine something as *intolerable* for someone with OCD, as contemplating *making choices* the way I lay it out.  It's already kind of a stretch for non-OCD folks! <br />
 
  <img src="https://julianwest.me/Blog/posts/images/decision-vs-choice.jpg" alt="Alt text" width="500" height="235">
 
