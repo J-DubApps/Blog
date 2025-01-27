@@ -1,8 +1,8 @@
 +++
 date = '2022-08-02T20:10:26-06:00'
 draft = true
-title = 'The Fishbone Diagram'
-description = "A Companion to "The Five Whys" for Uncovering Root Cause"
+title = 'The FMEA Process'
+description = "A Method to Identify Failure Modes and Priotirize Risks"
 type = 'post'
 tags = ["tech", "devops", "best-practice", "enterprise-it", "beginner-fundamentals", "troubleshooting", "self-development", "project-mgmt"]
 +++
