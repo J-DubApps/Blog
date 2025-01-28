@@ -104,9 +104,9 @@ Being confident means respecting *both* dimensions—knowing you are capable of 
 
 ## A Word About "Snap-Judgements"
 
-There is a realm here I didn't touch on, and don't want to leave out: "***snap-judgements***"—which we face many times in our lives.  ***Snap-Judgements*** are very-much a hybrid *blend* of ***deciding*** and ***choosing***—and what they *usually* have *in common* is **there is not enough *time*** to really *reason-through* all the options, before *making the call*.  In a ***Snap-Judgement*** situation, people experienced in the above ***distinction***—of seeing ***decision*** and ***choice*** as different things—tend to be *more able* to make those ***snap-decisions***. Why?  Because someone who is practiced at ***choosing*** without a lot of *reasoning* tends to be more comfortable and *confident* at listening to their *intuition* (aka "going with your *gut*").  
+There is a realm of decision I didn't touch on and ***cannot*** leave out: "***snap-judgements***"—which we face many times in our lives.  ***Snap-Judgements*** are very-much a hybrid *blend* of ***deciding*** and ***choosing***—and what they *usually* have *in common* is **there is not enough *time*** to really *reason-through* all the options, before *making the call*.  In a ***Snap-Judgement*** situation, people experienced in the above ***distinction***—of seeing ***decision*** and ***choice*** as different things—tend to be *more able* to make those ***snap-decisions***. Why?  Because someone who is practiced at ***choosing*** without a lot of *reasoning* tends to be more comfortable and *confident* at listening to their *intuition* (aka "going with your *gut*").  
 
-And **never forget**: when you are faced with a *difficult* ***Snap-Judgement*** where stakes may be high and *time is limited*: such hard **decisions** are only ***hard*** because there are ***no best options***!  And when no options are *good*, and *time is limited*: ***that's* when you have the *power* to exercise *choice***.
+And **never forget**: when you are faced with a *difficult* ***Snap-Judgement*** where stakes are high and *time is limited*: such hard **decisions** are only ***hard*** because there are ***no best options***!  And when no options are *good*, and *time is limited*: ***that's* when you have the *power* to exercise *choice***.
 
 # Wrapping Up - *The Takeaway*
 
