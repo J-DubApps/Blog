@@ -65,7 +65,7 @@ Here are a few ways to recognize a “choice” moment:
 2.	**Possibility & Creativity** – Choosing can be about generating something fresh—a new direction, a new mindset, or a new approach to a challenge.
 3.	**No Justification Needed** – While it’s perfectly fine to have reasons, a choice doesn’t need them. Sometimes you just feel moved to go in a certain direction.
 
-When you choose, you tap into your power to create. You aren’t bound by having to “get it right” through a rational formula. You step into a moment of true ownership: “This is what I’m doing, because I choose to.”
+When you ***choose***, you tap into your power to create. You aren’t bound by having to “*get it right*” through a rational formula. You step *into* a moment of true ownership: “This is what I’m doing, because ***I choose to***.”
 
 # *When* to *Decide* and *When* to *Choose*?
 
