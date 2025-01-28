@@ -14,7 +14,7 @@ I recently witnessed a friend hitting an indecisive moment, about something fair
 
 Now if you know *me*, then you *know* that I have a hard time seeing indecision--*especially* if it's for something not-too-important...yet takes up time and energy. My friend [*vascillated*](https://en.wiktionary.org/wiki/vacillate) between so many options--each option with its own *datapoint*--that I felt compelled to ask if they're ok. I mean, we *all* have our moments of indecision, it's ***ok*** and very human; however, his moment ***indecisiveness*** seemed to be one of many during our visit.  This kind of thing may be nothing, but sometimes it also signals a deeper issue with anxiety or self doubt--both things we don't like seeing close friends go through. So after everything got settled, I pulled my friend aside and walked him through an exercise that a mentor once taught me: on distinguishing ***deciding*** from ***choosing*** during moments of indecision. And I am going to try and distill *the concepts* from that exercise here *in this post*.<br /> <br />
 
-> More is lost by indecision than wrong decision. Indecision is the thief of opportunity. It will steal you blind.” — Cicero
+> "**More is lost by indecision than wrong decision. Indecision is the thief of opportunity. It will steal you blind**.” — ***Cicero***
 <br />
 
 ## The *Power* of Choice vs. The *Purpose* of Decision
