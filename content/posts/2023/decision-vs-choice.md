@@ -27,7 +27,7 @@ Sound interesting? To get rolling, we *first* need to define *these terms* (*dec
 
 ## Defining “*Decision*”
 
-***Decide*** is one of those "&#42;*cide*" words which aren't always rooted in *creation*: sui*cide*, insecti*cide*, or geno*cide* are but three negative words shared with "***decide***"-and for good reason: the Latin root for "***cide***" is ***caedere***, which means "**to cut**" or "***to kill***."  The root "*cide*" carries significant weight, for serious situations, deliberate acts, and justifications.  *Stay with me* on this, it gets *interesting*... <br />
+***Decide*** is one of those " &#42;*cide* " words which aren't always rooted in *creation*: sui*cide*, insecti*cide*, or geno*cide* are but three negative words shared with "***decide***"-and for good reason: the Latin root for "***cide***" is ***caedere***, which means "**to cut**" or "***to kill***."  The root "*cide*" carries significant weight, for serious situations, deliberate acts, and justifications.  *Stay with me* on this, it gets *interesting*... <br />
 
 When we "***decide***", or make a "***decision***": we are applying *reason* to ***eliminate alternatives***, effectively "*killing* off" each alternative...until a *single* thing is left...and *that* becomes ***the decision***.  Often we call this arriving at the ***best decision***, or "***the right decision***". <br />
 
