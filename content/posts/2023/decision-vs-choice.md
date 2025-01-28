@@ -106,7 +106,7 @@ Being confident means respecting *both* dimensions—knowing you are capable of 
 
 There is a realm of decision I didn't touch on and ***cannot*** leave out: "***snap-judgements***"—which we face many times in our lives.  ***Snap-Judgements*** are very-much a hybrid *blend* of ***deciding*** and ***choosing***—and what they *usually* have *in common* is **there is not enough *time*** to really *reason-through* all the options, before *making the call*.  In a ***Snap-Judgement*** situation, people experienced in the above ***distinction***—of seeing ***decision*** and ***choice*** as different things—tend to be *more able* to make those ***snap-decisions***. Why?  Because someone who is practiced at ***choosing*** without a lot of *reasoning* tends to be more comfortable and *confident* at listening to their *intuition* (aka "going with your *gut*").  
 
-And **never forget**: when you are faced with a *difficult* ***Snap-Judgement*** where stakes are high and *time is limited*: such hard **decisions** are *only* ***hard*** because there are ***no best options***!  And when no options are *good*, and *time is limited*: ***that's* when you have the *power* to exercise *choice***.
+And **never forget**: when you are faced with a *difficult* ***Snap-Judgement*** where stakes are high and *time is limited*: such hard **decisions** are *only* ***hard*** because there are ***no best options***!  And when no available options are *good*, and *time is limited*: ***that's* when you have the *power* to *decide* or exercise *choice***.
 
 # Wrapping Up - *The Takeaway*
 
@@ -114,7 +114,7 @@ When you feel yourself teetering on the edge of a big question—hesitant, anxio
 
 **A decision explains and *protects*; a choice *creates* and simply *exists***. <br />
 
-***Give up*** the constant need to *justify*: that's the *first step* into a world where you can safeguard what needs protecting (***deciding***), but ***also*** be creative or free when you want (***choosing***). ***Give up*** *always* having to "*get it right*" on low-stakes everyday things.  Learning to make a ***distinction*** *between* ***decision*** vs ***choice*** (and then ***exercising choice***, when appropriate) can take some effort—but eventually it comes naturally and fosters greater confidence.  Confidence dissolves the fear of “*being wrong*,” allowing you to live, learn, and create: one ***choice*** at-a-time! <br />
+***Give up*** the constant need to *justify*: that's the *first step* into a world where you can safeguard what needs protecting (***deciding***), but ***also*** be creative or free when you want (***choosing***). ***Give up*** *always* having to "*get it right*" on low-stakes everyday things.  Learning to make a ***distinction*** *between* ***decision*** vs ***choice*** (and then ***exercising choice***, when appropriate) can take some effort—but eventually it comes naturally and fosters greater confidence. Confidence dissolves the fear of “*being wrong*,” allowing you to live, learn, and create: one ***choice*** at-a-time! <br />
 
 ## Now get out there and make good *choices* (...or *decisions*)!!
 
