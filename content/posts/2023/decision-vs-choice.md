@@ -77,8 +77,6 @@ Learning that you even *can* ***choose***...or that you can ***choose to decide*
 
 Learning to move fluidly between ***decision-making*** *and* ***choosing*** helps you cut through hesitation ***and*** **build confidence** at the same time. Ask yourself, “*Is this a situation where I need to protect something, or is this a situation where I want to create something*?” A decision helps guard established norms or resources; a choice can spark a new creation or possibility. <br />
 
-And **never forget**: when you are faced with *difficult* ***decision***, that hard decisions are ***hard*** because there are ***no best options***.  And when no options are *good*,  *that's* when you have the *power* to exercise ***choice***!
-
 # Overcoming the Fear of “*Being Wrong*”
 
 Often, the dread of making an *incorrect* ***decision*** comes from thinking every step we take *must be* ***rationally validated***. **That’s a lot of pressure**! If you are in a place where you want to spark a *fresh idea* or *break free* from stagnation, ***let yourself choose*** without *over-explaining* or feeling you *owe a justification* to anybody-even to yourself. <br />
@@ -96,13 +94,19 @@ It is tempting to still ***give reasons*** when *making a* ***choice***-but *str
 
 **And this is why *truly learning* to embrace *choice* is *SCARY* for some people: **choice demands responsibility for**... ***making the choice***! *Owning it*! 😉 **But *that's* also why true exercising real honest-to-goodness *choice* is a such *HUGE* *confidence-booster***!!** When you ***CHOOSE*** you are declaring that you don't need to justify *making-the-call* to anyone else. <br />
 
-**It's hard to explain this concept in writing**, but ***trust me***--when we can distinguish ***deciding*** *from* ***choosing*** in our minds *on-the-fly*-intentionally practicing ***choice*** allows us to become *more decisive* and way ***more confident***.
+**It's hard to explain this concept *in writing***, but ***trust me***--when we can distinguish ***deciding*** *from* ***choosing*** in our minds *on-the-fly*--intentionally exercising ***choice*** allows us to become ***more decisive*** and *way ****more confident***.
 
 ## The Confidence Connection
 
 **Confidence *grows* when we realize that life isn’t solely about always “*getting it right*” *all* the time**; it’s *also* about ***experiencing***, ***learning***, and ***generating*** new possibilities for ourselves. A ***powerful shift*** happens when we can see that *not every move* requires exhaustive justification. *Some* moments call for a ***decision*** based on reason, while *other* moments unfold best when we simply ***choose*** and see where it leads! <br />
 
 Being confident means respecting *both* dimensions—knowing you are capable of solid [***decision-making***](https://en.wikipedia.org/wiki/Decision-making) when you need it, but also *free to* [***choose***](https://en.wikipedia.org/wiki/Choice) without fear of condemnation or second-guessing. **By embracing this *distinction*, you reclaim your agency and move through life with a deep sense of possibility**.
+
+## A Word About "Snap-Judgements"
+
+There is a realm here I didn't touch on, and don't want to leave out: "***snap-judgements***"--which we face many times in our lives.  ***Snap-Judgements*** are very-much a hybrid *blend* of ***deciding*** and ***choosing***--and what they *usually* have *in common* is **there is not enough *time*** to really *reason-through* all the options, before *making the call*.  In a ***Snap-Judgement*** situation, people experienced in the above ***distinction***--of seeing ***decision*** and ***choice*** as different things--tend to be more-able to make those ***snap-decisions***. Why?  Because someone who is practiced at ***choosing*** without a lot of *reasoning* tends to be more comfortable and *confident* listening to their *intuition* ( aka "going with your *gut*).  
+
+And **never forget**: when you are faced with *difficult* ***Snap-Judgement*** where stakes may be high and *time is limited*: such hard **decisions** are only ***hard*** because there are ***no best options***!  And when no options are *good*, and *time is limited*: ***that's* when you have the *power* to exercise *choice***.
 
 # Wrapping Up - *The Takeaway*
 
