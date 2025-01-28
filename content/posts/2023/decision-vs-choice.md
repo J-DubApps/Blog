@@ -23,7 +23,7 @@ We often can sell ourselves short from from new opportunities or seeing some *ot
 
 **But what if we *shifted* our perspective, here**?  What if there is a meaningful ***distinction*** to be made *between* ***making a decision***...and ***exercising a choice***?  And what if I told you that **recognizing that difference can give us new avenues of freedom and confidence**? <br />
 
-Sound interesting? To get rolling, *first* we need to define *the two big terms here* (*decision* & *choice*), so that we can make this powerful ***distinction***. A distinction *between* ***deciding*** and ***choosing***--let's go!
+Sound interesting? To get rolling, we *first* need to define *these terms* (*decision* & *choice*), so that we can make this powerful ***distinction***: a distinction *between* ***deciding*** and ***choosing***—let's go!
 
 ## Defining “*Decision*”
 
