@@ -73,7 +73,7 @@ Both ***decisions*** and ***choices*** have *value* and their place in different
 1.	**High-Stakes, Technical, or Complex Situations** – Here, a decision process with clear pros, cons, data, and justifications makes sense. You likely want to protect resources (time, money, safety), so carefully *thinking it through* is wise. <br />
 2.	**Everyday Moments or Creative Exploration** – When brainstorming new ideas, exploring career possibilities, or just simply deciding how to spend your leisure time-sometimes a *pure choice* is more ***liberating***. You don’t *need* bulletproof logic or justifications to "*decide*" you want cook tacos for dinner...or learn the piano...or try your hand at painting. <br />
 
-Learning that you even *can* ***choose***...or that you can ***choose to decide*** is a *powerful ability* seen in history's most successful entrepreneurs, executives, and our greatest explorers all figured out.  <br />
+Learning that you even ***can choose***...or that you can even ***choose to decide*** is a *powerful ability* seen in history's most successful entrepreneurs, executives, and history's most notable people all figured out.  <br />
 
 Learning to move fluidly between ***decision-making*** *and* ***choosing*** helps you cut through hesitation ***and*** **build confidence** at the same time. Ask yourself, “*Is this a situation where I need to protect something, or is this a situation where I want to create something*?” A decision helps guard established norms or resources; a choice can spark a new creation or possibility. <br />
 
