@@ -114,6 +114,8 @@ When you feel yourself teetering on the edge of a big question—hesitant, anxio
 
 **A decision explains and *protects*; a choice *creates* and simply *exists***. <br />
 
-***Give up*** the constant need to justify: that's the *first step* into a world where you can safeguard what needs protecting (***deciding***), but ***also*** be creative or free when you want (***choosing***). Learning the ***distinction*** *between* ***decision*** vs ***choice*** (and then ***exercising choice*** when appropriate) tkes a little effort, but eventually it comes naturally and fosters greater confidence--and dissolves the fear of “*being wrong*,” allowing you to live, learn, and create: one ***choice*** at-a-time! <br /> <br />
+***Give up*** the constant need to *justify*: that's the *first step* into a world where you can safeguard what needs protecting (***deciding***), but ***also*** be creative or free when you want (***choosing***). Give up *always* having to "*get it right*" on low-stakes everyday things.  Learning to make a ***distinction*** *between* ***decision*** vs ***choice*** (and then ***exercising choice***, when appropriate) tkes a little effort--but eventually it comes naturally and fosters greater confidence.  Confidence dissolves the fear of “*being wrong*,” allowing you to live, learn, and create: one ***choice*** at-a-time! <br />
+
+# Now get out there and make good *choices* (...or *decisions*)!!
 
  <img src="https://julianwest.me/Blog/posts/images/decision-vs-choice2.jpg" alt="Alt text">
