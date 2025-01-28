@@ -34,7 +34,7 @@ When we "***decide***" or make a "***decision***": we are applying *reason* to *
 When making a [***decision***](https://en.wikipedia.org/wiki/Decision-making), it usually involves a set of rational options typically rooted in analysis or reasoning: you consider everything, weigh pros and cons, gather data-you might even consult with friends and experts. *Then you pick* the path that appears *most rational*, reasonable, or has the least risk. **In many ways, *decisions* are about** ***protection***: <br />
 
 •	**Decisions protect us from perceived risk by ensuring we follow a logical process**. <br />
-•	**Decisions protect us from *blame*, because we have a line of reasoning that justifies why we did what we did**. <br />
+•	**Decisions protect us from *blame*, because we have a line of reasoning that justifies *why* we did what we did**. <br />
 
 ***Decisions*** are often crucial-picking which flight to book, choosing how to invest your money, or planning a project budget. The ability to think carefully and logically is vital for problem-solving, especially when the stakes are high.  ***But this protective function can sometimes backfire*** **if we become paralyzed by fear of** “***What if I decide wrong***?” <br /> 
 
@@ -67,16 +67,6 @@ Here are a few ways to recognize a “choice” moment:
 
 When you choose, you tap into your power to create. You aren’t bound by having to “get it right” through a rational formula. You step into a moment of true ownership: “This is what I’m doing, because I choose to.”
 
-## When A Choice *Morphs Into* A Decision
-
-It is tempting to still ***give reasons*** when *making a* ***choice***-but *strictly-speaking*: adding a lot of considerations and reasons turns your ***choice*** ---> *into* a ***decision***.  That's totally ***OK***, but now you've moved into the ***decision*** realm and may want to double-check: "am I doing something creative or low-stakes?"--if not, then switching to a ***decision*** makes sense. But sometmies we "*slip into*" ***decision-mode*** without knowing it, and that might go *against* what ***choosing is all about***.  Your mileage may vary, and sometimes we *should* examine a ***choice*** we're making-aer we keeping it ***a choice*** or does it need to really be a ***decision***?  <br />
-
-**Ultimately at the bottom of *every*** ***decision*** **is *either* fundamental** ***choice*** ***or*** **fundamental** ***reason***: "*I choose to believe* ..." or "*I choose to trust* ..."--but *adding* "***because***" immediately ***makes it a reason***, and techically *could* transform your ***choice*** into a ***decision***. Because you're using ***reason*** in your ***choice***. And the *spirit* of ***truly choosing*** (compared to ***deciding***) asks you to be spontaneous and ***less reasonable*** in low-stakes or creative situations.  So if you're adding very many **reasons** into your "***choice***", **you're kind of absolving yourself from the responsibility of** ***owning your choice***.  *Not always*, but its hard to say you exercised ***choice*** if you applied a lot of *external* reasons, analysis, or factors.  <br />
-
-**And this is why *truly learning* to embrace *choice* is *SCARY* for some people: **choice demands responsibility for**... ***making the choice***! *Owning it*! 😉 **But *that's* also why true exercising real honest-to-goodness *choice* is a such *HUGE* *confidence-booster***!!** When you ***CHOOSE*** you are declaring that you don't need to justify *making-the-call* to anyone else. <br />
-
-**It's hard to explain this concept in writing**, but ***trust me***--when we can distinguish ***deciding*** *from* ***choosing*** in our minds *on-the-fly*-intentionally practicing ***choice*** allows us to become *more decisive* and way ***more confident***.
-
 # *When* to *Decide* and *When* to *Choose*?
 
 Both decisions and choices have *value*, and they each have their place in different scenarios. The ***trick*** is to discern *which* one suits the moment: <br />
@@ -85,7 +75,9 @@ Both decisions and choices have *value*, and they each have their place in diffe
 
 Learning that you even *can* ***choose***...or that you can ***choose to decide*** is a *powerful ability* seen in history's most successful entrepreneurs, executives, and our greatest explorers all figured out.  <br />
 
-Learning to move fluidly between ***decision-making*** *and* ***choosing*** helps you cut through hesitation ***and*** **build confidence** at the same time. Ask yourself, “*Is this a situation where I need to protect something, or is this a situation where I want to create something*?” A decision helps guard established norms or resources; a choice can spark a new creation or possibility.
+Learning to move fluidly between ***decision-making*** *and* ***choosing*** helps you cut through hesitation ***and*** **build confidence** at the same time. Ask yourself, “*Is this a situation where I need to protect something, or is this a situation where I want to create something*?” A decision helps guard established norms or resources; a choice can spark a new creation or possibility. <br />
+
+And **never forget**: when you are faced with *difficult* ***decision***, that hard decisions are ***hard*** because there are ***no best options***.  And when no options are *good*,  *that's* when you have the *power* to exercise ***choice***!
 
 # Overcoming the Fear of “*Being Wrong*”
 
@@ -96,13 +88,23 @@ Often, the dread of making an *incorrect* ***decision*** comes from thinking eve
 2.	**Let Go of Over-Explaining** – Notice when you start defending yourself unnecessarily. It’s often a sign you’re anxious about how others may judge you, or a sign you're not feeling confident about the decision.  **Recognize that *you have the right* to choose what aligns *for you*—no lengthy explanations required**!! <br />
 3.	**Trust Your Inner Compass** – If you’ve already done your due diligence in those *decision-heavy* areas of your life (school, career, a home), then **give yourself permission** to *trust your instincts* elsewhere! Let your curiosity lead, focusing on ***what you might create*** *instead of* fixating on possible pitfalls.
 
+## When A Choice *Morphs Into* A Decision
+
+It is tempting to still ***give reasons*** when *making a* ***choice***-but *strictly-speaking*: adding a lot of considerations and reasons turns your ***choice*** ---> *into* a ***decision***.  That's totally ***OK***, but now you've moved into the ***decision*** realm and may want to double-check: "am I doing something creative or low-stakes?"--if not, then switching to a ***decision*** makes sense. But sometmies we "*slip into*" ***decision-mode*** without knowing it, and that might go *against* what ***choosing is all about***.  Your mileage may vary, and sometimes we *should* examine a ***choice*** we're making-aer we keeping it ***a choice*** or does it need to really be a ***decision***?  <br />
+
+**Ultimately at the bottom of *every*** ***decision*** **is *either* fundamental** ***choice*** ***or*** **fundamental** ***reason***: "*I choose to believe* ..." or "*I choose to trust* ..."--but *adding* "***because***" immediately ***makes it a reason***, and techically *could* transform your ***choice*** into a ***decision***. Because you're using ***reason*** in your ***choice***. And the *spirit* of ***truly choosing*** (compared to ***deciding***) asks you to be spontaneous and ***less reasonable*** in low-stakes or creative situations.  So if you're adding very many **reasons** into your "***choice***", **you're kind of absolving yourself from the responsibility of** ***owning your choice***.  *Not always*, but its hard to say you exercised ***choice*** if you applied a lot of *external* reasons, analysis, or factors.  <br />
+
+**And this is why *truly learning* to embrace *choice* is *SCARY* for some people: **choice demands responsibility for**... ***making the choice***! *Owning it*! 😉 **But *that's* also why true exercising real honest-to-goodness *choice* is a such *HUGE* *confidence-booster***!!** When you ***CHOOSE*** you are declaring that you don't need to justify *making-the-call* to anyone else. <br />
+
+**It's hard to explain this concept in writing**, but ***trust me***--when we can distinguish ***deciding*** *from* ***choosing*** in our minds *on-the-fly*-intentionally practicing ***choice*** allows us to become *more decisive* and way ***more confident***.
+
 ## The Confidence Connection
 
 **Confidence *grows* when we realize that life isn’t solely about always “*getting it right*” *all* the time**; it’s *also* about ***experiencing***, ***learning***, and ***generating*** new possibilities for ourselves. A ***powerful shift*** happens when we can see that *not every move* requires exhaustive justification. *Some* moments call for a ***decision*** based on reason, while *other* moments unfold best when we simply ***choose*** and see where it leads! <br />
 
 Being confident means respecting *both* dimensions—knowing you are capable of solid [***decision-making***](https://en.wikipedia.org/wiki/Decision-making) when you need it, but also *free to* [***choose***](https://en.wikipedia.org/wiki/Choice) without fear of condemnation or second-guessing. **By embracing this *distinction*, you reclaim your agency and move through life with a deep sense of possibility**.
 
-# Wrapping Up
+# Wrapping Up - *The Takeaway*
 
 When you feel yourself teetering on the edge of a big question—hesitant, anxious, worried about “*the right answer*”—take a moment to ask: "***Is this a moment to decide… or a moment to choose***?" If you’re protecting your resources or ensuring critical objectives are met, making a structured ***decision*** is the way. But if you’re seeking to *create* something *fresh* or ***free yourself*** **from perfectionism**, lean hard into ***choice***. <br />
 
