@@ -38,7 +38,7 @@ When making a [***decision***](https://en.wikipedia.org/wiki/Decision-making), i
 
 ***Decisions*** are often crucial—picking which flight to book, choosing how to invest your money, or planning a project budget. The ability to think carefully and logically is vital for problem-solving, especially when the stakes are high.  ***But this protective function can sometimes backfire*** **if we become paralyzed by fear of** “***What if I decide wrong***?” <br /> 
 
-When we *overemphasize* the process of deciding, we might lose sight of possibility or creativity. We focus on *justifying* to ourselves, to others, or to our own self-critical mind, forgetting that *not every situation* demands an exhaustive explanation. **Enter *Decision's* Backup-Pilot**: ***Choice***.
+When we *overemphasize* the process of deciding, we might lose sight of possibility or creativity. We focus on *justifying* to ourselves, to others, or to our own self-critical mind, forgetting that *not every situation* demands an exhaustive explanation. Enter ***Decision's*** *Backup-Pilot*: ***Choice***.
 
 ## Leveraging “Choice”
 
