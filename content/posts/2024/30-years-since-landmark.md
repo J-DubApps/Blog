@@ -31,11 +31,13 @@ So *how well* do I remember these tools, concepts, and distinctions that **Landm
 I reviewed my old journal notes—and created [**this rough Glossary of Landmark Terms**](https://julianwest.me/Blog/landmark-glossary/) to go along with [my original mini-memoir](https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-1/). I think it is pretty accuarate. If you are a Forum Grad, feel free to write and tell me what you think. <br />
 
 <a id="landmark"></a>
-**Items this 30th Anniversary Landmark post references, *below***:  <br />
+**My Posts this 30th Anniversary Landmark entry references, *below***:  <br />
 
 [***A Funny Thing Happened After the Forum -- Pt 1***](https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-1/) <br />
 [***A Funny Thing Happened After the Forum -- Pt 2***](https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-2/) <br />
 [***A Funny Thing Happened After the Forum -- Pt 3***](https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-3/) <br />
+[***My Tiny Contribution to FX's "The Americans"***](https://julianwest.me/Blog/the-americans-and-landmark/) <br />
+[***The Americans EST Episodes***](https://julianwest.me/Blog/the-americans-est-episodes/) <br />
 [**Landmark Forum / est Glossary**](https://julianwest.me/Blog/landmark-glossary/) <br />
 
 #### *DISCLAIMER NOTE*: The views expressed in this post (and on this blog) are my personal views, and are not the views of Landmark—*or* their critics. Refer to this site's [Terms of Use](https://julianwest.me/Blog/site-disclosure/) for further details.
