@@ -4,7 +4,7 @@ draft = false
 title = 'Philosophy In Criticial Thinking'
 description = 'Finding Truth via Descartes and Skepticism'
 type = 'post'
-tags = ["troubleshooting", "philosophy", "thought"]
+tags = ["troubleshooting", "philosophy", "thought", "skill-improvement"]
 +++
 This bears on troubleshooting and ***criticial thinking***, but from a *Philosophical* point-of-view.
 
