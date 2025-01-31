@@ -1,5 +1,5 @@
 +++
-date = '2024-09-15T23:02:36-06:00'
+date = '2024-09-16T23:45:36-06:00'
 draft = false
 title = 'The 30th Anniversary of My Brush With &#34;Scientology Lite&#34;'
 description = 'Revisiting My 3-Part Mini-Memoir on Landmark...'
@@ -8,13 +8,13 @@ tags = ["thought", "philosophy", "personal-development", "personal"]
 +++
 #### *DISCLAIMER NOTE*: The views expressed in this post (and on this blog) are my personal views, and are not the views of Landmark—*or* their critics. Refer to this site's [Terms of Use](https://julianwest.me/Blog/site-disclosure/) for further details.
 
-It's now been ***15 years*** since I [wrote about my 1994 experience with "***The Landmark Forum***"](https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-1/) on this blog.  **The Forum** is a 3-day (and one evening) educational seminar, run by one of the world's largest for-profit *personal-improvement* companies—[***Landmark WorldWide***](https://en.wikipedia.org/wiki/Landmark_Worldwide).  It remains one of my most top-read posts, in terms of feedback, and even resulted in a brief discussion with a staffer working on [a popular FX TV Show](https://julianwest.me/Blog/the-americans-and-landmark/). <br />
+It's now been ***15 years*** since I [wrote about my 1994 experience with "***The Landmark Forum***"](#landmark) on this blog.  **The Forum** is a 3-day (and one evening) educational seminar, run by one of the world's largest for-profit *personal-improvement* companies—[***Landmark WorldWide***](https://en.wikipedia.org/wiki/Landmark_Worldwide).  It remains one of my most top-read posts, in terms of feedback, and even resulted in a brief discussion with a staffer working on [a popular FX TV Show](https://julianwest.me/Blog/the-americans-and-landmark/). <br />
 
-Which means, here in 2024, it has *now* been ***30 years*** (!!) since I attended ***The Landmark Forum***.  <br />
+The above means, here in 2024, that it has *now* been ***30 years*** (!!) since I attended ***The Landmark Forum***.  <br />
 
 That's *wild*. <br />
 
-I re-read my old blog posts recently—and while I don't approve of my passive voice writing in 2009 (and I *did* make a few 2024 corrections to it), I have to say my old write-up *still holds-up*! <br />
+I reread [those old blog posts](#landmark) recently—and while I don't approve of my passive voice writing in 2009 (and I *did* make a few 2024 corrections to it), I have to say my old write-up *still holds-up*! <br />
 
 You know what also *still* holds-up?  Some of those *tools* and distinctions that I acquired, in that dreary conference center 30 years-ago, stuck with me.  <br />
 
@@ -28,8 +28,9 @@ I've gone through 30 years of changes since I graduated The **Landmark Forum**, 
 
 So *how well* do I remember these tools, concepts, and distinctions that **Landmark** taught me, 30 years ago?  **Let's find out**!  <br />
 
-I reviewed my old journal notes—and I created [**this rough Glossary of Landmark Terms**](https://julianwest.me/Blog/landmark-glossary/) to go along with [my original mini-memoir](https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-1/). I think it is pretty accuarate. If you are a Forum Grad, feel free to write and tell me what you think. <br />
+I reviewed my old journal notes—and I just created [**this rough Glossary of Landmark Terms**](https://julianwest.me/Blog/landmark-glossary/) to go along with [my original mini-memoir](https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-1/). I think it is pretty accuarate. If you are a Forum Grad, feel free to write and tell me what you think. <br />
 
+<a id="landmark"></a>
 **Items this 30th Anniversary Landmark post references, *below***:  <br />
 
 [***A Funny Thing Happened After the Forum -- Pt 1***](https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-1/) <br />
