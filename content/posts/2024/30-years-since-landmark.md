@@ -8,7 +8,7 @@ tags = ["thought", "philosophy", "personal-development", "personal"]
 +++
 #### *DISCLAIMER NOTE*: The views expressed in this post (and on this blog) are my personal views, and are not the views of Landmark—*or* their critics. Refer to this site's [Terms of Use](https://julianwest.me/Blog/site-disclosure/) for further details.
 
-It's now been ***15 years*** since I [wrote about my 1994 experience with "***The Landmark Forum***"](#landmark) on this blog.  **The Forum** is a 3-day (and one evening) educational seminar, run by one of the world's largest for-profit *personal-improvement* companies—[***Landmark WorldWide***](https://en.wikipedia.org/wiki/Landmark_Worldwide).  It remains one of my most top-read posts, in terms of feedback, and even resulted in a brief discussion with a staffer doing research for [a popular FX TV Show](https://julianwest.me/Blog/the-americans-and-landmark/). <br />
+It's now been ***15 years*** since I [wrote about my 1994 experience with "***The Landmark Forum***"](#landmark) on this blog.  **The Forum** is a 3-day (and one evening) educational seminar, run by one of the world's largest for-profit *personal-improvement* companies—[***Landmark WorldWide***](https://en.wikipedia.org/wiki/Landmark_Worldwide).  It remains one of my most top-read posts in terms of feedback, and even resulted in a brief discussion with a staffer doing research for [a popular FX TV Show](https://julianwest.me/Blog/the-americans-and-landmark/). <br />
 
 The above means, here in 2024, that it has *now* been ***30 years*** (!!) since I attended ***The Landmark Forum***.  <br />
 
@@ -22,13 +22,13 @@ I never *returned* to take additional **Landmark** courses, and have only spoken
 
 *How interesting*?  Well, I went on to study Philosophy and read some books about **The Forum's** previous form, [***EST***](https://en.wikipedia.org/wiki/Erhard_Seminars_Training), and a book or two about its founder [***Werner Erhard***](https://en.wikipedia.org/wiki/Werner_Erhard). Why my fascination?  Well, I wanted to *better understand* how Erhard repackaged so many tools and concepts (the *technology*) from the various philosophies that he did. <br />
 
-So I am not going to shill or condemn **Landmark**, *nor* will I ever tell you it's a *cult*; however, to this day I jokingly do call **Landmark** "*Scientology Lite*". Not to be derogatory, just a funny term I picked-up in an online "*forum*". 😂 Ironically I have actually spoken with ex-Scientologist friends who told me that ***EST*** (and thus, **Landmark**) borrow "*technology*" from it. And if it *does*, it doesn't much *matter* since I believe [***L. Ron Hubbard***](https://en.wikipedia.org/wiki/L._Ron_Hubbard) *also borrowed* much of *his own* material from well-known Philosophers and Psychiatrists, anyway. 🤷🏻 <br />
+So I am not here to shill or condemn **Landmark**, *nor* can I tell you it's a *cult* from my own limited experience of one course 30 years ago; *however*, to this day I do jokingly call **Landmark** "*Scientology Lite*". Not to be derogatory, just a funny term I picked-up in an online "*forum*". 😂 Ironically I have actually spoken with ex-Scientologist friends who told me that ***EST*** borrowed "*technology*" from it. But that doesn't much *matter*, since I believe [***L. Ron Hubbard***](https://en.wikipedia.org/wiki/L._Ron_Hubbard) *also borrowed* much of *his own* material from well-known Philosophers and Psychiatrists, anyway. 🤷🏻 <br />
 
-I've gone through 30 years of changes since I graduated The **Landmark Forum**, and since the Pandemic [***Landmark WorldWide***](https://en.wikipedia.org/wiki/Landmark_Worldwide) went through some changes, too—a reboot with new leadership.  I guess even personal-devlopment giants go through periods of *growth* like the rest of us.  <br />
+I've gone through 30 years of changes since I graduated The **Landmark Forum**, and since the Pandemic [***Landmark WorldWide***](https://en.wikipedia.org/wiki/Landmark_Worldwide) went through some changes, too—a bankruptcy and reboot with new leadership.  <br />
 
 So *how well* do I remember these tools, concepts, and distinctions that **Landmark** taught me, 30 years ago?  **Let's find out**!  <br />
 
-I reviewed my old journal notes—and I just created [**this rough Glossary of Landmark Terms**](https://julianwest.me/Blog/landmark-glossary/) to go along with [my original mini-memoir](https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-1/). I think it is pretty accuarate. If you are a Forum Grad, feel free to write and tell me what you think. <br />
+I reviewed my old journal notes—and created [**this rough Glossary of Landmark Terms**](https://julianwest.me/Blog/landmark-glossary/) to go along with [my original mini-memoir](https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-1/). I think it is pretty accuarate. If you are a Forum Grad, feel free to write and tell me what you think. <br />
 
 <a id="landmark"></a>
 **Items this 30th Anniversary Landmark post references, *below***:  <br />
