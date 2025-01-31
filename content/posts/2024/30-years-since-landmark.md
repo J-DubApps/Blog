@@ -12,7 +12,7 @@ It's now been ***15 years*** since I [wrote about my 1994 experience with "***Th
 
 The above means, here in 2024, that it has *now* been ***30 years*** (!!) since I attended ***The Landmark Forum***.  <br />
 
-That's *wild*. <br />
+That is *wild*. <br />
 
 I reread [those old blog posts](#landmark) recently—and while I don't approve of my passive voice style in 2009 (I *did* make a few 2024 corrections to it), I must say my old review *still holds-up*! <br />
 
