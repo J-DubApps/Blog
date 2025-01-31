@@ -14,7 +14,7 @@ The above means, here in 2024, that it has *now* been ***30 years*** (!!) since 
 
 That's *wild*. <br />
 
-I reread [those old blog posts](#landmark) recently—and while I don't approve of my passive voice writing in 2009 (and I *did* make a few 2024 corrections to it), I have to say my old write-up *still holds-up*! <br />
+I reread [those old blog posts](#landmark) recently—and while I don't approve of my passive voice style in 2009 (I *did* make a few 2024 corrections to it), I must say my old write-up *still holds-up*! <br />
 
 You know what also *still* holds-up?  Some of those *tools* and distinctions that I acquired, in that dreary conference center 30 years-ago, stuck with me.  <br />
 
