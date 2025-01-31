@@ -20,10 +20,10 @@ Leaders must create a safe environment where team members feel protected, foster
 Effective leaders prioritize empathy, understanding the needs, challenges, and perspectives of their team members. This allows leaders to build stronger relationships and inspire loyalty. <br />
 
 3. **Biology of Leadership**
-Sinek explains leadership through the lens of human biology, highlighting the importance of certain chemicals (e.g., endorphins, dopamine, serotonin, oxytocin) that promote positive behavior. Good leaders create conditions that trigger beneficial hormonal responses, encouraging trust and teamwork.<br />
+Sinek explains leadership through the lens of human biology, highlighting the importance of certain chemicals (e.g., endorphins, dopamine, serotonin, oxytocin) that promote positive behavior. This part of the book sounds kind of weird—at first—but it really *is* the case that *good leaders* create conditions that can actually trigger positive beneficial biology responses, encouraging trust and teamwork.<br />
 
 4. **Serving Others**
-True leadership means putting the welfare of the team first. Leaders who adopt a service-oriented mindset ensure that the well-being of their people is paramount, which leads to higher morale and better performance.<br />
+True leadership means putting the welfare of the team *first*. Leaders who adopt a service-oriented mindset ensure that the well-being of their people is paramount, which leads to higher morale and better performance.<br />
 
 5. **Long-term Vision**
 Leaders should focus on the long-term success of their team or organization, rather than short-term gains. Sustainable success stems from leaders who plan beyond immediate rewards and aim for future growth and stability.<br />
@@ -46,4 +46,4 @@ Leaders should ensure that their team’s physical and emotional health is suppo
 11. **Fostering Cooperation Over Competition**
 Creating a collaborative environment rather than one driven by internal competition helps strengthen bonds among team members. A unified team is more resilient and effective in facing external challenges.<br />
 
-I really learned a lot in my first read, and I plan to keep this around and read it again for refreshers.  The concepts here are fairly timeless and direct about effective leadership, applicable to a wide range of organizations.  I think everyone from the c-suite to managers, to PMs or SMEs, should give "Leaders Eat Last" a read.  By working to embody the principles in the book, leaders can foster a culture where people feel secure, valued, and motivated, leading to a more cohesive and high-performing team.
+I really learned a lot about how leadership is also rooted in your team's *well-being*, among other concepts I learned in my first read.  I plan to keep this book around and read it again for refreshers. The concepts here are fairly timeless and direct about effective leadership, applicable to a wide range of organizations.  I think everyone from the c-suite to managers, to PMs or SMEs, should give "*Leaders Eat Last*" a read.  Even working to embody half the principles in this book, leaders can foster a culture where people feel secure, valued, and motivated—leading to a more cohesive and high-performing team.  I want to thank my former colleauge again, for a great gift in this book.  Thanks, LeAnn! 🙌🏻
