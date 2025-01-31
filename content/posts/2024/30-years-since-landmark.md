@@ -32,9 +32,9 @@ I reviewed my old journal notes—and I created [**this rough Glossary of Landma
 
 **Items this 30th Anniversary Landmark post references, *below***:  <br />
 
-[A Funny Thing Happened After the Forum -- Pt 1](https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-1/) <br />
-[A Funny Thing Happened After the Forum -- Pt 2](https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-2/) <br />
-[A Funny Thing Happened After the Forum -- Pt 3](https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-3/) <br />
-[Landmark Forum / est Glossary](https://julianwest.me/Blog/landmark-glossary/) <br />
+[***A Funny Thing Happened After the Forum -- Pt 1***](https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-1/) <br />
+[***A Funny Thing Happened After the Forum -- Pt 2***](https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-2/) <br />
+[***A Funny Thing Happened After the Forum -- Pt 3***](https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-3/) <br />
+[**Landmark Forum / est Glossary**](https://julianwest.me/Blog/landmark-glossary/) <br />
 
 #### *DISCLAIMER NOTE*: The views expressed in this post (and on this blog) are my personal views, and are not the views of Landmark—*or* their critics. Refer to this site's [Terms of Use](https://julianwest.me/Blog/site-disclosure/) for further details.
