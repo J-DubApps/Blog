@@ -1,7 +1,7 @@
 +++
 date = '2024-02-07T11:14:51-06:00'
 draft = false
-title = 'We Can Do **Anything**, But Not ***Everything***'
+title = 'We Can Do Anything, But Not <i>Everything</i>'
 description = 'My Primer on Focused Productivity'
 type = 'post'
 tags = ["philosophy", "thought", "special-write-up", "project-mgmt", "best-of", "jdub-isms", "tech", "personal-development"]
