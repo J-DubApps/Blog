@@ -10,7 +10,7 @@ tags = ["tech", "news-link", "AI", "usa"]
 
 No wonder [Satya was emphatic the other day](https://www.youtube.com/watch?v=lb_ZJylekWo) that Microsoft is still "good for $80 billion" for this already-existing project.  I *do* think [Softbank's](https://www.softbank.jp/en//) stepped-up involvement probably made the "hey look!" re-boost worth it, though. <br />
 
-I think a lot of previous admin initiatives go through this, it's nothing new or unique to the Trump admin.  But I am surprised that Trump didn't even bother re-branding it-just (re)announcing it as if it's a *brand new thing*.
+I think a lot of previous admin initiatives go through this: the next admin re-boosts it, to continue momentum. But I am surprised that Trump didn't even try to re-brand it—just (re)announcing it.  And doing so as if it's a *brand new thing*.
 
 
 <div class="image-row">
