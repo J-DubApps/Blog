@@ -266,9 +266,9 @@ Yes! Below is a list I compiled over the years, of some of the primary philosoph
 
 **A:** <br />
 
-While Werner Erhard was involved with [**Scientology**](https://en.wikipedia.org/wiki/Scientology) for a brief period, the extent of direct influence on **est** is debated. Many see parallels in the intense group sessions, the focus on *personal* ***responsibility***, and the breakdown of personal narratives. But Erhard himself has denied taking any of his training materials from Scientology, and his main answer has always been that est can be seen as a compilation (or distillation) of many disciplines. <br /> 
+While Werner Erhard was involved with [**Scientology**](https://en.wikipedia.org/wiki/Scientology) for a brief period, the extent of direct influence on **est** is debated. Many see parallels in the intense group sessions, the focus on *personal* ***responsibility***, and the breakdown of *personal narratives*. Erhard himself has denied using or taking any training materials from Scientology, and his answer has always been that est training should be seen as a compilation (or distillation) of many disciplines. <br /> 
 
-Others note major conceptual differences (e.g. no emphasis on “thetans” or “reactive mind,” for instance). Having read a little about **Scientology** myself, there really is very little it has in common with est or the modern **Forum**.  Still, many historians list it as an early exposure Erhard had before launching **est**.  L. Ron Hubbard distilled a lot of Zen-like similarities, which anyone could see similarities when comparing to **est**.  And it's no secret that L. Ron Hubbard cribbed many concepts and teachings from people I listed above, when he wrote "*Dianetics*" and internal **Scientology** courses. I think maybe credit to Erhard, though, for not trying to create a *religion* from those philosophers. 🙃 <br /> <br /> 
+Others note major conceptual differences (e.g. no emphasis on “thetans” or “reactive mind,” for instance). Having read a little about **Scientology** myself, and having spoken with an ex-Scientology member, I think it's the case that L. Ron Hubbard himself was already repackaging things from other philosophies and disciplines.  Which, in my view, lets est and Werner Erhard off-the-hook for borrowing or "stealing" from Scientology.  Still, some writers have listed Erhard's exposure to Scientology materials that led launching **est**.  I think it's no big secret that L. Ron Hubbard cribbed many concepts and teachings, from people I listed in the previous FAQ answer, when he wrote "*Dianetics*" and internal **Scientology** courses. I think maybe credit to Erhard, though, for not trying to create a *religion* from his own repackaging of philosopher works. 🙃 <br /> <br /> 
 
 #### 5. What are other sites, beyond this one, where I can read about Landmark Forum?  
 
@@ -303,6 +303,27 @@ It's true there aren't a lot of books written about est and Landmark.  The semin
 [The Book of Est](https://www.amazon.com/Book-Est-Luke-Rhinehart/dp/0557306159) by Luke Rhinehart <br />
 [Werner Erhard The Transformation of a Man: The Founding of EST](https://www.amazon.com/dp/0517535025) by William Warren Bartley III <br />
 
+#### 7. Those books you listed seems very *pro-EST* and *pro-Werner*: can you also list books critical of EST, Erhard, or Landmark?
+
+**A:** <br />
+
+I only know of two books meeting those criteria, the first one I just started reading here in late 2024.  I have not read the other one I'll list. <br />
+
+[Is This A Cult?](https://isthisacultbook.com)
+[Outrageous Betrayal](https://en.wikipedia.org/wiki/Outrageous_Betrayal) <small> *labeled as "defamatory" by representatives of Erhard and Landmark Worldwide. </small>
+
+
+#### 8. What is Landmark up to, today?
+
+**A:** <br />
+
+I never kept up with **Landmark** after I attended ***The Landmark Forum*** in 1994, though I have friends who had volunteered for them.  The last thing I personally heard was they entered [Bankruptcy protection—and were preparing to emerge from that](https://finance.yahoo.com/news/landmark-worldwide-nears-completion-difficult-020000623.html) with new leadership in 2024.  *Beyond that*, I would direct you to the [Landmark Worldwide web site](https://www.landmarkworldwide.com) for more on what they're up to—post-reboot. <br />
+
+#### 9. I am contemplating attending The Landmark Forum here in 2024.  What advice would you give me?
+
+**A:** <br />
+
+I do not feel comfortable giving advice to anyone about whether or not they should attend **The Landmark Forum**, and would simply direct them to [my 3 posts about it](#preface) from a few years ago.  I *will* add, however, that if you do end up attending **The Landmark Forum**: I am of the opinion that it's probably healthier for you to stop at that one seminar—and not get into the treadmill of follow-on courses or volunteer for Landmark (usually unpaid, and high-pressure, based on what I have read and heard).  That said, I know they have been in a bit of a re-organization at Landmark—so this advice might change in the future. <br />
 
 Terms or phrases with "&trade;" or "&reg;" are *trademarked* or *registered* properties of [Landmark Worldwide](https://www.landmarkworldwide.com), are openly used in their public literature, and are only referenced here for complete Definitions.  All rights to these terms belong to Landmark Education and [Landmark Worldwide](https://www.landmarkworldwide.com), and *no authorship or ownership* to any material in this Glossary is claimed in *any* way.
 
