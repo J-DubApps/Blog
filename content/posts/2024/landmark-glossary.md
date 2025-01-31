@@ -225,9 +225,9 @@ Terms or phrases with "&trade;" or "&reg;" are *trademarked* or *registered* pro
 
 **A:** <br />
 
-**The *short* answer is**: ***you probably can't***.  What I *mean* is that ***I*** learned this stuff while experiencing **The Landmark Forum**: an intense 3-day (and one evening) ongoing group-based conversation that lasted 12-15 hours per day.  It's just *not* material that lends itself to the *written-word* that well. Thus this rough Glossary and my [Landmark posts](#preface) were ***never*** intended for *learning* or *getting* **Landmark's** terminology for lay-persons. Any discipline has its terms and concepts; however, "*knowledge through direct experience*" is primarily how you *learn* and comprehend stuff like this. **Landmark's** teaching is [***Ontological***](#ontology), that is, our ***understanding of the nature of a thing*** ("[***being***](#Being)" etc) is primarily formed through our immediate ***firsthand interactions*** and experience with it, rather than relying solely on abstract concepts or external descriptions -- *like this Glossary*! In other words: ***experiencing something directly*** allows for a more profound and intuitive *grasp* of its essence. <br />
+**The *short* answer is**: ***you probably can't***.  What I *mean* is that ***I*** learned this stuff while experiencing **The Landmark Forum**: an intense 3-day (and one evening) ongoing group-based conversation that lasted 12-15 hours per day.  It's just *not* material that lends itself to the *written-word* that well. Thus my rough Glossary and [Landmark posts](#preface) were ***never*** intended for *learning* or *getting* **Landmark's** concepts and distinctions.  Every discipline has its terms and concepts; however, "*knowledge through direct experience*" is primarily how you *learn* concepts in **The Landmark Forum**.  **Landmark's** teaching is [***Ontological***](#ontology), that is, our ***understanding of the nature of a thing*** ("[***being***](#Being)" etc) gets primarily formed through our immediate ***firsthand interactions*** and experience with it, rather than relying solely on abstract concepts or external descriptions -- *like this Glossary*.  In other words: ***experiencing something directly*** allows for a more profound and intuitive *grasp* of its essence. <br />
 
-**To put succintly**: the *knowing* (*understanding*, retention, etc) of any of this material ("***getting it***", as they say) requires *attending* The **Landmark Forum** 3-day weekend (and one Tuesday night) sessions.  The phrase "[**If you know, you** ***know***...](https://www.planoly.com/glossary/iykyk)" (IYKYK) applies to this material.  I think the only alternative is perhaps to pursue a degree in **academeic Philosophy**, with emphasis on *both* Eastern and Western Philosophies.  But, for my money, a weekend at The **Landmark Forum** is a whole lot quicker (and cheaper 🙃). **The Forum** a repackaging of a lot of major Zen and Philosophical concepts, but it gets pretty deep in a short time. So I think anyone trying to use [my 3-part write-up](#preface) or this rough Glossary, *without* having attended **The Forum**, is *folly*. Hence that is why this page's intended audience are **Forum** grads or non-biased/academic researches.
+**To put succintly**: the *knowing* (*understanding*, retention, etc) of this material ("***getting it***", as they say) probably requires *attending* The **Landmark Forum** 3-day weekend (and one Tuesday night) sessions.  The phrase "[**If you know, you** ***know***...](https://www.planoly.com/glossary/iykyk)" (IYKYK) applies to much this material.  I think someon who pursues a degree in **academeic Philosophy**, with emphasis on *both* Eastern and Western Philosophies, would probably get this stuff—but for my money, a weekend at The **Landmark Forum** was a lot quicker (and cheaper 🙃). **The Forum** a repackaging of a lot of major Zen and Philosophical concepts, but it gets pretty deep in a short time. So I think anyone trying to use [my 3-part write-up](#preface) or this rough Glossary, *without* having attended **The Forum**, is *folly*. Hence that is why this page's intended audience are **Forum** grads or non-biased/academic researches.
 
 #### 2. Are you a Landmark Forum fan, enthusiast, or shill?  Otherwise what is the point of this page?
 
@@ -252,6 +252,7 @@ Yes! Below is a list I compiled over the years, of some of the primary philosoph
 [**R. Buckminster Fuller**](https://en.wikipedia.org/wiki/Buckminster_Fuller) (Werner Erhard was directly inspired by Fuller, who taught about ***integrity***, design science, and “doing more with less”) <br />
 [**Edmund Husserl**](https://en.wikipedia.org/wiki/Edmund_Husserl) and ***phenomenology*** (the rigorous study of concious *experience as it appears*) influenced 20th-century existential thought ([***Occur***](#occur)) <br />
 [**Epictetus**](https://en.wikipedia.org/wiki/Epictetus) (***Stoicism***) <br />
+[**Humberto Maturana**](https://en.wikipedia.org/wiki/Humberto_Maturana) (***Subjectivity***, ***Observation***, and ***the Construction of Reality***.)
 [**Jean-Paul Sartre**](https://en.wikipedia.org/wiki/Jean-Paul_Sartre) ([***Freedom***](#freedom) and [***Responsibility***](#responsibility)) <br />
 [**The Kyoto School of Zen Philosphers**](https://plato.stanford.edu/entries/kyoto-school/) ([***Being***](#being)) <br /> 
 [**Ludwig Wittgenstein**](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein) ([***Distinctions***](#distinction) and [***Story***](#story)) <br />
@@ -303,15 +304,17 @@ It's true there aren't a lot of books written about est and Landmark.  The semin
 [The Book of Est](https://www.amazon.com/Book-Est-Luke-Rhinehart/dp/0557306159) by Luke Rhinehart <br />
 [Werner Erhard The Transformation of a Man: The Founding of EST](https://www.amazon.com/dp/0517535025) by William Warren Bartley III <br />
 
-#### 7. Those books you listed seems very *pro-EST* and *pro-Werner*: can you also list books critical of EST, Erhard, or Landmark?
+#### 7. Those books you listed seems very *pro-EST* and *pro-Werner*: can you *also* give books and resources *critical* of EST, Erhard, or Landmark?
 
 **A:** <br />
 
-I only know of two books meeting those criteria, the first one I just started reading here in late 2024.  I have not read the other one I'll list. <br />
+I only personally know of two books that discuss problems Est/Landmark and their founder—one I just discovered in late 2024: "*Is This A Cult?*". A great read I highly-recommend.  I have not read the "*Outrageous Betrayal*"—which the Landmark community describes as a defamatory "*hit-piece*".  <br /> 
 
-[Is This A Cult?](https://isthisacultbook.com)
-[Outrageous Betrayal](https://en.wikipedia.org/wiki/Outrageous_Betrayal) <small> *labeled as "defamatory" by representatives of Erhard and Landmark Worldwide. </small>
+I definitely do *not* want to be seen excluding critical voices about Landmark; however, there are a *lot* of critical voices—and I am not interested in favoring critics *nor* fans of Landmark on this site.  If you have an addition for the entries below, please feel free contact me and send any suggestions.<br />
 
+[Is This A Cult?](https://isthisacultbook.com) <br />
+[Outrageous Betrayal](https://en.wikipedia.org/wiki/Outrageous_Betrayal) <small> *labeled as "defamatory" by representatives of Erhard and Landmark Worldwide. </small> <br />
+[Rick Ross-Cult Education Network](https://www.culteducation.com)
 
 #### 8. What is Landmark up to, today?
 
