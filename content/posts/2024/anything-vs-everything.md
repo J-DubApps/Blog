@@ -4,7 +4,7 @@ draft = false
 title = 'We Can Do Anything, But Not <i>Everything</i>'
 description = 'My Primer on Focused Productivity'
 type = 'post'
-tags = ["philosophy", "thought", "special-write-up", "project-mgmt", "best-of", "jdub-isms", "tech", "personal-development"]
+tags = ["philosophy", "thought", "special-write-up", "project-mgmt", "best-of", "jdub-isms", "tech", "personal-development", "skill-development"]
 +++
 
 In the *fast-paced* project-laden world that many of us work in, it’s tempting to believe we can accomplish it *all*—if we just steal *a little more time*, *stay late every night this week*, or just "*get better at multitasking*" (***no***). The *truth* is nuanced—and captured in a phrase I repeat regularly to my teams: “**We can do** ***anything***, **but we cannot do** ***everything***.” This isn’t a *limitation*: ***it’s a guiding principle*** **for sustainable productivity** and ***intentional decision-making***, when it comes to working our tasks.  When you (or your team) face an overwhelming workload, the key to progress lies in *ruthless prioritization*. <br />
