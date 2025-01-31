@@ -8,7 +8,7 @@ tags = ["thought", "philosophy", "personal-development", "personal"]
 +++
 #### *DISCLAIMER NOTE*: The views expressed in this post (and on this blog) are my personal views, and are not the views of Landmark—*or* their critics. Refer to this site's [Terms of Use](https://julianwest.me/Blog/site-disclosure/) for further details.
 
-It's now been ***15 years*** since I [wrote about my 1994 experience with "***The Landmark Forum***"](#landmark) on this blog.  **The Forum** is a 3-day (and one evening) educational seminar, run by one of the world's largest for-profit *personal-improvement* companies—[***Landmark WorldWide***](https://en.wikipedia.org/wiki/Landmark_Worldwide).  It remains one of my most top-read posts, in terms of feedback, and even resulted in a brief discussion with a staffer researching it on [a popular FX TV Show](https://julianwest.me/Blog/the-americans-and-landmark/). <br />
+It's now been ***15 years*** since I [wrote about my 1994 experience with "***The Landmark Forum***"](#landmark) on this blog.  **The Forum** is a 3-day (and one evening) educational seminar, run by one of the world's largest for-profit *personal-improvement* companies—[***Landmark WorldWide***](https://en.wikipedia.org/wiki/Landmark_Worldwide).  It remains one of my most top-read posts, in terms of feedback, and even resulted in a brief discussion with a staffer doing research for [a popular FX TV Show](https://julianwest.me/Blog/the-americans-and-landmark/). <br />
 
 The above means, here in 2024, that it has *now* been ***30 years*** (!!) since I attended ***The Landmark Forum***.  <br />
 
