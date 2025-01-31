@@ -18,7 +18,7 @@ I reread [those old blog posts](#landmark) recently—and while I don't approve 
 
 You know what also *still* holds-up?  Some of those *tools* and distinctions that I acquired, in that dreary conference center 30 years-ago, so much of it stuck with me. <br />
 
-I never *returned* to take additional **Landmark** courses and have only spoken with a few fellow **Forum** graduates and volunteers; *however*, all these years later my recollection is still *crystal*.  Brainwashing?  *Nah*, it's just that some of it was *actually interesting* to me! <br />  
+I never *returned* to take additional **Landmark** courses, and have only spoken with a few fellow **Forum** graduates and volunteers over the years; *however*, 30 years on my recollection is still *crystal*.  Brainwashing?  *Nah*, it's just that some of it was *really interesting* to me! 🤷🏻‍♂️ <br />  
 
 *How interesting*?  Well, I went on to study Philosophy and read some books about **The Forum's** previous form, [***EST***](https://en.wikipedia.org/wiki/Erhard_Seminars_Training), and a book or two about its founder [***Werner Erhard***](https://en.wikipedia.org/wiki/Werner_Erhard). Why my fascination?  Well, I wanted to *better understand* how Erhard repackaged so many tools and concepts (the *technology*) from the various philosophies that he did. <br />
 
