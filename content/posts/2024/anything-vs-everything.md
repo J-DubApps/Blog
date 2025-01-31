@@ -16,6 +16,10 @@ Not every task holds *equal weigh*t. Our minds (and ego) want to think otherwise
 So we start with basics: categorizing tasks based on their urgency and importance. It sounds patronising, but it's really where we start. The [**Eisenhower Matrix**](https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method) is a great tool for this—it divides tasks into *four quadrants* (**urgent/important**, **not urgent/important**, **urgent/not important**, and **not urgent/not important**).  This simple tool can be a game-changer. Focus *first* on tasks that are *both* urgent *and* important, then delegate or schedule the rest—and say “no” to distractions masquerading as priorities. <br />
 
 <img src="https://julianwest.me/Blog/posts/images/Eisenhower_matrix.jpeg" alt="Alt text" width="300" height="125">
+<div style="font-size: 9px;">
+<p style="text-align: center;"><i>Eisenhower Matrix Example</i></p>
+</div>
+
 
 Equally critical is recognizing that ***not everything is an emergency*** or urgent. A constant “*firefighting*” mindset leads to burnout and poor-quality work product. *Instead*, foster a culture of proactive planning. Identify those recurring emergencies and ask: “*How can we prevent this from becoming urgent next time*?” 
 
