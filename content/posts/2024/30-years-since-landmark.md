@@ -4,7 +4,7 @@ draft = false
 title = 'The 30th Anniversary of My Brush With Scientology Lite'
 description = 'Revisiting My 3-Part Mini-Memoir on Landmark...'
 type = 'post'
-tags = ["thought", "philosophy", "self-development", "personal"]
+tags = ["thought", "philosophy", "personal-development", "personal"]
 +++
 #### DISCLAIMER NOTE: The views expressed in this post (and on this blog) are my personal views, and are not the views of Landmark—*or* their critics. Refer to this site's [Terms of Use](https://julianwest.me/Blog/site-disclosure/) for further details.
 

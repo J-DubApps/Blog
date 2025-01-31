@@ -4,7 +4,7 @@ draft = false
 title = 'The Americans EST Episodes'
 description = 'As-requested: A list of episodes featuring est / Landmark...'
 type = 'post'
-tags = ["thought", "philosophy", "self-development", "film-tv"]
+tags = ["thought", "philosophy", "personal-development", "film-tv"]
 +++
 
 After [**my recent post**](https://julianwest.me/Blog/the-americans-and-landmark/) about the FX series “[***The Americans***](https://en.wikipedia.org/wiki/The_Americans),” where a PA and writer reached-out to discuss [**my Landmark Forum posts**](https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-1/), I have heard from people asking which episodes of “***The Americans***” features [**Erhard Seminars Training**](https://en.wikipedia.org/wiki/Erhard_Seminars_Training) (est) scenes. So I compiled a list of them, found below.  <br />

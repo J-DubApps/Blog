@@ -4,7 +4,7 @@ draft = false
 title = 'My Tiny Contribution to FX&apos;s &quot;The Americans&quot;'
 description = 'A PA for the show hits me up about my EST / Landmark Forum write-up...'
 type = 'post'
-tags = ["thought", "philosophy", "self-development", "film-tv", "personal", "special-write-up"]
+tags = ["thought", "philosophy", "personal-development", "film-tv", "personal", "special-write-up"]
 +++
 Well I just remembered (read: *mourned*) that one of my absolute favorite TV shows, [FX's](https://en.wikipedia.org/wiki/FX_(TV_channel)) "[*The Americans*](https://en.wikipedia.org/wiki/The_Americans)", wrapped earlier this year-ending its six-season run. And *that* reminded me I am no longer under a lid to talk about how I got to make a (*tiny*) humble, but *fun* contribution to the show as Season 5 aired-and as Season 6 writing was apparently underway.  <br />
 

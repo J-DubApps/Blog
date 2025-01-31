@@ -4,7 +4,7 @@ draft = false
 title = 'Beware the &quot;Post Hoc&quot; Trap'
 description = 'Avoid Faulty Cause-and-Effect Troubleshooting'
 type = 'post'
-tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "thought", "best-of", "top-10", "beginner-fundamentals", "troubleshooting", "jdub-isms", "self-development"]
+tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "thought", "best-of", "top-10", "beginner-fundamentals", "troubleshooting", "jdub-isms", "skill-development"]
 +++
 
   <style type="text/css">

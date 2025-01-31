@@ -4,7 +4,7 @@ draft = false
 title = 'The 5 Whys'
 description = 'A Technique to Improve Your Troubleshooting (and/or Project Management)'
 type = 'post'
-tags = ["tech", "devops", "best-practice", "enterprise-it", "beginner-fundamentals", "troubleshooting", "self-development", "project-mgmt"]
+tags = ["tech", "devops", "best-practice", "enterprise-it", "beginner-fundamentals", "troubleshooting", "skill-development", "project-mgmt"]
 +++
 
   <style type="text/css">

@@ -4,7 +4,7 @@ draft = false
 title = 'Landmark Forum / est Glossary'
 description = 'Basic Definitions of Landmark Forum Terms (*Not Endorsed/Approved by Landmark*)'
 type = 'post'
-tags = ["thought", "philosophy", "self-development"]
+tags = ["thought", "philosophy", "personal-development"]
 +++
 #### DISCLAIMER NOTE: The views expressed on this blog are my personal views, and are not the views of Landmark. Refer to this site's [Terms of Use](https://julianwest.me/Blog/site-disclosure/) for further details.
 

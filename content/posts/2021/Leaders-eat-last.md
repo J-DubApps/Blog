@@ -3,7 +3,7 @@ date = '2021-10-10T23:17:51-06:00'
 draft = false
 title = 'Book Review: Leaders Eat Last'
 type = 'post'
-tags = ["tech", "career", "project-mgmt", "books", "thought", "best-of", "leadership", "self-development"]
+tags = ["tech", "career", "project-mgmt", "books", "thought", "best-of", "leadership", "personal-development"]
 +++
 
 
