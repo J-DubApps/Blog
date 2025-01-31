@@ -16,7 +16,7 @@ That's *wild*. <br />
 
 I reread [those old blog posts](#landmark) recently—and while I don't approve of my passive voice style in 2009 (I *did* make a few 2024 corrections to it), I must say my old write-up *still holds-up*! <br />
 
-You know what also *still* holds-up?  Some of those *tools* and distinctions that I acquired, in that dreary conference center 30 years-ago, stuck with me.  <br />
+You know what also *still* holds-up?  Some of those *tools* and distinctions that I acquired, in that dreary conference center 30 years-ago, so much of it stuck with me. <br />
 
 I never *returned* to take additional **Landmark** courses and have only spoken with a few fellow **Forum** graduates and volunteers; *however*, all these years later my recollection is still *crystal*.  Brainwashing?  *Nah*, it's just that some of it was *actually interesting* to me! <br />  
 
