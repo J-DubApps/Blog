@@ -19,11 +19,11 @@ There's a phrase I like to use for helping teams eliminate the *fractured focus*
 
 >"Put all your wood behind one arrowhead."
 
-The idea expressed here is, to focus all your energy and effort on one specific goal.  Multitasking is *the opposite of this*, a *diffusion of effort*: wich means no single strand of activity gets fully realized.  **So no arrow *hits its target***.  "*Multitasking*" is nothing short of a diffusion of your efforts = less (or nothing) gets done. And what *does* get completed has a chance of not being "*done*" may lack quality or accuracy. <br />
+The idea expressed here is to **focus all your energy and effort on one specific goal** (or *task*).  Multitasking is *the opposite of this*, a ***diffusion of effort***: which means no single strand of activity gets fully realized.  **So no arrow *hits its target***.  "*Multitasking*" is nothing short of a diffusion of your efforts = less (or nothing) getting done. And what *does* get completed with "*multitasking*" always has a chance of *not being* "*done*" to the quality or accuracy you get with ***single-tasking***. <br />
 
-Of course the phrase "**the *un-aimed* arrow never misses**" also comes to mind here, too; however, your team (or personal goals) already *have an aim* (hopefully): something you're trying to accomplish, your main priority or north star.  "*Multitasking*" can ruin that!  So, we *must aim* (prioritize) and bring *intentional focus* (eliminate multitasking wherever practical) to our goals. <br />
+Of course the phrase "**the *un-aimed* arrow never misses**" also comes to mind, too; however, your team (or personal goals) already *have an aim* (hopefully): something you're trying to accomplish, your main priority or north star.  "*Multitasking*" can ruin your aim!  So, when *aiming* we must bring *intentional focus* (prioritizing, and *single-tasking*).  Elminating "*multitasking", wherever practical, is hard in some cultures—but I have seen *single-tasking* work. <br />
 
-Another variation I saw on this phrase, recently was:
+Another variation I recently saw on this concept, and phrasing, is:
 
 > "Experienced hunters bring only one arrow. They know how to aim (and they take plenty of time, when aiming), and they put *all the wood* behind that one arrow."
 
