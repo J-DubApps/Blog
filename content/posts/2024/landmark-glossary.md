@@ -323,7 +323,13 @@ I never kept up with **Landmark** after I attended ***The Landmark Forum*** in 1
 
 **A:** <br />
 
-I do not feel comfortable giving advice to anyone about whether or not they should attend **The Landmark Forum**, and would simply direct them to [my 3 posts about it](#preface) from a few years ago.  I *will* add, however, that if you do end up attending **The Landmark Forum**: I am of the opinion that it's probably healthier for you to stop at that one seminar—and not get into the treadmill of follow-on courses or volunteer for Landmark (usually unpaid, and high-pressure, based on what I have read and heard).  That said, I know they have been in a bit of a re-organization at Landmark—so this advice might change in the future. <br />
+I do not feel comfortable giving advice to anyone about whether or not they should attend **The Landmark Forum**, and would simply direct them to [my 3 posts about it](#preface) from a few years ago.  I *will* add, however, that if you do end up attending **The Landmark Forum**: I am of the opinion that it's probably healthier to not get into the treadmill of follow-on courses or volunteer for Landmark (usually unpaid, and high-pressure, based on what I have read and heard).  That said, I know they have been in a bit of a re-organization at Landmark—so this advice might change in the future. <br />
+
+#### 10. I am recovering from a negative experience with Landmark or other self-help organization.  Do you know of, or can you recommend, any resources that I can reach out to?
+
+**A:** <br />
+
+Yes, I wholeheartedly recommend [SEEK Safely](https://www.seeksafely.org).  I wish you the best and healing.  <br />
 
 Terms or phrases with "&trade;" or "&reg;" are *trademarked* or *registered* properties of [Landmark Worldwide](https://www.landmarkworldwide.com), are openly used in their public literature, and are only referenced here for complete Definitions.  All rights to these terms belong to Landmark Education and [Landmark Worldwide](https://www.landmarkworldwide.com), and *no authorship or ownership* to any material in this Glossary is claimed in *any* way.
 
