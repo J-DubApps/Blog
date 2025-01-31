@@ -4,7 +4,7 @@ draft = false
 title = 'The 80&#47;20 Rule'
 description = 'A Tool to Gauging Possible Causes and Effects'
 type = 'post'
-tags = ["troubleshooting", "project-mgmt", "task-mgmt"]
+tags = ["tech", "troubleshooting", "project-mgmt", "task-mgmt", "skill-development"]
 +++
 The “***80/20 rule***” refers to the idea that around 80% of results come from *just* 20% of contributing factors. It was coined by [Vilfredo Pareto](https://en.wikipedia.org/wiki/Vilfredo_Pareto) and is originally known as the ***Pareto principle***. People usually remember the numbers more than the principle’s name. <br />
 
