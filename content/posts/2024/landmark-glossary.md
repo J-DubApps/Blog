@@ -286,7 +286,7 @@ Well there's always the official [**Landmark Worldwide**](https://www.landmarkwo
 [**The Landmark Forum — a rationalist's first impression**](https://www.lesswrong.com/posts/s4JE7cNqxqwxFmFe2/the-landmark-forum-a-rationalist-s-first-impression) <br />
 [**Landmark Forum: Mysterious training course coming to your office**](https://www.news.com.au/lifestyle/real-life/news-life/landmark-forum-mysterious-training-course-coming-to-your-office/news-story/59b95a445f1049228b8ea7863ac183f3) <br />
 [**You’re O.K., but I’m Not. Let’s Share.**](https://www.nytimes.com/2010/11/28/fashion/28Landmark.html) <br />
-[](https://www.peterjthomson.com/2012/01/zen-at-work/) <br />
+[**Being zen at work**](https://www.peterjthomson.com/2012/01/zen-at-work/) <br />
 [**Get Confident, Stupid!**](https://www.gq.com/story/landmark-forum-get-confident-stupid-gq-may-2005) <br />
 [**I thought I'd be brainwashed. But how wrong could I be...**](https://www.theguardian.com/uk/2003/dec/14/ameliahill.theobserver) <br />
 [**The Return of Werner Erhard**](https://www.nytimes.com/2015/11/29/fashion/the-return-of-werner-erhard-father-of-self-help.html) <br />
@@ -304,13 +304,13 @@ It's true there aren't a lot of books written about est and Landmark.  The semin
 [The Book of Est](https://www.amazon.com/Book-Est-Luke-Rhinehart/dp/0557306159) by Luke Rhinehart <br />
 [Werner Erhard The Transformation of a Man: The Founding of EST](https://www.amazon.com/dp/0517535025) by William Warren Bartley III <br />
 
-#### 7. Those books you listed seems very *pro-EST* and *pro-Werner*: can you *also* give books and resources *critical* of EST, Erhard, or Landmark?
+#### 7. Those books you listed are *pro-EST* and *pro-Werner*: can you *also* give books and resources *critical* of EST, Erhard, or Landmark?
 
 **A:** <br />
 
-I only personally know of two books that discuss problems Est/Landmark and their founder—one I just discovered in late 2024: "*Is This A Cult?*". A great read I highly-recommend.  I have not read the "*Outrageous Betrayal*"—which the Landmark community describes as a defamatory "*hit-piece*".  <br /> 
+I only personally know of two books that discuss problems Est/Landmark and their founder—one I just discovered in late 2024: "*Is This A Cult?*". A great read I highly-recommend.  I have not read "*Outrageous Betrayal*"—which the Landmark community describes as a defamatory "*hit-piece*" on Werner Erhard.  <br /> 
 
-I definitely do *not* want to be seen excluding critical voices about Landmark; however, there are a *lot* of critical voices—and I am not interested in favoring critics *nor* fans of Landmark on this site.  If you have an addition for the entries below, please feel free contact me and send any suggestions.<br />
+I definitely do *not* want to be seen excluding critical voices about Landmark; however, there are a *lot* of critical voices—and so I am *not* interested in favoring critics *nor* fans on this site.  If you have an additional items to suggest, please feel free contact me and send any suggestions.<br />
 
 [Is This A Cult?](https://isthisacultbook.com) <br />
 [Outrageous Betrayal](https://en.wikipedia.org/wiki/Outrageous_Betrayal) <small> *labeled as "defamatory" by representatives of Erhard and Landmark Worldwide. </small> <br />
@@ -320,13 +320,13 @@ I definitely do *not* want to be seen excluding critical voices about Landmark; 
 
 **A:** <br />
 
-I never kept up with **Landmark** after I attended ***The Landmark Forum*** in 1994, though I have friends who had volunteered for them.  The last thing I personally heard was they entered [Bankruptcy protection—and were preparing to emerge from that](https://finance.yahoo.com/news/landmark-worldwide-nears-completion-difficult-020000623.html) with new leadership in 2024.  *Beyond that*, I would direct you to the [Landmark Worldwide web site](https://www.landmarkworldwide.com) for more on what they're up to—post-reboot. <br />
+I never kept up with **Landmark** after I attended ***The Landmark Forum*** in 1994, though I have friends who volunteered for them.  The last thing I personally heard was they entered [Bankruptcy protection—and were preparing to emerge from that](https://finance.yahoo.com/news/landmark-worldwide-nears-completion-difficult-020000623.html) with new leadership in 2024.  *Beyond that*, I would direct you to [Landmark Worldwide](https://www.landmarkworldwide.com) for info on what they're up to now. <br />
 
-#### 9. I am contemplating attending The Landmark Forum here in 2024.  What advice would you give me?
+#### 9. I am contemplating attending The Landmark Forum.  What advice would you give me?
 
 **A:** <br />
 
-I do not feel comfortable giving advice to anyone about whether or not they should attend **The Landmark Forum**, and would simply direct them to [my 3 posts about it](#preface) from a few years ago.  I *will* add, however, that if you do end up attending **The Landmark Forum**: I am of the opinion that it's probably healthier to not get into the treadmill of follow-on courses or volunteer for Landmark (usually unpaid, and high-pressure, based on what I have read and heard).  That said, I know they have been in a bit of a re-organization at Landmark—so this advice might change in the future. <br />
+I do not feel comfortable *giving advice* to anyone on any "*shoulds*" or "*should nots*" on a decision to attend **The Landmark Forum**.  I would recommend [my 3 posts about it](#preface) from a few years ago, for that—but I *will* say one thing here: that if you *do* end up attending **The Landmark Forum**, I am of the opinion that it's probably healthier to not get into the treadmill of follow-on courses, or be caught up in a "*making a difference*" volunteer-pipeline, which Landmark has been known for (I can't comment on Landmark, post-reorganization—they may no longer do this, I don't know).  <br />
 
 #### 10. I am recovering from a negative experience with Landmark or other self-help organization.  Do you know of, or can you recommend, any resources that I can reach out to?
 
