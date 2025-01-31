@@ -15,7 +15,7 @@ Studies show that [multitasking can reduce productivity](https://www.verywellmin
 
 ### Put All Your Wood Behind A Single Arrow
 
-There's a phrase I like to use for helping teams eliminate the *fractured focus*, and lost productivity, from multitasking: "***Wood behind the Arrow***".  It comes from wording [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) and Sun Microsystems CEO [Scott McNealy](https://en.wikipedia.org/wiki/Scott_McNealy) used a lot in the 90s:
+There's a phrase I like to use for helping teams eliminate the *fractured focus*, and lost productivity, from multitasking—and it comes from wording [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) and [Scott McNealy](https://en.wikipedia.org/wiki/Scott_McNealy) used a lot in the 90s:
 
 >"Put all your wood behind one arrowhead."
 
