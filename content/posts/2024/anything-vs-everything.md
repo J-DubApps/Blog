@@ -4,7 +4,7 @@ draft = false
 title = 'We Can Do **Anything**, But Not ***Everything***'
 description = 'My Short Guide to Focused Productivity'
 type = 'post'
-tags = ["philosophy", "thought", "special-write-up", "project-mgmt", "best-of", "jdub-isms", "tech"]
+tags = ["philosophy", "thought", "special-write-up", "project-mgmt", "best-of", "jdub-isms", "tech", "personal-development"]
 +++
 
 In today’s fast-paced tech world, it’s tempting to believe we can accomplish it all. The truth, however, is captured beautifully in a phrase I repeat regularly to my team: “**We can do** ***anything***, **but not** ***everything***.” This isn’t a limitation; it’s a guiding principle for sustainable productivity and *intentional decision-making*. When you or your team face an overwhelming workload, the key to progress lies in effective prioritization. <br />
@@ -31,8 +31,8 @@ The art of “*choosing your battles*” applies just as much in the workplace a
 
 A practical way to frame this is to ask, “Does this task align with our core goals?” If the answer is “no,” consider whether it’s worth your energy. Sometimes, letting go of lower-value tasks frees up space for meaningful, high-impact work.
 
-### tl;dr The Takeaway: The Power of Focus
+### tl;dr The Takeaway: The Power of *Focus*
 
-Understanding that you can’t do everything doesn’t mean you’re failing—it means you’re human. By focusing on what truly matters, aligning your team’s efforts, and choosing your battles wisely, you harness the power of *intentionality*. When faced with overwhelming amounts of work and choices, remember: You can do *anything*, but your greatest strength lies in limiting yourself to doing the *right things well*.
+Understanding that you can’t do *everything* doesn’t mean you’re *failing*—***it means you’re human***. By focusing on what *truly matters*, aligning your team’s efforts, and *choosing your battles* wisely, **you harness the power of** ***intentionality***. When faced with overwhelming amounts of work and choices, remember: You can do *anything*, but your greatest strength lies in limiting yourself to doing the *right things well*.
 
 Adopting this mindset is difficult, it challenges our ego (to stop work on one thing, that may be more *fun* for the team, and pivot to another thing) and takes practice to be able to do this. But thinking this way doesn’t just improve productivity—it also leads to better results, less stress, and a greater sense of accomplishment. So, take a deep breath, reassess, and *aim* (the part we don't do naturally, when we want to *do it all*).  Put all your wood behind *one* single arrow *at-a-time*, don't multitask endlessly, and watch as you achieve win after win.
