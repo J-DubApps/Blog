@@ -329,7 +329,7 @@ I do not feel comfortable giving advice to anyone about whether or not they shou
 
 **A:** <br />
 
-Yes, I wholeheartedly recommend [SEEK Safely](https://www.seeksafely.org).  I wish you the best and healing.  <br />
+Yes, I wholeheartedly recommend [SEEK Safely](https://www.seeksafely.org).  I wish you the best, and healing from whatever you are managing after your experience.  <br />
 
 Terms or phrases with "&trade;" or "&reg;" are *trademarked* or *registered* properties of [Landmark Worldwide](https://www.landmarkworldwide.com), are openly used in their public literature, and are only referenced here for complete Definitions.  All rights to these terms belong to Landmark Education and [Landmark Worldwide](https://www.landmarkworldwide.com), and *no authorship or ownership* to any material in this Glossary is claimed in *any* way.
 
