@@ -1,5 +1,5 @@
 +++
-date = '2025-01-31T17:17:51-06:00'
+date = '2025-01-31T12:14:51-06:00'
 draft = false
 title = 'DeepSeek Lit a Fire in OpenAI'
 description = "The Chinese Shockwave in AI Continues..."
