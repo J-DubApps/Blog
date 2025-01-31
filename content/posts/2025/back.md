@@ -3,7 +3,7 @@ date = '2025-01-06T01:17:51-06:00'
 draft = false
 title = 'Back-To-Work Reminders for 2025'
 type = 'post'
-tags = ["thought", "career", "leadership", "remote-work", "jdub-isms", "personal-development"]
+tags = ["thought", "opinion", "career", "leadership", "remote-work", "jdub-isms", "personal-development"]
 +++
 
 
