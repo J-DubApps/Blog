@@ -1,7 +1,7 @@
 +++
 date = '2024-09-15T23:02:36-06:00'
 draft = false
-title = 'The 30th Anniversary of My Brush With Scientology Lite'
+title = 'The 30th Anniversary of My Brush With &#34;Scientology Lite&#34;'
 description = 'Revisiting My 3-Part Mini-Memoir on Landmark...'
 type = 'post'
 tags = ["thought", "philosophy", "personal-development", "personal"]
@@ -22,7 +22,7 @@ I never *returned* to take additional **Landmark** courses and have only spoken 
 
 *How interesting*?  Well, I went on to study Philosophy and read some books about **The Forum's** previous form, [***EST***](https://en.wikipedia.org/wiki/Erhard_Seminars_Training), and a book or two about its founder [***Werner Erhard***](https://en.wikipedia.org/wiki/Werner_Erhard). Why my fascination?  Well, I wanted to *better understand* how Erhard repackaged so many tools and concepts (the *technology*) from the various philosophies that he did. <br />
 
-So I am not going to shill or condemn **Landmark**, *nor* will I tell you it's a *cult*; however, to this day I jokingly call **Landmark** "*Scientology Lite*". Not to be derogatory, just a funny term I picked-up in an online "*forum*". 😂 Ironically I have actually spoken with ex-Scientologist friends who told me that ***EST*** (and thus, **Landmark**) borrow "*technology*" from it. And if it *does*, it doesn't much *matter* since I believe [***L. Ron Hubbard***](https://en.wikipedia.org/wiki/L._Ron_Hubbard) *also borrowed* much of *his own* material from well-known Philosophers and Psychiatrists, anyway. 🤷🏻 <br />
+So I am not going to shill or condemn **Landmark**, *nor* will I ever tell you it's a *cult*; however, to this day I jokingly do call **Landmark** "*Scientology Lite*". Not to be derogatory, just a funny term I picked-up in an online "*forum*". 😂 Ironically I have actually spoken with ex-Scientologist friends who told me that ***EST*** (and thus, **Landmark**) borrow "*technology*" from it. And if it *does*, it doesn't much *matter* since I believe [***L. Ron Hubbard***](https://en.wikipedia.org/wiki/L._Ron_Hubbard) *also borrowed* much of *his own* material from well-known Philosophers and Psychiatrists, anyway. 🤷🏻 <br />
 
 I've gone through 30 years of changes since I graduated The **Landmark Forum**, and since the Pandemic [***Landmark WorldWide***](https://en.wikipedia.org/wiki/Landmark_Worldwide) went through some changes, too—a reboot with new leadership.  I guess even personal-devlopment giants go through periods of *growth* like the rest of us.  <br />
 
