@@ -30,7 +30,7 @@ So *how well* do I remember these tools, concepts, and distinctions that **Landm
 
 I reviewed my old journal notes—and I created [**this rough Glossary of Landmark Terms**](https://julianwest.me/Blog/landmark-glossary/) to go along with [my original mini-memoir](https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-1/). I think it is pretty accuarate. If you are a Forum Grad, feel free to write and tell me what you think. <br />
 
-**Items this 30th Anniversary Landmark post references, *below***:  <br /> <br />
+**Items this 30th Anniversary Landmark post references, *below***:  <br />
 
 [A Funny Thing Happened After the Forum -- Pt 1](https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-1/) <br />
 [A Funny Thing Happened After the Forum -- Pt 2](https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-2/) <br />
