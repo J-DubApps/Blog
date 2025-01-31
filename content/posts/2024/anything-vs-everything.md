@@ -21,7 +21,7 @@ So we start with basics: categorizing tasks based on their urgency and importanc
 </div>
 
 
-Equally critical is recognizing that ***not everything is an emergency*** or urgent. A constant “*firefighting*” mindset leads to burnout and poor-quality work product. *Instead*, foster a culture of proactive planning. Identify those recurring emergencies and ask: “*How can we prevent this from becoming urgent next time*?” 
+Equally critical is recognizing that ***not everything is an emergency*** or urgent. A constant “*firefighting*” mindset leads to burnout, and poor-quality in work product. *Instead*, foster a culture of proactive planning. Identify those recurring emergencies and ask: “*How can we prevent this from becoming urgent next time*?” 
 
 ### The *Lie* of Multitasking
 
