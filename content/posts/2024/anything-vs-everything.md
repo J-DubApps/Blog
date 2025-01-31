@@ -31,7 +31,7 @@ Studies show that [multitasking can reduce productivity](https://www.verywellmin
 
 ### Teamwork and Alignment: Doing the *Right Things* Together
 
-In a *team setting*, it’s vital to align around shared goals and clarify roles. When everyone understands the mission *and* their contribution to it prioritization becomes a *collective effort*—instead of an individual burden. Tools like [Kanban boards](https://en.wikipedia.org/wiki/Kanban) and [team stand-ups](https://en.wikipedia.org/wiki/Stand-up_meeting) can really help *visualize work*: help you ***see workloads*** and *align focus*. Be transparent about trade-offs; saying “*yes*” to one priority often means saying “*no*” to another. **Let the team understand why certain tasks are being deprioritized—this transparency builds trust and reduces friction**.
+In a *team setting*, it’s vital to align around shared goals and clarify roles. When everyone understands the mission, *and* their contribution to it, prioritization becomes a *collective effort*—instead of an individual burden. Tools like [Kanban boards](https://en.wikipedia.org/wiki/Kanban) and [team stand-ups](https://en.wikipedia.org/wiki/Stand-up_meeting) can really help *visualize the work*: help the team to ***see workloads*** together, and *align focus*. Be transparent about trade-offs—saying “*yes*” to one priority often means saying “*no*” to another. **Let the team understand why certain tasks are being deprioritized—this transparency builds trust *and* reduces friction**.
 
 ### Picking Your Battles: Strategic Focus
 
