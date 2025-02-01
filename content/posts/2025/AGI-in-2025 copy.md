@@ -1,8 +1,8 @@
 +++
 date = '2025-02-01T14:17:51-06:00'
 draft = false
-title = 'Sam Altman suddenly remembers what the name &#39;OpenAI&#39; stood for'
-description: = "Sam Altman&#58; OpenAI has been on the &#39;wrong side of history&#39; concerning open source."
+title = 'Sam Altman suddenly remembers what the name OpenAI stood for'
+description: = 'Sam Altman&#58; OpenAI has been on the &#39;wrong side of history&#39; concerning open source'
 type = 'post'
 tags = ["news-link", "ai", "tech"]
 +++
