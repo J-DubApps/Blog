@@ -6,7 +6,7 @@ description = 'Revisiting My 3-Part Mini-Memoir on Landmark...'
 type = 'post'
 tags = ["thought", "philosophy", "personal-development", "personal"]
 +++
-#### *DISCLAIMER NOTE*: The views expressed in this post (and on this blog) are my personal views, and are not the views of Landmark—*or* their critics. Refer to this site's [Terms of Use](https://julianwest.me/Blog/site-disclosure/) for further details.
+#### DISCLAIMER: The views expressed on this blog are my personal views, and are not the views of Landmark. Brand and product names are trademarks or registered trademarks of their respective owners.  Refer to this site's [Terms of Use](https://julianwest.me/Blog/site-disclosure/) for further details.
 
 It's now been ***15 years*** since I [wrote about my 1994 experience with "***The Landmark Forum***"](#landmark) on this blog.  **The Forum** is a 3-day (and one evening) educational seminar, run by one of the world's largest for-profit *personal-improvement* companies—[***Landmark WorldWide***](https://en.wikipedia.org/wiki/Landmark_Worldwide).  It remains one of my most top-read posts in terms of feedback, and even resulted in a brief discussion with a staffer doing research for [a popular FX TV Show](https://julianwest.me/Blog/the-americans-and-landmark/). <br />
 
@@ -40,4 +40,4 @@ I reviewed my old journal notes—and created [**this rough Glossary of Landmark
 [***The Americans EST Episodes***](https://julianwest.me/Blog/the-americans-est-episodes/) <br />
 [**Landmark Forum / est Glossary**](https://julianwest.me/Blog/landmark-glossary/) <br />
 
-#### *DISCLAIMER NOTE*: The views expressed in this post (and on this blog) are my personal views, and are not the views of Landmark—*or* their critics. Refer to this site's [Terms of Use](https://julianwest.me/Blog/site-disclosure/) for further details.
+#### DISCLAIMER: The views expressed on this blog are my personal views, and are not the views of Landmark. Brand and product names are trademarks or registered trademarks of their respective owners.  Refer to this site's [Terms of Use](https://julianwest.me/Blog/site-disclosure/) for further details.
