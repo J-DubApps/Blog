@@ -30,7 +30,7 @@ Peterson goes on to provide great practical guidance in the final chapters on ho
 
 ## Key Themes and Concepts
 
-- **Red Flags and Warning Signs**: the book underscores several behaviors that indicate a group may be less about “*transformation*” and more about “*exploitation*." These include extreme secrecy, financial manipulation, isolating volunteers, and adopting an “*us vs. them*” mentality. Peterson offers checklists and real-world anecdotes to illustrate how group leaders may gradually exert control.
+- **Red Flags and Warning Signs**: the book underscores several behaviors that indicate a group may be less about “*transformation*” and more about “*exploitation*." These include extreme secrecy, financial manipulation, isolating volunteers, and adopting an “*us vs. them*” mentality. Peterson offers insights and real-world anecdotes to illustrate how group leaders may gradually exert control.
 
 - **The Psychological Pull of “Belonging”**: One of the more enlightening sections explores the human need for belonging, which can make people vulnerable to charismatic leadership and groupthink. Peterson emphasizes that intelligent, well-adjusted individuals can still find themselves caught in an unhealthy cult-like dynamic because of universal social and psychological desires. <br />
 
