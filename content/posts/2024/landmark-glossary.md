@@ -8,7 +8,7 @@ tags = ["thought", "philosophy", "personal-development"]
 +++
 <a id="disclaimer"></a>
 
-#### DISCLAIMER: The views expressed on this blog are my personal views, and are not the views of Landmark. Brand and product names are trademarks or registered trademarks of their respective owners.  Refer to this site's [Terms of Use](https://julianwest.me/Blog/site-disclosure/) for further details.
+#### DISCLAIMER: The views expressed on this blog are my personal views, and are not the views of Landmark. Brand and product names are trademarks, or registered trademarks, of their respective owners.  Refer to this site's [Terms of Use](https://julianwest.me/Blog/site-disclosure/) for further details.
 
 # Landmark Education Glossary
 
@@ -361,4 +361,4 @@ Terms or phrases with "&trade;" or "&reg;" are *trademarked* or *registered* pro
 
 #### IMPORTANT NOTE: The terms and definitions on this page are my own work product (using afforementioned resources) and are ***not*** reviewed or approved by [Landmark Worldwide](https://www.landmarkworldwide.com).
 
-#### DISCLAIMER: The views expressed on this blog are my personal views, and are not the views of Landmark. Brand and product names are trademarks or registered trademarks of their respective owners.  Refer to this site's [Terms of Use](https://julianwest.me/Blog/site-disclosure/) for further details.
+#### DISCLAIMER: The views expressed on this blog are my personal views, and are not the views of Landmark. Brand and product names are trademarks, or registered trademarks, of their respective owners.  Refer to this site's [Terms of Use](https://julianwest.me/Blog/site-disclosure/) for further details.

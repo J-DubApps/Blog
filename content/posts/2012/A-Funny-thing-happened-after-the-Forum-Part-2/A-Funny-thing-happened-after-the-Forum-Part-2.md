@@ -5,7 +5,7 @@ title = 'A Funny Thing Happened After the Forum -- Pt 2'
 type = 'post'
 tags = ["thought", "philosophy", "special-write-up", "best-of", "personal-development"]
 +++
-#### DISCLAIMER: The views expressed on this blog are my personal views, and are not the views of Landmark. Brand and product names are trademarks or registered trademarks of their respective owners.  Refer to this site's [Terms of Use](https://julianwest.me/Blog/site-disclosure/) for further details.
+#### DISCLAIMER: The views expressed on this blog are my personal views, and are not the views of Landmark. Brand and product names are trademarks, or registered trademarks, of their respective owners.  Refer to this site's [Terms of Use](https://julianwest.me/Blog/site-disclosure/) for further details.
 
 <div>
   <img src="https://julianwest.me/Blog/posts/2012/A-Funny-thing-happened-after-the-Forum-Part-2/seminar.jpeg" alt="Alt text">
@@ -94,4 +94,4 @@ This leads us me to my third and final post on the Forum coming tomorrow, about 
 
 ***Footnotes***: My custom *Definitions Page* for terms in these articles can be found [***here***](https://julianwest.me/Blog/landmark-glossary/)
 
-#### DISCLAIMER: The views expressed on this blog are my personal views, and are not the views of Landmark. Brand and product names are trademarks or registered trademarks of their respective owners.  Refer to this site's [Terms of Use](https://julianwest.me/Blog/site-disclosure/) for further details.
+#### DISCLAIMER: The views expressed on this blog are my personal views, and are not the views of Landmark. Brand and product names are trademarks, or registered trademarks, of their respective owners.  Refer to this site's [Terms of Use](https://julianwest.me/Blog/site-disclosure/) for further details.
