@@ -26,7 +26,7 @@ Peterson walks us through leaving **Landmark**, to help launch and facilitate th
 
 Considered by many to be a father of the [Human Potential Movement](https://en.wikipedia.org/wiki/Human_Potential_Movement), it would seem Erhard was mostly concerned with reforming and securing his legacy in that period (he is almost 90 years old now).  She would witness events and moments that validate published accounts of Erhard's problemmatic behaviors, including accounts of what some of his ex-staffers went through. Other than out-of-print books I read about Est and Erhard in the 1990s, I always felt there was a gap regarding his sudden *reemergence* after his 1991 departure from public life. Petersen's wonderful book provides a riveting glimpse into that period, and she shows us one way in which organizations and their charismatic founders never really separate. <br />
 
-Peterson goes on to provide great practical guidance in the final chapters on how to trust our intuition and protect ourselves, offering tools for *critical thinking* and self-reflection aimed at helping readers identify manipulative or unethical group practices—before harm occurs. <br />
+Peterson goes on to provide great practical guidance in the final chapters on how to trust our intuition and protect ourselves, offering tools for *critical thinking* and self-reflection aimed at helping readers identify manipulative or unethical group practices—hopefully before harm occurs. <br />
 
 ## Key Themes and Concepts
 
