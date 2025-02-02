@@ -34,7 +34,7 @@ The terms, phrases, and definitions below are a *modified fork* of this site: [L
 
 ***Personal Side Note***: I am of course familiar with the published criticisms of **Landmark**, how it is an [**LGATs**](https://en.wikipedia.org/wiki/Large-group_awareness_training), how their training leverages [NLP](https://en.wikipedia.org/wiki/Neuro-linguistic_programming), etc.  I discuss **Landmark** criticisms in my [**3-part blog series**](#preface) (a *mini-memoir* of sorts). This page is ***not*** about validating critics *or* fans of **Landmark**: it's purpose is for Graduates or researchers needing to revisit their terminology in an unbiased setting. See the [***Disclaimer***](#disclaimer).<br />
 
-The terms, phrases, and definitions below are a *modified fork* of the original [Landmartian Glossary - Wiki University](https://en.wikiversity.org/w/index.php?title=Landmark_Education%2FAbd%2FGlossary&oldid=1963288), a Landmark Graduate-created page no longer maintained. That material and this page are ***not*** endorsed by [Landmark Worldwide](https://www.landmarkworldwide.com), and *no authorship or ownership* to any material in this Glossary is claimed in *any* way.  See the [***Disclaimer***](#disclaimer).
+The terms, phrases, and definitions below are a *modified fork* of the original [Landmartian Glossary - Wiki University](https://en.wikiversity.org/w/index.php?title=Landmark_Education%2FAbd%2FGlossary&oldid=1963288), a Landmark Graduate-created page no longer maintained. That material and this page are ***not*** endorsed by [Landmark Worldwide](https://www.landmarkworldwide.com), and *no authorship or ownership*—to any material in this unofficial Glossary—is claimed in *any* way!  See the [***Disclaimer***](#disclaimer).
 
 <a id="terms"></a>
 
@@ -357,7 +357,7 @@ Yes, **I wholeheartedly *recommend*** [SEEK Safely](https://www.seeksafely.org),
 
 I fully respect **Landmark** trademarks, and intend *no infringements*; however I am also prepared to assert no injury could possibly occur from publishing an informal list of English language specialized terms.  See my [**Disclaimer**](#disclaimer) for anything further. <br />
 
-Terms or phrases with "&trade;" or "&reg;" are *trademarked* or *registered* properties of [Landmark Worldwide](https://www.landmarkworldwide.com), are openly used in their public literature, and are only referenced here for complete Definitions.  All rights to these terms belong to Landmark Education and [Landmark Worldwide](https://www.landmarkworldwide.com), and *no authorship or ownership* to any material in this unofficial / informal Glossary is claimed in *any* way!
+Terms or phrases with "&trade;" or "&reg;" are *trademarked* or *registered* properties of [Landmark Worldwide](https://www.landmarkworldwide.com), are openly used in their public literature, and are only referenced here for complete Definitions.  All rights to these terms belong to Landmark Education and [Landmark Worldwide](https://www.landmarkworldwide.com), and *no authorship or ownership*—to any material in this unofficial Glossary—is claimed in *any* way! 
 
 #### IMPORTANT NOTE: The terms and definitions on this page are my own work product (using afforementioned resources) and are ***not*** reviewed or approved by [Landmark Worldwide](https://www.landmarkworldwide.com).
 
