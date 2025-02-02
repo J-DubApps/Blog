@@ -34,7 +34,7 @@ Peterson goes on to provide great practical guidance in the final chapters on ho
 
 - **The Psychological Pull of “Belonging”**: One of the more enlightening sections explores the human need for belonging, which can make people vulnerable to charismatic leadership and groupthink. Peterson emphasizes that intelligent, well-adjusted individuals can still find themselves caught in an unhealthy cult-like dynamic because of universal social and psychological desires. <br />
 
-- **Defining the Boundaries**: Peterson’s approach dissects various criteria involved in some LGAT dynamics—and how exploitation techniques can appear even after a person has reaped positive benefits from the group. In the blurry boundaries between healthy collective transformation and cultic exploitation, such a framework is critically-important. <br />
+- **Defining the Boundaries**: Peterson’s approach dissects various criteria involved in some LGAT dynamics—and how exploitation techniques can appear even after a person has reaped positive benefits from the group. In the blurry boundaries between healthy collective transformation and cultic exploitation, such an understanding is critically-important. <br />
 
 - **Ethical vs. Coercive Methods**: **Peterson** takes care to highlight that *not all* high-intensity or transformational groups are *cults*. She contrasts healthy organizations (which value transparency, autonomy, and [consent](https://en.wikipedia.org/wiki/Informed_consent)) with coercive ones that blur these ethical lines. The result is a helpful set of benchmarks and tools for anyone evaluating a new group or movement they encounter. <br />
 
