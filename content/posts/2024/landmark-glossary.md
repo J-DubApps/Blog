@@ -1,8 +1,8 @@
 +++
 date = '2024-09-16T23:02:36-06:00'
 draft = false
-title = 'Landmark Forum / est Glossary'
-description = 'Basic Definitions of Landmark Forum Terms (*Not Endorsed/Approved by Landmark*)'
+title = 'Landmark Forum / est Unofficial Glossary'
+description = 'Basic & Informal Definitions of Landmark Forum Terms (*Not Endorsed/Approved by Landmark*)'
 type = 'post'
 tags = ["thought", "philosophy", "personal-development"]
 +++
@@ -15,8 +15,8 @@ tags = ["thought", "philosophy", "personal-development"]
 ## Table of Contents
 - [Preface](#preface)
 - [Special Notes](#special-notes)
-- [Terminology](#terminology)
-- [Definitions](#definitions)
+- [INTRO-Terminology](#terms)
+- [](#definitions)
 - [FAQ](#faq)
 
 
@@ -36,21 +36,25 @@ The terms, phrases, and definitions below are a *modified fork* of this site: [L
 
 The terms, phrases, and definitions below are a *modified fork* of the original [Landmartian Glossary - Wiki University](https://en.wikiversity.org/w/index.php?title=Landmark_Education%2FAbd%2FGlossary&oldid=1963288), a Landmark Graduate-created page no longer maintained. That material and this page are ***not*** endorsed by [Landmark Worldwide](https://www.landmarkworldwide.com), and *no authorship or ownership* to any material in this Glossary is claimed in *any* way.  See the [***Disclaimer***](#disclaimer).
 
-## Terminology
+<a id="terms"></a>
 
-Every discipline has its own *language* that borrows general terms and provides their own *specific*, *distinct meanings*. We usually call it "***jargon***". **For example**, in **physics** the words "*force*", "*work*", and "*power*" are all given *specific meanings* for mathematical modeling to work consistently. So while "***work***" means ***force through a distance*** in physics, the common term of "***work***" means ***applying effort***, for any layman. **To a physicist**, however, pressing as hard as you can against a wall and *not moving it* = **no work**; but to everyone else listening to the physicist it was *possibly* ***a lot*** *of useless work*! **So every discipline has its own language, and** ***so it is*** **with** **Landmark and why this Definitions page exists**.  **The Landmark Forum's** 3-day course borrows words from *common language*, and gives specific meanings in order to communicate new ideas. Every [**NLP system**](https://en.wikipedia.org/wiki/Neuro-linguistic_programming) and [**LGATs**](https://en.wikipedia.org/wiki/Large-group_awareness_training) has this trait, and this page sets out to help give definition and context to **Landmark Forum** terms.<br />
+## INTRODUCTION - Terminology
 
-Sometimes there is confusion with commonly-defined *Terms* as-used by **Landmark Worldwide**. For example, the term "***enrollment***" is officially defined as "*enrolling* others in a *possibility*", so that they are "moved, touched, or inspired" by any *breakthroughs* that you share with them. It has *no* relationship to people signing up for the 3-Day course; however, people often confuse the term that very activity. <br />
+Every discipline has its *own language* that borrows general terms and provides their own *specific*, *distinct conceptss* or meanings. We usually call such terms "***jargon***" or a "***term of art***". **For example**, in **physics** the words "*force*", "*work*", and "*power*" are all given ***specific meanings*** for mathematical modeling to work consistently. So while "***work***" means ***force through a distance*** in physics, the common term of "***work***" means ***applying effort*** for the layman. **To a physicist**, however, pressing as *hard as you can* against a wall and *not moving it* = ***no work***; but to a layman listening to the physicist: it was *possibly* **a lot** ***of useless "work"***! **So every discipline has its own language or *terms of art***:  **and** ***so it is*** **with** **Landmark and why this page exists**.  **The Landmark Forum's** 3-day (and one evening) course borrows words from *common language*, and gives specific concepts to those words in order to communicate new ideas. Every [**NLP system**](https://en.wikipedia.org/wiki/Neuro-linguistic_programming) and [**LGAT**](https://en.wikipedia.org/wiki/Large-group_awareness_training) has "*terms of art*", and this page sets out to help give some understanding and context to **Landmark Forum** terms.<br />
 
-So terminology should be taken as a plastic, moldable, thing -- because **The Forum** is all about *language* as something that can be used *generatively*.  For some people (maybe English majors?) that might be a bridge-too-far, and I get it!  <br />  
+Sometimes there is confusion with commonly-defined *Terms* as-used by **Landmark Worldwide**. **For example**: the term "***enrollment***" is officially defined as "*enrolling* others in a *possibility*", so that they are "moved, touched, or inspired" by any *breakthroughs* that you share with them. It has *no* relationship to people *registering* (signing-up) new attendees for **The Landmark Forum**; however, people often *confuse* the term "***enrolling***" with that very activity! <br />
 
-Feel free to write-in other terms or definitions to me, if you see something here that needs adjusment, amending, or adding.  **If you are a representative of Landmark Forum you are welcome to contact me anytime; *however*, please *do* re-read the** [**Disclaimer**](#disclaimer), **the final** [**FAQ**](#faq) **entry here**, ***and*** **this site's** [**Terms of Use**](https://julianwest.me/Blog/site-disclosure/) **prior to any contact**. <br />
+**So terminology in this informal (and unoffical) Glossary should be taken as a *plastic***, ***moldable***, **thing** -- because **The Forum** is all about *language* as something that can be used *generatively*.  For some people (maybe English majors?) that might be a bridge-too-far, and I get it!  <br />  
 
-**Terms and Definitions here are Landmark *Grad-written* and *not* endorsed or *approved* by Landmark Worldwide**. *At all* ([**Disclaimer**](#disclaimer)).  This resource is intended to briefly cover the [***Ontology***](#ontology) employed by Forum Leaders during the 3-day (and one evening) **Forum** seminar (and by **Landmark Forum** graduates in the community).  This page does *not* propose (or state) that any definitions are the "*correct*" *meanings* of **Landmark** terminology. ***At all***. Terms or phrases with "&trade;" or "&reg;" are *trademarked* or *registered* properties of [Landmark Worldwide](https://www.landmarkworldwide.com), are openly used from previously public literature, and are only referenced here from my own recollection.  All rights to these terms belong to Landmark Education and [Landmark Worldwide](https://www.landmarkworldwide.com), and no authorship or ownership is claimed in *any* way. See the [***Disclaimer***](#disclaimer) for more. <br />
+Feel free to write-in other terms or definitions (or corrections) anytime if you see something here that needs adjusment, amending, or adding!  **If you are a representative of Landmark WorldWorldwide you are absolutely welcome to contact me anytime; *however*, please *have read* my** [**Disclaimer**](#disclaimer), **the final** [**FAQ**](#faq) **entry on this page**, ***and*** **this site's** [**Terms of Use**](https://julianwest.me/Blog/site-disclosure/) **prior to any contact**! 😉 <br />
+
+**Terms and Definitions here are Landmark *Grad-written* and *not* endorsed or *approved* by Landmark Worldwide**. *At all* ([**Disclaimer**](#disclaimer)).  This resource is intended to briefly cover the [***Ontology***](#ontology) employed by Forum Leaders during the 3-day (and one evening) **Landmark Forum** seminar (and by **Landmark Forum** graduates in the community). This page does *not* propose (or state) that any definition is the "*correct*" *meaning* of *any* **Landmark** terminology. ***At all***. Terms or phrases with "&trade;" or "&reg;" are *trademarked* or *registered* properties of [Landmark Worldwide](https://www.landmarkworldwide.com), and are referenced from previously public literature, and only referenced from my own recollection. All rights to these terms belong to Landmark Education and [Landmark Worldwide](https://www.landmarkworldwide.com), and no authorship or ownership is claimed in *any* way. See the [***Disclaimer***](#disclaimer) for more information. <br />
 
 #### IMPORTANT NOTE: These definitions are *my own* personal work product and have ***not*** been reviewed or approved by Landmark Worldwide.
 
-## Definitions
+<a id="definitions"></a>
+
+## Unofficial Glossary / Definitions
 <a id="act"></a>
 <a id="aal"></a>
 <a id="advanced"></a>
@@ -128,7 +132,7 @@ Feel free to write-in other terms or definitions to me, if you see something her
 • <u><b><i>Informative Learning</u></b></i>. <small> *Learning* that increases what people *know* and adds to their skills by bringing new knowledge to an *existing worldview* and **frame of reference**. Compare to [***Transformative learning***](#transformation). </small> <br />
 <a id="life"></a>
 <a id="listening"></a>
-• <u><b><i>Integrity</u></b></i>. <small> ***Integrity*** is a *state* or condition of *being whole*, [***complete***](#complete) and unimpaired, in perfect condition. For a person, ***integrity*** is a matter of a person’s word. The extent to which *who you are* reflects the person you *intend to be*.  It is presented, though, from a perspective of *workability*. The *more workable*, the *more* ***integrity***, the *less workable*, there is a *loss of* ***integrity***. *Keeping* one's word is associated with ***integrity*** -- agreeing with common usage -- *but in* **Landmark**, it is a progression. ***Not*** keeping your word means you were ***inauthentic*** about your word. [***Inauthenticity***](#authenticity) leads to unreliability, which reduces workability, and thus a loss of integrity. If you say you will be at a business meeting at 5pm and show up at 5:10pm, there is some ***inauthenticity***, and there is the loss of 10 minutes of time, reducing the *workability* of the meeting, which may have to still end on time.  So there is *less time* for discussion, information sharing, etc which can lead to [***incompleteness***](#complete), which *reduces workability*. Thus a *lack of* ***integrity***, a loss of integrity, or simply, no integrity. </small><br />
+• <u><b><i>Integrity</u></b></i>. <small> This **Landmark** term throws outsiders, since the *common understanding* is about a "*quality of being honest and having strong moral principles*"—*not* in **Landmark**: in **The Forum** ***Integrity*** is a *state* or condition of *being whole*, [***complete***](#complete) and *unimpaired*. For a person, ***integrity*** is a matter of a person’s word. The extent to which *who you are* reflects the person you *intend to be*.  It is presented, though, from a perspective of *workability*. The *more workable*, the *more* ***integrity***, the *less workable*, there is a *loss of* ***integrity***. *Keeping* one's word is associated with ***integrity*** -- agreeing with common usage -- *but in* **Landmark**, it is a progression. ***Not*** keeping your word means you were ***inauthentic*** about your word. [***Inauthenticity***](#authenticity) leads to unreliability, which reduces workability, and thus a loss of integrity. If you say you will be at a business meeting at 5pm and show up at 5:10pm, there is some ***inauthenticity***, and there is the loss of 10 minutes of time, reducing the *workability* of the meeting, which may have to still end on time.  So there is *less time* for discussion, information sharing, etc which can lead to [***incompleteness***](#complete), which *reduces workability*. Thus a *lack of* ***integrity***, a loss of integrity, or simply, no integrity. </small><br />
 • <u><b><i>Life</u></b></i>. <small> *As in* "*yourself and your life*." Our entire set of *relationships with people*. </small><br />
 <a id="meaningless"></a>
 <a id="meaning-machine"></a>
@@ -227,7 +231,7 @@ Terms or phrases with "&trade;" or "&reg;" are *trademarked* or *registered* pro
 
 **A:** <br />
 
-**The *short* answer is**: ***you probably can't***.  What I *mean* is that ***I*** learned this stuff while experiencing **The Landmark Forum**: an intense 3-day (and one evening) ongoing group-based conversation that lasted 12-15 hours per day.  It's just *not* material that lends itself to the *written-word* that well. Thus my rough Glossary and [Landmark posts](#preface) were ***never*** intended for *learning* or *getting* **Landmark's** concepts and distinctions.  Every discipline has its terms and concepts; however, "*knowledge through direct experience*" is primarily how you *learn* concepts in **The Landmark Forum**.  **Landmark's** teaching is [***Ontological***](#ontology), that is, our ***understanding of the nature of a thing*** ("[***being***](#Being)" etc) gets primarily formed through our immediate ***firsthand interactions*** and experience with it, rather than relying solely on abstract concepts or external descriptions -- *like this Glossary*.  In other words: ***experiencing something directly*** allows for a more profound and intuitive *grasp* of its essence. <br />
+**The *short* answer is** ***you probably can't***.  What I *mean* is that ***I*** learned this stuff while experiencing **The Landmark Forum**: an intense 3-day (and one evening) ongoing group-based conversation that lasted 12-15 hours per day.  It's just *not* material that lends itself to the *written-word* that well: without *discussing* these concepts in certain contexts—they're practically just *word salad*. Thus my rough informal Glossary and [Landmark posts](#preface) were ***never*** intended for *learning* or *getting* **Landmark's** concepts and distinctions. Every discipline has its own *lingo* or "*terms of art*"; however, "*knowledge through experience*" is primarily how you *learn* concepts in **The Landmark Forum**.  **Landmark's** teaching is [***Ontological***](#ontology), that is, our ***understanding of the nature of a thing*** ("[***being***](#Being)" etc) gets primarily formed through our immediate ***firsthand interactions*** and experience with it, rather than relying solely on abstract concepts or external descriptions -- *like this Glossary*.  In other words: ***experiencing something directly*** allows for a more profound and intuitive *grasp* of its essence. <br />
 
 **To put succintly**: the *knowing* (*understanding*, retention, etc) of this material ("***getting it***", as they say) probably requires *attending* The **Landmark Forum** 3-day weekend (and one Tuesday night) sessions.  The phrase "[**If you know, you** ***know***...](https://www.planoly.com/glossary/iykyk)" (IYKYK) applies to much this material.  I think someon who pursues a degree in **academeic Philosophy**, with emphasis on *both* Eastern and Western Philosophies, would probably get this stuff—but for my money, a weekend at The **Landmark Forum** was a lot quicker (and cheaper 🙃). **The Forum** a repackaging of a lot of major Zen and Philosophical concepts, but it gets pretty deep in a short time. So I think anyone trying to use [my 3-part write-up](#preface) or this rough Glossary, *without* having attended **The Forum**, is *folly*. Hence that is why this page's intended audience are **Forum** grads or non-biased/academic researches.
 
@@ -292,6 +296,7 @@ Well there's always the official [**Landmark Worldwide**](https://www.landmarkwo
 [**Get Confident, Stupid!**](https://www.gq.com/story/landmark-forum-get-confident-stupid-gq-may-2005) <br />
 [**I thought I'd be brainwashed. But how wrong could I be...**](https://www.theguardian.com/uk/2003/dec/14/ameliahill.theobserver) <br />
 [**The Return of Werner Erhard**](https://www.nytimes.com/2015/11/29/fashion/the-return-of-werner-erhard-father-of-self-help.html) <br />
+[**Founder of est Targeted in Campaign by Scientologists**](https://www.latimes.com/archives/la-xpm-1991-12-29-mn-2102-story.html)
 
 #### 6. There really aren't *a lot* of books or official public documents about the original [est](https://en.wikipedia.org/wiki/Erhard_Seminars_Training), or about **Landmark** (or even books published *by* [**Landmark Worldwide**](https://www.landmarkworldwide.com) *itself*).  Are there any kind of books you can point me to, aside from the online articles and write-ups you gave here?
 
@@ -310,12 +315,12 @@ It's true there aren't a lot of books written about est and Landmark.  The semin
 
 **A:** <br />
 
-I only personally know of two books that discuss problems Est/Landmark and their founder—one I just discovered in late 2024: "*Is This A Cult?*". A great read I highly-recommend.  I have not read "*Outrageous Betrayal*"—which the Landmark community describes as a defamatory "*hit-piece*" on Werner Erhard.  <br /> 
+I only personally know of two books that discuss problems with Est/Landmark and their founder—one I just discovered in late 2024: "*Is This A Cult?*". A great read that I highly-recommend and will be doing book review, on this blog in the coming weeks.  <br /> 
 
-I definitely do *not* want to be seen excluding critical voices about Landmark; however, there are a *lot* of critical voices—and so I am *not* interested in favoring critics *nor* fans on this site.  If you have an additional items to suggest, please feel free contact me and send any suggestions.<br />
+I definitely do *not* want to be seen excluding critical voices about Landmark; *however*, there is no shortage of critical voices—and I don't want to be favoring critics *or* fans of the organization.  If you have an additional material to suggest, please feel free contact me and send any suggestions for this FAQ item.<br />
 
 [Is This A Cult?](https://isthisacultbook.com) <br />
-[Outrageous Betrayal](https://en.wikipedia.org/wiki/Outrageous_Betrayal) <small> *labeled as "defamatory" by representatives of Erhard and Landmark Worldwide. </small> <br />
+[Outrageous Betrayal](https://en.wikipedia.org/wiki/Outrageous_Betrayal) <small> &#42;labeled as "defamatory" by representatives of Werner Erhard and Landmark Worldwide. </small> <br />
 [Rick Ross-Cult Education Network](https://www.culteducation.com)
 
 #### 8. What is Landmark up to, today?
@@ -324,17 +329,19 @@ I definitely do *not* want to be seen excluding critical voices about Landmark; 
 
 I never kept up with **Landmark** after I attended ***The Landmark Forum*** in 1994, though I have friends who volunteered for them.  The last thing I personally heard was they entered [Bankruptcy protection—and were preparing to emerge from that](https://finance.yahoo.com/news/landmark-worldwide-nears-completion-difficult-020000623.html) with new leadership in 2024.  *Beyond that*, I would direct you to [Landmark Worldwide](https://www.landmarkworldwide.com) for info on what they're up to now. <br />
 
-#### 9. I am contemplating attending The Landmark Forum.  What advice would you give me?
+#### 9. I am contemplating attending *The Landmark Forum* or similar transformational group training.  What advice could you give me?
 
 **A:** <br />
 
-I do not feel comfortable *giving advice* to anyone on any "*shoulds*" or "*should nots*" on a decision to attend **The Landmark Forum**.  I would recommend [my 3 posts about it](#preface) from a few years ago, for that—but I *will* say one thing here: that if you *do* end up attending **The Landmark Forum**, I am of the opinion that it's probably healthier to not get into the treadmill of follow-on courses, or be caught up in a "*making a difference*" volunteer-pipeline, which Landmark has been known for (I can't comment on Landmark, post-reorganization—they may no longer do this, I don't know).  <br />
+I 100% believe in [***informed consent***](https://en.wikipedia.org/wiki/Informed_consent) regarding **The Landmark Forum** or *any* similar personal-development group; however, such a consequential decision is yours—and ultimately *only yours*. **Beware people giving you sensational or polarizing statements or advice**—especially from a "*should*" or "*should not*" standpoint. You deserve a nuanced and *thorough* assesment, when seeking advice. I would recommend [my 3 posts about it](#preface) from a few years ago about **The Landmark Forum**, and there are books listed FAQ items above.  If you are just starting-out reading about **Landmark**, inform yourselve before making a commitment to participate in **The Landmark Forum**.  <br /> 
+
+I would also advise that if you *do* decide to attend **The Landmark Forum**—which can be a positive experience—I am of the opinion that ***moderation*** *after* attending **The Landmark Forum** is the *best* approach. I believe it's *healthiest* to *not rush* right into additional follow-on courses or to volunteer for **Landmark Worldwide**, after Graduating. Stop first—pause—and give yourself *time to process* the insights, distinctions, or transformation that you experienced ***first***. <--- ***that*** is the **best advice** I can give.  The volunteer-pipeline at Landmark has many valid criticisms, and I think it's healthy to never *rush-into anything* no matter how positive the experience was.  **Give yourself the *respect* and *self-care* of integrating your breakthroughs-*first***! ***Note***: I can't really comment on Landmark in 2024, post-reorganization—they may no longer have those practices (I don't know, so I advise caution). <br />
 
 #### 10. I am recovering from a negative experience with Landmark or other self-help organization.  Do you know of, or can you recommend, any resources that I can reach out to?
 
 **A:** <br />
 
-Yes, I wholeheartedly recommend [SEEK Safely](https://www.seeksafely.org).  I wish you the best, and healing from whatever you are managing after your experience.  <br />
+Yes, **I wholeheartedly *recommend*** [SEEK Safely](https://www.seeksafely.org), and I wish you the very best in your journey and healing.  <br />
 
 #### 11. I hear Landmark is very litigious.  Are you concerned about Landmark or Tekniko challenging you over the contents of this page?  
 
@@ -346,7 +353,9 @@ Yes, I wholeheartedly recommend [SEEK Safely](https://www.seeksafely.org).  I wi
 
 2. **I have worked over two decades in the legal technology services industry, employed by two prolific law firms**. I retained and maintain active counsel for *any* matters arising from the simple *writing-down* of words from the English language—on this page.  <br /> 
 
-3. **As an established and respected [Project Manager](https://www.linkedin.com/in/julianwest/) in my industry** I don't do *anything* without managing risk—*and I believe in contingency strategies*: besides minimizing legal exposure, I also maintain an in-depth and thorough list for Discovery requests—which my counsel would *aggressively pursue with unlimited resources*—if my *integrity* is ever challenged legally on the *meanings of words*. *Trust*.  The terms on this informal and unofficial Glossary have *never* been claimed or respresented as owned by me, and I direct you to my [**Disclaimer**](#disclaimer).  I fully respect **Landmark** trademarks, and intend *no infringements*; however I am prepared to assert no injury could possibly occur from publishing an informal list of English language specialized terms.  <br />
+3. **As an established and respected [Project Manager](https://www.linkedin.com/in/julianwest/) in my industry** I don't do *anything* without managing risk—*and I believe in contingency strategies*: besides minimizing legal exposure, I also maintain an in-depth and thorough list for Discovery requests—which my counsel would *aggressively pursue with unlimited resources*—if my *integrity* is ever challenged legally on the *meanings of words*. *Trust*.  The terms on this informal and unofficial Glossary have *never* been claimed or respresented as owned by me, and my constructive criticisms of Landmark have been *well-known* beyond this 2024 web page, for over a decade.  I direct readers to my [**Disclaimer**](#disclaimer) for anything further on this.  <br />
+
+I fully respect **Landmark** trademarks, and intend *no infringements*; however I am also prepared to assert no injury could possibly occur from publishing an informal list of English language specialized terms.  See my [**Disclaimer**](#disclaimer) for anything further. <br />
 
 Terms or phrases with "&trade;" or "&reg;" are *trademarked* or *registered* properties of [Landmark Worldwide](https://www.landmarkworldwide.com), are openly used in their public literature, and are only referenced here for complete Definitions.  All rights to these terms belong to Landmark Education and [Landmark Worldwide](https://www.landmarkworldwide.com), and *no authorship or ownership* to any material in this unofficial / informal Glossary is claimed in *any* way!
 
