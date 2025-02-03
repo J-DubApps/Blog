@@ -1,5 +1,5 @@
 +++
-date = '2025-02-02T00:15:51-06:00'
+date = '2025-02-03T00:15:51-06:00'
 draft = false
 title = 'Book Review: Is This A Cult&#63;'
 description = "Transformation vs Exploitation"
