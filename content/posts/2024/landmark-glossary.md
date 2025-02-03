@@ -239,10 +239,10 @@ Terms or phrases with "&trade;" or "&reg;" are *trademarked* or *registered* pro
 
 #### 2. Are you a Landmark Forum fan, enthusiast, or shill?  Otherwise what is the point of this page?
 
-Nope. I am just some guy who got a free ride (company *sponsored / paid-for*) to attend The **Landmark Forum** in 1994. The *point* of this rough Glossary is *twofold*: <br />
+Nope. I am just some guy who got a free ride (company *sponsored*) to attend The **Landmark Forum** in 1994. The *point* of this rough Glossary is *twofold*: <br />
 
 1. This page is a companion piece to my [3-part special write-up](#preface) on The **Landmark Forum** that I published here in 2009.  <br />
-2. This page is for *my own personal reference* from notes I wrote down in between sessions, and offered to **Landmark** Graduates-to provide a place for unbiased revisiting of **Landmark** terminology (as *I understood it*, anyway) after attending nearly 30 years ago.  <br />
+2. This page is for *my own personal reference* from notes I wrote down in between sessions, and is offered to **Landmark** Graduates-to provide a place for unbiased revisiting of **Landmark** terminology (as *I understood it*, anyway) after attending nearly 30 years ago.  <br />
 
 So I talk about **Landmark Forum** without fear or favor, and I never "proselytize" it. That I *attended* and perhaps *got something* out it way back in 1994-is my own business.  *Personal* ***for me***, and me alone, and no part of this rough Glossary is intended to "sell" anybody on **The Forum**.  That is   My personal [**stand**](#stand) here was to have a reference of my original notes on these concepts from 30 years ago, because I find several [**discinctions**](#distinctions) useful to this day.  Nothing more. <br />
 
