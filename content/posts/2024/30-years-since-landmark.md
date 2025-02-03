@@ -40,6 +40,6 @@ I reviewed my old journal notes—and created [**this rough Glossary of Landmark
 [***The Americans EST Episodes***](https://julianwest.me/Blog/the-americans-est-episodes/) <br />
 [**Landmark Forum / est Glossary**](https://julianwest.me/Blog/landmark-glossary/) <br />
 
-&#42;**Note:** no offense meant to happy **Landmark Grads** for the "*Scientology Lite*" nickname. I am always open to hearing others' experiences with **Landmark**, and my views on the **The Landmark Forum** are mostly positive from *own experience* (I acknowledge the organization has problematic aspects, and others have had harmful or negative experiences).
+&#42;**Note:** no offense meant to happy **Landmark Grads** for the "*Scientology Lite*" nickname. I am always open to hearing others' experiences with **Landmark**, and acknolwedge that (while my *own experience* was mostly poistive) that the organization has problematic aspects, and others have had harmful or negative experiences related to them.
 
 #### DISCLAIMER: The views expressed on this blog are my personal views, and are not the views of Landmark. Brand and product names are trademarks or registered trademarks of their respective owners.  Refer to this site's [Terms of Use](https://julianwest.me/Blog/site-disclosure/) for further details.
