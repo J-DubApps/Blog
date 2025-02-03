@@ -10,3 +10,5 @@ tags = ["art", "film-tv", "AI", "video-content", "music"]
 <div class="video">
 {{< youtube YEkwopDW8Yc >}}
 </div>
+
+[Direct Link to Music Video](https://www.youtube.com/watch?v=YEkwopDW8Yc)
