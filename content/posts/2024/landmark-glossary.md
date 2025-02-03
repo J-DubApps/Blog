@@ -246,7 +246,7 @@ Nope. I am just some guy who got a free ride (company *sponsored*) to attend The
 
 So I talk about **Landmark Forum** without fear or favor, and I never "proselytize" it. That I *attended* and perhaps *got something* out it way back in 1994-is my own business.  *Personal* ***for me***, and me alone, and no part of this rough Glossary is intended to "sell" anybody on **The Forum**.  That is   My personal [**stand**](#stand) here was to have a reference of my original notes on these concepts from 30 years ago, because I find several [**discinctions**](#distinctions) useful to this day.  Nothing more. <br />
 
-So I am not trying to "*get people to join*" **Landmark Worldwide**, nor am I *anti*-**Landmark**.  I *do* beleive **The Forum** *is* only useful for *certain types* of people with certain personality traits which include curiosity, and a strong sense of who they already are (and don't mind self-examination). It is certainly ***not for everyone***, and I think **Landmark Worldwide** reps and **Forum** Leaders would 100% agree with me on that.
+So I am ***NOT*** trying to "*get people to join*" **Landmark Worldwide**, nor am I *anti*-**Landmark**.  I *do* beleive **The Forum** *is* only useful for *certain types* of people with certain personality traits which include curiosity, and a strong sense of who they already are (and don't mind self-examination). It is certainly ***not for everyone***, and I think **Landmark Worldwide** reps and **Forum** Leaders would 100% agree with me on that.
 
 #### 3. I have read many of these terms and concepts in other materials, or experienced them in *other* seminars and conferences that I have attended in the past. Can you share any *Philosophies* inform the Landmark Forum curriculum?
 
