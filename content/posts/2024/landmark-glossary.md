@@ -329,7 +329,7 @@ I definitely do *not* want to be seen excluding critical voices about Landmark; 
 
 **A:** <br />
 
-I never kept up with **Landmark** after I attended ***The Landmark Forum*** in 1994, though I have friends who volunteered for them.  The last thing I personally heard was they entered [Bankruptcy protection—and were preparing to emerge from that](https://finance.yahoo.com/news/landmark-worldwide-nears-completion-difficult-020000623.html) with new leadership in 2024.  *Beyond that*, I would direct you to [Landmark Worldwide](https://www.landmarkworldwide.com) for info on what they're up to now. <br />
+I really didn't keet up with **Landmark** after I attended ***The Landmark Forum*** in 1994, though I have friends who volunteered for them.  The last thing I personally heard was they entered [Bankruptcy protection—and were preparing to emerge from that](https://finance.yahoo.com/news/landmark-worldwide-nears-completion-difficult-020000623.html) with new leadership in 2024.  *Beyond that*, I would direct you to [Landmark Worldwide](https://www.landmarkworldwide.com) on what they're up to now. <br />
 
 #### 9. I am contemplating attending *The Landmark Forum* or similar transformational group training.  What advice could you give me?
 
