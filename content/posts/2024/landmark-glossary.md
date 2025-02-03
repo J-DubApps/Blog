@@ -44,7 +44,7 @@ Every discipline has its *own language* that borrows general terms and provides 
 
 Sometimes there is confusion with commonly-defined *Terms* as-used by **Landmark Worldwide**. **For example**: the term "***enrollment***" is officially defined as "*enrolling* others in a *possibility*", so that they are "moved, touched, or inspired" by any *breakthroughs* that you share with them. It has *no* relationship to people *registering* (signing-up) new attendees for **The Landmark Forum**; however, people often *confuse* the term "***enrolling***" with that very activity! <br />
 
-**So terminology in this informal (and unoffical) Glossary should be taken as a *plastic***, ***moldable***, **thing** -- because **The Forum** is all about *language* as something that can be used *generatively*.  For some people (maybe English majors?) that might be a bridge-too-far, and I get it!  <br />  
+**So terminology in this informal (and *unoffical*) Glossary should be taken as a *plastic***, ***moldable***, **thing** -- because **The Forum** is all about *language* as something that can be used *generatively*.  For some people (maybe English majors?) that might be a bridge-too-far, and I get it!  <br />  
 
 Feel free to write-in other terms or definitions (or corrections) anytime if you see something here that needs adjusment, amending, or adding!  **If you are a representative of Landmark WorldWorldwide you are absolutely welcome to contact me anytime; *however*, please *have read* my** [**Disclaimer**](#disclaimer), **the final** [**FAQ**](#faq) **entry on this page**, ***and*** **this site's** [**Terms of Use**](https://julianwest.me/Blog/site-disclosure/) **prior to any contact**! 😉 <br />
 
