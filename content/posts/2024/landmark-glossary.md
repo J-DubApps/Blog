@@ -16,7 +16,7 @@ tags = ["thought", "philosophy", "personal-development"]
 - [Preface](#preface)
 - [Special Notes](#special-notes)
 - [INTRO-Terminology](#terms)
-- [](#definitions)
+- [Glossary](#definitions)
 - [FAQ](#faq)
 
 
