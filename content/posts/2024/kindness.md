@@ -18,7 +18,7 @@ Compassion and showing empathy, where we can, becomes this *two-way* flow: ***yo
 
 But you have to *try it*, to even find out. You have nothing to lose, but maybe a little stress.  <br />
 
-**Remember: being helpful or kind is a ***strength*** in life, *not* a weakness**. That ultimately goes double for being kind to yourself.
+**Remember: being helpful or kind is a ***strength*** in life, *not* a weakness**. That ultimately goes double for *being kind* to *yourself*.
 
 <div>
   <img src="https://julianwest.me/Blog/posts/images/robin-williams.jpg" alt="Alt text">
