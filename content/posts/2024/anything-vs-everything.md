@@ -11,7 +11,7 @@ In the *fast-paced* project-laden world that many of us work in, it’s tempting
 
 ### Prioritization: The Compass for Productivity
 
-Not every task holds *equal weigh*t. Our minds (and ego) want to think otherwise, but we cannot give every task critical and urgent importance: *we must prioritize*. Prioritization helps you and your colleagues separate the *urgent from the important*, the impactful from the peripheral. This applies to individual personal productivity *and* teams collectively pushing to a goal. <br />
+Not every task holds *equal weight*. Our minds (and ego) want to think otherwise, but we cannot give every task critical and urgent importance: *we must prioritize*. Prioritization helps you and your colleagues separate the *urgent from the important*, the impactful from the peripheral. This applies to individual personal productivity *and* teams collectively pushing to a goal. <br />
 
 So we start with basics: categorizing tasks based on their urgency and importance. It sounds patronising, but it's really where we start. The [**Eisenhower Matrix**](https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method) is a great tool for this—it divides tasks into *four quadrants* (**urgent/important**, **not urgent/important**, **urgent/not important**, and **not urgent/not important**).  This simple tool can be a game-changer. Focus *first* on tasks that are *both* urgent *and* important, then delegate or schedule the rest—and say “no” to distractions masquerading as priorities. <br />
 
