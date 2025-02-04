@@ -24,7 +24,7 @@ I never *returned* to take additional **Landmark** courses, and have only spoken
 
 So I am not here to shill or condemn **Landmark**, *nor* can I tell you it's a *cult* from my own limited experience of one course 30 years ago; *however*, to this day I do jokingly call **Landmark** "*Scientology Lite*". Not to be derogatory, just a funny term I picked-up in an online "*forum*". 😂 Ironically I have actually spoken with ex-Scientologist friends who told me that ***EST*** borrowed "*technology*" from it. But that doesn't much *matter*, since I believe [***L. Ron Hubbard***](https://en.wikipedia.org/wiki/L._Ron_Hubbard) *also borrowed* much of *his own* material from well-known Philosophers and Psychiatrists, anyway (which largely explains Scientology's anti-psychiatry stances). 🤷🏻 <br />
 
-I've gone through 30 years of changes since I graduated The **Landmark Forum**, and since the Pandemic [***Landmark WorldWide***](https://en.wikipedia.org/wiki/Landmark_Worldwide) went through some changes, too—a bankruptcy and reboot with new leadership.  <br />
+I've gone through 30 years of changes since I graduated The **Landmark Forum**, and since the Pandemic [***Landmark WorldWide***](https://en.wikipedia.org/wiki/Landmark_Worldwide) went through some changes, too—[a bankruptcy](https://finance.yahoo.com/news/landmark-worldwide-nears-completion-difficult-020000623.html) and reboot. Apparently (and hopefully) with new leadership.  <br />
 
 So *how well* do I remember these tools, concepts, and distinctions that **Landmark** taught me, 30 years ago?  **Let's find out**!  <br />
 
