@@ -345,17 +345,27 @@ I would also advise that if you *do* decide to attend **The Landmark Forum**—w
 
 Yes, **I wholeheartedly *recommend*** [SEEK Safely](https://www.seeksafely.org), and I wish you the very best in your journey and healing.  <br />
 
-#### 11. I hear Landmark is very litigious.  Are you concerned about Landmark or Tekniko challenging you over the contents of this page?  
+#### 11. How is Landmark able to claim that they have a special "*Technology*", when it just seems to be terms and concepts that were *repackaged* from Philosohpers' existing phenomenological, ontological, and epistemological works?
 
 **A:** <br />
 
-**Before publishing this informal and unnoficial Glossary, I consulted legal counsel so as to respect Landmark's products, brand, and terminology**.  ***Three key items*** **anyone should consider before attempting any formal allegations or claims**: <br />
+1. **In a word: Lawyers**.  Every seminar, every meeting...every time & place Werner Erhard spoke in a room is *considered* by him (and Landmark founders) as "*the work*" and the "*Technology*".  And Erhard and Tekniko (and by proxy Landmark or anyone who holds licenses to "*the work*") attempt to take his special *generative* use of language -- and legally say he owns it.  Part of why philosophical works, sciences, and economics are taught in college is because generally none of those things are copywritten *owned* "*terms of art*".  These things, taught in an [LGAT](https://en.wikipedia.org/wiki/Large-group_awareness_training) format can be extremely impactful.  And it's likely why Erhard made a push into academia in the past decade and a half.
 
-1. **I have never worked in or for the self-help / personal-development trade, nor have I worked as a personal coach**—and so I have *never used*, *taught*, or infringed on **Landmark's** products, training, or "*technology*" (which includes English language terms and published works / concepts of the Philosophers listed in this FAQ). I fully respect and honor **Landmark's** products, and make no claim of ownership to any of their terminology. <br />
+2. You can leverage NLP techniques to frame (and reframe) concepts into entire *schools of though*—and have it *work*. This isn't a unique or novel thing, and is in fact what mankind has done with various Philosophies and knowledge systems for centuries. 
 
-2. **I have worked over two decades in the legal technology services industry, employed by two prolific law firms**. I have retained and maintain active counsel for *any* matters arising from the simple *writing-down* of words from the English language—on this page.  <br /> 
+3. A simple *possible* truth of **Landmark**'s "*Technology*" is that a very smart man (who left his family in the 60s to reboot his life) simply liked to read and think deeply a lot...then he got briefly involved in Mind Dynamics and Scientology (which themselves were uneven repackagings of Philosphical concepts)...and he had a series of epiphanies that led him to *enroll* others into working with him to create "*the mother of all modern* [*LGATs*](https://en.wikipedia.org/wiki/Large-group_awareness_training) called [est](https://en.wikipedia.org/wiki/Erhard_Seminars_Training)."  I can't say that's *how* **Landmark** arrived at viewing this stuff as a *precious Technological product*—it's just one possibility. 🤷🏻 
 
-3. **As an established and respected [Project Manager](https://www.linkedin.com/in/julianwest/) in my industry** I don't do *anything* without managing risk—*and I believe in contingency strategies*: besides minimizing my legal exposure, I also maintain an in-depth and thorough list for targeted Discovery requests—which my counsel would *aggressively pursue with unlimited resources*—if I am ever challenged legally on the *meanings of words*. *Trust*. The terms on this informal and *unofficial* Glossary have *never* been claimed or respresented as owned by me, and my constructive criticism of Landmark have been *well-known* beyond this 2024 web page, for over a decade.  I direct readers to my [**Disclaimer**](#disclaimer) for anything further on this.  <br />
+#### 12. I hear Landmark is very litigious.  Are you concerned about Landmark or Tekniko challenging you over the contents of this page?  
+
+**A:** <br />
+
+**Before publishing this informal and unofficial Glossary, I consulted legal counsel so as to respect Landmark's products, brand, and terminology**.  ***Three key items*** **anyone should consider before attempting any formal allegations or claims**: <br />
+
+1. **I have never worked in or for the self-help / personal-development trade, nor have I worked as a personal coach**—and so I have *never used*, *taught*, or infringed on **Landmark's** products, training, or "*Technology*" (which includes English language terms and published works / concepts of the Philosophers listed in this FAQ). I fully respect and honor **Landmark's** products, and make no claim of ownership to any of their terminology. <br />
+
+2. **I have worked over two decades in the legal technology services industry, employed by two prolific law firms**. I have retained and maintain active counsel for *any* matters arising from the simple *writing-down* of words from the English language on this page.  <br /> 
+
+3. **As an established and respected [Project Manager](https://www.linkedin.com/in/julianwest/) in my industry** I don't do *anything* without managing risk—*and I believe in contingency strategy*: besides minimizing my legal exposure, I also maintain an in-depth and thorough list for targeted Discovery requests—which my counsel would *aggressively pursue with unlimited resources*—if I am ever challenged legally on the *meanings of words*. *Trust*. The terms on this informal and *unofficial* Glossary have *never* been claimed or represented as owned by me, and my constructive criticism of Landmark have been *well-known* beyond this 2024 web page, for over a decade.  I direct readers to my [**Disclaimer**](#disclaimer) for anything further on this.  <br />
 
 I fully respect **Landmark** trademarks, and intend *no infringements*; however I am also prepared to assert that no injury could possibly occur—from publishing an informal list of English language specialized terms.  See my [**Disclaimer**](#disclaimer) for anything further. <br />
 
