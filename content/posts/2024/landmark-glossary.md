@@ -324,7 +324,7 @@ It's true there aren't a lot of books written about est and Landmark.  The semin
 
 **A:** <br />
 
-I only personally know of two books that discuss problems with Est/Landmark and their founder—one I just discovered in late 2024: "*Is This A Cult?*". A great read that I highly-recommend and will be doing book review, on this blog in the coming weeks.  <br /> 
+I only personally know of two books that discuss problems with Est/Landmark and their founder—one I just discovered in late 2024: "***Is This A Cult?***". A great read [***that I highly-recommend and reviewed on this blog***](https://julianwest.me/Blog/is-this-a-cult/).  <br /> 
 
 I definitely do *not* want to be seen excluding critical voices about Landmark; *however*, there is no shortage of critical voices—and I don't want to be favoring critics *or* fans of the organization.  If you have an additional material to suggest, please feel free contact me and send any suggestions for this FAQ item.<br />
 
