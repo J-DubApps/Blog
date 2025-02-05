@@ -2,7 +2,7 @@
 date = '2024-09-16T23:02:36-06:00'
 draft = false
 title = 'Landmark Forum / est Unofficial Glossary'
-description = 'Basic & Informal Definitions of Landmark Forum Terms (*Not Endorsed/Approved by Landmark*)'
+description = 'Informal Definitions of Landmark Forum Terms (*Not Endorsed/Approved by Landmark*)'
 type = 'post'
 tags = ["thought", "philosophy", "personal-development"]
 +++
