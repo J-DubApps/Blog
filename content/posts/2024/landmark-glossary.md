@@ -22,7 +22,7 @@ tags = ["thought", "philosophy", "personal-development"]
 
 ## Preface
 
-<i>This page is a *companion piece* for my original 3-part special write-up revisiting my attendance of <b> <a href="https://en.wikipedia.org/wiki/Landmark_Worldwide#Landmark_Forum">The Landmark Forum</a></b> (in 1994) originally published to this blog in 2009: <a href="https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-1/"> Part 1</a>, <a href="https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-2/">Part 2</a>, and <a href="https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-3/">Part 3</a></b></i>.  I regularly get asked questions about *word meanings* and *terminology* from readers of that 3-part write-up, even [fielding a few questions from FX's team behind "*The Americans*"](https://julianwest.me/Blog/the-americans-and-landmark/).  Those conversations led to this rough *Glossary* coming together.  I really have nothing *new* to add about my original **Landmark** write-ups that hasn't already been *said*, and I speak with no authority on this topic: just my own personal, unbiased and vivid memory of The **Landmark Forum**. <br />
+<i>This page is a *companion piece* for my original 3-part special write-up revisiting my attendance of <b> <a href="https://en.wikipedia.org/wiki/Landmark_Worldwide#Landmark_Forum">The Landmark Forum</a></b> (in 1995) originally published to this blog in 2009: <a href="https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-1/"> Part 1</a>, <a href="https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-2/">Part 2</a>, and <a href="https://julianwest.me/Blog/a-funny-thing-happened-after-the-forum-part-3/">Part 3</a></b></i>.  I regularly get asked questions about *word meanings* and *terminology* from readers of that 3-part write-up, even [fielding a few questions from FX's team behind "*The Americans*"](https://julianwest.me/Blog/the-americans-and-landmark/).  Those conversations led to this rough *Glossary* coming together.  I really have nothing *new* to add about my original **Landmark** write-ups that hasn't already been *said*, and I speak with no authority on this topic: just my own personal, unbiased and vivid memory of The **Landmark Forum**. <br />
 
 The terms, phrases, and definitions below are a *modified fork* of this site: [Landmartian Glossary - Wiki University](https://en.wikiversity.org/w/index.php?title=Landmark_Education%2FAbd%2FGlossary&oldid=1963288)—a **Landmark** *Graduate-created* page no longer maintained and ***not*** endorsed by [Landmark Worldwide](https://www.landmarkworldwide.com). <br />
 
@@ -244,12 +244,12 @@ Terms or phrases with "&trade;" or "&reg;" are *trademarked* or *registered* pro
 
 #### 2. Are you a Landmark Forum fan, enthusiast, or shill?  Otherwise what is the point of this page?
 
-Nope. I am just some guy who got a free ride (company *sponsored*) to attend The **Landmark Forum** in 1994. The *point* of this rough Glossary is *twofold*: <br />
+Nope. I am just some guy who got a free ride (company *sponsored*) to attend The **Landmark Forum** in 1995. The *point* of this rough Glossary is *twofold*: <br />
 
 1. This page is a companion piece to my [3-part special write-up](#preface) on The **Landmark Forum** that I published here in 2009.  <br />
 2. This page is for *my own personal reference* from notes I wrote down in between sessions, and is offered to **Landmark** Graduates-to provide a place for unbiased revisiting of **Landmark** terminology (as *I understood it*, anyway) after attending nearly 30 years ago.  <br />
 
-So I talk about **Landmark Forum** without fear or favor, and I never "proselytize" it. That I *attended* and perhaps *got something* out it way back in 1994-is my own business.  *Personal* ***for me***, and me alone, and no part of this rough Glossary is intended to "sell" anybody on **The Forum**.  That is   My personal [**stand**](#stand) here was to have a reference of my original notes on these concepts from 30 years ago, because I find several [**distinctions**](#distinctions) useful to this day.  Nothing more. <br />
+So I talk about **Landmark Forum** without fear or favor, and I never "proselytize" it. That I *attended* and perhaps *got something* out it way back in 1995-is my own business.  *Personal* ***for me***, and me alone, and no part of this rough Glossary is intended to "sell" anybody on **The Forum**.  That is   My personal [**stand**](#stand) here was to have a reference of my original notes on these concepts from 30 years ago, because I find several [**distinctions**](#distinctions) useful to this day.  Nothing more. <br />
 
 So I am ***NOT*** trying to "*get people to join*" **Landmark Worldwide**, nor am I *anti*-**Landmark**.  I *do* beleive **The Forum** *is* only useful for *certain types* of people with certain personality traits which include curiosity, and a strong sense of who they already are (and don't mind self-examination). It is certainly ***not for everyone***, and I think **Landmark Worldwide** reps and **Forum** Leaders would 100% agree with me on that.
 
@@ -335,7 +335,7 @@ I definitely do *not* want to be seen excluding critical voices about Landmark; 
 
 **A:** <br />
 
-I really didn't keet up with **Landmark** after I attended ***The Landmark Forum*** in 1994, though I have friends who volunteered for them.  The last thing I personally heard was they entered [Bankruptcy protection—and were preparing to emerge from that](https://finance.yahoo.com/news/landmark-worldwide-nears-completion-difficult-020000623.html) with new leadership in 2024.  *Beyond that*, I would direct you to [Landmark Worldwide](https://www.landmarkworldwide.com) on what they're up to now. <br />
+I really didn't keet up with **Landmark** after I attended ***The Landmark Forum*** in 1995, though I have friends who volunteered for them.  The last thing I personally heard was they entered [Bankruptcy protection—and were preparing to emerge from that](https://finance.yahoo.com/news/landmark-worldwide-nears-completion-difficult-020000623.html) with new leadership in 2024.  *Beyond that*, I would direct you to [Landmark Worldwide](https://www.landmarkworldwide.com) on what they're up to now. <br />
 
 #### 9. I am contemplating attending *The Landmark Forum* or similar transformational group training.  What advice could you give me?
 
