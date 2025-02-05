@@ -403,6 +403,6 @@ I fully respect **Landmark** trademarks, and intend *no infringements*; however 
 
 Terms or phrases with "&trade;" or "&reg;" are *trademarked* or *registered* properties of [Landmark Worldwide](https://www.landmarkworldwide.com), are openly used in their public literature, and are only referenced here for complete Definitions.  All rights to these terms belong to Landmark Education and [Landmark Worldwide](https://www.landmarkworldwide.com), and *no authorship or ownership*—to any material in this unofficial Glossary—is claimed in *any* way! 
 
-#### IMPORTANT NOTE: The terms and definitions on this page are my own work product (using afforementioned resources) and are ***not*** reviewed or approved by [Landmark Worldwide](https://www.landmarkworldwide.com).
+#### IMPORTANT NOTE: The terms and definitions on this page are my own work product (using aforementioned resources) and are ***not*** reviewed or approved by [Landmark Worldwide](https://www.landmarkworldwide.com).
 
 #### DISCLAIMER: The views expressed on this blog are my personal views, and are not the views of Landmark. Brand and product names are trademarks, or registered trademarks, of their respective owners.  Refer to this site's [Terms of Use](https://julianwest.me/Blog/site-disclosure/) for further details.
