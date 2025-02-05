@@ -265,7 +265,8 @@ Yes! Below is a list I compiled over the years, of some of the primary philosoph
 [**R. Buckminster Fuller**](https://en.wikipedia.org/wiki/Buckminster_Fuller) (Werner Erhard was directly inspired by Fuller, who taught about ***integrity***, design science, and “doing more with less”) <br />
 [**Edmund Husserl**](https://en.wikipedia.org/wiki/Edmund_Husserl) and ***phenomenology*** (the rigorous study of concious *experience as it appears*) influenced 20th-century existential thought ([***Occur***](#occur)) <br />
 [**Epictetus**](https://en.wikipedia.org/wiki/Epictetus) (***Stoicism***) <br />
-[**Humberto Maturana**](https://en.wikipedia.org/wiki/Humberto_Maturana) (***Subjectivity***, ***Observation***, and ***the Construction of Reality***.)
+[**Fritz Perls**](https://en.wikipedia.org/wiki/Fritz_Perls) ([Gestalt Therapy](https://en.wikipedia.org/wiki/Gestalt_therapy)) <br />
+[**Humberto Maturana**](https://en.wikipedia.org/wiki/Humberto_Maturana) (***Subjectivity***, ***Observation***, and ***the Construction of Reality***.) <br />
 [**Jean-Paul Sartre**](https://en.wikipedia.org/wiki/Jean-Paul_Sartre) ([***Freedom***](#freedom) and [***Responsibility***](#responsibility)) <br />
 [**The Kyoto School of Zen Philosphers**](https://plato.stanford.edu/entries/kyoto-school/) ([***Being***](#being)) <br /> 
 [**Ludwig Wittgenstein**](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein) ([***Distinctions***](#distinction) and [***Story***](#story)) <br />
@@ -273,7 +274,7 @@ Yes! Below is a list I compiled over the years, of some of the primary philosoph
 [**Martin Heidegger**](https://en.wikipedia.org/wiki/Martin_Heidegger) probably one of Erhard's biggest influences in the early days of forming est - ([***Being***](#being), [***Ontology***](#ontology)) <br />
 [**Seneca**](https://en.wikipedia.org/wiki/Seneca_the_Younger) (his letters are studied in Stoicism as they encouraged *self-master*, *choice*, and *detachment from circumstances* as paths to equanimity) <br />
 [**Taoism**](https://en.wikipedia.org/wiki/Taoism) (Taoist notion that events are empty until we give them meaning resonates with Taoist themes of ***wu wei*** (non-forcing) and the idea of “allowing” or “not resisting” [***what is***](#whats-so)) <br />
-[William Glasser](https://en.wikipedia.org/wiki/William_Glasser) Psychiatrist author of [Reality Therapy](https://www.amazon.com/Reality-Therapy-Approach-Psychiatry-Colophon/dp/0060904143) ([***What's So***](#whats-so))
+[William Glasser](https://en.wikipedia.org/wiki/William_Glasser) Psychiatrist author of [Reality Therapy](https://www.amazon.com/Reality-Therapy-Approach-Psychiatry-Colophon/dp/0060904143) ([***What's So***](#whats-so)) <br />
 [**Zen**](https://plato.stanford.edu/entries/japanese-zen/) ([***Being***](#Being), [***Ontology***](#ontology))
 
 #### 4. I read somewhere that est borrows a lot, or steals, from Scientology. Is that true?
