@@ -7,6 +7,8 @@ tags = ["thought", "philosophy", "special-write-up", "best-of", "personal-develo
 +++
 #### DISCLAIMER: The views expressed on this blog are my personal views, and are not the views of Landmark. Brand and product names are trademarks, or registered trademarks, of their respective owners.  Refer to this site's [Terms of Use](https://julianwest.me/Blog/site-disclosure/) for further details.
 
+<small><small><small>CORRECTION: I recently found documentation indicating I attended my Forum seminar a few months later than my recollection: making it technically 1995—I conflated the <i>Tuesday Night Intro Session</i> in late 1994 with my actual Forum, which occurred a few months later. Thus the year correction in my articles. </small></small></small>
+
 <div>
   <img src="https://julianwest.me/Blog/posts/2012/A-Funny-thing-happened-after-the-Forum-Part-1/seats.jpeg" alt="Alt text">
 </div> <br />
