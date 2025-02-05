@@ -326,11 +326,12 @@ It's true there aren't a lot of books written about est and Landmark.  The semin
 
 I only personally know of two books that discuss problems with Est/Landmark and their founder—one I just discovered in late 2024: "***Is This A Cult?***". A great read [***that I highly-recommend and reviewed on this blog***](https://julianwest.me/Blog/is-this-a-cult/).  <br /> 
 
-I definitely do *not* want to be seen excluding critical voices about Landmark; *however*, there is no shortage of critical voices—and I don't want to be favoring critics *or* fans of the organization.  If you have an additional material to suggest, please feel free contact me and send any suggestions for this FAQ item.<br />
+I definitely do *not* want to be seen excluding critical voices about Landmark; *however*, there is no shortage of critical voices—and I prefer *only listing* books I've read here, or rources I would recommend.  If you have an additional material to suggest, please feel free contact me and send any suggestions for this FAQ item.<br />
 
 [Is This A Cult?](https://isthisacultbook.com) <br />
 [Outrageous Betrayal](https://en.wikipedia.org/wiki/Outrageous_Betrayal) <small> &#42;labeled as "defamatory" by representatives of Werner Erhard and Landmark Worldwide. </small> <br />
 [Rick Ross-Cult Education Network](https://www.culteducation.com)
+[SEEK Safely](https://www.seeksafely.org)
 
 #### 8. What is Landmark up to, today?
 
