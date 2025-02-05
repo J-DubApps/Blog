@@ -10,7 +10,7 @@ tags = ["thought", "philosophy", "personal-development", "personal"]
 
 <small><small><small>CORRECTION: I recently found documentation indicating I attended my Forum seminar a few months later than my recollection: making it technically 1995—I conflated the <i>Tuesday Night Intro Session</i> in late 1994 with my actual Forum, which occurred a few months later. Thus the year correction in my articles. </small></small></small>
 
-It's now been ***15 years*** since I [wrote about my 1995 experience with "***The Landmark Forum***"](#landmark) on this blog.  **The Forum** is a 3-day (and one evening) educational seminar, run by one of the world's largest for-profit *personal-developmentt* companies—[***Landmark WorldWide***](https://en.wikipedia.org/wiki/Landmark_Worldwide).  It remains one of my most top-read posts in terms of feedback, and even resulted in a brief discussion with a research PA staffer at [a popular FX TV Show](https://julianwest.me/Blog/the-americans-and-landmark/) in 2017. <br />
+It's now been ***15 years*** since I [wrote about my 1995 experience with "***The Landmark Forum***"](#landmark) on this blog.  **The Forum** is a 3-day (and one evening) educational seminar, run by one of the world's largest for-profit *personal-development* companies—[***Landmark WorldWide***](https://en.wikipedia.org/wiki/Landmark_Worldwide).  It remains one of my most top-read posts in terms of feedback, and even resulted in a brief discussion with a research PA staffer at [a popular FX TV Show](https://julianwest.me/Blog/the-americans-and-landmark/) in 2017. <br />
 
 The above means, here in 2024, that it is almost ***30 years*** (!!) since I attended ***The Landmark Forum***.  <br />
 
