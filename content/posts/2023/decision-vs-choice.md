@@ -56,9 +56,9 @@ A **decision** can always be ***explained***, a *true* **choice** simply ***exis
 
 When making a [***choice***](https://en.wikipedia.org/wiki/Choice), the "*decision*" arises from a *different place*. By setting aside my experience, internal debate, and personal biases, I gain the freedom to **truly** ***choose***.  <br />
 
-In ***choosing***, I become open and vulnerable to a ***new possibility***, or a new way of seeing the world, or gaining new experience. ***Choice*** is about something unknown, something creative, and may sometimes even involve a little *risk* and *reward* (entrepreneurs and CEOs, or example, are naturals at pivoting between *decision* and *choice*). <br />
+In ***choosing***, I become open and vulnerable to a ***new possibility***, or a new way of seeing the world, or gaining new experience. ***Choice*** is about something unknown, something creative, and may sometimes even involve a little *risk* and *reward* (entrepreneurs and CEOs, or example, are naturals at pivoting between *decision* and *choice*).  <br />
 
-***Choosing*** can often be about **making a** ***choice*** **purely for the** ***sake of choosing***: **not** applying reason, **not** applying logic, **not** removing or disqualifying the **other** ***choices***. <br /> 
+***Choosing*** can often be about **making a** ***choice*** **purely for the** ***sake of choosing***: **not** applying reason, **not** applying logic, **not** removing or disqualifying the **other** ***choices***.  ***Decisions*** are primarily about thought, ***choices*** are primarily about ***action***. <br /> 
 
 Here are a few ways to recognize a “choice” moment:
 1.	**Spontaneity & Freedom** – You aren’t required to lay out all the reasons; you’re simply free to act.
