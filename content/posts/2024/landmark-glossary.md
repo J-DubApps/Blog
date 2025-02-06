@@ -259,7 +259,7 @@ So I am ***NOT*** trying to "*get people to join*" **Landmark Worldwide**, nor a
 
 **A:** <br />
 
-Yes! Below is a list I compiled over the years, of some of the primary philosophies (or philosophers) that I have read, which seem to be the core knowledge that informed [Werner Erhard](https://en.wikipedia.org/wiki/Werner_Erhard) in his creation of the original [**est**](https://en.wikipedia.org/wiki/Erhard_Seminars_Training) curriculums. I will include specific **Landmark** terms (in ***parenthesis***) next to each philosopher *or* philosophy that I cite: <br />
+Yes! Below is a list I compiled over the years, of some of the primary philosophies (or philosophers) that I have read, which seem to be the core knowledge that informed [Werner Erhard](https://en.wikipedia.org/wiki/Werner_Erhard) in his creation of the original [**est**](https://en.wikipedia.org/wiki/Erhard_Seminars_Training) curriculum. I will include specific **Landmark** terms (in ***parenthesis***) next to each philosopher *or* philosophy that I cite: <br />
 
 [**Abraham Maslow**](https://en.wikipedia.org/wiki/Abraham_Maslow) (emphasized self-actualization and *peak experiences* / the impetus for personal transformation found in **est** correlates with the push toward self-actualization and tapping hidden human potential) <br />
 [**Alan Watts**](https://en.wikipedia.org/wiki/Alan_Watts), (not strictly a philosopher, but popularized Zen and Eastern thought in the West. Erhard attended a few Alan Watts seminar gatherings) <br />
