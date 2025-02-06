@@ -6,8 +6,6 @@ description = 'Informal Definitions of Landmark Forum Terms (*Not Endorsed/Appro
 type = 'post'
 tags = ["thought", "philosophy", "personal-development"]
 +++
-<a id="disclaimer"></a>
-
 #### DISCLAIMER: The views expressed on this blog are my personal views, and are not the views of Landmark. Brand and product names are trademarks, or registered trademarks, of their respective owners.  Refer to this site's [Terms of Use](https://julianwest.me/Blog/site-disclosure/) for further details.
 
 # Landmark Education Glossary
@@ -427,6 +425,8 @@ That's my "magic wand" answer.  We don't live in a world where these kinds of ch
 I fully respect **Landmark** trademarks, and intend *no infringements*; however I am also prepared to assert that no injury could possibly occur—from publishing an informal list of English language specialized terms.  See my [**Disclaimer**](#disclaimer) for anything further. <br />
 
 Terms or phrases with "&trade;" or "&reg;" are *trademarked* or *registered* properties of [Landmark Worldwide](https://www.landmarkworldwide.com), are openly used in their public literature, and are only referenced here for complete Definitions.  All rights to these terms belong to Landmark Education and [Landmark Worldwide](https://www.landmarkworldwide.com), and *no authorship or ownership*—to any material in this unofficial Glossary—is claimed in *any* way! 
+
+<a id="disclaimer"></a>
 
 #### IMPORTANT NOTE: The terms and definitions on this page are my own work product (using aforementioned resources) and are ***not*** reviewed or approved by [Landmark Worldwide](https://www.landmarkworldwide.com).
 
