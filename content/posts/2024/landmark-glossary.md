@@ -265,7 +265,7 @@ Yes! Below is a list I compiled over the years, of some of the primary philosoph
 [**Alan Watts**](https://en.wikipedia.org/wiki/Alan_Watts), (not strictly a philosopher, but popularized Zen and Eastern thought in the West. Erhard attended a few Alan Watts seminar gatherings) <br />
 [**Alfred Korzybski**](https://en.wikipedia.org/wiki/Alfred_Korzybski) and ***General Semantics*** ([***What Happened***](#what-happened) and [***What's So***](#whats-so)) - famous for "The map is not the territory" - teaches the difference between reality and *our understanding (interpretation) of it* <br />
 [**R. Buckminster Fuller**](https://en.wikipedia.org/wiki/Buckminster_Fuller) (Werner Erhard was directly inspired by Fuller, who taught about ***integrity***, design science, and “doing more with less”) <br />
-[**Edmund Husserl**](https://en.wikipedia.org/wiki/Edmund_Husserl) and ***phenomenology*** (the rigorous study of concious *experience as it appears*) influenced 20th-century existential thought ([***Occur***](#occur)) <br />
+[**Edmund Husserl**](https://en.wikipedia.org/wiki/Edmund_Husserl) and ***phenomenology*** (the rigorous study of conscious *experience as it appears*) influenced 20th-century existential thought ([***Occur***](#occur)) <br />
 [**Epictetus**](https://en.wikipedia.org/wiki/Epictetus) (***Stoicism***) <br />
 [**Fritz Perls**](https://en.wikipedia.org/wiki/Fritz_Perls) ([Gestalt Therapy](https://en.wikipedia.org/wiki/Gestalt_therapy)) <br />
 [**Humberto Maturana**](https://en.wikipedia.org/wiki/Humberto_Maturana) (***Subjectivity***, ***Observation***, and ***the Construction of Reality***.) <br />
