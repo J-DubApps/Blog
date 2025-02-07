@@ -126,4 +126,4 @@ When you feel yourself teetering on the edge of a big question—hesitant, anxio
 
 ## Now get out there and make good *choices* (...or *decisions*)!!
 
- <img src="https://julianwest.me/Blog/posts/images/decision-vs-choice2.jpg" alt="Alt text">
+ <img src="https://julianwest.me/Blog/posts/images/decision-vs-choice2.jpg" alt="Alt text" width="350" height="155">
