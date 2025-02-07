@@ -42,7 +42,7 @@ When we *overemphasize* the process of deciding, we might lose sight of possibil
 
 ## Leveraging “Choice”
 
-So we just defined what a ***decision*** is.  A ***choice***, on the other hand, *simply* ***is***. It doesn’t always come with a mental checklist or a bullet-point rationale. Instead of an exercise in logic, a ***choosing*** can be an act of *creation*—giving life to something new, opening doors you hadn’t previously considered. <br />
+So we just defined what a ***decision*** is.  A ***choice***, on the other hand, *simply* ***is***. It doesn’t always come with a mental checklist or a bullet-point rationale. Instead of an exercise in logic, ***choosing*** can be an act of *creation*—giving life to something new, opening doors you hadn’t previously considered. <br />
 
 **Think about *how* the word** "***choice***" **exists in our language, compared to** "***decisions***": <br />
 
