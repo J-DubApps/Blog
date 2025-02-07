@@ -73,6 +73,8 @@ Both ***decisions*** and ***choices*** have *value* and their place in different
 1.	**High-Stakes, Technical, or Complex Situations** – Here, a decision process with clear pros, cons, data, and justifications makes sense. You likely want to protect resources (time, money, safety), so carefully *thinking it through* is wise. <br />
 2.	**Everyday Moments or Creative Exploration** – When brainstorming new ideas, exploring career possibilities, or just simply deciding how to spend your leisure time-sometimes a *pure choice* is more ***liberating***. You don’t *need* bulletproof logic or justifications to "*decide*" you want cook tacos for dinner...or learn the piano...or try your hand at painting. <br />
 
+ <img src="https://julianwest.me/Blog/posts/images/d-or-c.jpg" alt="Alt text" width="155" height="300">
+
 Learning that you even ***can choose***...or that you can even ***choose to decide*** is a *powerful ability* seen in history's most successful entrepreneurs, executives, and history's most notable people all figured out.  <br />
 
 Learning to move fluidly between ***decision-making*** *and* ***choosing*** helps you cut through hesitation ***and*** **build confidence** at the same time. Ask yourself, “*Is this a situation where I need to protect something, or is this a situation where I want to create something*?” A decision helps guard established norms or resources; a choice can spark a new creation or possibility. <br />
@@ -80,8 +82,6 @@ Learning to move fluidly between ***decision-making*** *and* ***choosing*** help
 # Overcoming the Fear of “*Being Wrong*”
 
 Often, the dread of making an *incorrect* ***decision*** comes from thinking every step we take *must be* ***rationally validated***. **That’s a lot of pressure**! If you are in a place where you want to spark a *fresh idea* or *break free* from stagnation, ***let yourself choose*** without *over-explaining* or feeling you *owe a justification* to anybody-even to yourself. <br />
-
- <img src="https://julianwest.me/Blog/posts/images/d-or-c.jpg" alt="Alt text" width="255" height="400">
 
 **A few practical tips to move into this powerful mindset**: <br />
 1.	**Practice “Small Choices”** – Begin with tiny, low-consequence ***choices***. Skip the mental acrobatics and ***just pick*** *something*—*anything*: maybe it’s which new coffee flavor to try, or which neighborhood to explore on a weekend. These little acts of unencumbered ***choice*** **build your tolerance for the unknown**. <br />
@@ -108,7 +108,7 @@ Being confident means respecting *both* dimensions—knowing you are capable of 
 
 There is a realm of decision I didn't touch on and ***cannot*** leave out: "***snap-judgements***"—which we face many times in our lives.  ***Snap-Judgements*** are very-much a hybrid *blend* of ***deciding*** and ***choosing***—essentially collapsting these two words *back* into the *same domain* again—with similar meanings.  A ***Snap-Judgement*** happens when **there is not enough *time*** to *reason-through* all the options before *making a call*.  But in a ***Snap-Judgement***, people experienced in the above ***distinction*** (of seeing ***decision*** and ***choice*** as different things) tend to be *more able* to *make* a ***snap-decision***. *Why*? Because someone who is practiced at ***choosing***, without lengthy *reasoning*, tends to be more comfortable and *confident* at listening to their *intuition* (aka "going with your *gut*").  <br />
 
- <img src="https://julianwest.me/Blog/posts/images/both-d-or-c.jpg" alt="Alt text" width="255" height="400">
+ <img src="https://julianwest.me/Blog/posts/images/both-d-or-c.jpg" alt="Alt text" width="155" height="300">
 
 And **never forget**: when you are faced with a *difficult* ***Snap-Judgement***, where stakes are high and *time is limited*: such hard **decisions** are *only* ***hard*** because there are ***no best options***!  And when no available options are *good*, and *time is limited*: ***that's* when you have another *power*—to make the call, and it largely doesn't matter whather it was *deciding* or exercising *choice***.
 
