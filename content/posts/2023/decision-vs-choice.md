@@ -114,7 +114,7 @@ There is a realm of decision I didn't touch on and ***cannot*** leave out: "***s
 
  <img src="https://julianwest.me/Blog/posts/images/both-d-or-c.jpg" alt="Alt text" width="155" height="300">
 
-And **never forget**: when you are faced with a *difficult* ***Snap-Judgement***, where stakes are high and *time is limited*: such hard **decisions** are *only* ***hard*** because there are ***no best options***!  And when no available options are *good*, and *time is limited*: ***that's* when you have another *power*—to make the call, and it largely doesn't matter whather it was *deciding* or exercising *choice***.
+And **never forget**: when you are faced with a *difficult* ***Snap-Judgement***, where stakes are high and *time is limited*: such hard **decisions** are *only* ***hard*** because there are ***no best options***!  And when no available options are *good* and *time is limited*: ***that's* when you just *make the call*, anyway, and it largely doesn't matter whather it was *deciding* or exercising *choice***.
 
 # Wrapping Up - *The Takeaway*
 
