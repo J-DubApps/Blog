@@ -81,12 +81,16 @@ Learning to move fluidly between ***decision-making*** *and* ***choosing*** help
 
 # Overcoming the Fear of “*Being Wrong*”
 
+ <img src="https://julianwest.me/Blog/posts/images/right-or-wrong.jpg" alt="Alt text" width="150" height="75">
+
 Often, the dread of making an *incorrect* ***decision*** comes from thinking every step we take *must be* ***rationally validated***. **That’s a lot of pressure**! If you are in a place where you want to spark a *fresh idea* or *break free* from stagnation, ***let yourself choose*** without *over-explaining* or feeling you *owe a justification* to anybody-even to yourself. <br />
 
 **A few practical tips to move into this powerful mindset**: <br />
 1.	**Practice “Small Choices”** – Begin with tiny, low-consequence ***choices***. Skip the mental acrobatics and ***just pick*** *something*—*anything*: maybe it’s which new coffee flavor to try, or which neighborhood to explore on a weekend. These little acts of unencumbered ***choice*** **build your tolerance for the unknown**. <br />
 2.	**Let Go of Over-Explaining** – Notice when you start defending yourself unnecessarily. It’s often a sign you’re anxious about how others may judge you, or a sign you're not feeling confident about the decision.  **Recognize that *you have the right* to choose what aligns *for you*—no lengthy explanations required**!! <br />
 3.	**Trust Your Inner Compass** – If you’ve already done your due diligence in those *decision-heavy* areas of your life (school, career, a home), then **give yourself permission** to *trust your instincts* elsewhere! Let your curiosity lead, focusing on ***what you might create*** *instead of* fixating on possible pitfalls.
+
+ <img src="https://julianwest.me/Blog/posts/images/stop-afraid.jpg" alt="Alt text" width="150" height="75">
 
 ## When A Choice *Morphs Into* A Decision
 
