@@ -272,6 +272,7 @@ Yes! Below is a list I compiled over the years, of some of the primary philosoph
 [**Ludwig Wittgenstein**](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein) ([***Distinctions***](#distinction) and [***Story***](#story)) <br />
 [**Marcus Aurelius**](https://en.wikipedia.org/wiki/Marcus_Aurelius) ([***At Cause***](#at-cause) and [***At Effect***](#at-effect) come from ***Stoicism***) <br />
 [**Martin Heidegger**](https://en.wikipedia.org/wiki/Martin_Heidegger) probably one of Erhard's biggest influences in the early days of forming est - ([***Being***](#being), [***Ontology***](#ontology)) <br />
+[Maxwell Maltz](https://en.wikipedia.org/wiki/Maxwell_Maltz) author of a book that was a forerunner of self-help books in the 1960s. <br />
 [**Seneca**](https://en.wikipedia.org/wiki/Seneca_the_Younger) (his letters are studied in Stoicism as they encouraged *self-master*, *choice*, and *detachment from circumstances* as paths to equanimity) <br />
 [**Taoism**](https://en.wikipedia.org/wiki/Taoism) (Taoist notion that events are empty until we give them meaning resonates with Taoist themes of ***wu wei*** (non-forcing) and the idea of “allowing” or “not resisting” [***what is***](#whats-so)) <br />
 [**William Glasser**](https://en.wikipedia.org/wiki/William_Glasser) Psychiatrist author of [Reality Therapy](https://www.amazon.com/Reality-Therapy-Approach-Psychiatry-Colophon/dp/0060904143) ([***What's So***](#whats-so)) <br />
