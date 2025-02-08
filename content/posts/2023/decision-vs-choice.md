@@ -84,9 +84,9 @@ Learning to move fluidly between ***decision-making*** *and* ***choosing*** help
  <div><img align="left" src="https://julianwest.me/Blog/posts/images/right-or-wrong.jpg" alt="Alt text" width="155" height="75"> </div>
 
 
-<div>Often, the dread of making an *incorrect* ***decision*** comes from thinking every step we take *must be* ***rationally validated***. **That’s a lot of pressure**! If you are in a place where you want to spark a *fresh idea* or *break free* from stagnation, ***let yourself choose*** without *over-explaining* or feeling you *owe a justification* to anybody-even to yourself.</div>
+Often, the dread of making an *incorrect* ***decision*** comes from thinking every step we take *must be* ***rationally validated***. **That’s a lot of pressure**! If you are in a place where you want to spark a *fresh idea* or *break free* from stagnation, ***let yourself choose*** without *over-explaining* or feeling you *owe a justification* to anybody-even to yourself. <br />
 
-  <img align="right" src="https://julianwest.me/Blog/posts/images/stop-afraid.jpg" alt="Alt text" width="300" height="155"> <br />
+  <img align="right" src="https://julianwest.me/Blog/posts/images/stop-afraid.jpg" alt="Alt text" width="155" height="75"> <br />
 
 **A few practical tips to move into this powerful mindset**: <br />
 1.	**Practice “Small Choices”** – Begin with tiny, low-consequence ***choices***. Skip the mental acrobatics and ***just pick*** *something*—*anything*: maybe it’s which new coffee flavor to try, or which neighborhood to explore on a weekend. These little acts of unencumbered ***choice*** **build your tolerance for the unknown**. <br />
