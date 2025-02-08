@@ -9,8 +9,9 @@ tags = ["thought", "philosophy", "health", "personal-development", "opinion"]
 <a href="https://julianwest.me/Blog/posts/images/talking_heads.jpg" target="_blank">
     <img src="https://julianwest.me/Blog/posts/images/talking_heads.jpg" alt="Alt text" width="400" height="175">
 </a>
-
-> "**Those who *know*, don't *say*.  Those who *say*, don't *know***..."
+<blockquote style="text-align:center; margin-left: 50px;">
+ "**Those who *know*, don't *say*.  Those who *say*, don't *know***..."
+</blockquote>
 
 <small> The Chinese Philosopher <a href="https://en.wikipedia.org/wiki/Laozi">Lao Tzu (Laozi)</a> first expressed the saying above, several centuries ago:  </small> <br />
 
