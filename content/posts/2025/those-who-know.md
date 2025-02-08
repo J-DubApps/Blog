@@ -6,9 +6,9 @@ description = "Those who say, don't know..."
 type = 'post'
 tags = ["thought", "philosophy", "health", "personal-development", "opinion"]
 +++
-<img src="https://julianwest.me/Blog/posts/images/talking_heads.jpg" alt="Alt text" width="450" height="200"> <br />
+<img src="https://julianwest.me/Blog/posts/images/talking_heads.jpg" alt="Alt text" width="450" height="200"> <br /> <br />
 
-> "**Those who *know*, don't *say*.  Those who *say*, don't *know***"
+> "**Those who *know*, don't *say*.  Those who *say*, don't *know***..."
 
 <br />
 
@@ -16,11 +16,9 @@ tags = ["thought", "philosophy", "health", "personal-development", "opinion"]
 
 > “**He who knows does not speak; he who speaks does not know**.” 
 
-<br />
+<small> **What Lao Tzu *meant*, and what I find *TRUE***: </small>
 
-<small> **What Lao Tzu *meant*, and what I find *TRUE***: </small> <br />
-
-### *True wisdom* cannot always captured in words, and that those who speak too readily often *lack* deeper understanding**.
+#### *True wisdom* cannot always captured in words, and that those who speak too readily often *lack* deeper understanding.
 
 <small> Maybe Remember the above, for this era of LOUD voices owning our country's dialogue... </small> <br />
 
@@ -30,6 +28,6 @@ tags = ["thought", "philosophy", "health", "personal-development", "opinion"]
 
 ...and *maybe*...
 
-...maybe we keep some inner peace. 🙏🏻 <br />
+...just maybe we keep some inner peace. 🙏🏻 <br /> <br />
 
 ![Alt text](https://julianwest.me/Blog/posts/images/inner-peace-noise.jpg)
