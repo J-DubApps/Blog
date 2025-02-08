@@ -9,9 +9,8 @@ tags = ["books", "thought", "health", "personal", "photo"]
 
 > “The world breaks everyone and afterward many are strong at the broken places."  —Ernest Hemingway ("*A Farewell to Arms*")
 
-<br /> 
 
-<small> One of the toughest realities I’ve encountered in adulthood...here in 2020... </small> <br />
+<small> One of the toughest realities I’ve encountered in adulthood...<i>here in 2020</i>... </small> <br />
 
 <small> ...is that I have to press on... </small> <br />
 
