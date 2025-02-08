@@ -6,6 +6,69 @@ description = "And Those Who Say, Don't Know..."
 type = 'post'
 tags = ["thought", "philosophy", "health", "personal-development", "opinion"]
 +++
+<style>
+    /* Basic styling for the thumbnail */
+    #thumbnail {
+      cursor: pointer;
+      border: 1px solid #ccc;
+      margin: 20px;
+    }
+
+    /* The overlay (initially hidden) */
+    #overlay {
+      display: none;              /* Hidden by default */
+      position: fixed;           /* Stays in place */
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      background-color: rgba(0,0,0,0.8); /* Dim overlay */
+      justify-content: center;   /* Center the image horizontally */
+      align-items: center;       /* Center the image vertically */
+      z-index: 9999;
+    }
+
+    /* The full-size image in the overlay */
+    #overlay img {
+      max-width: 90%;
+      max-height: 90%;
+      cursor: pointer;
+      box-shadow: 0 0 10px #000;
+      border: 2px solid #fff;
+    }
+  </style>
+
+  <img 
+    id="thumbnail"
+    src="thumbnail.jpg" 
+    alt="Thumbnail" 
+    width="400"
+    height="auto" 
+  />
+
+<div id="overlay">
+    <img 
+      id="fullSize" 
+      src="talking_heads.jpg" 
+      alt="Full Size" 
+      title="Click to close"
+    />
+  </div>
+
+  <script>
+    const thumbnail = document.getElementById('thumbnail');
+    const overlay   = document.getElementById('overlay');
+    const fullSize  = document.getElementById('fullSize');
+
+    // When thumbnail is clicked, show overlay
+    thumbnail.addEventListener('click', () => {
+      overlay.style.display = 'flex';
+    });
+
+    // When full-size image (or overlay) is clicked, hide overlay
+    overlay.addEventListener('click', () => {
+      overlay.style.display = 'none';
+    });
+  </script>
+
 <a href="https://julianwest.me/Blog/posts/images/talking_heads.jpg" target="_blank">
     <img src="https://julianwest.me/Blog/posts/images/talking_heads.jpg" alt="Alt text" width="400" height="175">
 </a>
