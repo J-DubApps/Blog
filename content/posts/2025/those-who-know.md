@@ -1,14 +1,32 @@
 +++
-date = '2025-02-07T16:59:51-06:00'
-draft = true
-title = 'Book Review: Is This A Cult&#63;'
-description = "Transformation vs Exploitation"
+date = '2025-02-08T12:30:51-06:00'
+draft = false
+title = '**Those who *know*, don't *say***...'
+description = "**Those who *say*, don't *know***..."
 type = 'post'
-tags = ["books", "thought", "leadership", "personal-development"]
+tags = ["thought", "philosophy", "health", "personal-development", "opinion"]
 +++
 
-***Those who *know*, don't *say*.  Those who *say*, don't *know*. <br />
+![Alt text](https://julianwest.me/Blog/posts/images/talking_heads.jpg)
 
-The Chinese Lao Tzu first expressed this as: “**He who knows does not speak; he who speaks does not know**.” <br />
+> "**Those who *know*, don't *say*.  Those who *say*, don't *know***"
 
-Remember this for LOUD voices/trolls owning our country's dialogue right now.  Remember this for Culture Warriors and those using levers of power: **true wisdom cannot always captured in words, and that those who speak too readily may lack deeper understanding**.
+The Chinese Philosopher [Lao Tzu (Laozi)](https://en.wikipedia.org/wiki/Laozi) first expressed the above, when he wrote: 
+
+> “**He who knows does not speak; he who speaks does not know**.” 
+
+**What Lao Tzu meant, and what I find *TRUE***: <br />
+
+#### *True wisdom* cannot always captured in words, and that those who speak too readily often *lack* deeper understanding**.
+
+Maybe Remember the above, for this era of LOUD voices owning our country's dialogue...  <br />
+
+Maybe remember the above, when you hear supposed experts speaking on what used to be "*the news*", little more than confirmation bias platforms. Propaganda for the clicks and ads.  On all sides. <br />  
+
+And maybe remember the above, for elected Culture Warriors using levers of power for little more than a trolling hobby...  <br />
+
+...and maybe...
+
+...we might keep some inner peace. 🙏🏻 <br />
+
+![Alt text](https://julianwest.me/Blog/posts/images/inner-peace-noise.jpg)
