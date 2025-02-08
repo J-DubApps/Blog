@@ -20,9 +20,9 @@ tags = ["thought", "philosophy", "health", "personal-development", "opinion"]
 
 <small> Maybe Remember the above, for this era of LOUD voices owning our country's dialogue... </small> <br />
 
-<small> Maybe remember the above, when you hear supposed experts speaking on what used to be "*the news*", little more than confirmation bias platforms. Propaganda for the clicks and ads.  On all sides. </small> <br />  
+<small> Maybe remember the above, when you hear supposed experts speaking on what used to be "*the news*"... </small> <br />  
 
-<small> And maybe remember the above, for elected Culture Warriors using levers of power for little more than a trolling hobby...  </small> <br />
+<small> And maybe remember the above, for Culture Warriors throwing levers of power, for little more than trolling...  </small> <br />
 
 ...and *maybe*...
 
