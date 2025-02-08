@@ -10,22 +10,26 @@ tags = ["thought", "philosophy", "health", "personal-development", "opinion"]
 
 > "**Those who *know*, don't *say*.  Those who *say*, don't *know***"
 
-The Chinese Philosopher [Lao Tzu (Laozi)](https://en.wikipedia.org/wiki/Laozi) first expressed the above, when he wrote: 
+<br />
+
+<small> The Chinese Philosopher [Lao Tzu (Laozi)](https://en.wikipedia.org/wiki/Laozi) first expressed the above, when he wrote:  </small> <br />
 
 > “**He who knows does not speak; he who speaks does not know**.” 
 
-**What Lao Tzu meant, and what I find *TRUE***: <br />
+<br />
 
-#### *True wisdom* cannot always captured in words, and that those who speak too readily often *lack* deeper understanding**.
+<small> **What Lao Tzu *meant*, and what I find *TRUE***: </small> <br />
 
-Maybe Remember the above, for this era of LOUD voices owning our country's dialogue...  <br />
+### *True wisdom* cannot always captured in words, and that those who speak too readily often *lack* deeper understanding**.
 
-Maybe remember the above, when you hear supposed experts speaking on what used to be "*the news*", little more than confirmation bias platforms. Propaganda for the clicks and ads.  On all sides. <br />  
+<small> Maybe Remember the above, for this era of LOUD voices owning our country's dialogue... </small> <br />
 
-And maybe remember the above, for elected Culture Warriors using levers of power for little more than a trolling hobby...  <br />
+<small> Maybe remember the above, when you hear supposed experts speaking on what used to be "*the news*", little more than confirmation bias platforms. Propaganda for the clicks and ads.  On all sides. </small> <br />  
 
-...and maybe...
+<small> And maybe remember the above, for elected Culture Warriors using levers of power for little more than a trolling hobby...  </small> <br />
 
-...we might keep some inner peace. 🙏🏻 <br />
+...and *maybe*...
+
+...maybe we keep some inner peace. 🙏🏻 <br />
 
 ![Alt text](https://julianwest.me/Blog/posts/images/inner-peace-noise.jpg)
