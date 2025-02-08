@@ -6,7 +6,7 @@ description = "<b>Those who <i>say</i>, don't <i>know</i></b>..."
 type = 'post'
 tags = ["thought", "philosophy", "health", "personal-development", "opinion"]
 +++
-<img src="https://julianwest.me/Blog/posts/images/talking_heads.jpg" alt="Alt text" width="300" height="125">
+<img src="https://julianwest.me/Blog/posts/images/talking_heads.jpg" alt="Alt text" width="450" height="200"> <br />
 
 > "**Those who *know*, don't *say*.  Those who *say*, don't *know***"
 
