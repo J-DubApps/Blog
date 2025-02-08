@@ -10,7 +10,7 @@ tags = ["thought", "philosophy", "health", "personal-development", "opinion"]
     <img src="https://julianwest.me/Blog/posts/images/talking_heads.jpg" alt="Alt text" width="400" height="175">
 </a>
 <blockquote style="text-align:center; margin-left: 50px;">
- "<b>Those who <i>know</i>, don't <i>say</i>.  Those who <i>say</i>, don't <i>know</i></b>..."
+ "<b>Those who <i>know</i>, don't <i>say</i>. &nbsp;&nbsp; Those who <i>say</i>, don't <i>know</i></b>..."
 </blockquote>
 
 <small> A lot of talking heads, on all sides, proclaim to <i>know</i>—and say truths.  So the phrase above is my mantra, anytime I walk past anybody (or a *TV*) trying to *convince* and *debate*.  The Chinese Philosopher <b><a href="https://en.wikipedia.org/wiki/Laozi">Lao Tzu (Laozi)</a></b> first expressed that saying above, several centuries ago:  </small> <br />
@@ -22,7 +22,7 @@ tags = ["thought", "philosophy", "health", "personal-development", "opinion"]
 
 #### *True wisdom* is not always captured in words, and those who speak too readily often *lack* deeper understanding.
 
-<small> Maybe Remember the above, for this era of LOUD voices we're in... </small> <br />
+<small> Maybe remember the above, for this era of LOUD voices we're in... </small> <br />
 
 <small> Maybe remember the above, when you hear supposed experts speaking on what used to be "*the news*"... </small> <br />  
 
