@@ -22,7 +22,9 @@ tags = ["books", "thought", "health", "personal", "photo"]
       <img src="https://julianwest.me/Blog/posts/images/hemingway.jpeg" alt="Alt text" width="200" height="450">
     </td>
     <td>
+     <a href="https://julianwest.me/Blog/posts/images/me_beardy_2020.jpeg" target="_blank">
       <img src="https://julianwest.me/Blog/posts/images/me_beardy_2020.jpeg" alt="Alt text" width="200" height="350">
+      </a>
     </td>
   </tr>
 </table>
