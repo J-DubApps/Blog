@@ -80,8 +80,10 @@ Learning that you even ***can choose***...or that you can even ***choose to deci
 Learning to move fluidly between ***decision-making*** *and* ***choosing*** helps you cut through hesitation ***and*** **build confidence** at the same time. Ask yourself, “*Is this a situation where I need to protect something, or is this a situation where I want to create something*?” A decision helps guard established norms or resources; a choice can spark a new creation or possibility. <br />
 
 # Overcoming the Fear of “*Being Wrong*”
-<div align ="center">
- <img src="https://julianwest.me/Blog/posts/images/right-or-wrong.jpg" alt="Alt text" width="150" height="75">  <img src="https://julianwest.me/Blog/posts/images/stop-afraid.jpg" alt="Alt text" width="150" height="75">
+<div align ="left">
+ <img src="https://julianwest.me/Blog/posts/images/right-or-wrong.jpg" alt="Alt text" width="150" height="75"> </div>
+ <div align ="right">
+  <img src="https://julianwest.me/Blog/posts/images/stop-afraid.jpg" alt="Alt text" width="150" height="75">
 </div>
 
 Often, the dread of making an *incorrect* ***decision*** comes from thinking every step we take *must be* ***rationally validated***. **That’s a lot of pressure**! If you are in a place where you want to spark a *fresh idea* or *break free* from stagnation, ***let yourself choose*** without *over-explaining* or feeling you *owe a justification* to anybody-even to yourself. <br />
