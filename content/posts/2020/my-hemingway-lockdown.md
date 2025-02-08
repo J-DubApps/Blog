@@ -1,7 +1,7 @@
 
 +++
 date = '2020-10-08T12:30:51-06:00'
-draft = true
+draft = false
 title = 'My Hemingway Year...'
 type = 'post'
 tags = ["books", "thought", "health", "personal", "photo"]
