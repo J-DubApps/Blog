@@ -17,8 +17,13 @@ tags = ["books", "thought", "health", "personal", "photo"]
 
 <small> ...even when my spirit gets crushed by this weird wider world. </small> <br />
 
-<p>
-<img src="https://julianwest.me/Blog/posts/images/hemingway.jpeg" alt="Alt text" width="100" height="250"> 
-
-<img src="https://julianwest.me/Blog/posts/images/me_beardy_2020.jpeg" alt="Alt text" width="100" height="250">
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://julianwest.me/Blog/posts/images/hemingway.jpeg" alt="Alt text" width="100" height="250">
+    </td>
+    <td>
+      <img src="https://julianwest.me/Blog/posts/images/me_beardy_2020.jpeg" alt="Alt text" width="100" height="250">
+    </td>
+  </tr>
+</table>
