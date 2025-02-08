@@ -13,7 +13,7 @@ tags = ["thought", "philosophy", "health", "personal-development", "opinion"]
  "<b>Those who <i><u>know</u></i>, don't <i>say</i>. &nbsp; Those who <i>say</i>, don't <i><u>know</u></i></b>..."
 </blockquote>
 
-<small> A lot of talking heads, on all sides, proclaim to <i>know</i>—and say truths. The above is my mantra in response.  The Chinese Philosopher <b><a href="https://en.wikipedia.org/wiki/Laozi">Lao Tzu (Laozi)</a></b> first expressed that saying above, centuries ago:  </small> <br />
+<small> A lot of talking heads, on all sides, proclaim to <i>know</i>—and say truths. The above is my mantra in response.  The Chinese Philosopher <b><a href="https://en.wikipedia.org/wiki/Laozi">Lao Tzu (Laozi)</a></b> expressed the saying above, centuries ago:  </small> <br />
 
 > “***He who knows does not speak; he who speaks does not know***.” 
 
@@ -26,7 +26,7 @@ tags = ["thought", "philosophy", "health", "personal-development", "opinion"]
 
 <small> Maybe remember the above, when you hear supposed experts speaking on what used to be "*the news*"... </small> <br />  
 
-<small> And maybe remember the above, for Culture Warriors throwing levers of power to [Troll](https://en.wikipedia.org/wiki/Troll_(slang)#Corporate,_political,_and_special-interest_sponsored_trolls)...  </small> <br />
+<small> And maybe remember the above, when you see Culture Warriors memes, and elected people [Trolling](https://en.wikipedia.org/wiki/Troll_(slang)#Corporate,_political,_and_special-interest_sponsored_trolls)...  </small> <br />
 
 ...then *maybe*...
 
