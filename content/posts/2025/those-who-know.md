@@ -9,7 +9,6 @@ tags = ["thought", "philosophy", "health", "personal-development", "opinion"]
 <a href="https://julianwest.me/Blog/posts/images/talking_heads.jpg" target="_blank">
     <img src="https://julianwest.me/Blog/posts/images/talking_heads.jpg" alt="Alt text" width="400" height="175">
 </a>
-<br />
 
 > "**Those who *know*, don't *say*.  Those who *say*, don't *know***..."
 
