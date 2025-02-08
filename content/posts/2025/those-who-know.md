@@ -20,13 +20,13 @@ tags = ["thought", "philosophy", "health", "personal-development", "opinion"]
 
 #### *True wisdom* is not always captured in words, and those who speak too readily often *lack* deeper understanding.
 
-<small> Maybe Remember the above, for this era of LOUD voices owning our country's dialogue... </small> <br />
+<small> Maybe Remember the above, for this era of LOUD voices we're in... </small> <br />
 
 <small> Maybe remember the above, when you hear supposed experts speaking on what used to be "*the news*"... </small> <br />  
 
-<small> And maybe remember the above, for Culture Warriors throwing levers of power, for little more than trolling...  </small> <br />
+<small> And maybe remember the above, for Culture Warriors throwing levers of power to [Troll](https://en.wikipedia.org/wiki/Troll_(slang)#Corporate,_political,_and_special-interest_sponsored_trolls)...  </small> <br />
 
-...and *maybe*...
+...then *maybe*...
 
 ...just maybe we keep some inner peace. 🙏🏻 <br /> <br />
 
