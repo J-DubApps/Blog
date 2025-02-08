@@ -12,9 +12,9 @@ tags = ["books", "thought", "health", "personal", "photo"]
 
 <small> One of the toughest realities I’ve encountered in adulthood...<i>here in 2020</i>... </small> <br />
 
-<small> ...is that I have to press on... </small> <br />
+<small> ...<i>is that we have to press on</i>... </small> <br />
 
-<small> ...even when my spirit gets crushed by this weird wider world. </small> <br />
+<small> ...even when our spirit gets crushed by this weird, confusing, world. </small> <br />
 
 <table>
   <tr>
