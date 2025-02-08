@@ -1,8 +1,8 @@
 +++
 date = '2025-02-08T12:30:51-06:00'
 draft = false
-title = '**Those who *know*, don&#39;t *say***...'
-description = "Those who say, don't know..."
+title = '**Those Who *Know*, Don&#39;t *Say***...'
+description = "And Those Who Say, Don't Know..."
 type = 'post'
 tags = ["thought", "philosophy", "health", "personal-development", "opinion"]
 +++
