@@ -81,7 +81,7 @@ Learning to move fluidly between ***decision-making*** *and* ***choosing*** help
 
 # Overcoming the Fear of “*Being Wrong*”
 
- <img align="left" src="https://julianwest.me/Blog/posts/images/right-or-wrong.jpg" alt="Alt text" width="300" height="155"> 
+ <div><img align="left" src="https://julianwest.me/Blog/posts/images/right-or-wrong.jpg" alt="Alt text" width="300" height="155"> </div>
   <img align="right" src="https://julianwest.me/Blog/posts/images/stop-afraid.jpg" alt="Alt text" width="300" height="155">
 
 Often, the dread of making an *incorrect* ***decision*** comes from thinking every step we take *must be* ***rationally validated***. **That’s a lot of pressure**! If you are in a place where you want to spark a *fresh idea* or *break free* from stagnation, ***let yourself choose*** without *over-explaining* or feeling you *owe a justification* to anybody-even to yourself. <br />
