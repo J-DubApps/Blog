@@ -36,6 +36,7 @@ tags = ["thought", "philosophy", "health", "personal-development", "opinion"]
     }
   </style>
 
+<div>
   <img 
     id="thumbnail"
     src="https://julianwest.me/Blog/posts/images/talking_heads.jpg" 
@@ -43,7 +44,8 @@ tags = ["thought", "philosophy", "health", "personal-development", "opinion"]
     width="400"
     height="auto" 
   />
-
+</div
+>
 <div id="overlay">
     <img 
       id="fullSize" 
