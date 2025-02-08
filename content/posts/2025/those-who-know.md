@@ -36,7 +36,7 @@ tags = ["thought", "philosophy", "health", "personal-development", "opinion"]
     }
   </style>
 
-<div>
+<div style="text-align:center;">
   <img 
     id="thumbnail"
     src="https://julianwest.me/Blog/posts/images/talking_heads.jpg" 
