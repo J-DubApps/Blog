@@ -15,7 +15,7 @@ tags = ["thought", "philosophy", "health", "personal-development", "opinion"]
 
 > “***He who knows does not speak; he who speaks does not know***.” 
 
-
+<br />
 **What Lao Tzu *meant*, and what *I* find to be *TRUE***: 
 
 #### *True wisdom* is not always captured in words, and those who speak too readily often *lack* deeper understanding.
