@@ -69,9 +69,6 @@ tags = ["thought", "philosophy", "health", "personal-development", "opinion"]
     });
   </script>
 
-<a href="https://julianwest.me/Blog/posts/images/talking_heads.jpg" target="_blank">
-    <img src="https://julianwest.me/Blog/posts/images/talking_heads.jpg" alt="Alt text" width="400" height="175">
-</a>
 <blockquote style="text-align:center; margin-left: 50px;">
  "<b>Those who <i><u>know</u></i>, don't <i>say</i>. &nbsp; Those who <i>say</i>, don't <i><u>know</u></i></b>..."
 </blockquote>
