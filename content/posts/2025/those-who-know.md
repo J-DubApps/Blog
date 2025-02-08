@@ -10,8 +10,6 @@ tags = ["thought", "philosophy", "health", "personal-development", "opinion"]
 
 > "**Those who *know*, don't *say*.  Those who *say*, don't *know***..."
 
-<br />
-
 <small> The Chinese Philosopher [Lao Tzu (Laozi)](https://en.wikipedia.org/wiki/Laozi) first expressed the above, when he wrote:  </small> <br />
 
 > “**He who knows does not speak; he who speaks does not know**.” 
