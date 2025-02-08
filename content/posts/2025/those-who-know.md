@@ -2,7 +2,7 @@
 date = '2025-02-08T12:30:51-06:00'
 draft = false
 title = '**Those who *know*, don&#39;t *say***...'
-description = "<b>Those who <i>say</i>, don't <i>know</i></b>..."
+description = "Those who say, don't know..."
 type = 'post'
 tags = ["thought", "philosophy", "health", "personal-development", "opinion"]
 +++
