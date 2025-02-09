@@ -36,7 +36,7 @@ As human beings with powerful minds and language, we should understand we will n
 
 ## The Takeaway
 
-Alfred Korzybski’s “*the map is not the territory*” reminds us that our mental models of the world we live, are not the same as the actual world *itself*.  Our perceptions often can differ from reality, but it’s automatic that we *won’t* notice this.  Our conceptual frameworks are rarely (read: *never*) identical to *actual reality* (objectively *what is* etc).
+“_**The map is not the territory**_” reminds us that our mental models of the world we live in, are rarely (read: *never*) the same as the actual world *itself*. Our perceptions often can differ from reality, and it’s automatic that we *won’t* notice this. This is why this concept exists, because our conceptual frameworks are not identical to *actual reality* (objectively *what is*).  
 
 This perception/reality mismatch is pretty natural, and is usually pretty harmless.  For example: we can dine on cognitive bias our whole lives, and never be unhappy in the world—and most people *do*.  But when we’re trying to achieve a goal, it isn’t very safe to misunderstand the *map*—for the *actual territory*.
 
