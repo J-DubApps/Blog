@@ -81,15 +81,15 @@ tags = ["thought", "philosophy", "health", "personal-development", "opinion"]
 > “***He who knows does not speak; he who speaks does not know***.” 
 
 
-<small> A lot of talking heads, on all sides, proclaim to <i>know</i>—and say truths. The above is my mantra in response. <b>What Lao Tzu <i>meant</i>, and what <i>I</i> find to be <i>TRUE</i></b> is: </small> <br />
+<small> A lot of talking heads, on all sides, proclaim to <i>know</i>—and say truths. The above is my mantra in response. <b>What Lao Tzu <i>meant</i>, and what I find to be <i>TRUE</i></b> is: </small> <br />
 
 #### *True wisdom* is not always captured in words, and those who speak too readily often *lack* deeper understanding.
 
 <small> Maybe remember the above, for this era of LOUD voices we're in... </small> <br />
 
-<small> Maybe remember the above, when you hear supposed experts speaking on what used to be "*the news*"... </small> <br />  
+<small> Maybe remember the above, when you hear supposed experts on what used to be "*the news*"... </small> <br />  
 
-<small> And maybe remember the above, when you see Culture Warrior memes or the usual [public discourse](https://en.wikipedia.org/wiki/Troll_(slang)#Corporate,_political,_and_special-interest_sponsored_trolls)...  </small> <br />
+<small> And maybe remember the above, in the smokescreen of Culture Warrior memes and our [public discourse](https://en.wikipedia.org/wiki/Troll_(slang)#Corporate,_political,_and_special-interest_sponsored_trolls)...  </small> <br />
 
 ...then *maybe*...
 
