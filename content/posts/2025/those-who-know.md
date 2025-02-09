@@ -76,12 +76,12 @@ tags = ["thought", "philosophy", "health", "personal-development", "opinion"]
  "<b>Those who <i><u>know</u></i>, don't <i>say</i>. &nbsp; Those who <i>say</i>, don't <i><u>know</u></i></b>..."
 </blockquote>
 
-<small> A lot of talking heads, on all sides, proclaim to <i>know</i>—and say truths. The above is my mantra in response.  The Chinese Philosopher <b><a href="https://en.wikipedia.org/wiki/Laozi">Lao Tzu (Laozi)</a></b> expressed the saying above, centuries ago:  </small> <br />
+<small> The Chinese Philosopher <b><a href="https://en.wikipedia.org/wiki/Laozi">Lao Tzu (Laozi)</a></b> expressed the saying above, centuries ago:  </small> <br />
 
 > “***He who knows does not speak; he who speaks does not know***.” 
 
 
-<small> <b>What Lao Tzu <i>meant</i>, and what <i>I</i> find to be <i>TRUE</i></b>: </small> <br />
+<small> A lot of talking heads, on all sides, proclaim to <i>know</i>—and say truths. The above is my mantra in response. <b>What Lao Tzu <i>meant</i>, and what <i>I</i> find to be <i>TRUE</i></b> is: </small> <br />
 
 #### *True wisdom* is not always captured in words, and those who speak too readily often *lack* deeper understanding.
 
