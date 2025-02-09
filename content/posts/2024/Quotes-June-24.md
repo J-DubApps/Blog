@@ -14,7 +14,7 @@ tags = ["writing", "quote", "blog", "thought", "philosophy"]
 ### — Fyodor Dostoevsky <br /> <br />
 
 
-> “Love is granting another the space to be the way they are, and the way they *are not*”
+> “Love is granting another the space to be the way *they are*, and the way they *are not*”
 
 ### — Werner Erhard
 
