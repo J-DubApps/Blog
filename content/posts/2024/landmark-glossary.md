@@ -335,6 +335,7 @@ It's true there aren't a lot of books written about **est** and **Landmark**. Th
 [Est: Erhard Seminars Training: 60 Hours That Transform Your Life](https://www.amazon.com/Est-Erhard-Seminars-Training-Transform/dp/0380006979) by Adelaide Bry <br />
 [EST: Playing The Game* The New Way](https://www.amazon.com/dp/0615547001/) by Carl L. Frederick <br />
 [est, Tools For Life, Transformation, And The Western Mind](https://www.amazon.com/Tools-Life-Transformation-Western-Mind/dp/B0C5P9M12P) by Ernie Schultze <br />
+[Getting It: The Psychology of est](https://en.wikipedia.org/wiki/Getting_It:_The_Psychology_of_est) by Sheridan Fenwick <br />
 [Speaking Being: Werner Erhard, Martin Heidegger, and a New Possibility of Being Human](https://www.amazon.com/dp/1119549906) by Bruce Hyde and Drew Kopp <br />
 [The Book of Est](https://www.amazon.com/Book-Est-Luke-Rhinehart/dp/0557306159) by Luke Rhinehart <br />
 [Werner Erhard The Transformation of a Man: The Founding of EST](https://www.amazon.com/dp/0517535025) by William Warren Bartley III <br />
