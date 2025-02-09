@@ -73,7 +73,7 @@ tags = ["thought", "personal-development", "project-mgmt", "opinion", "tech", "t
   </script>
 
 <blockquote style="text-align:center; margin-left: 50px;">
- "<b>When <i>everything</i> is A priority, <i>nothing</i> is a priority</b>..." -Karen Martin
+ "<b>When <i>everything</i> is A priority, <i>nothing</i> is a priority</b>..." —Karen Martin
 </blockquote>
 
 
