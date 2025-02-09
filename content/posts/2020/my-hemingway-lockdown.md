@@ -1,6 +1,6 @@
 
 +++
-date = '2020-10-08T12:30:51-06:00'
+date = '2020-07-08T12:30:51-06:00'
 draft = false
 title = 'My Hemingway Year...'
 type = 'post'
