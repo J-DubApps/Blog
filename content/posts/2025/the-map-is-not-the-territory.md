@@ -1,8 +1,8 @@
 +++
-date = '2025-02-08T23:23:30-06:00'
+date = '2025-02-09T00:12:30-06:00'
 draft = false
-title = 'Landmark Forum / est Unofficial Glossary'
-description = 'Informal Definitions of Landmark Forum Terms (*Not Endorsed/Approved by Landmark*)'
+title = 'Mental Cartography'
+description = 'The Map Is Not The Territory'
 type = 'post'
 tags = ["thought", "philosophy", "personal-development"]
 +++
