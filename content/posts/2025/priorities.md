@@ -4,7 +4,7 @@ draft = false
 title = 'Remember, When *Everything* Is a Priority...'
 description = "...nothing is a priority"
 type = 'post'
-tags = ["thought", "personal-development", "project-mgmt", "opinion", "tech", "task-mgmt", "skill-development"]
+tags = ["thought", "personal-development", "project-mgmt", "opinion", "tech", "task-mgmt", "skill-development", "quote"]
 +++
 <style>
     /* Basic styling for the thumbnail */

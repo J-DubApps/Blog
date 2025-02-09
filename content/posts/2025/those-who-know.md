@@ -4,7 +4,7 @@ draft = false
 title = '**Those Who *Know*, Don&#39;t *Say***...'
 description = "And Those Who Say, Don't Know..."
 type = 'post'
-tags = ["thought", "philosophy", "health", "personal-development", "opinion"]
+tags = ["thought", "philosophy", "health", "personal-development", "opinion", "quote"]
 +++
 <style>
     /* Basic styling for the thumbnail */
