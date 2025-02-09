@@ -11,6 +11,9 @@ tags = ["writing", "quote", "books", "blog", "thought", "philosophy"]
 
 ### — Ernest Hemingway <br /> <br />
 
+inspired my block post [_**My Hemingway Year**_...](https://julianwest.me/Blog/my-hemingway-lockdown/)  
+
+
 
 > “To be alive at all is to have scars.”
 
