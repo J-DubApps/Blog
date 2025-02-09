@@ -77,4 +77,4 @@ tags = ["thought", "personal-development", "project-mgmt", "opinion", "tech", "t
 </blockquote>
 
 
-**And** ***remember***: [We Can Do *Anything*, But Not *Everything*](https://julianwest.me/Blog/anything-vs-everything/) 
+**And also** _**remember**_: [**We Can Do *Anything*, But Not *Everything***](https://julianwest.me/Blog/anything-vs-everything/) 
