@@ -9,7 +9,7 @@ tags = ["writing", "quote", "books", "blog", "thought", "philosophy"]
 
 > “The world breaks everyone, and afterward, many are strong at the broken places.”
 
-### — Ernest Hemingway <br /> <br />
+### — Ernest Hemingway
 
 inspired my block post [_**My Hemingway Year**_...](https://julianwest.me/Blog/my-hemingway-lockdown/)  
 
