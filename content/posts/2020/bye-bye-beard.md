@@ -3,7 +3,7 @@ date = '2020-10-08T12:30:51-06:00'
 draft = false
 title = 'The final beard photo...'
 type = 'post'
-tags = ["thought" "personal", "photo"]
+tags = ["thought", "personal", "photo"]
 +++
 [If you've been tracking my beard progress](https://julianwest.me/Blog/my-hemingway-lockdown/), it has...well, *progressed further*.  
 
