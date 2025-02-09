@@ -10,6 +10,6 @@ tags = ["thought", "personal", "photo"]
    <img src="https://julianwest.me/Blog/posts/images/jdub_big_beard.jpeg" alt="Alt text" width="300" height="450">  <br />
 
 
-But this will be the *final* beard photo of 2020, as I am cutting it back pre-Pandemic size this weekend.  And getting a haircut.  
+But this will be the *final* beard photo of 2020, as I am cutting it back to pre-Pandemic size this weekend.  And getting a haircut.  
 
-Maybe I'll grow it back again someday.  It was fun, and a helpful indicator that I made it through a very weird times.  
+Maybe I'll grow it back again someday.  It was fun, and a helpful indicator that I made it through a very weird time...  
