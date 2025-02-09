@@ -17,3 +17,5 @@ tags = ["writing", "quote", "blog", "thought", "philosophy"]
 > “Love is granting another the space to be the way they are, and the way they *are not*”
 
 ### — Werner Erhard
+
+<small> <small> Note: I know the est guy above is problematic, and advocated flawed teaching -- but I nevertheless hold with this quote. </small> </small>
