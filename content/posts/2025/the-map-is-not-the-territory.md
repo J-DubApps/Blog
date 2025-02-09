@@ -14,15 +14,13 @@ We all *understand*, fundamentally, that *reality* exists *outside* of our minds
 
 <img src="https://julianwest.me/Blog/posts/images/MOR-diagram.jpg" alt="Alt text" width="400" height="250"> 
 
-### This isn’t really about *maps*, but about *thinking*, isn’t it?
-
 We rely on maps every day to manage complexity or simplify things: newspapers, bank statements, or maybe your employer’s policy document. Maps are there to distill complexity, and give you some indication of the lay of the land.  But do things like financial statements of a company, which boil down the complexity of thousands of transactions, tell you anything about what’s going on at the company or if their products or services are any good?  
 
 Reality is inherently complicated, and messy—which explains our desire to simplify it.  It’s what we’ve *always* done as thinkers, religious scholars, and explorers to name a few cartographers. However, if the goal shifts from comprehension to *simplification*, or we confirm our views with "*cartographers*" who only want to influence us, we begin making poor decisions. We forget that a map is, ultimately, a simplification and *not reality*.  **We mistake the map for the territory**.  
 
-### So how do we manage our "*maps"*?
+### Wait - this isn’t really about *maps*, but about *thinking*, isn’t it?
 
-Relying *solely* on _**maps**_ can get you to the wrong conclusions, so you have to go “*touch grass*”: explore the _**territory**_ as a reality-check—to arrive at the correct conclusion.  What do I mean by this?  
+This is all about staying *open-minded* to new information about "*the territory*".  Relying *solely* on _**maps**_ can get you to the wrong conclusions, so you have to go “*touch grass*”: explore the _**territory**_ as a reality-check—to arrive at the correct conclusion.  What do I mean by this?  
 
 Maps and models are not meant to be static references for eternity; they are meant to be more dynamic tools, and our mental models should be used for *exploration* and testing our assumptions too...*just as much* as we use them for *understanding*.  
 
