@@ -12,7 +12,7 @@ When we describe something in words, or think anything *conceptually*, we create
 
 We all *understand*, fundamentally, that *reality* exists *outside* of our minds.  But we never stop for a moment, and look at how we *build* our models.  We take in input from our senses, from conversation, from reading—and we formulate our mental models and create our maps—we *experience the world* this way.
 
-![](https://julianwest.me/Blog/posts/images/MOR-diagram.jpg)  
+<img src="https://julianwest.me/Blog/posts/images/MOR-diagram.jpg" alt="Alt text" width="400" height="250"> 
 
 ### This isn’t really about *maps*, but about *thinking*, isn’t it?
 
