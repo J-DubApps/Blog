@@ -23,7 +23,7 @@ tags = ["books", "thought", "health", "personal", "photo"]
     </td>
     <td>
      <a href="https://julianwest.me/Blog/posts/images/me_beardy_2020.jpeg" target="_blank">
-      <img src="https://julianwest.me/Blog/posts/images/me_beardy_2020.jpeg" alt="Alt text" width="200" height="350">
+      <img src="https://julianwest.me/Blog/posts/images/me_beardy_2020.jpeg" alt="Alt text" width="300" height="450">
       </a>
     </td>
   </tr>
