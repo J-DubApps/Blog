@@ -89,7 +89,7 @@ tags = ["thought", "philosophy", "health", "personal-development", "opinion"]
 
 <small> Maybe remember the above, when you hear supposed experts speaking on what used to be "*the news*"... </small> <br />  
 
-<small> And maybe remember the above, when you see Culture Warriors memes, and elected people [Trolling](https://en.wikipedia.org/wiki/Troll_(slang)#Corporate,_political,_and_special-interest_sponsored_trolls)...  </small> <br />
+<small> And maybe remember the above, when you see Culture Warrior memes or the usual [public discourse](https://en.wikipedia.org/wiki/Troll_(slang)#Corporate,_political,_and_special-interest_sponsored_trolls)...  </small> <br />
 
 ...then *maybe*...
 
