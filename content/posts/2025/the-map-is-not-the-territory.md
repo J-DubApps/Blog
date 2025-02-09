@@ -44,4 +44,4 @@ Revising our maps is challenging because it involves reconciling our preferred a
 
 Throughout our lives, other people offer us *their* maps.  We depend on maps from authorities, commentators, and educators. In these situations, the best course of action is to *choose our mapmakers wisely*—seeking those who are candid, rigorous, and open-minded mapmakers who are willing to adapt.
 
-The ability to use this map/territory distinction encourages us to see the world *as it is*, not as we *interpret or imagine it*.  So we want to adjust our mental maps every so often.  And when choosing maps by other cartographers, be intentional and choose wisely.
+The ability to use this map/territory distinction encourages us to see the world *as it is*, not as we *interpret or imagine it*.  So we want to be prepared to adjust our mental maps every so often.  And when choosing maps by other cartographers, be intentional and choose wisely.
