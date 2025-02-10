@@ -19,7 +19,7 @@ We rely on maps every day to manage complexity or simplify things: newspapers, b
 
 Reality is inherently complicated, and messy—which explains our desire to simplify it.  It’s what we’ve *always* done as thinkers, religious scholars, and explorers to name a few cartographers. However, if the goal shifts from comprehension to *simplification*, or we confirm our views with "*cartographers*" who only want to influence us, we begin making poor decisions. We forget that a map is, ultimately, a simplification and *not reality*.  **We mistake the map for the territory**.  
 
-### Wait - this isn’t really about *maps* is it?
+### Wait—this isn’t really about *maps*, is it?
 
 This is all about *thinking* and staying *open-minded* to new information about "*the territory*" (reality outside of our mind).  Relying *solely* on _**maps**_ (our mental model) can get you to the wrong conclusions, so you have to go “*touch grass*” now and then: explore the _**territory**_ as a reality-check—and update your map. What do I mean by this?   
 
