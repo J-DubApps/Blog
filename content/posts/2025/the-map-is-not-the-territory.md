@@ -15,7 +15,7 @@ We all *understand*, fundamentally, that *reality* exists *outside* of our minds
 <img src="https://julianwest.me/Blog/posts/images/map-territory.jpg" alt="Alt text" width="800" height="900"> 
 <center> <small> <small>  The Map (Perception) Is Not The Territory (Reality)   </small> </small> </center>
 
-We rely on maps every day to manage complexity or simplify things: newspapers, bank statements, or maybe your employer’s policy document. Maps are there to distill complexity, and give you some indication of the lay of the land.  But do things like financial statements of a company, which boil down the complexity of thousands of transactions, tell you anything about what’s going on at the company or if their products or services are any good?  
+We rely on maps every day to manage complexity or simplify things: newspapers, bank statements, or maybe your HR policy manual. Maps are there to distill complexity, and give you some indication of the lay of the land.  But do things like financial statements of a company, which boil down the complexity of thousands of transactions, really tell you anything about what’s going on at the company...or if their products or services are any good?  
 
 Reality is inherently complicated, and messy—which explains our desire to simplify it.  It’s what we’ve *always* done as thinkers, religious scholars, and explorers to name a few cartographers. However, if the goal shifts from comprehension to *simplification*, or we confirm our views with "*cartographers*" who only want to influence us, we begin making poor decisions. We forget that a map is, ultimately, a simplification and *not reality*.  **We mistake the map for the territory**.  
 
