@@ -10,7 +10,7 @@ tags = ["thought", "philosophy", "personal-development"]
 
 When we describe something in words, or think anything *conceptually*, we create *an abstraction*—akin to a map charting the terrain. No matter how detailed that map, it is _**still not**_ the physical ground *itself*. General Semantics teaches that language is _**generative**_: it doesn’t just *describe events*; it also *shapes* how we *perceive* and *interact with those events*. Because of this, it’s crucial to remain aware that our words and concepts are always simplifying something that is probably more complex (or unknown to us).
 
-We all *understand*, fundamentally, that *reality* exists *outside* of our minds.  But we never stop for a moment, and look at how we *build* our models.  We take in input from our senses, from conversation, from reading—and we formulate our mental models and create our maps—we *experience the world* this way.
+We all *understand*, fundamentally, that *reality* exists *outside* of our minds.  But we never stop for a moment, and look at how we *build* our models.  We take in input from our senses, from conversation, from reading—and we formulate our mental models and create our maps—we *experience the world* this way.  Here is a basic chart I created to illustrate “_**The map is not the territory**_”:  
 
 <img src="https://julianwest.me/Blog/posts/images/map-territory.jpg" alt="Alt text" width="800" height="900"> 
 
