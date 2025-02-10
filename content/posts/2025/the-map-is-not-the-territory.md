@@ -25,7 +25,7 @@ Reality is inherently complicated, and messy—which explains our desire to simp
 
 ### Wait—this isn’t really about *maps*, is it?
 
-This is all about *thinking* and staying *open-minded* to new information about "*the territory*" (objective reality *outside* of mind).  Relying *solely* on _**maps**_ (our mental model) can get you to the wrong conclusions, so you have to go “*touch grass*” now and then: explore the _**territory**_ as a reality-check—and update your map. What do I mean by this?   
+This is all about *thinking* and staying *open-minded* to new information about "*the territory*" (objective reality *outside* of our head).  Relying *solely* on _**maps**_ (our mental model—and our interpretations etc) can get you to the wrong conclusions, so you have to go “*touch grass*” now and then: explore the _**territory**_ as a reality-check—and update your map. What do I mean by this?   
 
 **If all you're doing is reading the "*map*", the *territory* (*reality*) can crash into you and coldly trash your "*map*"**!  Maps and models are *not* meant to be static references for eternity; they are meant to be more dynamic tools, and our mental models should be used for *exploration* and testing our assumptions too...*just as much* as we use them for *understanding*.  
 
