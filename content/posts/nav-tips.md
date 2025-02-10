@@ -5,8 +5,7 @@ title = 'Navigating Blog Posts: Shortcuts'
 type = 'post'
 tags = ["blog", "links"]
 +++
-**Blog "*Best-of*" / *Tags* menu options are at the top *right***. 
-**Filters for when [***Tags***](https://julianwest.me/Blog/tags/) aren't enough. 
+**Filters for when [*Tags*](https://julianwest.me/Blog/tags/) aren't enough**. 
 
 <small> <b>Blog "<i>Best-of</i>" / <i>Tags</i> menu options are at the top <i>right</i> </b> </small> 👆🏻
 
