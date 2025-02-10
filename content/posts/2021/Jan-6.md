@@ -3,7 +3,7 @@ date = '2021-01-06T23:17:51-06:00'
 draft = false
 title = 'When They Raided The Capitol...'
 type = 'post'
-tags = ["usa", "history", "crime", "special-write-up", "best-of"]
+tags = ["usa", "history", "crime", "special-write-up", "best-of", "civics"]
 +++
 
 This isn't the title to some kind of 1860s Civil War tale.  No, it was the scene earlier today at our nation's Capitol Building.  Apparently a lot of MAGA people, along with various other kindred groups, crashed barriers and broke into the building causing pandomonium and injuries to several police officers (and resulting in the killing of a protestor attempting to rush into a secure Congressional area). All due to an unproven theory that the 2020 Election was somehow stolen. <br /> 
