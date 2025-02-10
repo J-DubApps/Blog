@@ -12,7 +12,7 @@ When we describe something in words, or think anything *conceptually*, we create
 
 We all *understand*, fundamentally, that *reality* exists *outside* of our minds.  But we never stop for a moment, and look at how we *build* our models.  We take in input from our senses, from conversation, from reading—and we formulate our mental models and create our maps—we *experience the world* this way.
 
-<img src="https://julianwest.me/Blog/posts/images/MOR-diagram.jpg" alt="Alt text" width="400" height="250"> 
+<img src="https://julianwest.me/Blog/posts/images/map-territory.jpg" alt="Alt text" width="600" height="700"> 
 
 We rely on maps every day to manage complexity or simplify things: newspapers, bank statements, or maybe your employer’s policy document. Maps are there to distill complexity, and give you some indication of the lay of the land.  But do things like financial statements of a company, which boil down the complexity of thousands of transactions, tell you anything about what’s going on at the company or if their products or services are any good?  
 
@@ -44,4 +44,6 @@ Revising our maps is challenging because it involves reconciling our preferred a
 
 Throughout our lives, other people offer us *their* maps.  We depend on maps from authorities, commentators, and educators. In these situations, the best course of action is to *choose our mapmakers wisely*—seeking those who are candid, rigorous, and open-minded and are willing to adapt.
 
-The ability to use this map/territory distinction encourages us to see the world *as it is*, not as we *interpret or imagine it*.  So we want to be prepared to adjust our mental maps every so often.  And when choosing maps by other cartographers, be intentional and choose wisely.
+The ability to use this map/territory distinction encourages us to see the world *as it is*, not as we *interpret or imagine it*.  So we want to be prepared to adjust our mental maps every so often.  And when choosing maps by other cartographers, be intentional and choose wisely.  
+
+<img src="https://julianwest.me/Blog/posts/images/MOR-diagram.jpg" alt="Alt text" width="400" height="250"> 
