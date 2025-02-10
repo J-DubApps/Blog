@@ -10,7 +10,7 @@ tags = ["thought", "philosophy", "personal-development"]
 
 When we describe something in words, or think anything *conceptually*, we create *an abstraction*—akin to a map charting the terrain. No matter how detailed that map, it is _**still not**_ the physical ground *itself*. General Semantics teaches that language is _**generative**_: it doesn’t just *describe events*; it also *shapes* how we *perceive* and *interact with those events*. Because of this, it’s crucial to remain aware that our words and concepts are always simplifying something that is probably more complex (or unknown to us).
 
-We all *understand*, fundamentally, that *reality* exists *outside* of our minds.  But we never stop for a moment, and look at how we *build* our models.  We take in input from our senses, from conversation, from reading—and we formulate our mental models and create our maps—we *experience the world* this way.  Here is a basic chart I created to illustrate “_**The map is not the territory**_”:  
+We all *understand*, fundamentally, that *reality* exists *outside* of our minds.  But we never stop for a moment, and look at how we *build* our models.  We take in input from our senses, from conversation, from reading—and we formulate our mental models and create our maps—we *experience the world* this way.  Here's a chart I created to illustrate “_**The map is not the territory**_”:  
 
 <img src="https://julianwest.me/Blog/posts/images/map-territory.jpg" alt="Alt text" width="800" height="900"> 
 <center> <small> <small>  The Map (Perception) Is Not The Territory (Reality)   </small> </small> </center>
@@ -37,7 +37,7 @@ As human beings with powerful minds and ***language***, we should understand tha
 
 ## The Takeaway
 
-“_**The map is not the territory**_” reminds us that our mental models of the world *we live in* (and experience) are rarely (read: *never*) the same thing as: the ***actual*** world *itself*. Our perceptions often can differ from reality, and it’s automatic that we *won’t* always notice this. *That* is why this concept even exists, because our conceptual frameworks are *not* identical to *actual reality* (objectively *what is so* — in *reality*).  
+“_**The map is not the territory**_” reminds us that our mental models of the world *we live in* (and experience) are rarely (read: *never*) the same thing as: the ***actual*** world *itself*. Our perceptions often can differ from reality, and it’s automatic that we *won’t* always notice this. *That* is why this concept even exists: our conceptual frameworks are *not* identical to *actual reality* (objectively *what is so* — in *reality*).  
 
 This perception/reality mismatch is normal, natural, and can be harmless.  For example: we can dine on cognitive bias our whole lives, and never be unhappy in the world we live—and most people *do*.  But when we’re trying to achieve a goal or seize a new opportunity—it isn’t very safe to misunderstand the *map*—for the *actual territory*.
 
