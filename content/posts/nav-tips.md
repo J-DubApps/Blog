@@ -7,7 +7,7 @@ tags = ["blog", "links"]
 +++
 #### "*Blog* / *Best-of* / *Tags*" (Nav menu, top *right*).
 
-**Filters for when [***Tags***](https://julianwest.me/Blog/tags/) aren't enough**  
+<small> <b>Filters for when <i><a href="https://julianwest.me/Blog/tags/">Tags</a></i> aren't enough. </b> </small>
 
 📖 ["**Blog**"](https://julianwest.me/Blog/posts/) = the firehose: a descending list of *every* post on the blog.<br />
 ⭐️ ["***Best-Of***"](https://julianwest.me/Blog/best-of/) = most-read posts / posts w/ most feedback.<br />
