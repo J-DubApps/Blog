@@ -25,26 +25,26 @@ This is all about *thinking* and staying *open-minded* to new information about 
 
 Maps and models are not meant to be static references for eternity; they are meant to be more dynamic tools, and our mental models should be used for *exploration* and testing our assumptions too...*just as much* as we use them for *understanding*.  
 
-So use our maps or models as accurately as possible, we should consider three crucial principles:  
+**To use our maps or models as accurately as possible, we should consider three crucial principles**:  
 
 - **Consider the cartographer’s perspective**.  
-- **Reality is *THE* the best update to any map**.  
-- **Maps** (mental models) **can**  _**shape**_ **territories** (reality)—not the other way around.  
+- **Reality is *THE* the best update to *any* map**.  
+- **Maps** (mental models) **can**  _**shape**_ **territories** (reality) for us—*never* the other way around.  
 
-Ego is a cruel master, and we like to think our perceptions *always* align with reality:“*what is*”.  But if we *forget* that our _**Map**_ (mental model) is *only a representation*, we risk [dogmatism](https://en.wiktionary.org/wiki/dogmatism), holding onto certain “truths” as if they are the *reality*. We might dismiss nuances or *new data* that contradicts our internal *map*. And when we fail to recognize that other people operate with their *own* “_**maps**_” (interpretations, mental models, etc). If we can avoid those moments of dismissing *new data*, and remember that other people have their own maps and *cartographers*: it can reduce misunderstandings, judgment, and arguments.  
+Ego is a cruel master, and we *like to think* that our perceptions *always* align with reality:“*what is*”.  I am sorry to report that most of us *like to be right*.  😂  So if we *forget* that our _**Map**_ (mental model) is *only a representation*, we risk [dogmatism](https://en.wiktionary.org/wiki/dogmatism): holding onto certain “truths” as if they are the *reality*. Over time we might dismiss nuances, or *new data*, that contradicts our internal *map*. And when we fail to recognize that other people operate with their *own* “_**maps**_” (interpretations, mental models, etc), things can get a little intense. But if we can avoid moments of dismissing *new data*, and remember that *other people* have their own maps and/or "*cartographers*": it can reduce misunderstandings, judgment, and arguments.  
 
-As human beings with powerful minds and language, we should understand we will never experience “*pure territory*” when looking at new information. The work is to keep noticing when we’re mistaking our interpretations for the *only truth*—and stay open to revising our mental *maps*!  Just remember, we are always given *interpretations* (***maps***) of events (news anchors, thought leaders, politicians etc), and you should not conflate those maps with *reality itself* (***territory***).
+As human beings with powerful minds and ***language***, we should understand that we will never experience “*pure territory*” when looking at new information.  Our minds always return to the ***map***.  The work is learn to notice when we’re mistaking our *interpretations* for the *only truth*—and stay open to revising our mental *maps*!  Just remember, we are always given *interpretations* (***maps***) of events by various "*cartographers*" vying for our attention (news anchors, thought leaders, politicians etc), and we should not conflate anybody else's ***maps*** (including our own) with actual *reality itself* (***territory***).  There are a ***lot*** of "*cartographers*" out there claiming to offer insights or "*truth*".  Some may be good *mapmakers*, but be wary of those who say their own ***map*** gives you actual *objective reality*—the *raw data* of the ***territory***: nobody can do that (or should do that) but you *yourself*!   
 
 ## The Takeaway
 
-“_**The map is not the territory**_” reminds us that our mental models of the world we live in, are rarely (read: *never*) the same as the actual world *itself*. Our perceptions often can differ from reality, and it’s automatic that we *won’t* notice this. This is why this concept exists, because our conceptual frameworks are not identical to *actual reality* (objectively *what is*).  
+“_**The map is not the territory**_” reminds us that our mental models of the world *we live in* (and experience) are rarely (read: *never*) the same thing as: the ***actual*** world *itself*. Our perceptions often can differ from reality, and it’s automatic that we *won’t* always notice this. *That* is why this concept even exists, because our conceptual frameworks are *not* identical to *actual reality* (objectively *what is so* — in *reality*).  
 
-This perception/reality mismatch is pretty natural, and is usually pretty harmless.  For example: we can dine on cognitive bias our whole lives, and never be unhappy in the world—and most people *do*.  But when we’re trying to achieve a goal, it isn’t very safe to misunderstand the *map*—for the *actual territory*.
+This perception/reality mismatch is normal, natural, and can be harmless.  For example: we can dine on cognitive bias our whole lives, and never be unhappy in the world we live—and most people *do*.  But when we’re trying to achieve a goal or seize a new opportunity—it isn’t very safe to misunderstand the *map*—for the *actual territory*.
 
-Revising our maps is challenging because it involves reconciling our preferred assumptions with what genuinely exists. 
+Revising our ***maps*** can be a challenge at first, because it involves reconciling our *preferred assumptions* with what genuinely (and objectively) *exists in* the ***territory***.  
 
-Throughout our lives, other people offer us *their* maps.  We depend on maps from authorities, commentators, and educators. In these situations, the best course of action is to *choose our mapmakers wisely*—seeking those who are candid, rigorous, and open-minded and are willing to adapt.
+Throughout our lives we depend on maps from authorities, commentators, and educators. Still other people will offer us *their* maps, as well.  In these situations, the best course of action is to *choose our mapmakers wisely*—seeking those who are candid, rigorous, and open-minded and are willing to adapt.  Those are the best mapmakers.
 
-The ability to use this map/territory distinction encourages us to see the world *as it is*, not as we *interpret or imagine it*.  So we want to be prepared to adjust our mental maps every so often.  And when choosing maps by other cartographers, be intentional and choose wisely.  
+The ability to use this map/territory distinction encourages us to see the world ***as it is***, not as we *interpret or imagine it*.  So we want to be prepared to adjust our mental maps every so often.  And when choosing maps by other cartographers, be intentional and choose wisely.  
 
 <img src="https://julianwest.me/Blog/posts/images/MOR-diagram.jpg" alt="Alt text" width="400" height="250"> 
