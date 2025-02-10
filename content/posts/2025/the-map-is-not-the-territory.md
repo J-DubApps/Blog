@@ -10,13 +10,13 @@ tags = ["thought", "philosophy", "personal-development", "best-of"]
 
 When we describe something *in words*, or *think* about anything *conceptually*, we create *an abstraction*—akin to a map charting the terrain. No matter how detailed that map (of "reality" in our heads), it is _**still not**_ the actual physical ground *itself*:  
 
-<img src="https://julianwest.me/Blog/posts/images/topographic-map.jpg" alt="Alt text" width="800" height="400"> 
+<img src="https://julianwest.me/Blog/posts/images/topographic-map.jpg" alt="Alt text" width="500" height="250"> 
 
 The philosophical framework of General Semantics teaches that language is _**generative**_: **it doesn’t just *describe events*; it also *shapes* how we *perceive* and *interact with those events***. Because of this, it’s crucial to remain aware that our words and concepts are always simplifying something that is probably more complex (or unknown to us).
 
 We all *understand*, fundamentally, that *reality* exists *outside* of our minds.  But we never stop for a moment, and look at how we *build* our mental models.  We take in input from our senses, from conversation, and from reading—and we formulate our mental models and create our maps—we *experience the world* this way.  Here's a chart I created to illustrate “_**The map is not the territory**_”:  
 
-<img src="https://julianwest.me/Blog/posts/images/map-territory.jpg" alt="Alt text" width="500" height="300"> 
+<img src="https://julianwest.me/Blog/posts/images/map-territory.jpg" alt="Alt text" width="800" height="900"> 
 <center> <small> <small>  The Map (Perception) Is Not The Territory (Reality)   </small> </small> </center>
 
 We rely on maps every day to manage complexity or simplify things: newspapers, bank statements, or maybe your HR policy manual. Maps are there to distill complexity, and give you some indication of the lay of the land.  But do things like financial statements of a company, which boil down the complexity of thousands of transactions, really tell you anything about what’s going on at the company...or if their products or services are any good?  
