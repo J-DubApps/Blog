@@ -7,6 +7,8 @@ type = 'post'
 tags = ["tech", "digital-privacy", "career", "best-of", "thought", "news-link", "remote-work", "opinion", "project-mgmt", "leadership"]
 +++
 
+![Alt text](https://julianwest.me/Blog/posts/images/EmployeeMonitoring_Feb2020.jpg)   
+
 In a world where technology can enable companies to track every click, keystroke, or chat log, it’s tempting for organizations to think staff monitoring is the path to managing a productive workforce. [**According to one Apple employee's recent lawsuit**](https://www.theverge.com/2024/12/2/24311060/apple-employee-surveillance-lawsuit), even some Apple middle-managers gave in to this fallacy, yet worker-surveillance is already well-known to cause more harm than good: it can corrode trust, disempower employees, and shift leadership’s attention to the ***wrong metrics***. [***But don't take my word for it***](https://www.seattletimes.com/business/boeing-aerospace/boeing-pauses-surveillance-plan-to-track-employees-at-the-office/). <br /> 
 
 I recently spoke with a colleague in another industry whose project team was undergoing a rollout of a employee-tracking tool and, unsurprisingly, he's already lost 2 SMEs over it.  He likely will have to crash his project's schedule before a premature wind-down.  <br /> 
@@ -86,4 +88,4 @@ When you’re tempted to reach for surveillance tools, ask yourself: ***Am I hir
 
 **And as I said in my 2023** [**Remote and Hybrid work article**](https://julianwest.me/Blog/opinion-remote-work-23/):  
 
-<b>Focus on <i>outcomes</i> & accountability, <i>not badge swipes (or snooping metrics)</i></b>
+<b>Focus on <i>outcomes</i> & accountability, <i>not badge swipes (or snooping metrics)</i></b>.
