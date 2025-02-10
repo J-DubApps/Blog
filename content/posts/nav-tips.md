@@ -2,13 +2,14 @@
 date = '2024-12-16T11:11:31-06:00'
 draft = false
 title = 'Navigating Blog Posts: Shortcuts'
-description = 'Filters for When Tags Aren't Enough...'
 type = 'post'
 tags = ["blog", "links"]
 +++
-#### "*Blog* / *Best-of* / *Tags*" (Nav menu, top *right*) :  
+#### "*Blog* / *Best-of* / *Tags*" (Nav menu, top *right*).
 
-📖 ["**Blog**"](https://julianwest.me/Blog/posts/) = the firehose: a descending list of every post on the blog.<br />
+**Filters for when [***Tags***](https://julianwest.me/Blog/tags/) aren't enough**  
+
+📖 ["**Blog**"](https://julianwest.me/Blog/posts/) = the firehose: a descending list of *every* post on the blog.<br />
 ⭐️ ["***Best-Of***"](https://julianwest.me/Blog/best-of/) = most-read posts / posts w/ most feedback.<br />
 🏷️  ["***Tags***"](https://julianwest.me/Blog/tags/) = posts organized by category, or ***tag***. <-- <span style="font-size: 10px;">newcomers start here.</span>
 
