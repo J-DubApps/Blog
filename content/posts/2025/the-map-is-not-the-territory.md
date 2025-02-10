@@ -8,7 +8,12 @@ tags = ["thought", "philosophy", "personal-development", "best-of"]
 +++
 [Alfred Korzybski](https://en.wikipedia.org/wiki/Alfred_Korzybski)’s “_**The map is not the territory**_” comes from his work in [General Semantics](https://en.wikipedia.org/wiki/General_semantics) (and 1933 book [Science and Sanity](https://en.wikipedia.org/wiki/Science_and_Sanity)). At its core, the phrase "[*The map is not the territory*](https://en.wikipedia.org/wiki/Map–territory_relation)" means that our *mental representations* (_**maps**_) of "reality" are not *the same* as the “*actual* ***territory***" of _**reality**_ itself. We use these “*maps*”—**language, concepts, beliefs**—to navigate our world. But maps are still *abstractions*, simplified models that leave out infinite details. This principle has parallels in other philosophies dealing with “*how things occur*” for us, how we form our views, or *any* perception that is *distinct from* _**objective reality**_.
 
-When we describe something in words, or think anything *conceptually*, we create *an abstraction*—akin to a map charting the terrain. No matter how detailed that map, it is _**still not**_ the physical ground *itself*. General Semantics teaches that language is _**generative**_: it doesn’t just *describe events*; it also *shapes* how we *perceive* and *interact with those events*. Because of this, it’s crucial to remain aware that our words and concepts are always simplifying something that is probably more complex (or unknown to us).
+When we describe something *in words*, or *think* about anything *conceptually*, we create *an abstraction*—akin to a map charting the terrain. No matter how detailed that map, it is _**still not**_ the physical ground *itself*:  
+
+
+<img src="https://julianwest.me/Blog/posts/images/topographic-map.jpg" alt="Alt text" width="800" height="400"> 
+
+The philosophical framework of General Semantics teaches that language is _**generative**_: **it doesn’t just *describe events*; it also *shapes* how we *perceive* and *interact with those events***. Because of this, it’s crucial to remain aware that our words and concepts are always simplifying something that is probably more complex (or unknown to us).
 
 We all *understand*, fundamentally, that *reality* exists *outside* of our minds.  But we never stop for a moment, and look at how we *build* our mental models.  We take in input from our senses, from conversation, and from reading—and we formulate our mental models and create our maps—we *experience the world* this way.  Here's a chart I created to illustrate “_**The map is not the territory**_”:  
 
