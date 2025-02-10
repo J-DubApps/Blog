@@ -12,7 +12,7 @@ When we describe something in words, or think anything *conceptually*, we create
 
 We all *understand*, fundamentally, that *reality* exists *outside* of our minds.  But we never stop for a moment, and look at how we *build* our models.  We take in input from our senses, from conversation, from reading—and we formulate our mental models and create our maps—we *experience the world* this way.
 
-<img src="https://julianwest.me/Blog/posts/images/map-territory.jpg" alt="Alt text" width="600" height="700"> 
+<img src="https://julianwest.me/Blog/posts/images/map-territory.jpg" alt="Alt text" width="800" height="900"> 
 
 We rely on maps every day to manage complexity or simplify things: newspapers, bank statements, or maybe your employer’s policy document. Maps are there to distill complexity, and give you some indication of the lay of the land.  But do things like financial statements of a company, which boil down the complexity of thousands of transactions, tell you anything about what’s going on at the company or if their products or services are any good?  
 
