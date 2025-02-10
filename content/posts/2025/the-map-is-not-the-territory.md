@@ -31,7 +31,7 @@ This is about *thinking* and staying *open-minded* to new information about "*th
 
 **To use our maps or models as accurately as possible, we should consider three crucial principles**:  
 
-- **Consider the cartographer’s perspective**.  
+- **Consider the cartographer’s perspective** (and motivations, sometimes).  
 - **Reality is *THE* the best update to *any* map**.  
 - **Maps** (mental models) **can**  _**shape**_ **territories** (reality) for us—*never* the other way around.  
 
