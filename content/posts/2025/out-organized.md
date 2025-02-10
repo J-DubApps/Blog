@@ -1,7 +1,7 @@
 +++
 date = '2026-02-10T13:17:51-06:00'
 draft = true
-title = 'You Aren't Outnumbered&#58;You&#39;re Out&ndash;Organized'
+title = 'You Aren&#39;t Outnumbered&#58;You&#39;re Out&ndash;Organized'
 description = 'Organizing also means learning to deal with power, and also invite force'
 type = 'post'
 tags = ["thought", "civics", "opinions"]
