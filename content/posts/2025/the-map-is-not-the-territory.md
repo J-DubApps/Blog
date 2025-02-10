@@ -14,7 +14,7 @@ When we describe something *in words*, or *think* about anything *conceptually*,
 
 The philosophical framework of General Semantics teaches that language is _**generative**_: **it doesn’t just *describe events*; it also *shapes* how we *perceive* and *interact with those events***. Because of this, it’s crucial to remain aware that our words and concepts are always simplifying something that is probably more complex (or unknown to us).
 
-We all understand, fundamentally, that *reality* (the *territory*) exists *outside* of our minds (and our *maps*).  But we never stop for a moment, and look at how we *build* our mental models.  We take in input from our *senses*, from *language* (conversation, reading), and from social sources—then we automaticallyu formulate our mental models and *create* our maps—we *experience the world* this way.  Here's a chart I created to illustrate “_**The map is not the territory**_”:  
+We all understand, fundamentally, that *reality* (the *territory*) exists *outside* of our minds (and our *maps*).  But we never stop to look at how we *build* our mental models.  We take in input from our *senses*, from *language* (conversation, reading), and from social sources—then we automaticallyu formulate our mental models and *create* our maps—we *experience the world* this way.  Here's a chart I created to illustrate “_**The map is not the territory**_”:  
 
 <img src="https://julianwest.me/Blog/posts/images/map-territory.jpg" alt="Alt text" width="800" height="900"> 
 <center> <small> <small>  The Map (Perception) Is Not The Territory (Reality)   </small> </small> </center>
