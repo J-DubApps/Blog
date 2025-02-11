@@ -55,7 +55,7 @@ When we take [Alfred Korzybski](https://en.wikipedia.org/wiki/Alfred_Korzybski)�
 
 In this sense, Buddhist practice is *less* about discarding ***maps*** and *more* about *using them wisely*. Each concept, ritual, or teaching can be a point of reference—an arrow pointing us to the “moon” of ***direct experience***. Ultimately, however, the deep joy and freedom come from letting those maps fall away when necessary and meeting each moment in its raw, unfiltered *reality*. Buddhists say we shouldn't deny the value of a good chart, but we should never mistake it for **the ground beneath our feet**!    
 
-By remembering that the ***map***—even a cherished spiritual or wonderfujl ***map***—is just not always the complete ***territory***, we free ourselves to explore life with fresh eyes and an open heart. And in doing so, we walk a path of discovery that Buddhists and many Western Philosophers all believe leads to genuine insight and liberation.
+By remembering that the ***map***—even a cherished spiritual or wonderful ***map***—is just not always the complete ***territory***, we free ourselves to explore life with fresh eyes and an open heart. And in doing so, we walk a path of discovery that Buddhists and many Western Philosophers all believe leads to genuine insight and liberation.
 
 ## *Happy Seeking* and Learning!
 
