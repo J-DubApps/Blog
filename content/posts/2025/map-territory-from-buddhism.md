@@ -22,6 +22,9 @@ The idea of ***sunyata***, often translated as “*emptiness*,” underscores th
 
 So labeling a situation (or a person) with a few concepts doesn’t reveal that situation’s infinite network of *causes*, *conditions*, and *influences*—its true nature. A ***map*** can be extremely helpful, but Buddhism says, "***let us not confuse it with the living, breathing complexity of the land***."  Buddhism has a concept called the ‘***two truths***,’: a distinction between *relative* "truth" (or conventional truth, or our "***map***") and *absolute* **truth** (the world **as it *is***).
 
+<img src="https://julianwest.me/Blog/posts/images/2-Real_zen.jpg" alt="Alt text" width="400" height="250"> 
+
+
 ## Skillful Means (Upaya) and Mental Maps
 
 In a practical sense, ***maps*** exist to *guide us*. We rely on them to choose paths, set goals, or find vantage points. In Buddhism, similarly, teachings (***sutras***, *commentaries*, *practices*) are like ***maps*** designed to lead practitioners toward enlightenment—or *at least* to reduce suffering. A person new to mindfulness might rely heavily on meditation instructions to cultivate present-moment awareness. Those instructions, while essential, are still just a “***map***”—*a method*—pointing to the ***direct experience*** that arises during meditation.  
@@ -35,6 +38,8 @@ A notable pitfall in using mental models ("***maps***") is attachment. We grow s
 In [**Zen**](https://en.wikipedia.org/wiki/Zen) stories, teachers sometimes appear to contradict earlier lessons, **not** *because they lack internal consistency*, but because they point out that students have *mistaken* the ***map*** for the territory. By pulling away the student’s reliance on a *single viewpoint*, they provoke the insight that reality has no single vantage point to fixate upon.  
 
 Buddhism wants you to, *if you* ***can*** (and not all *do*, or *want to*), ***directly-experience the "Territory"***. **Zen** Buddhism captures this nicely with the saying, “***The finger pointing at the moon is not the moon***.” The gesture (the ***map***) shows where to look, but ultimately *you* must look *at the moon* (the ***territory***) *yourself*! If you spend all your energy analyzing *the finger*—its shape, its appearance, or its direction—you’ll *miss* the ***direct experience** of the moon’s light in the sky.  
+
+<img src="https://julianwest.me/Blog/posts/images/zen-moon.jpeg" alt="Alt text" width="600" height="350"> 
 
 Many Buddhist schools place tremendous emphasis on direct experience. Meditation is not an intellectual exercise; it is a *lived*, *felt*, continuous awareness of ***the present***. Our mental commentary about “*this is good*” or “*this is bad*” is the ***map***. The textures, sensations, and ***nowness*** of the *present moment*, of ***direct experience***—be it sound, breath, or emotional states—*are* the ***territory***.  Going back to the Western version of “***The map is not the territory***”, "touching the grass" of the terrain and experiencing the landscape (looking hard at "***what is*** *objectively* ***so***") can sometimes be assumptions we challenge and figuring out ""what's real*"—meditation is about this and other things.  
 
