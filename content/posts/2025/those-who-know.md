@@ -4,7 +4,7 @@ draft = false
 title = '**Those Who *Know*, Don&#39;t *Say***...'
 description = "And Those Who Say, Don't Know..."
 type = 'post'
-tags = ["thought", "civics", "philosophy", "health", "personal-development", "opinion", "quote", "best-of"]
+tags = ["thought", "civics", "philosophy", "mindfulness", "health", "personal-development", "opinion", "quote", "best-of"]
 +++
 <style>
     /* Basic styling for the thumbnail */
@@ -93,6 +93,6 @@ tags = ["thought", "civics", "philosophy", "health", "personal-development", "op
 
 ...then *maybe*...
 
-...just maybe we keep some inner peace. 🙏🏻 <br /> <br />
+...just maybe we keep some inner peace (or at least our mental health). 🙏🏻 <br /> <br />
 
 ![Alt text](https://julianwest.me/Blog/posts/images/inner-peace-noise.jpg)

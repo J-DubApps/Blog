@@ -4,7 +4,7 @@ draft = false
 title = 'Choosing or Deciding...'
 description = 'Moving Beyond the Fear of "Being Wrong" '
 type = 'post'
-tags = ["philosophy", "thought", "special-write-up", "personal-development", "best-of"]
+tags = ["philosophy", "thought", "special-write-up", "personal-development","mindfulness", "best-of"]
 +++
 **Special Primer Note**: this post is about self-improvement and *building confidence* when making tough calls...*or not* making them. It's about approaching "***Decision vs Choice***" from a *place of empowerment*: a **mental framework** for *another possible way to view* "***decision***" as a *different domain* from "***choice***".  It's a *Philosophical distinction* of the two words, putting-aside their *definitions* for the moment.  These two words often mean the "*same thing*" to *most* people, so for this post I need you to *try-on the notion* that "***decisions*** are *not* the same thing as ***choices***" (even if temporarily)!  Also, for the purpose of this exercise, ***options*** (or *alternatives*) being considered *should* exist in the ***decision*** domain (again, even if temporarily)!  ***Choice*** and ***choosing*** will be considered an *action* in this framework.  This write-up *below* is not for *everyone*—not a "one size fits all" thing—just my own little epiphany I made years ago when faced with making tough calls. If it works for you, *great*!  But it's okay if it doesn't.  This is kind of an old exercise often seen in *personal-development* seminars, or shared by executive coaches.  
 

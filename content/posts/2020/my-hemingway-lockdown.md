@@ -4,7 +4,7 @@ date = '2020-07-08T12:30:51-06:00'
 draft = false
 title = 'My Hemingway Year...'
 type = 'post'
-tags = ["books", "thought", "health", "personal", "photo"]
+tags = ["books", "thought", "health", "personal", "quote", "photo"]
 +++
 
 > “The world breaks everyone and afterward many are strong at the broken places."  

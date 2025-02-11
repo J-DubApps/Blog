@@ -3,9 +3,8 @@ date = '2013-09-26T23:06:05-06:00'
 draft = false
 title = 'Yoda Was Right About Fear'
 type = 'post'
-tags = ["thought", "scifi", "philosophy", "film-tv", "best-of", "top-10", "special-write-up"]
+tags = ["thought", "scifi", "philosophy", "mindfulness", "film-tv", "best-of", "top-10", "special-write-up"]
 +++
-
 <style>
   .image-row {
     display: flex;

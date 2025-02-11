@@ -4,10 +4,8 @@ draft = true
 title = 'Either-Or Thinking'
 description = 'Limiting Choices'
 type = 'post'
-tags = ["philosophy", "thought", "special-write-up"]
+tags = ["philosophy", "thought", "opinion", "mindfulness", "civics"]
 +++
-
-
 Consider how you typically make decisions. Do you ever feel you’re forced to choose between only two possibilities—this or that? In reality, you often have far more than two options, yet an either-or mindset can keep you locked into a limited view of what’s possible.
 
 Frederick Carl Frieseke once said, “Your range of available choices—right now—is limitless.” This reminds us that we don’t have to pick between just one or another. Instead, we can explore entirely different paths.
