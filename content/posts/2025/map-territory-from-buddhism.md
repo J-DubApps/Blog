@@ -16,13 +16,16 @@ In Buddhism, our minds apply ***labels*** and concepts to everything we encounte
 
 A classic Buddhist teaching says we create a “conceptual overlay” atop our experiences. We cling to these overlays, believing our mental constructs are the reality. This is the foundational meaning of the phrase “***the map is not the territory***” in a Buddhist sense. Just as a map can be incomplete or even outdated, our concepts can reflect only partial truths or illusions. We see and *interpret* what our conditioned minds *want to see*.  
 
+<img src="https://julianwest.me/Blog/posts/images/zen-discarding-map.jpeg" alt="Alt text" width="400" height="350"> 
+
+
 ## Emptiness (Sunyata)
 
 The idea of ***sunyata***, often translated as “*emptiness*,” underscores that any phenomenon we encounter is empty of a *permanent*, *fixed* essence. From a Buddhist perspective, this emptiness signals that all things are interdependent and in flux. “***The map is not the territory***” also suggests something similar: the territory itself is deeper, more dynamic, and too nuanced to be captured in a flat or static framework.  
 
 So labeling a situation (or a person) with a few concepts doesn’t reveal that situation’s infinite network of *causes*, *conditions*, and *influences*—its true nature. A ***map*** can be extremely helpful, but Buddhism says, "***let us not confuse it with the living, breathing complexity of the land***."  Buddhism has a concept called the ‘***two truths***,’: a distinction between *relative* "truth" (or conventional truth, or our "***map***") and *absolute* **truth** (the world **as it *is***).
 
-<img src="https://julianwest.me/Blog/posts/images/2-Real_zen.jpg" alt="Alt text" width="400" height="250"> 
+<img src="https://julianwest.me/Blog/posts/images/2-Real_zen.jpg" alt="Alt text" width="300" height="250"> 
 
 
 ## Skillful Means (Upaya) and Mental Maps
@@ -39,7 +42,7 @@ In [**Zen**](https://en.wikipedia.org/wiki/Zen) stories, teachers sometimes appe
 
 Buddhism wants you to, *if you* ***can*** (and not all *do*, or *want to*), ***directly-experience the "Territory"***. **Zen** Buddhism captures this nicely with the saying, “***The finger pointing at the moon is not the moon***.” The gesture (the ***map***) shows where to look, but ultimately *you* must look *at the moon* (the ***territory***) *yourself*! If you spend all your energy analyzing *the finger*—its shape, its appearance, or its direction—you’ll *miss* the ***direct experience** of the moon’s light in the sky.  
 
-<img src="https://julianwest.me/Blog/posts/images/zen-moon.jpeg" alt="Alt text" width="600" height="350"> 
+<img src="https://julianwest.me/Blog/posts/images/zen-moon.jpeg" alt="Alt text" width="400" height="350"> 
 
 Many Buddhist schools place tremendous emphasis on direct experience. Meditation is not an intellectual exercise; it is a *lived*, *felt*, continuous awareness of ***the present***. Our mental commentary about “*this is good*” or “*this is bad*” is the ***map***. The textures, sensations, and ***nowness*** of the *present moment*, of ***direct experience***—be it sound, breath, or emotional states—*are* the ***territory***.  Going back to the Western version of “***The map is not the territory***”, "touching the grass" of the terrain and experiencing the landscape (looking hard at "***what is*** *objectively* ***so***") can sometimes be assumptions we challenge and figuring out ""what's real*"—meditation is about this and other things.  
 
