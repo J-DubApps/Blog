@@ -34,7 +34,7 @@ In a practical sense, ***maps*** exist to *guide us*. We rely on them to choose 
 
 Buddhism also uses the idea of ***upaya***, or “*skillful means*,” to describe the different techniques and teachings that help people approach awakening. ***Upaya*** is the recognition that there is no singular, "one-size-fits-all" ***map*** for all beings. Instead, the best ‘***map***’ to use is the one that speaks to the individual’s current mindset and life situation. Even so, skillful means are never the *final* ***reality***; they are practical strategies for discovering or unveiling truth.  
 
-## Letting Go of Attachment to Directly-Experience The "Territory"
+### Letting Go of Attachment to *Directly-Experience* The "Territory"
 
 A notable pitfall in using mental models ("***maps***") is attachment. We grow so comfortable with a particular map or technique that we *cling* to it, and our Ego wants to always ***be right***. This can create [dogmatic](https://en.wiktionary.org/wiki/dogmatism) thinking: “*My map is better than yours*,” or “*This is the only correct path*.” In Buddhism, *clingin*g*—even to something labeled ‘*spiritual*’ or ‘*sacred*’—**can obstruct our ability to see the world clearly**.  
 
