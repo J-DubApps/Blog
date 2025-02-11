@@ -43,7 +43,7 @@ In [**Zen**](https://en.wikipedia.org/wiki/Zen) stories, teachers sometimes appe
 Buddhism wants you to, *if you* ***can*** (and not all *do*, or *want to*), ***directly-experience the "Territory"***. **Zen** Buddhism captures this nicely with the saying, “***The finger pointing at the moon is not the moon***.” The gesture (the ***map***) shows where to look, but ultimately *you* must look *at the moon* (the ***territory***) *yourself*! If you spend all your energy analyzing *the finger*—its shape, its appearance, or its direction—you’ll *miss* the ***direct experience** of the moon’s light in the sky.  
 
 <img src="https://julianwest.me/Blog/posts/images/zen-moon.jpeg" alt="Alt text" width="400" height="350"> 
-<center><small><small> Left: Focusing on Perception, Right: Observing actual "Reality" </small> </small> </center>
+<center><small><small><small> Left: Focusing on Perception, Right: Observing actual "Reality" </small> </small> </small> </center>
 
 Many Buddhist schools place tremendous emphasis on direct experience. Meditation is not an intellectual exercise; it is a *lived*, *felt*, continuous awareness of ***the present***. Our mental commentary about “*this is good*” or “*this is bad*” is the ***map***. The textures, sensations, and ***nowness*** of the *present moment*, of ***direct experience***—be it sound, breath, or emotional states—*are* the ***territory***.  Going back to the Western version of “***The map is not the territory***”, "touching the grass" of the terrain and experiencing the landscape (looking hard at "***what is*** *objectively* ***so***") can sometimes be assumptions we challenge and figuring out ""what's real*"—meditation is about this and other things.  
 
