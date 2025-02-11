@@ -1,5 +1,5 @@
 +++
-date = '2025-02-19T00:12:30-06:00'
+date = '2025-02-11T00:12:30-06:00'
 draft = false
 title = 'Buddhism&#39;s own Mental Cartography'
 description = "A companion piece to 'The Map Is Not The Territory'"
