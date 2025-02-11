@@ -6,7 +6,7 @@ description = "A companion piece to 'The Map Is Not The Territory'"
 type = 'post'
 tags = ["thought", "philosophy", "personal-development", "best-of"]
 +++
-Expanding on my article "[**Mental Cartography**:***The Map Is Not The Territory***](https://julianwest.me/Blog/the-map-is-not-the-territory/), I discussed how philosophers used the phrase “***The map is not the territory***” to highlight the gap between our *mental representations* of the world vs *the* ***reality*** we live in. We use maps—metaphors, models, theories—to help us navigate life, but they remain simplified reflections of ***the terrain*** they represent. From a [***Buddhist*** perspective](https://en.wikipedia.org/wiki/Buddhism), these mental ‘***maps***’ are closely aligned with concepts in [**Buddhism**](https://en.wikipedia.org/wiki/Buddhism), which I would like to briefly list in this post.  Because Buddhism has an older, and equally-interesting, take on this.  
+Expanding on my article "[**Mental Cartography**:***The Map Is Not The Territory***](https://julianwest.me/Blog/the-map-is-not-the-territory/), I discussed how philosophers used the phrase “***The map is not the territory***” to highlight the gap between our *mental representations* of the world vs *the* ***reality*** we live in. We use maps—metaphors, models, theories—to help us navigate life, but they remain simplified reflections of ***the terrain*** they represent. From a [***Buddhist*** perspective](https://en.wikipedia.org/wiki/Buddhism), these mental ‘***maps***’ are closely aligned with concepts in [**Buddhism**](https://en.wikipedia.org/wiki/Buddhism), which I would like to briefly list in this post.  Because Buddhism has an older, and equally-interesting, take on this.   
 
 Buddhism has it's own version of G[**General Semantics**](https://en.wikipedia.org/wiki/General_semantics)' exploration of “***The map is not the territory***”.  Buddhism explores **concepts**, **labels**, and habitual patterns of **thinking** so that any seeker or Buddhist can also identify this and other mental frameworks.  And Buddhism did this a couple thousand *years* before Western Philosophy existed. In the same way we remind ourselves that a *map* is not the *actual landscape* it depicts, Buddhist practice teaches us to look beyond the illusions and ***fixed ideas*** that keep us distanced from the ***genuine nature*** of *experience*.  
 
@@ -16,8 +16,8 @@ In Buddhism, our minds apply ***labels*** and concepts to everything we encounte
 
 A classic Buddhist teaching says we create a “conceptual overlay” atop our experiences. We cling to these overlays, believing our mental constructs are the reality. This is the foundational meaning of the phrase “***the map is not the territory***” in a Buddhist sense. Just as a map can be incomplete or even outdated, our concepts can reflect only partial truths or illusions. We see and *interpret* what our conditioned minds *want to see*.  
 
-<img src="https://julianwest.me/Blog/posts/images/zen-discarding-map.jpeg" alt="Alt text" width="400" height="350"> 
-
+<img src="https://julianwest.me/Blog/posts/images/zen-discarding-map.jpeg" alt="Alt text" width="400" height="350"> </br>
+<p><small><small> Discarding his map, for the territory... </small> </small> </p>
 
 ## Emptiness (Sunyata)
 
