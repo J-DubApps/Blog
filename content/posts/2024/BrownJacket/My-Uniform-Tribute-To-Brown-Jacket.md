@@ -14,7 +14,7 @@ TV show-but Fred Rogers was often seen wearing his "uniform" everywhere after th
     <img src="https://julianwest.me/Blog/posts/2024/BrownJacket/mister-rogers.jpeg" alt="Alt text" width="500" height="305">
 </div>
 
-There are many "uniform wearers" out there of varying extremes (*Mark Zuckerberg* is another one that comes to mind), but I alao know regular folk who dress this way too. Sometimes people just pick their thing, and they end up sticking with it for the long-haul. And with clothing, "*uniforming*" is a thinkg with people who must make a lot of decisions every day. And it eventually becomes a person's "look". <br /> 
+There are many "uniform wearers" out there of varying extremes (*Mark Zuckerberg* is another one that comes to mind), but I alao know regular folk who dress this way too. Sometimes people just pick their thing, and they end up sticking with it for the long-haul. And with clothing, "*uniforming*" is a thing with people who must make a lot of decisions every day. And it eventually becomes a person's "look". <br /> 
 
 I first thought "*uniforming*" was cartoonish, and said-so to a friend...who then politely reminded me that ***I*** had been "*uniforming*" since about 1989: <br />
 
