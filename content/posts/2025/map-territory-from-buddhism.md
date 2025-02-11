@@ -17,7 +17,7 @@ In Buddhism, our minds apply ***labels*** and concepts to everything we encounte
 A classic Buddhist teaching says we create a “conceptual overlay” atop our experiences. We cling to these overlays, believing our mental constructs are the reality. This is the foundational meaning of the phrase “***the map is not the territory***” in a Buddhist sense. Just as a map can be incomplete or even outdated, our concepts can reflect only partial truths or illusions. We see and *interpret* what our conditioned minds *want to see*.  
 
 <img src="https://julianwest.me/Blog/posts/images/zen-discarding-map.jpeg" alt="Alt text" width="400" height="350"> 
-<center><small><small> Discarding his map, for the territory... </small> </small> </center
+<center><small><small> Discarding his map, for the territory... </small> </small> </center>
 
 ## Emptiness (Sunyata)
 
