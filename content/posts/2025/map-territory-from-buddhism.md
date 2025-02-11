@@ -1,7 +1,7 @@
 +++
 date = '2025-02-11T00:12:30-06:00'
 draft = false
-title = 'Buddhism&#39;s own Mental Cartography'
+title = 'Buddhism&#39;s Cartography'
 description = "A companion piece to 'The Map Is Not The Territory'"
 type = 'post'
 tags = ["thought", "philosophy", "personal-development", "best-of"]
