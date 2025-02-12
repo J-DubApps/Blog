@@ -1,5 +1,5 @@
 +++
-date = '2026-02-12T13:17:51-06:00'
+date = '2025-02-12T13:17:51-06:00'
 draft = false
 title = 'You Aren&#39;t Outnumbered&#58;You&#39;re Out&ndash;Organized'
 description = "If non-violent organized protest is coming, do you understand Power Dynamics?"
