@@ -6,13 +6,13 @@ type = 'post'
 tags = ["writing", "quote", "books", "blog", "thought"]
 +++
 
-> “All tyrannies rule through fraud and force, but once the fraud is exposed they must rely exclusively on force.” 
+> “Ships don’t sink because of the water around them; ships sink because of the water that gets in them. Don’t let what’s happening around you get inside you and weigh you down.”
 
-### — George Orwell
+### — Winslow E. Dixon
 
 <br />
 
-> "When tyranny becomes law, rebellion becomes duty"
 
-### — Thomas Jefferson 
+> “All tyrannies rule through fraud and force, but once the fraud is exposed they must rely exclusively on force.” 
 
+### — George Orwell
