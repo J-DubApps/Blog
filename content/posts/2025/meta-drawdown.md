@@ -18,7 +18,7 @@ The ***tl;dr*** of it is: **I'm stepping back from day-to-day Facebook use, and 
 
 •	**Staying Reachable**: Don’t worry, I’m not disappearing! I remain active on **Facebook Messenger**, [LinkedIn](https://www.linkedin.com/in/julianwest/), and [Bluesky](https://bsky.app/profile/julianwest.me). You can *always* find my latest whereabouts from the ["***About***" menu](https://julianwest.me/Blog/about/) on this site [***julianwest.me***](https://julianwest.me).  <br />
 
-Of course I'm *still stopping-by* Facebook from time-to-time, keeping tabs when I get time. And my wife and closest friends/fam will keep me in the loop.  I won't be missing any big news, don't worry.😊
+Of course I'm *still stopping-by* Facebook from time-to-time, keeping tabs when I get downtime. And my wife and closest friends/fam will keep me in the loop.  I won't be missing any big news, don't worry.😊
 
 ## What's behind the change?
 
@@ -41,17 +41,17 @@ With a company so focused on collecting our data, there’s always the feeling t
 
 ## My Whereabouts Here On Out... 
 
-If you’re wondering where I’ll be posting my usual weird thoughts or (sometimes) witty takes—you're [on it *right now*](https://julianwest.me).  I'll be carrying-on [right here](https://julianwest.me/Blog/) and on [Bluesky](https://bsky.app/profile/julianwest.me). Just click on the ["Tags"](https://julianwest.me/Blog/tags/) area in the top menu to find topics of interest, or [**click here**](https://julianwest.me/Blog/nav-tips/) for other shortcuts around this blog.  Though I mostly talk about tech stuff, it's not all tech and there's always [Bluesky](https://bsky.app/profile/julianwest.me).  Chances are if I was gonna say it on Facebook, I'll be saying it on one of those places, instead.
+If you’re wondering where I’ll be posting my usual weird thoughts or (sometimes) witty takes—you're [on it *right now*](https://julianwest.me).  I'll be carrying-on [right here](https://julianwest.me/Blog/) and on [Bluesky](https://bsky.app/profile/julianwest.me). Just click on the ["Tags"](https://julianwest.me/Blog/tags/) area in the top menu to find topics of interest, or [**click here**](https://julianwest.me/Blog/nav-tips/) for other shortcuts around this blog.  Though I mostly talk about tech stuff, it's not all tech and there's always [Bluesky](https://bsky.app/profile/julianwest.me).  Chances are if I was gonna say it on Facebook, I'll be saying it on one of those places instead.
 
 And yes, I’m still on [LinkedIn](https://www.linkedin.com/in/julianwest/) for professional connections and the usual work stuff. And Facebook Messenger remains active of course.  I just don’t plan to actively use Facebook a lot.
 
 ## To my friends and family on Facebook etc... (love ya!)
 
-...**I wanna *stress*** this is just *my own personal choice*, and I am super supportive of my friends and family still enjoying Facebook / Insta / etc. *You do you*! I will still stop by now and then to keep-up with the folks I care about. But, *for me* anyway, it's about preserving my focus and attention these days.  I also plan invest more time and energy in real-life interactions.
+...**I wanna *stress*** this is just *my own personal choice* and I am super supportive of my friends and family who still use Facebook / Insta / etc. *You do you*! I will still stop by now and then to keep-up with the folks I care about. But, *for me* anyway, it's about preserving my focus and attention these days.  I also plan invest more time and energy in real-life interactions.
 
 ## Wrapping Up
 
-**So that's how it is with me in '25, on the social media stuff**.  **My Facebook is mostly just a "*Contact*" page** for family/friends to track me, now.  While I won't be posting anything new over there you might occassionally "*see me*" from my *Likes*-or the odd comment-reply now and then.  You can still reach me through Messenger, too.  As for whatever I'm "posting" these days -- well, it's always here on [julianwest.me](https://julianwest.me) or over on [Bluesky](https://bsky.app/profile/julianwest.me) (or [LinkedIn](https://www.linkedin.com/in/julianwest/) for work stuff). <br /> 
+**So that's how it is with me in '25, on the social media stuff**.  **My Facebook is mostly just a "*Contact*" page** for family/friends to track me, now.  While I won't be posting anything new over there you might occasionally "*see me*" from my *Likes*-or the odd comment-reply now and then.  You can still reach me through Messenger, too.  As for whatever I'm "posting" these days -- well, it's always here on [julianwest.me](https://julianwest.me) or over on [Bluesky](https://bsky.app/profile/julianwest.me) (or [LinkedIn](https://www.linkedin.com/in/julianwest/) for work stuff). <br /> 
 
 Cheers and best wishes for an awesome 2025! --*Julian* <br /> <br />
 
