@@ -36,7 +36,7 @@ Buddhism also uses the idea of ***upaya***, or “*skillful means*,” to descri
 
 ### Letting Go of Attachment to *Directly-Experience* The "Territory"
 
-A notable pitfall in using mental models ("***maps***") is attachment. We grow so comfortable with a particular map or technique that we *cling* to it, and our Ego wants to always ***be right***. This can create [dogmatic](https://en.wiktionary.org/wiki/dogmatism) thinking: “*My map is better than yours*,” or “*This is the only correct path*.” In Buddhism, *clingin*g*—even to something labeled ‘*spiritual*’ or ‘*sacred*’—**can obstruct our ability to see the world clearly**.  
+A notable pitfall in using mental models ("***maps***") is attachment. We grow so comfortable with a particular map or technique that we *cling* to it, and our Ego wants to always ***be right***. This can create [dogmatic](https://en.wiktionary.org/wiki/dogmatism) thinking: “*My map is better than yours*,” or “*This is the only correct path*.” In Buddhism, *clinging*—even to something labeled ‘*spiritual*’ or ‘*sacred*’—**can obstruct our ability to see the real, actual world clearly**.  
 
 In [**Zen**](https://en.wikipedia.org/wiki/Zen) stories, teachers sometimes appear to contradict earlier lessons, **not** *because they lack internal consistency*, but because they point out that students have *mistaken* the ***map*** for the territory. By pulling away the student’s reliance on a *single viewpoint*, they provoke the insight that reality has no single vantage point to fixate upon.  
 
