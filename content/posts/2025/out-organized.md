@@ -15,7 +15,7 @@ But Americans have turned that pendulum (and politics in general) beyond civics,
 
 And why would they?  Our country has only been in this territory of "arguing beyond Civics" a few times: 1861-1865, Women's Sufferage, or Civil Rights — to name a few.  They were all territory where anger and viciousness could threaten dismantling our norms. Political Majorities, during times like this anyway, tend to tell you that it's *not* as bad as you think it is.  They usually say this right after a controversial law passes, some norm crumbles, or institution is challenged.  
 
-I get it: *I know* a significant portion of American society is saying, "*this time it feels different*".  I hear that a lot.  People seem to be concerned that the pendulum, that I just mentioned *above*, has been forcefully-grabbed by a *minority*. That the pendulum is being influenced, held down maybe.  All I can say to *any* of that is this: 
+I get it: *I know* a significant portion of American society is saying, "*this time it feels different*".  I hear that a lot.  People seem to be concerned that the pendulum, that I just mentioned *above*, has been forcefully-grabbed by a *minority*. That the pendulum is being influenced, held down maybe.  All I can say to *any* of that, to those folks, is this: 
 
 I live in hope and don't believe (and *belief* is, after all, partially *hope*-based) that we are really in some kind of "coup", as people claim. But maybe I am wrong, and *if others do* sincerely believe the US *is* undergoing some kind of coup—then **I ask them three simple questions which I haven't heard *any* answers on from our younger generations**:  
 
