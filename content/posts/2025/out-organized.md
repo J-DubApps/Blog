@@ -75,6 +75,6 @@ No matter what you believe, no matter your political persuasion, or whatever you
 
 **Are you failing to meet this moment**?  With all the social media memes, and "***being right***", aren't you giving-up ***being effective***?  If your cause (whatever it is) is *truly just*: without effective means to spread your message beyond the *social media bubble*, you're just leaving any like-minded supporters in the dark.  If you never peacefully-*organize* ***and***, embrace non-violent pursuit of your goal, and are willing to accept the risk of ***force*** used *against you*—then what are you even angry and shouting for?  Why all the memes?  Because they make you feel right, or feel better?  *I get it*—maybe you feel powerless.  But ***Power Dynamics*** say you have power, if you can peacefully move to use it.  
 
-I mean...why signal virtue, or justice...or whatever you are passionate about...*then not peacefully-organize*, and be willing to do the work to convince others to peacefully join you?  Even if it means potential harms?  Until some people see that, you are just part of the noise.
+I mean...why signal virtue, seek justice, or defend democracy (whatever you are passionate about)...*then not peacefully-organize*, and be willing to *do the work* to convince others to peacefully join you?  Are you committed enough that you understand non-violence will still invite physical ***force***, and potential harm?  Until some people see that, you are just part of the noise.  
 
 Just food for thought.
