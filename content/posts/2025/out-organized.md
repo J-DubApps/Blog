@@ -11,17 +11,17 @@ tags = ["thought", "civics", "opinion", "history"]
 
 *Whichever* your political persuasions, each political majority gets its day in the sun (in power)—and the US pendulum swings, in its usual unpredictable cycle, to "move the sunshine" to the political minority.  **That's the whole ballgame in US politics, *usually***.  
 
-But Americans have turned that pendulum (and politics in general) beyond civics, and into tribal sports—a new territory for the US, but not unheard of in history. The problem here arises when one side misunderstands: it's a *contact sport* involving Power Dynamics I don't believe Gen-Z'ers or Millennials understand, or have experience thinking about.  
+But Americans have turned that pendulum (and politics in general) beyond civics, and into tribal sports—a new territory for the US, but not unheard of in history. The problem here arises when one side is mostly screaming online: protesting is a *contact sport* involving the "*Power Dynamics of protest*".  I don't believe many Gen-Z'ers or Millennials understand, or have experience thinking about this.  
 
-And why would they?  Our country has only been in this territory of "arguing beyond Civics" a few times: 1861-1865, Women's Sufferage, or Civil Rights — to name a few.  They were all territory where anger and viciousness could threaten dismantling our norms. Political Majorities, during times like this anyway, tend to tell you that it's *not* as bad as you think it is.  They usually say this right after a controversial law passes, some norm crumbles, or institution is challenged.  
+And why would they?  Our country has only been in this territory of "arguing beyond Civics" a few times: 1861-1865, Women's Sufferage, or Civil Rights — to name a few.  They were all territory where anger and viciousness threatened dismantling our norms. Political Majorities, during times like this anyway, tend to tell you that it's *not* as bad as you think it is.  They usually say this right after a controversial law passes, some norm crumbles, or institution is challenged.  
 
-I get it: *I know* a significant portion of American society is saying, "*this time it feels different*".  I hear that a lot.  People seem to be concerned that the pendulum I mentioned *above* has been forcefully-grabbed by a *minority*. That the pendulum is being influenced, held down maybe. I've heard this on *both sides*.  And this time, in 2025, it's the word "*coup*". All I can say to *any* of that, is this: 
+I get it: *I know* a significant portion of American society is saying, "*this time it feels different*".  I hear that a lot.  People seem to be concerned that the pendulum I mentioned *above* has been forcefully-grabbed by a *minority*. That the pendulum is being influenced, held down maybe. I've heard this on *both sides*.  And this time, in 2025, it's the word "*coup*". **All I can say to *any* of that, is this**: 
 
-I live in hope and don't believe (and *belief* is, after all, partially *hope*-based) that we are really in some kind of "coup", as people claim. But if I am *wrong* (certainly open to that), and *if others do* sincerely believe the US *is* undergoing some kind of coup and things are *dire*—then **I ask them three simple questions which I haven't heard *anyone* answer**:  
+I live in hope and am not sure I believe (and *belief* is, after all, partially *hope*-based) that we are in some kind of "coup", as people claim, but I am open to being *wrong* about that. So *if others do* sincerely believe the US *is* undergoing some kind of coup and things really are *dire*—then **I ask them three simple questions which I haven't heard *anyone* answer**:  
 
 1. **Do you intend to convince non "*like-minded*" people to your view, instead of just brushing people off as "*lost*" and un-winnable toward at least *some* of your concerns, or points-of-view**?  ***hint***: if you can't convince at least *some others* outside of your core groups to an emergency -- you'll *never* organize to advance your cause.
 
-3. **Isn't it time to get out of the social media bubbles, stop posting memes, and pursue peaceful action**?
+2. **Isn't it time to get out of the social media bubbles, stop posting memes, and pursue peaceful action**?
 
 3. **Isn't it time to *stop* just "*being right*", and *start* being *effective***?
 
@@ -53,7 +53,7 @@ So a healthy ***power*** structure, in a healthy Republic (bound by Democracy) w
 
 But peaceful non-violent protests, in high enough numbers in Democracies, can inoculate themselves from any deadly-aspects of ***force***—but *only* if they're willing to risk inviting (and being subject to) deadly ***force*** in the *first place*.  It's a terrible [Catch-22](https://en.wiktionary.org/wiki/Catch-22), but this is the risk and [poker bluff](https://en.wikipedia.org/wiki/Bluff_(poker)) movements have leveraged since time immemorial. 
 
-#### Ways to Manage the ***Force Dynamics*** of Weak or Corrupt ***Power***
+#### Ways to Manage the ***Force Dynamics*** in Protesting Weak or Corrupt *Power*
 
 **Any non-violent change requires one side to**:  
 
@@ -63,7 +63,7 @@ But peaceful non-violent protests, in high enough numbers in Democracies, can in
 4. **Be engaging with people who may hate, dislike, or not agree with you.**
 5. **Be engaging with like-minded people in *places* you may not have considered looking**.  One area of effective non-violent protest includes deep fraternization with police and enlisted military members: a well-known method of inoculating your movement from the deadly harms risked when ***force*** gets used.  Because *they* will be the humans asked to employ ***force*** upon you.  Too many movements isolate from, and attack, potentially sympathetic humans working in the police, military, etc.  I point back to #2 above: if your cause it right, why aren't you engaging everyone?  
 
-#### The ***Force Dynamics*** In Action
+#### The ***Force Dynamics*** of Protest In Action
 
 Those *in* ***power*** who are dependent on raw ***force*** occurring—such as violent crackdowns to maintain their ***power***—will always risk collapse of their support and effectiveness. They may achieve momentary gains after invoking ***force***; however, over the long term it generates *more* ***resistance***—which undermines ***force***'s original objective.  *And that*, in most Democratic societies, ultimately reduces ***power***.  I'm sorry if it sounds like I am boiling all this down to very simple math: but it is 100% the case that, **if you aren't willing to organize and *peacefully* engage with *power*—while *inviting the possibility* of *force***—you're never going to move beyond the memes, banners, and social media noise of today.  
 
@@ -73,8 +73,8 @@ Those *in* ***power*** who are dependent on raw ***force*** occurring—such as 
 
 No matter what you believe, no matter your political persuasion, or whatever your cause: **I hope we can all agree on the hope that our society moves on from this troubling era, in peace**.  We have so many challenges with technology, economic disruption, and things humans need their governments *and* citizens to *work-together* on solving those challenges.  I have no idea what the future brings, but I live in hope our country can somehow limp along to meet that future *together*. It's *all* I can do.  **Because nobody has organized yet**.  **Nobody outside of social media bubbles are trying to reach *me***. **So I advise those that *don't agree with me* that we're going to be fine**...***to consider the following***: 
 
-With all the social media memes, and messaging, and "***being right***"...aren't you giving-up ***being effective***? **Are you failing to meet this moment, with peaceful action**?   If your cause (whatever it is) is *truly just*: without effective means to spread your message beyond the *social media bubble*, you're just leaving potential like-minded supporters in the dark. If you never peacefully-*organize* ***and*** embrace non-violent pursuit of your goal—and are willing to accept the risk of ***force*** used *against you*—then what is the point?  Sure, free speech is great, but why all the memes with no action? *I get it*—maybe you feel powerless.  But ***Power Dynamics*** tell you: ***you have power***, if you can peacefully organize and move to use it.  
+With all the social media memes, and messaging, and "***being right***"...aren't you giving-up ***being effective***? **Are you failing to meet this moment, with peaceful action**?   If your cause (whatever it is) is *truly just*: without effective means to spread your message beyond the *social media bubble*, you're just leaving potential like-minded supporters in the dark. If you never peacefully-*organize* ***and*** embrace non-violent pursuit of your goal—and are willing to accept the risk of ***force*** used *against you*—then what is the point?  Sure, free speech is great, but why all the memes with no action? *I get it*—maybe you feel powerless. But the "***Power Dynamics*** of Protest" tell you: ***you have power*** here, if you can peacefully organize and move to use it.  
 
-I mean...why signal virtue, seek justice, or defend democracy (whatever you are passionate about)...*then not peacefully-organize*, and be willing to *do the work* to convince others to peacefully join you?  Are you committed enough that you understand non-violence will still invite physical ***force***, and potential harm?  Until some people see that, you are just part of the noise.  
+I mean...why signal virtue, seek justice, or defend democracy (whatever you are passionate about)...and *then not peacefully-organize*, and be willing to *do the work* to convince others to peacefully join you?  Are you committed enough that you understand non-violent protest may invite physical ***force***, and potential harm?  Until some our younger, motivated meme-making, "*online activits*" grapple with this, you are just part of the noise.  
 
 Just food for thought.
