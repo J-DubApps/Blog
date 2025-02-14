@@ -17,7 +17,7 @@ And why would they?  Our country has only been in this territory of "arguing bey
 
 I get it: *I know* a significant portion of American society is saying, "*this time it feels different*".  I hear that a lot.  People seem to be concerned that the pendulum, that I just mentioned *above*, has been forcefully-grabbed by a *minority*. That the pendulum is being influenced, held down maybe.  All I can say to *any* of that, to those folks, is this: 
 
-I live in hope and don't believe (and *belief* is, after all, partially *hope*-based) that we are really in some kind of "coup", as people claim. But maybe I am wrong, and *if others do* sincerely believe the US *is* undergoing some kind of coup—then **I ask them three simple questions which I haven't heard *any* answers on from our younger generations**:  
+I live in hope and don't believe (and *belief* is, after all, partially *hope*-based) that we are really in some kind of "coup", as people claim. But if I am wrong, and *if others do* sincerely believe the US *is* undergoing some kind of coup and things are *dire* as they say—then **I ask them three simple questions which I haven't heard *anyone* answer**:  
 
 1. **Do you intend to convince non "*like-minded*" people to your view, instead of just brushing people off as "*lost*" and un-winnable toward at least *some* of your concerns, or points-of-view?** (hint: if you can't convince at least *some others* outside of your group to an emergency -- you'll never win or be effective for your cause)
 
