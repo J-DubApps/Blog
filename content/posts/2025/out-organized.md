@@ -11,15 +11,15 @@ tags = ["thought", "civics", "opinion", "history"]
 
 *Whichever* your political persuasions, each political majority gets its day in the sun (in power)—and the US pendulum swings, in its usual unpredictable cycle, to "move the sunshine" to the political minority.  **That's the whole ballgame in US politics, *usually***.  
 
-But Americans have turned that pendulum (and politics in general) beyond civics, and into tribal sports—a new territory for the US, but not unheard of in history. The problem here arises when one side misunderstands: it's a contact sport involving a Dynamic I don't believe Gen-Z'ers or Millennials understand or have experience thinking about.  
+But Americans have turned that pendulum (and politics in general) beyond civics, and into tribal sports—a new territory for the US, but not unheard of in history. The problem here arises when one side misunderstands: it's a *contact sport* involving Power Dynamics I don't believe Gen-Z'ers or Millennials understand, or have experience thinking about.  
 
 And why would they?  Our country has only been in this territory of "arguing beyond Civics" a few times: 1861-1865, Women's Sufferage, or Civil Rights — to name a few.  They were all territory where anger and viciousness could threaten dismantling our norms. Political Majorities, during times like this anyway, tend to tell you that it's *not* as bad as you think it is.  They usually say this right after a controversial law passes, some norm crumbles, or institution is challenged.  
 
-I get it: *I know* a significant portion of American society is saying, "*this time it feels different*".  I hear that a lot.  People seem to be concerned that the pendulum, that I just mentioned *above*, has been forcefully-grabbed by a *minority*. That the pendulum is being influenced, held down maybe.  All I can say to *any* of that, to those folks, is this: 
+I get it: *I know* a significant portion of American society is saying, "*this time it feels different*".  I hear that a lot.  People seem to be concerned that the pendulum I mentioned *above* has been forcefully-grabbed by a *minority*. That the pendulum is being influenced, held down maybe. I've heard this on *both sides*.  And this time, in 2025, it's the word "*coup*". All I can say to *any* of that, is this: 
 
-I live in hope and don't believe (and *belief* is, after all, partially *hope*-based) that we are really in some kind of "coup", as people claim. But if I am wrong, and *if others do* sincerely believe the US *is* undergoing some kind of coup and things are *dire* as they say—then **I ask them three simple questions which I haven't heard *anyone* answer**:  
+I live in hope and don't believe (and *belief* is, after all, partially *hope*-based) that we are really in some kind of "coup", as people claim. But if I am *wrong* (certainly open to that), and *if others do* sincerely believe the US *is* undergoing some kind of coup and things are *dire*—then **I ask them three simple questions which I haven't heard *anyone* answer**:  
 
-1. **Do you intend to convince non "*like-minded*" people to your view, instead of just brushing people off as "*lost*" and un-winnable toward at least *some* of your concerns, or points-of-view?** (hint: if you can't convince at least *some others* outside of your group to an emergency -- you'll never win or be effective for your cause)
+1. **Do you intend to convince non "*like-minded*" people to your view, instead of just brushing people off as "*lost*" and un-winnable toward at least *some* of your concerns, or points-of-view**?  ***hint***: if you can't convince at least *some others* outside of your core groups to an emergency -- you'll *never* organize to advance your cause.
 
 3. **Isn't it time to get out of the social media bubbles, stop posting memes, and pursue peaceful action**?
 
