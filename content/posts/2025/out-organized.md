@@ -2,7 +2,7 @@
 date = '2025-02-14T12:17:51-06:00'
 draft = false
 title = 'You Aren&#39;t Outnumbered&#58;You&#39;re Out&ndash;Organized'
-description = "If non-violent organized protests happen in 2025 or beyond, do you understand Power Dynamics?"
+description = "If non-violent organized protests happen in 2025 or beyond, do you understand Power Dynamics of Protesting?"
 type = 'post'
 tags = ["thought", "civics", "opinion", "history"]
 +++
