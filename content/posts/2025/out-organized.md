@@ -65,7 +65,7 @@ But peaceful non-violent protests, in high enough numbers in Democracies, can in
 
 #### The ***Force Dynamics*** In Action
 
-Those *in* ***power*** who are dependent on raw ***force*** occurring—such as violent crackdowns to maintain their ***power***—will always risk collapse of their support and effectiveness. They may achieve momentary gains after invoking ***force***; however, over the long term it generates *more* ***resistance***—which undermines ***force***'s original objective.  *And that*, in most Democratic societies, ultimately reduces ***power***.  I'm sorry if it sounds like I am boiling all this down to very simple math: but it's 100% the case that if you aren't willing to engage with ***power*** by inviting the possibility ***force***, 
+Those *in* ***power*** who are dependent on raw ***force*** occurring—such as violent crackdowns to maintain their ***power***—will always risk collapse of their support and effectiveness. They may achieve momentary gains after invoking ***force***; however, over the long term it generates *more* ***resistance***—which undermines ***force***'s original objective.  *And that*, in most Democratic societies, ultimately reduces ***power***.  I'm sorry if it sounds like I am boiling all this down to very simple math: but it is 100% the case that, **if you aren't willing to organize and *peacefully* engage with *power*—while *inviting the possibility* of *force***—you're never going to move beyond the memes, banners, and social media noise of today.  
 
 ### The Takeaway
 
