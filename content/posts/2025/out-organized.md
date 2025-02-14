@@ -51,7 +51,7 @@ The [***Force Dynamics***](https://en.wikipedia.org/wiki/Force_dynamics#Context)
 
 So a healthy ***power*** structure, in a healthy Republic (bound by Democracy) will leverage ***power*** to achieve win/win compromises and avoid escalation. The *problem* is that majorities engaging in single-party rule may not go the route of win/win compromise.  And the higher the stakes, the more likely ***force*** will be leveraged by those in ***power*** (especially a majority that is a slim one, and bitterly-dedicated to its own cause).  
 
-But peaceful non-violent protests, in high enough numbers in Democracies, can inoculate themselves from any deadly-aspects of ***force***—but *only* if they're willing to risk inviting (and being subject to) deadly ***force*** in the *first place*.  It's a terrible [Catch-22](https://en.wiktionary.org/wiki/Catch-22), but this is the risk and [poker bluff](https://en.wikipedia.org/wiki/Bluff_(poker)) movements have leveraged since time immemorial. 
+But peaceful non-violent protests, in high enough numbers in Democracies, can inoculate themselves from any deadly-aspects of ***force***—but *only* if they're willing to risk inviting (and being subject to) deadly ***force*** *in the first place*.  It's a terrible [Catch-22](https://en.wiktionary.org/wiki/Catch-22), but this is the risk and [poker bluff](https://en.wikipedia.org/wiki/Bluff_(poker)) movements have leveraged since time immemorial. 
 
 #### Ways to Manage the ***Force Dynamics*** in Protesting Weak or Corrupt *Power*
 
