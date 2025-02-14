@@ -11,7 +11,7 @@ tags = ["thought", "civics", "opinion", "history"]
 
 *Whichever* your political persuasions, each political majority gets its day in the sun (in power)—and the US pendulum swings, in its usual unpredictable cycle, to "move the sunshine" to the political minority.  **That's the whole ballgame in US politics, *usually***.  
 
-But Americans have turned that pendulum (and politics in general) beyond civics, and into tribal sports—a new territory for the US, but not unheard of in history. The problem here arises when one side is mostly screaming online: protesting is a *contact sport* involving the "*Power Dynamics of protest*".  I don't believe many Gen-Z'ers or Millennials understand, or have experience thinking about this.  
+But Americans have turned that pendulum (and politics in general) beyond civics, and into tribal sports—not exactly new territory for the US, but can be dangerous and contentious. The problem here arises when each side is mostly *online activism*: protesting is a *contact sport* involving the "*Power Dynamics of protest*".  I worry Gen-Z'ers and Millennials, who are loudly-concerned about these times *online*, have less experience thinking about *how* to organize.  
 
 And why would they?  Our country has only been in this territory of "arguing beyond Civics" a few times: 1861-1865, Women's Sufferage, or Civil Rights — to name a few.  They were all territory where anger and viciousness threatened dismantling our norms. Political Majorities, during times like this anyway, tend to tell you that it's *not* as bad as you think it is.  They usually say this right after a controversial law passes, some norm crumbles, or institution is challenged.  
 
