@@ -45,7 +45,7 @@ In any Democracy ***power*** is, by its very nature, successful in hindsight. *T
 
 So verily I must say unto any organizer or peaceful protester, whatever your cause—when you're *done talking* about "being *right*" (whatever you're upset about) the domains of non-violent *action* and *effectiveness* are there to remind you: **whatever you want, it will never be a comfort-zone**.  And I get it: nobody wants to contemplate having any kind of ***force*** of the *State* used against them.  But contemplate, they must, and decide if any cause is worth the pain.    
 
-### Managing, and Using, the Power vs. Force Dynamic
+### Managing, and Using, the Power vs. Force Dynamic in Peaceful Protest
 
 The [***Force Dynamics***](https://en.wikipedia.org/wiki/Force_dynamics#Context) of any *State* (how a government, and those running it, *think* about ***force*** vs *using* ***force***) is a subject of long-study.   In Republics bound by Democracy, the Dynamics of ***force*** get fairly simple, when you boil it all down: people *in* ***power***, and effective opposition organizers alike, tend to understand that ***power*** lies *in* their numbers.  Organizing a peaceful-movement is a kind of ***power*** itself, the power of numbers of people willing to suffer for the change they believe in. On one side, using the ***power*** of their numbers to avoid escalation and engage in win/win compromises is one positive use of ***power***—and has been the *norm* in this country because of the institution of the ballot box and the principle of "one man, one vote".  It is rare that movements in our history endured violent struggle, but the potential is never zero (see Revolutionary War, Civil War, and Civil Rights eras—to name a few).  
 
