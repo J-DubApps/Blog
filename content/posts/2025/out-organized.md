@@ -1,29 +1,33 @@
 +++
-date = '2025-02-12T13:17:51-06:00'
-draft = true
+date = '2025-02-14T13:17:51-06:00'
+draft = false
 title = 'You Aren&#39;t Outnumbered&#58;You&#39;re Out&ndash;Organized'
-description = "If non-violent organized protest is coming, do you understand Power Dynamics?"
+description = "If non-violent organized protests happen in 2025 or beyond, do you understand Power Dynamics?"
 type = 'post'
-tags = ["thought", "civics", "opinions"]
+tags = ["thought", "civics", "opinion", "history"]
 +++
 > “*We are not outnumbered. We are out-organized*.”  
 > — Malcolm X
 
 *Whichever* your political persuasions, each political majority gets its day in the sun (in power)—and the US pendulum swings, in its usual unpredictable cycle, to "move the sunshine" to the political minority.  **That's the whole ballgame in US politics, *usually***.  
 
-But Americans have turned that pendulum (and politics in general) beyond civics, and into tribal football game—a new territory beyond contact sport. That territory has only *rarely* been explored in intense harmful eras of our country (1861-1865 for example). A territory where anger and viciousness seem to threaten dismantling of all norms, and some say could lead to the end of the country as we know it.  That is how it *seems* to some people, anyway.  Majority parties, during times like this anyway, tend to tell you that it's *not* the way you claim it seems.  Usually right after a controversial law is enacted, some norm crumbles, or institution is challenged.  
+But Americans have turned that pendulum (and politics in general) beyond civics, and into tribal sports—a new territory for the US, but not unheard of in history. The problem here arises when one side misunderstands: it's a contact sport involving a Dynamic I don't believe Gen-Z'ers or Millennials understand or have experience thinking about.  
 
-I get it: *I know* a portion of American society is saying, "*this time it feels different*".  I hear a lot of people saying that pendulum, that I just mentioned *above*,  has been forcefully-grabbed by a minority.  That the pendulum is being influenced, held down maybe.  All I can say to *any* of that is this: 
+And why would they?  Our country has only been in this territory of "arguing beyond Civics" a few times: 1861-1865, Women's Sufferage, or Civil Rights — to name a few.  They were all territory where anger and viciousness could threaten dismantling our norms. Political Majorities, during times like this anyway, tend to tell you that it's *not* as bad as you think it is.  They usually say this right after a controversial law passes, some norm crumbles, or institution is challenged.  
 
-I live in hope, and while I don't believe (and *belief* is, after all, partially *hope*-based) that we are really in some kind of "coup" as people claim. But maybe I am wrong. I am open to that, but *if others do* sincerely believe the US is undergoing some kind of coup, I ask them two questions—which I haven't heard any answers to:  
+I get it: *I know* a significant portion of American society is saying, "*this time it feels different*".  I hear that a lot.  People seem to be concerned that the pendulum, that I just mentioned *above*, has been forcefully-grabbed by a *minority*. That the pendulum is being influenced, held down maybe.  All I can say to *any* of that is this: 
 
-1. **Do you intend to convince non "*like-minded*" people to your view, instead of just brushing people off as "*lost*" and un-winnable toward at least *some* of your points-of-view?** (hint: if you can't convince at least *some others* outside of your group to an emergency -- you'll never win or be effective for your cause)  
+I live in hope and don't believe (and *belief* is, after all, partially *hope*-based) that we are really in some kind of "coup", as people claim. But maybe I am wrong, and *if others do* sincerely believe the US *is* undergoing some kind of coup—then **I ask them three simple questions which I haven't heard *any* answers on from our younger generations**:  
 
-2. **Isn't it time for you to *stop* "being *right*", and *start* being *effective*?**
+1. **Do you intend to convince non "*like-minded*" people to your view, instead of just brushing people off as "*lost*" and un-winnable toward at least *some* of your concerns, or points-of-view?** (hint: if you can't convince at least *some others* outside of your group to an emergency -- you'll never win or be effective for your cause)
+
+3. **Isn't it time to get out of the social media bubbles, stop posting memes, and pursue peaceful action**?
+
+3. **Isn't it time to *stop* just "*being right*", and *start* being *effective***?
 
 And 3rd question any organizer (*whichever* side you're on) should ask themselves is: what does "*effectiveness*" look like?   
 
-I think before any organizer can answer the above questions—they really need to learn and understand ***Power Dynamics*** of the *State* in any human society. Well, if they want to be *effective* and win their cause, anyway...  
+I think before any organizer can answer the above questions—they ***really need*** **to learn and understand the** ***Power Dynamics*** **of the *State* in any human society**. Well, if they want to be *effective* and bring people to their cause, anyway...  
 
 ### Force vs. Power: Understanding the Difference
 
@@ -67,4 +71,10 @@ Those *in* ***power*** who are dependent on raw ***force*** occurring—such as 
 
 **I believe in peace** and never want to see any society or country (*especially* my own) endure harms from *peaceful* protest.  I do not support violence used by movements of any kind.   The purpose of this write-up is to remind people that: if a perceived threat against the country is real, and a cause is just...it is *not enough* talk and continue *being right* about your complaint.  You must make your case and convince people.  If you believe ***power*** is being abused against you, or others, you must be willing to: **a**. never stop peacefully-engaging with others to make your case, and **b.** be willing to take non-violent actions to protest and move your cause forward, understanding the dynamic between ***Power*** and ***Force***.  
 
-No matter what you believe, no matter your political persuasion, or your cause: I hope we can all agree our society needs to move past this era in peace.  We have so many challenges with technology (ai), economic disruption, and things humans need their governments *and* citizens to *work-together* to solve.  I have no idea what the future brings, but I live in hope our country can meet that future together. It's all I can do. And I advise those that *don't agree with me* to consider: if you don't find effective means to spread your message beyond the *social media bubble*, beyond your own like-minded supporters—if you never peacefully-*organize* and become willing to accept the risk of ***force*** used against you—then you may not convince others to peacefully *stand-up, and stand with you*.
+No matter what you believe, no matter your political persuasion, or whatever your cause: I hope we can all agree on the hope that our society needs to move past this troubled era, in peace.  We have so many challenges with technology (AI, etc), economic disruption, and things humans need their governments *and* citizens to *work-together* to solve.  I have no idea what the future brings, but I live in hope our country can somehow limp along to meet that future *together*. It's all I can do. **And I advise those that *don't agree with me* to consider the following**: 
+
+**Are you failing to meet this moment**?  With all the social media memes, and "***being right***", aren't you giving-up ***being effective***?  If your cause (whatever it is) is *truly just*: without effective means to spread your message beyond the *social media bubble*, you're just leaving any like-minded supporters in the dark.  If you never peacefully-*organize* ***and***, embrace non-violent pursuit of your goal, and are willing to accept the risk of ***force*** used *against you*—then what are you even angry and shouting for?  Why all the memes?  Because they make you feel right, or feel better?  *I get it*—maybe you feel powerless.  But ***Power Dynamics*** say you have power, if you can peacefully move to use it.  
+
+I mean...why signal virtue, or justice...or whatever you are passionate about...*then not peacefully-organize*, and be willing to do the work to convince others to peacefully join you?  Even if it means potential harms?  Until some people see that, you are just part of the noise.
+
+Just food for thought.
