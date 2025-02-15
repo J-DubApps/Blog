@@ -15,7 +15,7 @@ When was the last time you said, “*I know this already*” and glossed over an
 
 ## The Danger of Assumed Knowledge
 
-#### The Illusion of Mastery
+#### The *Illusion* of Mastery
 
 One of the biggest barriers to real learning is the illusion of mastery. As soon as we tell ourselves that we’ve “*got it*,” the brain effectively filters out any new or contradictory information. We walk into a situation expecting to see what we’ve always seen, so we miss subtle signs that our knowledge might be incomplete or outdated. I covered this concept recently in "[The Map Is Not The Territory](https://julianwest.me/Blog/the-map-is-not-the-territory/)."  
 
