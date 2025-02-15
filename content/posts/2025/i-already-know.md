@@ -2,7 +2,7 @@
 date = '2025-02-15T00:12:30-06:00'
 draft = false
 title = 'You Can&#39;t Learn What You Think You Already Know'
-description = "'I already know this' can block genuine learning and insight."
+description = "'I already know this' blocks learning and insight."
 type = 'post'
 tags = ["thought", "philosophy", "personal-development", "mindfulness", "best-of", "skill-development"]
 +++
