@@ -62,4 +62,4 @@ The most significant breakthroughs often spring from what we *don’t know*—or
 
 So the next time you catch yourself brushing off a refresher course or discounting an idea because you “already know it,” pause. Ask: “Am I leaving space in my cup for something new?” You might be surprised at just how much more you can learn—and how rewarding it can be to remain, in at least one sense, a humble beginner.  
 
-<small> <small> <i> Remember: The best experts out there are those who admit—no matter how advanced they become—that there’s always more to discover. Keep that door open, and fresh insights will find their way in. </i> </small> </small>
+<small> <small> <i> Remember: The best experts out there are those who admit—no matter how advanced they become—that there’s always more to discover. Keep that door open, so fresh insights can find their way in. </i> </small> </small>
