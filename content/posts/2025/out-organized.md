@@ -17,7 +17,7 @@ And *why would they*? Our country has only been in this territory of "arguing *b
 
 I get it: *I know* a significant portion of American society is saying, "*this time it feels different*".  I hear that a lot.  People seem to be concerned that the pendulum I mentioned *above* has been forcefully-grabbed by a *minority*. That the pendulum is being influenced, held down maybe. I've heard this on *both sides*.  And this time, in 2025, it's the word "*coup*". **All I can say to *any* of that, is this**: 
 
-I live in hope, and so I believe (and *belief*, after all, can involve *hope*) we may not be in some kind of "coup", as people claim: but I am open to being *wrong* about that. So *if others do* sincerely believe the US *is* undergoing a coup and things really are *dire*—then **I ask them three simple questions which I haven't heard *anyone* answer**:  
+I live in hope, and so I believe (and *belief*, after all, often involves *hope*) we may not be in some kind of "coup", as people claim: but I am open to being *wrong* about that. So *if others do* sincerely believe the US *is* undergoing a coup and things really are *dire*—then **I ask them three simple questions which I haven't heard *anyone* answer**:  
 
 1. **Do you intend to convince non "*like-minded*" people to your view, instead of just brushing people off as "*lost*" and un-winnable toward at least *some* of your concerns, or points-of-view**?  ***hint***: if you can't convince at least *some others* outside of your core groups to an emergency -- you'll *never* organize to advance your cause.
 
