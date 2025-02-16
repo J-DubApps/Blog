@@ -13,17 +13,17 @@ tags = ["thought", "civics", "opinion", "history"]
 
 But Americans have turned that pendulum (and politics in general) on it's side, and [*beyond* civics](https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack). Our civic processes have become tribal sports—not exactly new territory for the US, but can be dangerous and contentious. The problem here arises when each side is mostly *online activism*: protesting is a *contact sport* involving the "*Power Dynamics of protest*".  I worry Gen-Z'ers and Millennials, who are loudly-concerned about these times *online*, have less experience thinking about *how* to organize in the real world.  
 
-And *why would they*? Our country has only been in this territory of "arguing *beyond* our Civic process" a few times: 1861-1865, Women's Suffrage, or Civil Rights — to name a few.  They were all territory where anger and viciousness threatened dismantling our norms. Political Majorities, during times like this anyway, tend to tell you that it's *not* as bad as you think it is.  They usually say this right after a controversial law passes, some norm crumbles, or institution is challenged.  
+And *why would they*? Our country has only been in this territory of "arguing *beyond* our Civic process" a few times: 1861-1865, Women's Suffrage, or Civil Rights — to name a few. They were all territory where anger and viciousness threatened dismantling our norms. Political Majorities, during times like this anyway, tend to tell you that it's *not* as bad as you think it is. They usually say this right after a controversial law passes, some norm crumbles, or institution is challenged.  
 
 I get it: *I know* a significant portion of American society is saying, "*this time it feels different*."  I hear that a lot.  People seem to be concerned that the pendulum I mention *above* has been forcefully-grabbed by a *minority*. That the pendulum is being influenced, held down maybe. I've heard this on *both sides*.  And here in 2025, it's the word "*coup*" again, as it was in 2021. **All I can say to *any* of that, is this**: 
 
 I live in hope, and so I believe (and *belief*, after all, often involves *hope*) we may not be in some kind of "coup", as people claim: but I am open to being *wrong* about that, and I am worried too. So *if others do* sincerely believe the US *is* undergoing a coup and things really are *dire*—then **I ask them three simple questions which I haven't heard *anyone* answer**:  
 
-1. **Do you intend to convince non "*like-minded*" people to your view, instead of just brushing people off as "*lost*" and un-winnable toward at least *some* of your concerns, or points-of-view**?  ***hint***: if you can't convince at least *some others* outside of your core groups to an emergency -- you'll *never* organize to advance your cause.
+1. **Do you intend to convince non "*like-minded*" people to your view, instead of just brushing people off as "*lost*" and un-winnable toward at least *some* of your concerns, or points-of-view**?  ***hint***: if you can't convince at least *some others* outside of your core groups to an emergency -- you'll *never* organize to advance your cause.  
 
-2. **Isn't it time to get out of the social media bubbles, stop posting memes, and pursue peaceful action**?
+2. **Isn't it time to get out of the social media bubbles, stop posting memes, and pursue peaceful action**?  
 
-3. **Isn't it time to *stop* just "*being right*", and *start* being *effective***?
+3. **Isn't it time to *stop* just "*being right*", and *start* being *effective***?  
 
 A possible 4th question any organizer (*whichever* side you're on) should ask themselves is: **what does "*effectiveness*" look like**?   
 
