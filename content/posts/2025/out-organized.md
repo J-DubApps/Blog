@@ -27,7 +27,7 @@ I live in hope, and so I believe (and *belief*, after all, often involves *hope*
 
 A possible 4th question any organizer (*whichever* side you're on) should ask themselves is: **what does "*effectiveness*" look like**?   
 
-I think before any organizer can answer the above questions—they ***really need*** **to learn and understand the** ***Power Dynamics*** **of the *State* in any human society**. Well, if they want to be *effective* in their cause, anyway...  
+I think before any organizer can answer the above questions—they ***really need*** **to learn and understand the** ***Power Dynamics*** **of the *State* in any human society**. Well, if they want to be *effective* in advancing their cause, anyway...  
 
 ### Force vs. Power: Understanding the Difference
 
