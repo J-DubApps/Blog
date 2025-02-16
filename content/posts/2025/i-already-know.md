@@ -60,6 +60,6 @@ Psychologist [Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck) coined the
 
 The most significant breakthroughs often spring from what we *don’t know*—or, more precisely, from *recognizing* what we might not know. By acknowledging the possibility that our knowledge is incomplete, we grant ourselves the freedom to delve deeper, explore further, and refine our craft. Staying receptive to guidance and insight, even when we think we’ve mastered a topic, is the hidden gateway to *continuous improvement*.
 
-So the next time you catch yourself brushing off a refresher course or discounting an idea because you “already know it,” pause. Ask: “Am I leaving space in my cup for something new?” You might be surprised at just how much more you can learn—and how rewarding it can be to remain, in at least one sense, a humble beginner.  
+So the next time you catch yourself brushing off a refresher course or discounting an idea because you “*already know it*,” pause. ***Ask***: “*Am I leaving space in my cup for something new*?” You might be surprised at just how much more you can learn—and how rewarding it can be to remain, in at least one sense, a humble beginner.  
 
 <small> <small> <i> Remember: The best experts out there are those who admit—no matter how advanced they become—that there’s always more to discover. Keep that door open, so fresh insights can find their way in. </i> </small> </small>
