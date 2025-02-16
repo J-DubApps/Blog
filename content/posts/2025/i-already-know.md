@@ -11,7 +11,7 @@ tags = ["thought", "philosophy", "personal-development", "mindfulness", "best-of
 >  ― Epictetus
 
 
-When was the last time you said, “*I know this already*” and glossed over an explanation or instruction? It’s easy to slip into autopilot when we’re comfortable with a topic.  Yet, paradoxically, that complacency stops us from discovering the new angles, perspectives, and insights that can help us grow. We’ve all heard the phrase “***Beginner’s mind***,” but not as often do we realize how crucial it is for everyday growth—both personally and professionally.
+When was the last time you said, “*I know this already*” and glossed over an explanation or instruction? It’s easy to slip into autopilot when we’re comfortable with a topic.  Yet, paradoxically, that complacency stops us from discovering the new angles, perspectives, and insights that help us grow. We’ve all heard the phrase “***Beginner’s mind***,” but not as often do we realize how crucial it is for everyday growth—both personally and professionally.
 
 ## The Danger of Assumed Knowledge
 
