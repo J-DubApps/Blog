@@ -2,7 +2,7 @@
 date = '2025-02-14T12:17:51-06:00'
 draft = false
 title = 'You Aren&#39;t Outnumbered&#58; You&#39;re Out&ndash;Organized'
-description = "If non-violent organized protests happen in 2025 or beyond, do you understand the Power Dynamics of Protesting?"
+description = "If non-violent organized protests happen in 2025 or beyond, do you understand the Power Dynamics of Protest?"
 type = 'post'
 tags = ["thought", "civics", "opinion", "history"]
 +++
@@ -11,7 +11,7 @@ tags = ["thought", "civics", "opinion", "history"]
 
 *Whichever* your political persuasions, each political majority gets its day in the sun (in power)—and the US pendulum swings, in its usual unpredictable cycle, to "move the sunshine" to the political minority.  **That's the whole ballgame in US politics, *usually***.  
 
-But Americans have turned that pendulum (and politics in general) on it's side, and [*beyond* civics](https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack). Our civic processes have become tribal sports—not exactly new territory for the US, but can be dangerous and contentious. The problem here arises when each side is mostly *online activism*: protesting is a *contact sport* involving the "*Power Dynamics of protest*".  I worry Gen-Z'ers and Millennials, who are loudly-concerned about these times *online*, have less experience thinking about *how* to organize in the real world.  
+But Americans have turned that pendulum (and politics in general) on it's side, and [*beyond* civics](https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack). Our civic processes have become tribal sports—not exactly new territory for the US. The problem here arises when each side is *mostly online "activism"*: effective resistance is a *contact sport* involving the "*Power Dynamics of protest*".  I worry Gen-Z'ers and Millennials, who are loudly-concerned about these times *online*, haven't contemplated *how* to organize in the real world.  
 
 And *why would they*? Our country has only been in this territory of "arguing *beyond* our Civic process" a few times: 1861-1865, Women's Suffrage, or Civil Rights — to name a few. They were all territory where anger and viciousness threatened dismantling our norms (and some *did*). Political Majorities, during times like this anyway, tell you that it's *not* as bad as you think it is. They usually say this right after a controversial law passes, some norm crumbles, or institution is challenged.  
 
