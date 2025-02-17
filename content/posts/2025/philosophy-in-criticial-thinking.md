@@ -20,7 +20,7 @@ Today, the term “***Cartesian***” applies to concepts derived from his philo
 
 Critical thinking is frequently misunderstood. <br />
 
-When we hear the word “critical,” it often evokes ideas of negativity or *faultfinding*. <br />
+When we hear the word “critical,” it often evokes ideas of negativity or *fault-finding*. <br />
 
 In Descartes’ philosophical framework, however, it refers to the practice of questioning and evaluating ideas in order to uncover the truth. <br />
 
