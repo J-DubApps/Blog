@@ -35,9 +35,11 @@ There’s a well-known concept sometimes referred to as the “*empty cup*” pr
 
 This mindset can be helpful even for professionals at the top of their fields. Doctors, for instance, must keep learning about evolving medical research. The ones who assume they know it all may miss new treatments or updated guidelines—potentially jeopardizing patient care. Those with the “***empty cup***” mindset keep refining their practice, always taking note of new data and newer questions.  
 
+<img src="https://julianwest.me/Blog/posts/images/zen-cup.jpeg" alt="Alt text" width="300" height="250"> 
+
 #### Shifting from Validation to Exploration
 
-People often re-engage with what they already know to confirm existing beliefs (“Yes, that’s correct, I’m right”). What we "already  know" is likely always changing. A ***Beginner’s mind*** re-engages to explore possibilities. It actively hunts for exceptions, updates, and deeper connections. This pivot in intention—from confirming to exploring—sparks the creative energy that fuels growth and innovation.  
+People often re-engage with what they already know to *confirm* existing belief of their own mastery (“Yes, that’s correct, I’m right”), but what we "*already  know*" is likely always changing. By using a ***Beginner’s mind***, you can re-engage with familiar territory to explore possibilities. ***Beginner's mind*** actively hunts for exceptions, updates, and deeper connections. This pivot in intention—from confirming to exploring—sparks the creative energy that fuels growth and innovation.  
 
 ## My 5 Strategies to Stay Open and Keep Learning
 
@@ -64,4 +66,4 @@ So the next time you catch yourself brushing off a refresher course or discounti
 
 <small> <small> <i> Remember: The best experts out there are those who admit—no matter how advanced they become—that there’s always more to discover. Keep that door open, so fresh insights can find their way in. </i> </small> </small> <br />
 
-#### This is a Companion piece to my article "[The Map Is Not The Territory](https://julianwest.me/Blog/the-map-is-not-the-territory/)"
+This is a companion piece to my article "[The Map Is Not The Territory](https://julianwest.me/Blog/the-map-is-not-the-territory/)"
