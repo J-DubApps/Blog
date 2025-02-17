@@ -41,24 +41,24 @@ People often re-engage with what they already know to confirm existing beliefs (
 
 ## Strategies to Stay Open and Keep Learning
 
-1.	**Ask More (and Better) Questions**
+1.	**Ask More (and Better) Questions**  
 Whenever you’re faced with a familiar topic, challenge yourself to ask open-ended questions like: “What nuance might I have overlooked?” or “What can I discover if I compare this to a new source?” Emphasizing the question marks over the periods keeps your mind alert and your expertise fresh.  
 
-2.	**Adopt a “Test-and-See” Approach**
+2.	**Adopt a “Test-and-See” Approach**  
 Even if you’re sure you know something, test it out in a new context. Let’s say you’re a software developer who feels comfortable with a particular programming language. Try building a tool or script in a domain you haven’t explored before. You’ll quickly discover knowledge gaps—each an opportunity to learn something new.  
 
-3.	**Seek Out Contradictory Perspectives**
+3.	**Seek Out Contradictory Perspectives**  
 This can be as simple as reading articles, blog posts, or research papers that clash with your current perspective. You don’t have to *adopt views that clash with yours*, but examining a new or opposing viewpoint can expose blind spots in your thinking.  To many Americans would rather live in the fearful drug of [*Confirmation Bias*](https://en.wikipedia.org/wiki/Confirmation_bias), rather than explore contradictory perspectives.
 
-4.	**Use the “Explain It to a Child” Trick**
+4.	**Use the “Explain It to a Child” Trick**  
 If you can’t explain your knowledge simply, maybe you don’t truly understand it. By teaching a *simpler version to someone* else—or even to yourself in hypothetical terms—you uncover the fuzzy areas in your grasp of the topic. Fill in those gaps, and suddenly “old knowledge” feels brand new again.   
 
-5.	**Embrace the Growth Mindset**
+5.	**Embrace the Growth Mindset**  
 Psychologist [Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck) coined the term “***growth mindset***” to describe the belief that our abilities and understanding can be developed through dedication and hard work. A growth mindset positions you to embrace challenges, persist despite obstacles, and find lessons in every failure. Rethink your internal narrative. Instead of concluding “*I can’t learn any more here*,” decide, “*I’m constantly learning, so what’s next*?”  
 
 ## The Takeaway
 
-The most significant breakthroughs often spring from what we *don’t know*—or, more precisely, from *recognizing* what we might not know. By acknowledging the possibility that our knowledge is incomplete, we grant ourselves the freedom to delve deeper, explore further, and refine our craft. Staying receptive to guidance and insight, even when we think we’ve mastered a topic, is the hidden gateway to *continuous improvement*.
+The most significant breakthroughs often spring from what we *don’t know*—or, more precisely, from *recognizing* what we might not know. By acknowledging the possibility that our knowledge is incomplete, we grant ourselves the freedom to delve deeper, explore further, and refine our craft. *Staying receptive* to added guidance or insight, *even* when it might've heard it before—or on topics we think we’ve already mastered—is the hidden gateway to ***continuous improvement***.  
 
 So the next time you catch yourself brushing off a refresher course or discounting an idea because you “*already know it*,” pause. ***Ask***: “*Am I leaving space in my cup for something new*?” You might be surprised at just how much more you can learn—and how rewarding it can be to remain, in at least one sense, a humble beginner.  
 
