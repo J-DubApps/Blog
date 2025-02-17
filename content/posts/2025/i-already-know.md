@@ -39,7 +39,7 @@ This mindset can be helpful even for professionals at the top of their fields. D
 
 #### Shifting from Validation to Exploration
 
-People often re-engage with what they already know to *confirm* existing belief of their own mastery (“Yes, that’s correct, I’m right”), but what we "*already  know*" is likely always changing. By using a ***Beginner’s mind***, you can re-engage with familiar territory to explore possibilities. ***Beginner's mind*** actively hunts for exceptions, updates, and deeper connections. This pivot in intention—from confirming to exploring—sparks the creative energy that fuels growth and innovation.  
+People often re-engage with what they already know to *confirm* existing belief of their own mastery (“Yes, that’s correct, I’m right”), but what we "*already  know*" is always changing—especially in any tech career arena. By using a ***Beginner’s mind***, you can re-engage with familiar territory to explore possibilities. ***Beginner's mind*** actively hunts for exceptions, updates, and deeper connections. This pivot in intention—from confirming to exploring—sparks the creative energy that fuels growth and innovation.  
 
 ## My 5 Strategies to Stay Open and Keep Learning
 
