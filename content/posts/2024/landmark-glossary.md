@@ -295,12 +295,14 @@ Yes! Below is a list I compiled over the years, of some of the primary philosoph
 [**William Glasser**](https://en.wikipedia.org/wiki/William_Glasser) Psychiatrist author of [Reality Therapy](https://www.amazon.com/Reality-Therapy-Approach-Psychiatry-Colophon/dp/0060904143) ([***What's So***](#whats-so)) <br />
 [**Zen Buddhism**](https://plato.stanford.edu/entries/japanese-zen/) ([***Being***](#Being), [***Ontology***](#ontology)) [&#42;&#42;](#biography) <br />
 
-**Other notable Neuroscience names that may have been studied by early Human Potential Movement seminar creators (including Werner Erhard)**:
+**Other notable Neuroscience names that may have been studied by early Human Potential Movement seminar creators (including Werner Erhard)**:  <br />
+
+<a id="biography"></a>
 
 [**George Miller**](https://en.wikipedia.org/wiki/George_Armitage_Miller), [Eugene Galanter](https://en.wikipedia.org/wiki/Eugene_Galanter), and [Karl Pribram](https://en.wikipedia.org/wiki/Karl_H._Pribram): Neuroscience researchers who, during the Human Potential Movement era, focused on Frontal Lobe and Higher Cortical Functions research. Their nascent work would later help inform later research into Executive Function, as it aligned broadly with the emerging scientific insights into how the frontal lobes guide planning, self-monitoring, and adaptive behavior.  Though est and Mind Dynamics did not teach neuropsychology concepts in any rigorous manner, this early research overlapped with the zeitgeist that the human brain—particularly its self-regulatory and “executive” capacities—could be harnessed for personal transformation. <br />
 
-<a id="biography"></a>
-**&#42;&#42;** Cited by Erhard himself to the author of his [authorized biography](https://en.wikipedia.org/wiki/Werner_Erhard_(book)).
+
+**&#42;&#42;** *Cited by Erhard himself to the author of his* [*authorized biography*](https://en.wikipedia.org/wiki/Werner_Erhard_(book)).
 
 #### 4. I read somewhere that est borrows a lot, or steals, from Scientology. Is that true?
 
