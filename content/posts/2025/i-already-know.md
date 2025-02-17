@@ -33,22 +33,22 @@ A *lack of curiosity* can also cause us to [mistake our *understanding* as *fact
 
 There’s a well-known concept sometimes referred to as the “*empty cup*” principle: if your cup is *already full*, there’s no room for new tea—or *new knowledge*. Approaching a subject with the humility of a learner invites discovery. You become open to tidbits of insight you might otherwise write off as unimportant.  We call this ***Beginner's mind*** and it's a wonderful concept from [**Zen Mind, Beginner's Mind**](https://en.wikipedia.org/wiki/Zen_Mind,_Beginner%27s_Mind) and other writings on the subject.
 
-This mindset can be helpful even for professionals at the top of their fields. Doctors, for instance, must keep learning about evolving medical research. The ones who assume they know it all may miss new treatments or updated guidelines—potentially jeopardizing patient care. Those with the “empty cup” mindset keep refining their practice, always taking note of new data and newer questions.  
+This mindset can be helpful even for professionals at the top of their fields. Doctors, for instance, must keep learning about evolving medical research. The ones who assume they know it all may miss new treatments or updated guidelines—potentially jeopardizing patient care. Those with the “***empty cup***” mindset keep refining their practice, always taking note of new data and newer questions.  
 
 #### Shifting from Validation to Exploration
 
-People often re-engage with what they already know to confirm existing beliefs (“Yes, that’s correct, I’m right”). What we "already  know" is likely always changing. A ***Beginner’s mind*** re-engages to explore possibilities. It actively hunts for exceptions, updates, and deeper connections. This pivot in intention—from confirming to exploring—sparks the creative, innovative energy that fuels growth.
+People often re-engage with what they already know to confirm existing beliefs (“Yes, that’s correct, I’m right”). What we "already  know" is likely always changing. A ***Beginner’s mind*** re-engages to explore possibilities. It actively hunts for exceptions, updates, and deeper connections. This pivot in intention—from confirming to exploring—sparks the creative energy that fuels growth and innovation.  
 
-## Strategies to Stay Open and Keep Learning
+## My 5 Strategies to Stay Open and Keep Learning
 
 1.	**Ask More (and Better) Questions**  
-Whenever you’re faced with a familiar topic, challenge yourself to ask open-ended questions like: “What nuance might I have overlooked?” or “What can I discover if I compare this to a new source?” Emphasizing the question marks over the periods keeps your mind alert and your expertise fresh.  
+Whenever you’re faced with a familiar topic, challenge yourself to ask open-ended questions like: “*What nuance might I have overlooked*?” or “*What can I discover if I compare this to a new source*?” Emphasizing the question marks over the periods keeps your mind alert and your expertise fresh.  
 
 2.	**Adopt a “Test-and-See” Approach**  
-Even if you’re sure you know something, test it out in a new context. Let’s say you’re a software developer who feels comfortable with a particular programming language. Try building a tool or script in a domain you haven’t explored before. You’ll quickly discover knowledge gaps—each an opportunity to learn something new.  
+Even if you’re *sure you know* something, test it out in a new context. Let’s say you’re a software developer who feels comfortable with a particular programming language. Try building a tool or script in a domain you haven’t explored before. You’ll quickly discover knowledge gaps—each an opportunity to learn something new.  
 
 3.	**Seek Out Contradictory Perspectives**  
-This can be as simple as reading articles, blog posts, or research papers that clash with your current perspective. You don’t have to *adopt views that clash with yours*, but examining a new or opposing viewpoint can expose blind spots in your thinking.  To many Americans would rather live in the fearful drug of [*Confirmation Bias*](https://en.wikipedia.org/wiki/Confirmation_bias), rather than explore contradictory perspectives.
+This can be as simple as reading articles, blog posts, or research papers that clash with your current perspective. You don’t have to *adopt views that clash with yours*, but examining a new viewpoint can expose blind spots in your thinking. Too many people would rather live in the fearful drug of [*Confirmation Bias*](https://en.wikipedia.org/wiki/Confirmation_bias), rather than explore contradictory viewpoints. Yet exploring contradictory perspectives, without emotional entanglement, is a *super-power*.  
 
 4.	**Use the “Explain It to a Child” Trick**  
 If you can’t explain your knowledge simply, maybe you don’t truly understand it. By teaching a *simpler version to someone* else—or even to yourself in hypothetical terms—you uncover the fuzzy areas in your grasp of the topic. Fill in those gaps, and suddenly “old knowledge” feels brand new again.   
@@ -58,7 +58,7 @@ Psychologist [Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck) coined the
 
 ## The Takeaway
 
-The most significant breakthroughs often spring from what we *don’t know*—or, more precisely, from *recognizing* what we might not know. By acknowledging the possibility that our knowledge is incomplete, we grant ourselves the freedom to delve deeper, explore further, and refine our craft. *Staying receptive* to added guidance or insight, *even* when it might've heard it before—or on topics we think we’ve already mastered—is the hidden gateway to ***continuous improvement***.  
+The most significant breakthroughs often spring from what we *don’t know*—or, more precisely, from *recognizing* what we might not know. By acknowledging the possibility that our knowledge is incomplete, we grant ourselves the freedom to delve deeper, explore further, and refine our craft. *Staying receptive* to added guidance or insight, *even* when we might've heard it before—or on topics we think we’ve already mastered—is the hidden gateway to ***continuous improvement***.  
 
 So the next time you catch yourself brushing off a refresher course or discounting an idea because you “*already know it*,” pause. ***Ask***: “*Am I leaving space in my cup for something new*?” You might be surprised at just how much more you can learn—and how rewarding it can be to remain, in at least one sense, a humble beginner.  
 
