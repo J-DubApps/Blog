@@ -6,6 +6,6 @@ type = 'post'
 tags = ["best-of", "thought", "opinion", "personal-development", "jdub-isms", "philosophy", "quote"]
 +++
 
-> “**I’ve been learning and adding to my knowledge for so long, I almost forgot the biggest secret: the second you think you *know more than somebody else*, real wisdom slips away**.”
+> “**I’ve been learning and adding to my knowledge for so long, I almost *forgot* the biggest secret: the second you think you *know more than somebody else*, real wisdom slips away**.”
 
 Stay-tuned for more ***JDub-isms*** in the future...
