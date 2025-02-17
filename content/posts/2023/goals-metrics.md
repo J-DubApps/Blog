@@ -11,7 +11,7 @@ tags = ["best-of", "thought", "opinion", "personal-development", "jdub-isms", "p
 
 This is my own variation on [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law) which states:  
 
-> "When a measure becomes a target, it ceases to be a good measure"
+> "*When a measure becomes a target, it ceases to be a good measure*."
 
 <br />
 
