@@ -6,7 +6,7 @@ description = "Checking-in on two key areas of AI innovation, in the DevOps and 
 type = 'post'
 tags = ["ai", "tech", "devops", "enterprise-it"]
 +++
-[Retrieval Augmented Generation](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) (RAG) and [Agentic AI](https://en.wikipedia.org/wiki/Agentic_AI) (sometimes referred to as “*autonomous agents*”) are two prominent trends in the AI landscape that I keep getting asked questions about from colleagues. These things build on established large [language model](https://en.wikipedia.org/wiki/Large_language_model) (LLM) techniques, but add new dimensions of capabilities and behavior. Below is an overview of each concept and how they’re being used or may be used in real-world scenarios.  
+[Retrieval Augmented Generation](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) (RAG) and [Agentic AI](https://en.wikipedia.org/wiki/Agentic_AI) (sometimes referred to as “*autonomous agents*”) are two prominent trends in the AI landscape that I keep getting asked questions about from colleagues. These things build on established large [language model](https://en.wikipedia.org/wiki/Large_language_model) (LLM) techniques, but add new dimensions of capabilities and behavior. Below is an overview of each concept and how they’re being used or may be used in real-world scenarios.   
 
 ## Retrieval Augmented Generation (RAG)
 
