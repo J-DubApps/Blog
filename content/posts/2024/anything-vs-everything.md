@@ -4,7 +4,7 @@ draft = false
 title = 'We Can Do Anything, But Not <i>Everything</i>'
 description = 'My Primer on Focused Productivity'
 type = 'post'
-tags = ["philosophy", "thought", "special-write-up", "project-mgmt", "best-of", "jdub-isms", "tech", "personal-development", "skill-development", "task-mgmt"]
+tags = ["philosophy", "thought", "special-write-up", "project-mgmt", "best-of", "jdub-isms", "tech", "personal-development", "skill-development", "task-mgmt", "productivity"]
 +++
 > “*You can do anything, but not everything*.”
 >   —David Allen

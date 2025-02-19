@@ -4,7 +4,7 @@ draft = false
 title = 'The Lie of &#34;Multitasking&#34;'
 description = 'Put All Your Wood Behind One Single Arrow At-A-Time'
 type = 'post'
-tags = ["philosophy", "thought", "special-write-up", "project-mgmt", "best-of", "jdub-isms", "devops", "tech", "troubleshooting", "task-mgmt", "skill-development"]
+tags = ["philosophy", "thought", "special-write-up", "project-mgmt", "best-of", "jdub-isms", "devops", "tech", "troubleshooting", "task-mgmt", "skill-development", "productivity"]
 +++
 
 *Multitasking* is often glorified as the ultimate productivity "*skill*", but in reality it's just a low-value hack yielding slow (and often inaccurate) results.  Multitasking is a deceptive trap, because the human brain isn’t wired to focus on *multiple* complex tasks *simultaneously*. Instead, what we call “***multitasking***” is actually [**rapid task-switching**](https://www.apa.org/topics/research/multitasking)—and it comes [**at a cost**](https://news.stanford.edu/stories/2018/10/decade-data-reveals-heavy-multitaskers-reduced-memory-psychologist-says). Each time you *shift focus*, your brain expends energy reorienting itself, [**leading to decreased efficiency**](https://www.forbes.com/sites/curtsteinhorst/2020/02/20/how-multitasking-erodes-productivity-and-dings-your-iq/) and higher chances of mistakes or delays. <br />
