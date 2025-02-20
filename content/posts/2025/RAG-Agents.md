@@ -2,7 +2,7 @@
 date = '2025-02-18T00:17:51-06:00'
 draft = false
 title = 'RAG and &#34;Agentic AI&#34;'
-description = "Checking-in on two key areas of AI innovation, in the DevOps and tech landscape..."
+description = "Checking-in on two hot areas of AI in 2025..."
 type = 'post'
 tags = ["ai", "tech", "devops", "enterprise-it"]
 +++
