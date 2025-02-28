@@ -1,5 +1,5 @@
 +++
-date = '2025-02-27T23:15:51-06:00'
+date = '2025-02-27T14:15:51-06:00'
 draft = false
 title = 'Warehouse Staff-Tracking Tech Hits Office Workers'
 description = 'The surveillance tech waiting for workers as they return to the office'
