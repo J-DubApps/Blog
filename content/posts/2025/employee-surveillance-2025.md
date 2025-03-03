@@ -14,4 +14,4 @@ But [according to Ars Technica](https://arstechnica.com/information-technology/2
 
 > Under-desk sensors, in particular, have received high-profile backlash, perhaps because they are such an obvious piece of surveillance hardware rather than simply software designed to record work done on company machines
 
-The *alternative* to building a culture of effectiveness and responsibility is cowardly surveillance, which destroys morale: it causes employees to be *performative* and *inauthentic*, and will never be a place to do our best work.
+The *alternative* to building a culture of effectiveness and responsibility is cowardly surveillance, which destroys morale: it causes employees to be *performative* and *inauthentic* about their activites and productivity, and such workplace environments will never be a place to do our best work.
