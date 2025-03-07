@@ -2,9 +2,9 @@
 date = '2025-03-07T10:15:51-06:00'
 draft = false
 title = 'Between Blind Spots and Microscopes'
-description = "Employee Performance Valuation Doesn't Require Surveillance"
+description = "Employee Performance Valuation Doesn't Require Invasive Surveillance"
 type = 'post'
-tags = ["tech", "digital-privacy", "career", "best-of", "thought", "news-link", "remote-work", "opinion", "project-mgmt", "leadership", "think-piece", "organizational-transformation", "work-culture"]
+tags = ["tech", "digital-privacy", "career", "best-of", "thought", "news-link", "remote-work", "opinion", "project-mgmt", "leadership", "think-piece", "organizational-transformation", "work-culture", "devops", "it-enterprise"]
 +++
 <img src="https://julianwest.me/Blog/posts/images/employee-monitoring-software.jpeg" alt="Alt text" width="400" height="220"> 
 
@@ -15,11 +15,11 @@ Two management clichés stand out starkly in modern organizational culture - and
 
 While seemingly simple, these phrases capture a fundamental paradox about the way businesses handle—or mishandle—a vital resource: their employees.
 
-## The Invisible Employee
+## Invisible IT or DevOps Talent
 
 Let's consider the first assertion: "***You can't value what you don't measure***." Many organizations suffer from significant blind spots. Managers often intuitively understand that an employee adds value, but they don't bother to figure out how to *quantify* or track that employee's contributions. The rationale is simple yet flawed—if you're not directly measuring it, how do you truly recognize the worth of someone's efforts?   
 
-In one way, it's altruistic to "***trust***" the employee that they're contributing and creating value. Yet, in another way, this tis measurement gap often leaves organizations *undervaluing* critical contributors. Consider IT departments, for instance. Many IT professionals tirelessly maintain security, keep on-prem and cloud infrastructure running smoothly, and prevent catastrophes *before* they become noticeable. Yet, because these preventative measures rarely make headlines or stand out on performance reports, their value remains *obscured* from the organization. Consequently, management can take this quiet, competent excellence for granted. Over time, undervaluation becomes *demoralization*, and companies may lose their best, most reliable talent.  
+In one way, it's altruistic to "***trust***" employees to be contributing and creating value. Yet, in another way, this measurement gap often leaves organizations *undervaluing* critical contributors. Consider IT departments, for instance. Many IT professionals tirelessly maintain security, keep on-prem and cloud infrastructure running smoothly, and prevent catastrophes *before* they become noticeable. Yet, because these preventative measures rarely make headlines or stand out on performance reports, their value remains *obscured* from the organization. Consequently, management can take this quiet, competent excellence for granted. Over time, undervaluation becomes *demoralization*, and companies may lose their best, most reliable talent.  
 
 When organizations don't track or measure outputs effectively, they rely heavily on visible yet *superficial* indicators—like how vocal someone is in meetings, or how quickly emails get responses. Such superficial indicators tell us very little about true productivity or strategic contributions, creating *significant* ***blind spots*** in talent management.
 
