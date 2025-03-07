@@ -2,7 +2,7 @@
 date = '2025-03-07T10:15:51-06:00'
 draft = false
 title = 'Between Blind Spots and Microscopes'
-description = 'Employee Performance Valuation Doesn't Require Surveillance'
+description = "Employee Performance Valuation Doesn't Require Surveillance"
 type = 'post'
 tags = ["tech", "digital-privacy", "career", "best-of", "thought", "news-link", "remote-work", "opinion", "project-mgmt", "leadership", "think-piece", "organizational-transformation", "work-culture"]
 +++
