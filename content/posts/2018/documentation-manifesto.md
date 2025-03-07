@@ -4,7 +4,7 @@ draft = false
 title = 'My Approach To Documentation'
 description = 'Why IT Docs Should Stick to the “WHERE” and the “WHAT”—and Avoid the “WHY” and “HOW”'
 type = 'post'
-tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "project-mgmt", "thought", "best-of", "beginner-fundamentals", "leadership"]
+tags = ["tech", "devops", "best-practice", "enterprise-it", "opinion", "project-mgmt", "thought", "think-piece", "best-of", "beginner-fundamentals", "leadership"]
 +++
 **In a busy IT environment, *speed and clarity* are** ***everything***. When it comes to internal IT documentation, the *best practice* is to keep it short, sweet, and *accurate*—focusing on the location of systems (“***WHERE***”) and the function they serve (“***WHAT***”). Including detailed explanations of the “***WHY***” behind a setup or the step-by-step “***HOW***” to do something -- within a single KB or documenation system --- will turn your documentation into a sprawling novel that is difficult to maintain! ***More importantly***, **it dilutes the primary mission of documentation: to guide you (or your team) quickly to just the facts**.
 

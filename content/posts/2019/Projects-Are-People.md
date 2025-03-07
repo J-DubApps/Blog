@@ -3,7 +3,7 @@ date = '2019-09-02T20:10:26-06:00'
 draft = false
 title = 'Projects Are People'
 type = 'post'
-tags = ["tech", "devops", "enterprise-it", "opinion", "best-of", "project-mgmt", "thought", "top-10", "jdub-isms", "leadership"]
+tags = ["tech", "devops", "enterprise-it", "opinion", "best-of", "project-mgmt", "thought", "think-piece", "top-10", "jdub-isms", "leadership"]
 +++
 Over the course of managing enterprise IT initiatives at various scales, I’ve encountered challenging stakeholders, unexpected obstacles, and projects that (at the time) seemed determined to push everyone past their limits. In retrospect, during many of those turbulent times I am in wonder that we still delivered meaningful outcomes. Over the years, I’ve distilled a few lessons that continue to shape my approach on hectic Ops and Infra projects.  Before I get into it, here's the main takeaway early: ***Projects Are People*** and are are the key focus ahead of whatever it is your team is delivering. <br />
 

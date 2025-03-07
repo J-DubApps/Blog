@@ -4,12 +4,11 @@ draft = false
 title = 'You Can&#39;t Learn What You Think You Already Know'
 description = "'I already know this' blocks learning and insight."
 type = 'post'
-tags = ["tech", "thought", "philosophy", "personal-development", "mindfulness", "best-of", "skill-development"]
+tags = ["tech", "thought", "think-piece", "philosophy", "personal-development", "mindfulness", "best-of", "skill-development"]
 +++
 > “*It is impossible for a man to learn what he thinks he already knows*.”  
 
 >  ― Epictetus
-
 
 When was the last time you said, “*I know this already*” and glossed over an explanation or instruction? It’s easy to slip into autopilot when we’re comfortable with a topic.  Yet, paradoxically, that complacency stops us from discovering the new angles, perspectives, and insights that help us grow. We’ve all heard the phrase “***Beginner’s mind***,” but not as often do we realize how crucial it is for everyday growth—both personally and professionally.
 

@@ -4,7 +4,7 @@ draft = false
 title = 'Mental Cartography'
 description = 'The Map Is Not The Territory'
 type = 'post'
-tags = ["thought", "philosophy", "personal-development", "mindfulness", "best-of"]
+tags = ["thought", "think-piece", "philosophy", "personal-development", "mindfulness", "best-of"]
 +++
 [Alfred Korzybski](https://en.wikipedia.org/wiki/Alfred_Korzybski)’s “_**The map is not the territory**_” comes from his work in [**General Semantics**](https://en.wikipedia.org/wiki/General_semantics) (and 1933 book [Science and Sanity](https://en.wikipedia.org/wiki/Science_and_Sanity)). At its core, the phrase "[*The map is not the territory*](https://en.wikipedia.org/wiki/Map–territory_relation)" means that our *mental representations* (_**maps**_) of "reality" are not *the same* as the “*actual* ***territory***" of _**reality**_ ***itself***. We use these “*maps*”—**language, concepts, beliefs**—to navigate our world. But maps are still *abstractions*, simplified models that leave out infinite details. This principle has parallels in other philosophies dealing with “*how things occur*” for us, how we form our views, or *any* perception that is *distinct from* _**objective reality**_.
 

@@ -4,7 +4,7 @@ draft = false
 title = 'Buddhism&#39;s Cartography'
 description = "A companion piece to 'The Map Is Not The Territory'"
 type = 'post'
-tags = ["thought", "philosophy", "personal-development", "mindfulness", "best-of"]
+tags = ["thought", "think-piece", "philosophy", "personal-development", "mindfulness", "best-of"]
 +++
 Expanding on "[**Mental Cartography**:***The Map Is Not The Territory***](https://julianwest.me/Blog/the-map-is-not-the-territory/) that I published, I discussed how philosophers use the phrase “***The map is not the territory***” to highlight the gap between our *mental representations* of the world vs *the* ***reality*** we live in. We use maps—metaphors, models, theories—to help us navigate life, but they remain simplified reflections of ***the terrain*** they represent. From a [***Buddhist*** perspective](https://en.wikipedia.org/wiki/Buddhism), the mental ‘***map***’ idea is closely aligned with [**Buddhism**](https://en.wikipedia.org/wiki/Buddhism) concepts. So here is a quick Zen perspective on all this—because Buddhism has an older, and equally-interesting, take on "***The map is not the territory***”.   
 

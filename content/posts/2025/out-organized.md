@@ -4,7 +4,7 @@ draft = false
 title = 'You Aren&#39;t Outnumbered&#58; You&#39;re Out&ndash;Organized'
 description = "If non-violent organized protests happen in 2025 or beyond, do you understand the Power Dynamics of Peaceful Protest?"
 type = 'post'
-tags = ["thought", "civics", "opinion", "history"]
+tags = ["thought", "think-piece", "civics", "opinion", "history"]
 +++
 > “*We are not outnumbered. We are out-organized*.”  
 > — Malcolm X

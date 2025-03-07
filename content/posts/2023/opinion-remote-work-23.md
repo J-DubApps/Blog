@@ -3,7 +3,7 @@ date = '2023-03-05T23:17:51-06:00'
 draft = false
 title = 'Remote Work and Hybrid Work in 2023'
 type = 'post'
-tags = ["career", "remote-work", "tech", "opinion", "special-write-up", "thought", "best-of", "top-10", "leadership"]
+tags = ["career", "remote-work", "tech", "opinion", "special-write-up", "thought", "best-of", "top-10", "leadership", "think-piece"]
 +++
 
 <div style="font-size: 14px;">
