@@ -4,7 +4,7 @@ draft = false
 title = '...on Employee Surveillance Technology'
 description = 'Why Trust Beats Tracking, Every Time...'
 type = 'post'
-tags = ["tech", "think-piece", "digital-privacy", "career", "best-of", "thought", "news-link", "remote-work", "opinion", "project-mgmt", "leadership"]
+tags = ["tech", "think-piece", "digital-privacy", "career", "best-of", "thought", "news-link", "remote-work", "opinion", "project-mgmt", "leadership", "organizational-dysfunction"]
 +++
 <img src="https://julianwest.me/Blog/posts/images/EmployeeMonitoring_Feb2020.jpg" alt="Alt text" width="400" height="220"> 
 
