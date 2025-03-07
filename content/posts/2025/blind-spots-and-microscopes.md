@@ -2,7 +2,7 @@
 date = '2025-03-07T10:15:51-06:00'
 draft = false
 title = 'Between Blind Spots and Microscopes'
-description = 'The Employee Valuation Dilemma in Today's Workplace'
+description = 'The Employee Valuation Dilemma in Today&#39;s Workplace'
 type = 'post'
 tags = ["tech", "digital-privacy", "career", "best-of", "thought", "news-link", "remote-work", "opinion", "project-mgmt", "leadership", "think-piece", "organizational-transformation", "organizational-dysfunction"]
 +++
