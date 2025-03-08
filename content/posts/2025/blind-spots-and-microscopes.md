@@ -73,7 +73,7 @@ The best organizations take a dynamic approach, reevaluating their measurement s
 
 By making the measurement process iterative, you can pivot as soon as you realize a metric is leading the team astray, or if better, more telling data becomes available.
 
-## The Takeaway - Leading by Example: Fostering a Culture of Accountability And Trust
+## The Takeaway - Fostering a Culture of Accountability And Trust
 
 Leaders set the tone, plain and simple. Executives, directors, and managers who recognize that it’s not about punishing or prying will focus on aligning measurements with the business’s vision and shared values. This includes both championing the spirit of transparency (so employees know what’s being measured and why) and actively discouraging overreaches like 24/7 monitoring.  
 
