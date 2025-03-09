@@ -56,10 +56,10 @@ Only peaceful non-violent protest, in high enough numbers, can inoculate movemen
 **Any non-violent change requires one side to**:  
 
 1. **Be wholly and completely non-violent, and be committed to non-violence**.
-2. **Be making your case to EVERYONE**.
+2. **Be making your case to EVERYONE, not just people who agree with you (or those in the online world)**.
 3. **Be willing to risk and endure *force* used upon you** (including bodily injury).
 4. **Be engaging with people who may hate, dislike, or not agree with you.**
-5. **Be engaging with like-minded people in *places* you may not have considered looking**.  One area of effective non-violent protest includes deep fraternization with police and enlisted military members: a well-known method of inoculating your movement from the deadly harms risked when ***force*** gets used.  Because *they* will be the humans asked to employ ***force*** upon you.  Too many movements isolate from, and attack, potentially sympathetic humans working in the police, military, etc.  I point back to #2 above: if your cause it right, why aren't you engaging everyone?  
+5. **Be engaging with like-minded people in *places* you may not have considered looking**.  One area of effective non-violent protest includes deep fraternization with police and enlisted military members: a well-known method of inoculating your movement from the deadly harms risked when ***force*** gets used.  Gen-Z has largely failed at this, and it shows.  People in our police national guard *will* be the humans asked to employ ***force*** upon you, let them *know* and *see* that you're not about trying to "destroy society" or norms.  Too many movements isolate from, and attack, potentially sympathetic humans working in the police, military, etc.  I point back to #2 above: if your cause is *right*, why aren't you engaging EVERYONE in our society?  
 
 #### The ***Force Dynamics*** of Protest In Action
 
