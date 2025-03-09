@@ -2,7 +2,7 @@
 date = '2025-02-14T12:17:51-06:00'
 draft = false
 title = 'You Aren&#39;t Outnumbered&#58; You&#39;re Out&ndash;Organized'
-description = "If non-violent organized movements happen, do you understand the Power Dynamics of Peaceful Protest?"
+description = "If non-violent organized movements are comnig, do they understand the Power Dynamics of State vs Peaceful Protest?"
 type = 'post'
 tags = ["thought", "think-piece", "civics", "opinion", "history"]
 +++
@@ -39,7 +39,7 @@ In any Democracy ***power*** is, by its very nature, successful in hindsight. *T
 
 ***Force***, by its *own* nature, *isn't successful* long-term—and it certainly *isn't* "powerful" in a Democratic society due to unpredictable outcomes and harms ***force*** can produce. Again: **this is your opening** if you are truly dedicated to whatever change you're trying to effect.  Here's how, and *why*:  
 
-**Access to *true power* lies in *force-free* communication, influence, and (in a Republic bound by Democratic institutions) exercise of *true power* usually happens within the society's agree-upon norms**.  Once you're *outside* of those norms, ***weak power*** (not true ***power*** at all) usually will resort to ***force*** to stop ***resistance***.  Again: **this is your opening**. You likely cannot sway majorities to see any legitimacy in your cause, without using this opening.  You have to *risk* having ***force*** used against you. That is history, I'm afraid.  
+**Access to *true power* lies in *force-free* communication, influence, and (in a Republic bound by Democratic institutions) exercise of *true power* usually happens within the society's agreed-upon norms**.  Once you're *outside* of those norms, ***weak power*** (not true ***power*** at all) usually will resort to ***force*** to stop ***resistance***.  Again: **this is your opening**. You likely cannot sway majorities to see any legitimacy in your cause, without this opening: you have to be willing to *risk* having ***force*** used against you. That is history, and the power dynamics of State, I'm afraid.  
 
 So verily I must say unto any organizer or peaceful protester, whatever your cause—when you're *done talking* about "being *right*" (whatever you're upset about) the domains of non-violent *action* and *effectiveness* are there to remind you: **whatever you want, it will never be a comfort-zone**.  And I get it: nobody wants to contemplate having any kind of ***force*** of the *State* used against them.  But contemplate, they must, and decide if any cause is worth the pain.    
 
