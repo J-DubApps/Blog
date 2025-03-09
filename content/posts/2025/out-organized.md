@@ -15,7 +15,7 @@ And *why would they*? Our country has only been in this territory of "arguing *b
 
 So I *get it*: I see a significant portion of American society saying, "*this time it feels different*."  I hear that a lot.  People seem to be concerned the pendulum I mention *above* has been forcefully-grabbed by a *minority*. I've heard this on *both sides*.  And here in 2025, it's the word "*coup*" all over *again*, as in 2020 and '21. **And all I can say to *any* of that, is this**: 
 
-I live in hope, and I believe (and *belief* is, after all, faith and *hope-based*) we aren't witnessing "the end of American Democracy", as so many people claim: but I am open to being *wrong* about that, what with everything going on. But *if others* sincerely believe the US *is* undergoing a power grab by a relative *few*...and things really *are* so *dire*—then **I ask them three simple questions which I haven't heard *anyone* answer**:  
+I live in hope, and I believe (and *belief* is, after all, faith and *hope-based*) we aren't witnessing "the end of American Democracy", as so many people claim: but I am open to being *wrong* about that, what with everything going on. But *if others* sincerely believe the US *is* undergoing a power grab by a relative *few*...and things really *are* extremely *dire*—then **I ask them three simple questions which I haven't heard *anyone* answer**:  
 
 1. **Do you ever intend to convince non "*like-minded*" people to your view, instead of just brushing people off as "*lost*" and un-winnable toward at least *some* of your concerns, or points-of-view**?  ***hint***: if you can't convince at least *some others* outside of your core groups to an emergency -- you'll *never* organize to advance your cause.  
 
@@ -25,7 +25,7 @@ I live in hope, and I believe (and *belief* is, after all, faith and *hope-based
 
 A possible 4th question any organizer (*whichever* side you're on) should ask themselves is: **what does "*effectiveness*" look like**?   
 
-I think before any organizer can answer the above questions—they ***really need*** **to learn and understand the** ***Power Dynamics*** **of the *State* in any human society**. Well, if they want to be *effective* in advancing their cause, anyway...  
+I think before any organizer can answer the above questions—they ***really need*** **to learn and understand the** ***Power Dynamics*** **of *State* in any human society**. Well, if they want to be *effective*, anyway...  
 
 ### Force vs. Power: Understanding the Difference
 
