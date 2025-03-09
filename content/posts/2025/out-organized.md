@@ -2,24 +2,22 @@
 date = '2025-02-14T12:17:51-06:00'
 draft = false
 title = 'You Aren&#39;t Outnumbered&#58; You&#39;re Out&ndash;Organized'
-description = "If non-violent organized protests happen in 2025 or beyond, do you understand the Power Dynamics of Peaceful Protest?"
+description = "If non-violent organized movements happen, do you understand the Power Dynamics of Peaceful Protest?"
 type = 'post'
 tags = ["thought", "think-piece", "civics", "opinion", "history"]
 +++
 > “*We are not outnumbered. We are out-organized*.”  
 > — Malcolm X
 
-*Whichever* your political persuasions, each political majority gets its day in the sun (in power)—and the US pendulum swings, in its usual unpredictable cycle, to "move the sunshine" to the political minority.  **That's the whole ballgame in US politics, *usually***.  
+Most Americans understand that politics and opposition is a pendulum, it spends time switching to extremes. But Americans have grabbed that pendulum (and politics in general) in a forceful way, and sometimes [*beyond* civics in recent history](https://julianwest.me/Blog/jan-6/). Our civic processes have become tribal sport—not exactly new territory for the US;however, the problem arises when any resisting movement is disorganized and not seen.  The modern equivalent of that is today's *mostly "online activism"*: effective resistance is a *contact sport*, and must involve what I call the "***Power Dynamics of Protest***."  I worry Gen-Z'ers and Millennials, who are loudly-concerned about these times *online*, are utterly invisible to the greater world beyond social media bubbles.  It seems like our younger people haven't figured out how to organize in the real world.  
 
-But Americans have turned that pendulum (and politics in general) on it's side, and [*beyond* civics](https://julianwest.me/Blog/jan-6/). Our civic processes have become tribal sports—not exactly new territory for the US. The problem arises when the resisting movement is disorganized and not seen—the modern equivalent of that is today's *mostly online "activism"*: effective resistance is a *contact sport*, and must involve what I call the "***Power Dynamics of Protest***."  I worry Gen-Z'ers and Millennials, who are loudly-concerned about these times *online*, haven't contemplated *how* to organize in the real world.  
+And *why would they*? Our country has only been in this territory of "arguing *beyond* our Civic process" a few times: 1861-1865, Women's Suffrage, or Civil Rights — to name a few. They were all territory where anger and viciousness threatened to dismantle our norms (and some *did*). Political Majorities, during times like this anyway, tell you that it's *not* as bad as you think it is.  And sometimes that's *true*. Other times, majorities say "you're overreacting" right after a controversial law passes, some norm crumbles, or an institution collapses.    
 
-And *why would they*? Our country has only been in this territory of "arguing *beyond* our Civic process" a few times: 1861-1865, Women's Suffrage, or Civil Rights — to name a few. They were all territory where anger and viciousness threatened dismantling our norms (and some *did*). Political Majorities, during times like this anyway, tell you that it's *not* as bad as you think it is. They usually say this right after a controversial law passes, some norm crumbles, or institution is challenged.  
+So I *get it*: I see a significant portion of American society saying, "*this time it feels different*."  I hear that a lot.  People seem to be concerned the pendulum I mention *above* has been forcefully-grabbed by a *minority*. I've heard this on *both sides*.  And here in 2025, it's the word "*coup*" all over *again*, as in 2020 and '21. **And all I can say to *any* of that, is this**: 
 
-I get it: *I know* a significant portion of American society is saying, "*this time it feels different*."  I hear that a lot.  People seem to be concerned the pendulum I mention *above* has been forcefully-grabbed by a *minority*. That the pendulum is being influenced, held down maybe. I've heard this on *both sides*.  And here in 2025, it's the word "*coup*" again, as it was in 2021. **All I can say to *any* of that, is this**: 
+I live in hope, and I believe (and *belief* is, after all, faith and *hope-based*) we aren't witnessing "the end of American Democracy", as so many people claim: but I am open to being *wrong* about that, what with everything going on. But *if others* sincerely believe the US *is* undergoing a power grab by a relative *few*...and things really *are* so *dire*—then **I ask them three simple questions which I haven't heard *anyone* answer**:  
 
-I live in hope, and so I believe (and *belief*, after all, often involves *hope*) we may not be in some kind of "coup", as people claim: but I am open to being *wrong* about that, and I am worried too. So *if others do* sincerely believe the US *is* undergoing a coup and things really are *dire*—then **I ask them three simple questions which I haven't heard *anyone* answer**:  
-
-1. **Do you intend to convince non "*like-minded*" people to your view, instead of just brushing people off as "*lost*" and un-winnable toward at least *some* of your concerns, or points-of-view**?  ***hint***: if you can't convince at least *some others* outside of your core groups to an emergency -- you'll *never* organize to advance your cause.  
+1. **Do you ever intend to convince non "*like-minded*" people to your view, instead of just brushing people off as "*lost*" and un-winnable toward at least *some* of your concerns, or points-of-view**?  ***hint***: if you can't convince at least *some others* outside of your core groups to an emergency -- you'll *never* organize to advance your cause.  
 
 2. **Isn't it time to get out of the social media bubbles, stop posting memes, and pursue peaceful action**?  
 
