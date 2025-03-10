@@ -2,12 +2,12 @@
 date = '2025-02-28T22:17:51-06:00'
 draft = false
 title = 'Ambushes and Retreats'
-description = "A Different World Order for the US"
+description = "A different world order for the US"
 type = 'post'
 tags = ["thought", "think-piece", "civics", "opinion", "history"]
 +++
 
-I don't watch the news much.  I know a lot of people *say* that during weird times like these, but it's *actually objectively true* with me: other than 10pm news (with a singular focus on weather and sports), I really don't keep-up aggressively.  I learned years ago that the "firehose" of real-time news coverage on social media (or anywhere else) is just no way to live.  What social media I *do use* gets curated and filtered timelines, tuning out news and focusing on the things I'm there for: Project Management, Automation/DevOps, Personal Growth, etc.  And my filter is of course a defacto ***mute*** of all things political, including the toxic culture war extremes involved.  
+I don't watch the news much.  I know a lot of people *say* that during weird times like these, but it's objectively for me: other than 10pm news (with focus mostly on weather and sports), I am not one to keep-up aggressively with the news. I learned years ago that the "firehose" of real-time news coverage (on social media or anywhere else) is just no way to live.  What social media I *do use* gets curated and filtered timelines, tuning out news and focusing on the things I'm there for: Project Management, Automation/DevOps, Personal Growth, etc.  And my filter is of course a defacto ***mute*** of all things political, including the toxic culture war extremes involved.  
 
 But like many Americans, I couldn't escape news of what transpired in the Oval Office on TV the other day.  It broke through my filter in the form of friends texting me, one of them an American volunteering in Ukraine.  I am still processing what I finally watched today, and what it all means for the United States—and our apparent retreat from the world.  
 
