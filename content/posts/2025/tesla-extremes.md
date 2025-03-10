@@ -58,4 +58,7 @@ And for owners who originally just *liked* the car?  **Let's just I might intima
 
 Perhaps in time, Tesla might also find itself clear of history and political crossfire, but I feel that's a long time away: and only possible once they shake their CEO.
 
-I may be moving on to try other EVs in the future, but they were decent cars. 
+I may be moving on to try other EVs in the future, but I still think these were decent cars.  
+
+
+<img src="https://julianwest.me/Blog/posts/images/X-at-beach.jpg" alt="Me and Blueberry" width="350" height="205">
