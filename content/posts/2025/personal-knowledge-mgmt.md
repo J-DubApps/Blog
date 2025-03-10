@@ -7,9 +7,15 @@ type = 'post'
 tags = ["tech", "thought", "personal-development", "task-mgmt", "skill-development", "project-mgmt", "productivity"]
 +++
 
-Most "Productivity Hacks" and systems are just...Disguised Procrastination.
+Most "Productivity Hacks" and systems are just...*Disguised Procrastination*.
 
-Endless tweaking, instead of DOING. This is especially true of using note-taking apps as a Personal Knowledge Mgmt System. We've all been there, buying Omnifocus or some similar app for the 10th time--only to tweak for days and days, and getting behind or never getting their benefit. Most PMs have fallen into that trap, before, and it's just as bad with notes apps these days.
+Endless tweaking, instead of DOING. This is especially true of using any of the hundred note-taking apps out there.  What most people need is to hand-craft a Personal Knowledge Mgmt System that works for them, instead of buying Omnifocus or some similar app for the 10th time--only to tweak for days and days, and getting further behind and never getting the benefit. Most PMs have fallen into that trap, before, and it's just as bad with 3rd party notes apps these days.  
+
+My solution?  I force myself to only use two free note-taking apps: Microsoft OneNote and Apple Notes.  That's it.  I spend zero time anywhere else.  And I use *each* note-taking app in differing contexts.  More on that in a minute.  
+
+The problem is not really of the *app-choice* so much as friction to having the app at your fingertips for events like when you change Macs or PCs.  With my choice of only two apps (OneNote and Notes) I am guaranteed those apps are "already available" and ready-to-go with minimal fuss or muss.  
+
+
 
 There are a 100 note-taking apps out there, and still another 100 "systems". Be done with having a million sub-folders and "curating" endlessly. If you can't not productivity done with tagging, you're unlikely to ever get it done...
 

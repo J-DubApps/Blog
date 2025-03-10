@@ -83,4 +83,4 @@ If your cause (whatever it is) is *truly just*: without effective means to sprea
 
 I mean...I am *just one person*, and I might be missing something: show me what I'm missing!  It just seems that people only operate online about these issues -- which makes them not seem *real* to most people: they signal virtue, seek justice, or "*defend democracy*" exclusively in *online spaces* in ***language-only***...a realm of ***non-action***, traditionally.  If outrage and just-causes exist *only* as self-expression *online*...then why no *peacefully-organizing*?  If it's all only meme-making and *online activism*, what's the point?  Are people willing to *do the work* to peacefully organize, and convince others to join them?  Are you committed enough that you are prepared experience ***force***, and potential harm, while practicing non-violence in response?    
 
-Just food for thought.  It's possible that I am entirely wrong, about how our society will be navigating this era we find ourselves in.
+Just food for thought.  It's possible that I am entirely wrong about how folks will navigating this era we find ourselves in.
