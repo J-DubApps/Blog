@@ -1,5 +1,5 @@
 +++
-date = '2025-03-10T00:02:51-06:00'
+date = '2025-03-09T23:03:26-06:00'
 draft = false
 title = 'The Tesla Lightning Rod'
 description = "My involuntary experience of Tesla protests"
