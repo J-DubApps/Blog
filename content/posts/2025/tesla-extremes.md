@@ -2,7 +2,7 @@
 date = '2025-03-09T23:03:26-06:00'
 draft = false
 title = 'The Tesla Lightning Rod'
-description = "My involuntary experience of Tesla protests"
+description = "My experience with Tesla protest"
 type = 'post'
 tags = ["thought", "personal", "civics", "opinion"]
 +++
@@ -52,7 +52,7 @@ Fast forward to February 2021, and again another keying—this time my Model X f
 
 What fascinates me is not the damage *itself*—I'd rather *understand* instead of harboring anger or resentment. No, what fascinates me is how a single car brand has become (in two different political eras) a huge lightning rod for starkly divergent views. It captures something unique about our current cultural moment: the intensity of political identification, and how it attaches itself to products we consume.  
 
-Elon Musk's journey—from celebrated green-tech visionary to ultra-conservative political backer—is certainly not missed by any Americans. His reshaping of Twitter—and spending $288 million in the 2024 Presidential campaign—highlights how quickly public perceptions can swing.  Musk's political stances and social media controversies of the past 4 years have turned Tesla, a brand once synonymous with progressive innovation, into a complicated cultural symbol that is simultaneously embraced and rejected by opposite ends of the US political spectrum.  
+Elon Musk's journey—from celebrated green-tech visionary to ultra-conservative political backer—is certainly not missed by any Americans. His reshaping of Twitter—and spending $288 million in the 2024 Presidential campaign—highlights how quickly public perceptions can swing.  Musk's political stances and social media controversies of the past 4 years have turned Tesla, a brand once synonymous with progressive innovation, into a complicated cultural symbol that is simultaneously embraced and rejected by opposite ends of the political spectrum.  
 
 And for owners who originally just *liked* the car?  **Let's just I might intimately understand how a German Volkswagen bug owner must have felt in late 1945**. Brands inevitably carry the weight of human decisions and controversies—yet history shows that even deeply tarnished brands might eventually recover and redefine their identities.  
 
