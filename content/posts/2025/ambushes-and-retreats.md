@@ -44,4 +44,4 @@ It's not that we forgot who we were, or what we stood for (and what we stood aga
 
 Seeing the Oval Office TV spectacular last week, "***what's so***" (to me, anyway) is: we are *not* the America we were after saving the world in WWII.  We haven’t been those people, for a very long time.  It may upset people to hear that statement, but it's just *what is* in our *current era*.  I remain a hopeful that America will have other eras, and that our story still has a future.  
 
-It's all that any of us can really *do*.  
+It's all any of us can really *do*.  
