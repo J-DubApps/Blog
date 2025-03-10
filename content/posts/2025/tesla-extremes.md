@@ -19,7 +19,6 @@ tags = ["thought", "personal", "civics", "opinion"]
       </td>
   </tr>
 </table>
-
 <table>
   <tr>
     <td>
