@@ -1,0 +1,47 @@
++++
+date = '2025-02-28T22:17:51-06:00'
+draft = false
+title = 'Ambushes and Retreats'
+description = "A Different World Order for the US"
+type = 'post'
+tags = ["thought", "think-piece", "civics", "opinion", "history"]
++++
+
+I don't watch the news much.  I know a lot of people *say* that during weird times like these, but it's *actually objectively true* with me: other than 10pm news (with a singular focus on weather and sports), I really don't keep-up aggressively.  I learned years ago that the "firehose" of real-time news coverage on social media (or anywhere else) is just no way to live.  What social media I *do use* has curated timelines and filters for the things I'm there for, anyway: Project Management, Automation/DevOps, Personal Growth, etc.  And my filter is of course a defacto muting of political topics, and the toxic culture war extremes involving them.  
+
+But like many Americans, I couldn't escape news of what transpired in the Oval Office on TV the other day.  It broke through my filter in the form of friends texting me, one of them an American volunteering in Ukraine.  I am still processing what I finally watched today, and what it all means for the United States—and our apparent retreat from the world.  
+
+I don't have a lot to say that hasn't already been said, or will be said, about what seems to have been a historic seminal event in US diplomatic policy.  I like to view the world as it truly ***is***: *what’s so*. And to my thinking, ***what is so*** is *this*:    
+
+A lot of what we saw in the Oval Office was a result of many factors going back 20+ years.  In hindsight I believe we mostly remained diplomatically and militarily hyper-focused on 9/11 concept (Iraq / 20 yrs in Afghanistan), and we vastly *underreacted* to [Russia’s downing of an airliner in Ukraine in 2014](https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_17) and [their illegal seizure of The Crimea](https://en.wikipedia.org/wiki/Annexation_of_Crimea_by_the_Russian_Federation) - also in 2014.￼ We failed to meet those moments that year, leading with our fears and our hesitation. We didn't want to see it, and we are where we are now, 11 years later.  ***Hindsight is 20x20***.  
+ 
+I felt this was already going to be how things went for Ukraine (and our own shrinking place in the world) for a long time now. 
+ You could see over the past 3 years in the way one party spoke of Russia and Ukraine, and how our two-party system had no issue making Ukraine (and our defense of a nascent Democracy) a political football.  After the election in '24, from that year's rhetoric on Ukraine—I knew Ukraine was a done and dusted situation—nothing left to happen except the formal actions that would demonstrate this. And on Thursday everybody saw that being — everyone is catching-up on "*how it is with the US*" now.  Including Europe.  
+
+I suppose if one potential silver lining exists here, if there is one at all, is Europe may be unifying into a more united and cohesive Bloc: possibly a new "defender of the Free World".  Jury's still out on that.   
+
+Germany’s incoming Chancellor and Macron apparently are discussing a framework where they grow the EU's total military forces and begin discussing US military possibly leaving Germany and other sites in Europe.  A complete end, and evolution away from, the post-WW II order of the past 80+ years.   
+
+Japanese citizen polling now welcomes the idea of Japan becoming a nuclear power, as well.  Their government, in light of last week's Oval Office entertainment, have begun once-again discussing an exit from the longtime Treaty on the Prohibition of Nuclear Weapons (TPNW).  Japan has over 50% citizen support in restarting nuclear power plants, and even expanding them in the future.  Such expansion would most certainly include plant-designs that allow for uranium enrichment—should the country vote to arm itself.  And why *wouldn’t* they?  We’ve seem to have shown them little demonstrating we have their backs militarily, recently, what with our Okinawa planned-exit and the events of last week.  
+
+So two [original Axis WWII powers](https://en.wikipedia.org/wiki/Axis_powers), seeing a complete and total end of the post-WW II order—that our country was the leader of.  While the US seems to stand with Russia on Putin statements claiming Ukraine fired the first shots—and that Zelensky is a "dictator"—it seems like our allies are all waking-up to a *completely different order* in the world, than what existed in the past.  
+
+And I think that will be unfortunate and consequential, because if we become isolated after a retreat from supporting allies and their security (which, ultimately, our own security)—and we remain stuck in fantasies about tarrifs and our southern border—it seems like the world will complete a long-term shift, when it comes to our diminishing place in it.  
+
+I knew that anti-Globalism was the main driver most of our changes the past 9 years, and even going back to the late 90s and NAFTA. We all saw a lot of manufacturing leave the US, and we all knew that the midwest never fully-recovered from that or the [Great Recession in '07](https://en.wikipedia.org/wiki/Great_Recession) and beyond.  A *lot* of Americans were left out of our sprints of prosperity since those events, while our elected ruling-class simply expected large swaths of our labor force to adjust.  They expected a shift a Knowledge Worker economy, which never happened at the scale promised.  And it probably never will, given that a Knowledge Worker economy may not be what results from our [increasing developments in AI](https://en.wikipedia.org/wiki/Workplace_impact_of_artificial_intelligence).  
+
+The above is just simple math to me, when I look at history going back 20+ years and how our economy has left a lot of people out.  Elected leaders failed in so many areas, that instability and political extremes were the *only* predictable outcome. Just more than half of the voting public wants more prosperity and are content to have trade wars and microscopic focus on our southern border—even while the broader world burns, if need be.  
+
+And Americans are just a *very different people*, now, than we were 45+ years ago.  In 1962 my father flew in a [B-52H](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104465/b-52h-stratofortress/) along with 30 other bombers, in a squadron scrambled out of [Carswell AFB](https://en.wikipedia.org/wiki/Carswell_Air_Force_Base) during our national posturing during [the Cuban Missile crisis](https://en.wikipedia.org/wiki/Cuban_Missile_Crisis).  And he witnessed America’s might, facing down Soviet Russia and making it blink.  That is nothing like the America we live in now.  In his day, we lead with strength and deadly resolve.  We may not have been perfect in the 20th century, but America once had a terribly-powerful might, and a booming voice no one in the entire world could ignore.  
+
+Now in 2025 that influence and resolve has waned, it seems that our booming voice is a whisper — replaced mostly with a divided citizenry lead by fears of scarcity.  And they want nothing to do with maintaining any level of influence or power we had in the 20th century (even as our might and world-engagement arguably protected us from scarcity, in the first place).  
+￼
+Going back to what I sad earlier about "***what's so***", or objectively true: half of the country voted for a range of changes that include our place in the world.  Some view this as throwing away a lot of the unique American strengths and capabilities that our grandfathers left us.  Others view these changes as necessary and could counterintuitively somehow make us *safer*.   I don't buy into either view, but I admit I am not an expert here.  I only knew the world my parents came from, and what they did in different eras.  I only know that when I saw the results of this new world order developing, last week in the Oval Office, I felt very uneasy.  And sad.  
+
+I think our recent modern leaders wastefully-squandered our power during our military adventures after 9/11—spending blood & treasure on many fights, while largely ignoring what was happening in Russia for nearly 20 years. We fooled ourselves into thinking that Russia would take to Democracy, and grow beyond the pathetic mess they’ve been since 1918.  As we're discovering, now, Democracy in any republic is always a few elections from becoming nonexistent.  We negotiated Ukraine to de-arm in the 90s, and permitted Russia to engage in mafia tactics to influence the world.  It should be a surprise to no one that Russia first invaded them in 2014, and then again in 2022.  
+
+It's not that we forgot who we were, or what we stood for (and what we stood against). It's that America has other priorities right now.  And I think it will take a generation, or two, to see what our decisions and priorities *now* (today) create for he greater world.  
+
+Seeing the Oval Office TV spectacular last week, "***what's so***" (to me, anyway) is: we are *not* the America we were after saving the world in WWII.  We haven’t been those people, for a very long time.  It may upset people to hear that statement, but it's just *what is* in our *current era*.  I remain a hopeful that America will have other eras, and that our story still has a future.  
+
+It's all that any of us can really *do*.  
