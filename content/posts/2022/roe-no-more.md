@@ -3,7 +3,7 @@ date = '2022-06-24T11:30:00-05:00'
 draft = false
 title = 'Roe v. Wade'
 type = 'post'
-tags = ["news-link", "usa", "history"]
+tags = ["news-link", "usa", "history", "civics"]
 +++
 [Coverage on today's news from NPR](https://www.npr.org/2022/06/24/1102305878/supreme-court-abortion-roe-v-wade-decision-overturn) that Roe is no longer law. <br />
 

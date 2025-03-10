@@ -4,7 +4,7 @@ draft = false
 title = 'Ambushes and Retreats'
 description = "A different world order for the US"
 type = 'post'
-tags = ["thought", "think-piece", "civics", "opinion", "history"]
+tags = ["thought", "think-piece", "civics", "opinion", "history", "global-events"]
 +++
 
 I don't watch the news much.  I know a lot of people *say* that during weird times like these, but it's objectively for me: other than 10pm news (with focus mostly on weather and sports), I am not one to keep-up aggressively with the news. I learned years ago that the "firehose" of real-time news coverage (on social media or anywhere else) is just no way to live.  What social media I *do use* gets curated and filtered timelines, tuning out news and focusing on the things I'm there for: Project Management, Automation/DevOps, Personal Growth, etc.  And my filter is of course a defacto ***mute*** of all things political, including the toxic culture war extremes involved.  

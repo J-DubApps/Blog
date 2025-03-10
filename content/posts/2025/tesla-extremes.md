@@ -1,11 +1,37 @@
 +++
-date = '2025-02-28T22:17:51-06:00'
-draft = true
+date = '2025-03-10T00:02:51-06:00'
+draft = false
 title = 'The Tesla Lightning Rod'
-description = "My very-direct experience of politics in 3 car-vandalisms"
+description = "My involuntary experience of Tesla protests"
 type = 'post'
-tags = ["thought", "think-piece", "civics", "opinion", "history"]
+tags = ["thought", "personal", "civics", "opinion"]
 +++
+
+<table>
+  <tr>
+    <td>
+     <img src="https://julianwest.me/Blog/posts/images/model-s-1.jpeg" alt="Me and Tessie" width="350" height="205">
+      <div></div>
+      </td>
+      <td>
+      <img src="https://julianwest.me/Blog/posts/images/model-s-2.jpeg" alt="Me and Tessie also" width="350" height="205">
+      <div></div>
+      </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+     <img src="https://julianwest.me/Blog/posts/images/model-x-me.jpeg" alt="Me and Blueberry" width="350" height="205">
+      <div></div>
+      </td>
+      <td>
+      <img src="https://julianwest.me/Blog/posts/images/model-s-x.jpeg" alt="Two Teslas" width="350" height="205">
+      <div></div>
+      </td>
+  </tr>
+</table>
 
 Whichever your political persuasion, each political majority gets its day in the sun (their period in power)—and the US pendulum swings, in its usual unpredictable cycle, to "move the sunshine" to the political minority. That's the whole ballgame in US politics, *usually*. But when it comes to the two Tesla vehicles I have owned, instead of a pendulum I received *vandalism* as indicators of our national political conversation.  And [apparently other Tesla owners are experiencing the sam](https://www.nytimes.com/2025/03/08/business/elon-musk-tesla-violence-protests-vandalism.html).
 
@@ -13,6 +39,18 @@ In October 2015, I parked my Tesla Model S in a regular open lot only to find la
 
 Fast forward to February 2021, and again my Tesla—this time my Model X—fell victim to the same vandalism. Captured by the car's Sentry footage, this time it was a young student (presumably—I was parked in a garage on UT Austin campus) whose face was obscured by a hoodie and mask. They acted the same as the other party several years earlier, but *this time* for obviously different reasons: their actions driven not by hostility to electric vehicles, but by disdain for Elon Musk and his increasingly-polarizing stances. I only say that because my Model X was then keyed a *second time* two years later!!  
 
+<table>
+  <tr>
+    <td>
+     <img src="https://julianwest.me/Blog/posts/images/S-vandalism.jpg" alt="Me and Blueberry" width="350" height="205">
+      <div></div>
+      </td>
+      <td>
+      <img src="https://julianwest.me/Blog/posts/images/X-vandalism.jpg" alt="Two Teslas" width="350" height="205">
+      <div></div>
+      </td>
+  </tr>
+</table>
 
 
 
