@@ -6,7 +6,7 @@ type = 'post'
 tags = ["thought", "opinion", "career", "leadership", "personal-development"]
 +++
 
- "*Don't take criticism from people you wouldn't take advice from*."
+> "*Don't take criticism from people you wouldn't take advice from*."
 
 It sounds obvious, doesn't it? Yet many of us still let other people's opinions, judgments, and expectations shape our actions and beliefs. I've certainly done it—letting negativity from people I see as influential creep into my thinking, even when their advice isn’t aligned with *my goals*.  
 
