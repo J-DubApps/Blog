@@ -22,5 +22,5 @@ Here are my straightforward bits of advice that I personally use to protect my m
 
 - Completely remove and avoid people from your professional life who speak poorly of others behind their backs. If they do it to someone else, they'll do it to you.  And they aren't ever coming from a place of respect.  
 
-Be *intentional* about guarding your mindset—it's your most valuable asset. **Don’t let anyone in who doesn’t genuinely support you** (or have the wisdom or capability to provide constructive candor and support) **advise you.  If it's someone that you literally wouldn't trade places with is trying to give you advice: ***don't take that advice***.  
+Be *intentional* about guarding your mindset—it's your most valuable asset. **Don’t let anyone in who doesn’t genuinely support you** (or people without wisdom or capability to provide constructive candor and support) **advise you.  If somebody that you literally *wouldn't trade places with** is trying to give you advice: ***don't take that advice***.  
 
