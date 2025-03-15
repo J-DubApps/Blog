@@ -6,7 +6,7 @@ description = "Embracing a Beginner's Mind in a Data-Driven World"
 type = 'post'
 tags = ["tech", "troubleshooting", "devops", "philosophy", "thought", "mindfulness", "skill-development", "best-of", "personal-development"]
 +++
-It's often said that our perception shapes our reality—but what happens when our perceptions are overly rigid or not 100% informing us on actual objective reality? I wrote about this recently, because often [we allow our interpretations or assumptions](https://julianwest.me/Blog/the-map-is-not-the-territory/) to become preciously-held *dogma*.  We have a bias to wanting to be *right* and this dictates how we view and respond to the world. This habit can lead us astray, locking us into patterns of *confirmation bias* which limits our ability to adapt or grow. To truly innovate and excel—both personally and professionally—we must shift our approach from *interpretation-based* experience to one grounded firmly in *data* and ***facts***.
+It's often said that our perception shapes our "*reality*"—but what happens when our perceptions are overly rigid or not providing a view to actual *objective reality*? I wrote about this recently, because often [we allow our interpretations or assumptions](https://julianwest.me/Blog/the-map-is-not-the-territory/) to become preciously-held *dogma*.  We have a bias to wanting to be *right* and this dictates how we view and respond to the world. This habit can lead us astray, locking us into patterns of *confirmation bias* which limits our ability to adapt or grow. To truly innovate and excel—both personally and professionally—we must shift our approach from *interpretation-based* experience to one grounded firmly in *data* and ***facts***.
 
 ## Breaking Free from Fixed Perceptions
 
