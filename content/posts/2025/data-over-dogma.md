@@ -2,7 +2,7 @@
 date = '2025-03-14T01:14:51-06:00'
 draft = false
 title = 'Data over Dogma'
-description = 'Embracing a Beginner's Mind in a Data-Driven World'
+description = "Embracing a Beginner's Mind in a Data-Driven World"
 type = 'post'
 tags = ["tech", "troubleshooting", "devops", "philosophy", "thought", "mindfulness", "skill-development", "best-of", "personal-development"]
 +++

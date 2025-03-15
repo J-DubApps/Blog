@@ -2,7 +2,7 @@
 date = '2024-08-19T14:15:51-06:00'
 draft = false
 title = 'Yes&#44; the Cloud is Just Somebody Else&#39;s Computer'
-description = 'So What?'
+description = "So What?"
 type = 'post'
 tags = ["tech", "links", "microsoft", "cloud", "ms-office", "aws", "azure", "entra-id", "intune", "devops", "best-of"]
 +++

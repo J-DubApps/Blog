@@ -2,6 +2,7 @@
 date = '2025-03-12T01:17:51-06:00'
 draft = false
 title = 'Advice'
+description = "..aka: Advice For Taking Advice"
 type = 'post'
 tags = ["thought", "opinion", "career", "leadership", "personal-development"]
 +++
