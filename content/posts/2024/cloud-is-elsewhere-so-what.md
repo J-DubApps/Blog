@@ -20,7 +20,9 @@ tags = ["tech", "links", "microsoft", "cloud", "ms-office", "aws", "azure", "ent
         }
 </style>
 
-You’ve probably heard the popular phrase, “***the cloud is just somebody else's computer***” more than a few times.  While *factually true*, when it comes to DevOps and Enterprise IT that perspective misses a key point: *whose computer it is* matters less than how well your data is protected, managed, and accessible. Today, the cloud isn't merely "*convenient*"—it’s a strategic business advantage offering exceptional security, reliability, and cost-effectiveness.
+You’ve probably heard the popular phrase, “***the cloud is just somebody else's computer***” more than a few times.  While *factually true*, when it comes to DevOps and Enterprise IT that perspective misses a key point: *whose computer it is* matters less than how well your data is protected, managed, and accessible. Today, the cloud isn't merely "*convenient*"—it’s a strategic business advantage offering exceptional security, reliability, and cost-effectiveness.  
+
+I want to write about one key area companies are leveraging in Hybrid and Native Cloud infrastructure: File Storage.  There are many solutions out there, most of them "[serverless](https://en.wikipedia.org/wiki/Serverless_computing)" or microservices oriented, which companies can take advantage of in order to *securely* store their data in the Cloud.  Let's explore the security and advantages.
 
 ## Data Privacy and Compliance: Setting the Bar High
 
@@ -32,11 +34,11 @@ Moreover, enterprises seeking to bolster their data security posture can comply 
 
 A major advancement in cloud security is the standardization of [***end-to-end encryption***](https://en.wikipedia.org/wiki/End-to-end_encryption). Modern cloud solutions encrypt data both in transit (using protocols such as [TLS over HTTPS](https://en.wikipedia.org/wiki/Transport_Layer_Security)) and at rest, using [AES-256 encryption](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)—the same technology trusted by banks and government agencies. This encryption ensures that data is safeguarded from unauthorized access at every stage of its journey.
 
-## Cloud vs. On-Prem Storage
+## Hybrid Cloud vs. On-Prem Storage
 
 Historically, many organizations have relied on complex, costly [Storage Area Networks](https://en.wikipedia.org/wiki/Storage_area_network) (SANs) and intricate on-premises compute infrastructures. While effective, these systems require substantial upfront investment, ongoing maintenance, and specialized expertise.  
 
-Cloud storage, by comparison, alleviates these burdens. It not only matches on-prem storage in security but frequently surpasses it due to continuous investments in advanced security measures by cloud providers. Additionally, cloud storage is inherently scalable—adjusting instantly to your business needs without extensive planning or budget approvals.  Security *and* performance gains can be had for usually *far less cost* than most use-cases for on-prem storage infra.   
+Hybrid and Native Cloud storage solutions, by comparison, alleviate most of these burdens. Cloud not only matches on-prem storage in security but frequently surpasses it due to continuous investments in advanced security measures by cloud providers. Additionally, cloud storage is inherently scalable—adjusting instantly to your business needs without extensive planning or budget approvals.  Security *and* performance gains can be had for usually *far less cost* than most use-cases for on-prem storage infra.   
 
 Eliminating the need to manage SAN hardware, firmware updates, disaster recovery sites, and complex backup solutions significantly reduces overhead. This allows your Systems Architects and Ops Engineers to innovate in other areas for your business (automation pipelines, business process alignment, and greater site-resilience).  Cloud storage solutions provide built-in redundancy, automatic backups, geo-distributed replication, and fault tolerance, dramatically enhancing reliability.
 
@@ -44,7 +46,7 @@ Eliminating the need to manage SAN hardware, firmware updates, disaster recovery
 
 In traditional IT models, remote employees access data via VPN tunnels—often slow, cumbersome, and complicated. Cloud storage transforms this experience by providing direct and secure access to corporate files through encrypted HTTPS connections. Solutions like Azure Storage eliminate VPN bottlenecks entirely, offering high-speed direct access from any location.  
 
-By transitioning file storage to the cloud, companies enjoy improved productivity and simplified access management. Employees securely access critical business data instantly, accelerating collaboration and operational efficiency.
+When transitioning file storage to the cloud is done well, companies cam enjoy improved productivity and simplified access management. Employees still securely access critical business data as instantly as they did before, for usually less cost and greater operational efficiency.
 
 ## Hybrid Cloud: The Strategic Advantage
 
