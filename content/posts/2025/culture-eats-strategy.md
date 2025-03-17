@@ -1,5 +1,5 @@
 +++
-date = '2025-01-17T06:14:51-06:00'
+date = '2025-03-17T06:14:51-06:00'
 draft = false
 title = 'Culture Eats Strategy For Breakfast'
 description = "Drucker was right then, and now..."
