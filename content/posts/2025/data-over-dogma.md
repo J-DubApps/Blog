@@ -2,7 +2,7 @@
 date = '2025-03-14T01:14:51-06:00'
 draft = false
 title = 'Data over Dogma'
-description = "There's No Room For Confirmation Bias in our Data-Driven Tech World"
+description = "There's No Room For Confirmation Bias in Data-Driven Troubleshooting"
 type = 'post'
 tags = ["tech", "troubleshooting", "devops", "philosophy", "thought", "mindfulness", "skill-development", "best-of", "best-practice", "personal-development"]
 +++
