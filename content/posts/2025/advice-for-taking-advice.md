@@ -4,7 +4,7 @@ draft = false
 title = 'Advice'
 description = "..aka: Advice For Taking Advice"
 type = 'post'
-tags = ["thought", "opinion", "career", "leadership", "personal-development"]
+tags = ["thought", "opinion", "career", "leadership", "best-practice", "personal-development"]
 +++
 
 > "*Don't take criticism from people you wouldn't take advice from*."
