@@ -2,9 +2,9 @@
 date = '2025-03-14T01:14:51-06:00'
 draft = false
 title = 'Data over Dogma'
-description = "Embracing a Beginner's Mind in a Data-Driven World"
+description = "There's No Room For Confirmation Bias in our Data-Driven Tech World"
 type = 'post'
-tags = ["tech", "troubleshooting", "devops", "philosophy", "thought", "mindfulness", "skill-development", "best-of", "personal-development"]
+tags = ["tech", "troubleshooting", "devops", "philosophy", "thought", "mindfulness", "skill-development", "best-of", "best-practice", "personal-development"]
 +++
 It's often said that our perception shapes our "*reality*"—but in technology we need to work off of *facts* not our perception or what we *believe* is root-cause of an issue. So what happens when our perceptions are overly rigid or not providing a view to actual *objective reality*?  Just the facts?   What *usually* happens is: we aren't getting the whole picture, something I recently wrote about in the think-piece "[***The Map is Not the Territory***](https://julianwest.me/Blog/the-map-is-not-the-territory/)". When we find ourselves, during downtime troubleshooting or other related activity, *advocating* about what "*we believe*" is root cause, we're not serving our team and we could be engaged in lazy-thinking: holding to a preciously-held *dogma* of "I saw this broken before, I know what this is".  
 
