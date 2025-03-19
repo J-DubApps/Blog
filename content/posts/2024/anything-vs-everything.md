@@ -21,7 +21,6 @@ So we start with basics: categorizing tasks based on their urgency and importanc
 <div style="font-size: 9px;">
 <p style="text-align: center;"><i>Eisenhower Matrix Example</i></p>
 </div>
-<br />
 
 Equally critical is recognizing that ***not everything is an emergency*** or urgent. A constant “*firefighting*” mindset leads to burnout, and poor-quality in work product. *Instead*, foster a culture of proactive planning. Identify those recurring emergencies and ask: “*How can we prevent this from becoming urgent next time*?” 
 
