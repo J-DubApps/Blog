@@ -38,5 +38,5 @@ Confirmation bias—favoring information that supports *existing* experience or 
 
 By placing "***data over dogma***," you unlock clarity, innovation, and genuine growth. When you let-go of rigid interpretations, objectively measure what's meaningful and related to the problem you're trying to solve, and maintain a Beginner’s mind: your decisions become smarter, your responses quicker, and your growth more sustainable. Let the data—*not dogma*—lead your way!  
 
-## I'm rooting for you!
+## *I am rooting for you*!
 
