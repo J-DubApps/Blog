@@ -16,5 +16,3 @@ Culture is the LAST thing C-suite ever wants to figure out, but it's the ONE THI
 Know what *also* eats strategy for breakfast? 
 
 ***Execution***.
-
-If any of this resonates with you, or you want to learn more about how your team's culture can give you the edge, [Contact me](https://julianwest.me/Blog/contact/).
