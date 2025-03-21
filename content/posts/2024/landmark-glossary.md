@@ -36,7 +36,7 @@ The terms, phrases, and definitions below are a *modified fork* of the original 
 
 <a id="terms"></a>
 
-## INTRODUCTION - Terminology
+## INTRODUCTION - A Word on Terminology
 
 Every discipline has its *own language* that borrows general terms and provides their own *specific*, *distinct concepts* or meanings. We usually call such terms "***jargon***" or a "***term of art***". **For example**, in [**physics**](https://en.wikipedia.org/wiki/Physics) the words "*force*", "*work*", and "*power*" are all given ***specific meanings*** for mathematical modeling to work consistently. So while "***work***" means ***force through a distance*** in physics, the common term of "***work***" means ***applying effort*** for the layman. **To a physicist**, however, pressing as *hard as you can* against a wall and *not moving it* = ***no work***; but to a layman listening to the physicist: it was *possibly* **a lot** ***of useless "work"***! **So every discipline has its own language or *terms of art***:  **and** ***so it is*** **with** **Landmark and why this page exists**.  **The Landmark Forum's** 3-day (and one evening) course borrows words from *common language*, and gives specific concepts to those words in order to communicate new ideas. Every [**NLP system**](https://en.wikipedia.org/wiki/Neuro-linguistic_programming) and [**LGAT**](https://en.wikipedia.org/wiki/Large-group_awareness_training) has "*terms of art*", and this page sets out to help give some understanding and context to **Landmark Forum** terms.<br />
 
