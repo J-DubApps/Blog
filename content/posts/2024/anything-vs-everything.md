@@ -21,7 +21,6 @@ So we start with basics: categorizing tasks based on their urgency and importanc
 <div style="font-size: 9px;">
 <p style="text-align: center;"><i>Eisenhower Matrix Example</i></p>
 </div>
-<br />
 
 Equally critical is recognizing that ***not everything is an emergency*** or urgent. A constant “*firefighting*” mindset leads to burnout, and poor-quality in work product. *Instead*, foster a culture of proactive planning. Identify those recurring emergencies and ask: “*How can we prevent this from becoming urgent next time*?” 
 
@@ -43,6 +42,10 @@ A practical way to frame this is to ask, “*Does this task align with our core 
 
 ### tl;dr The Takeaway: The Power of *Focus*
 
-**Understanding that you can’t do *everything* doesn’t mean you’re *failing***—***it means you’re human***! By focusing on what *truly matters*, aligning your team’s efforts, and *choosing your battles* wisely, **you harness the power of** ***intentionality***. The same is true for individual productivity when you're faced with overwhelming amounts of work and choices.  Just *remember*: You can do *anything*, but your greatest strength lies in *limiting yourself* to doing the *right things well*. <br />
+**Understanding that you can’t do *everything* (all at once) doesn’t mean you’re *failing***—***it means you’re focusing on what *truly matters*!  By aligning your team’s efforts, and *choosing your battles* wisely, **you harness the power of** ***intentionality***. The same is true for individual productivity when you're faced with overwhelming amounts of work and choices.  Just *remember*: You can do *anything*, but your greatest strength lies in *limiting yourself* to doing the *right things well*. <br />
 
-Adopting this mindset is difficult, it challenges our ego (to stop work on one thing, that may be more *fun* for the team, and pivot to another thing) and it takes practice. But thinking this way doesn’t just improve productivity—it also leads to better results, less stress, and a greater sense of accomplishment. So, take a deep breath, reassess, and *aim* (the part we don't do naturally, when we want to *do it all*).  Put all your wood behind *one* single arrow *at-a-time*, don't multitask endlessly, and watch as you achieve win after win.
+Adopting this mindset is difficult, it challenges our ego (to stop work on one thing, that may be more *fun* for the team, and pivot to another thing that is more critical...or brings more *value*) and **it takes practice**. But thinking this way doesn’t just improve productivity—it also leads to *better results*, less stress, and a greater sense of *accomplishment*. So, take a deep breath, reassess, and *aim* (the aiming part we don't do naturally, when we want to *do it all*).  Put all your wood behind *one* single arrow *at-a-time*, don't multi-task endlessly, and *just watch* as you achieve completions and win after win.  
+
+Trying this is far better than drowning in incomplete tasks.  Try it!  
+
+## *I am rooting for you!*

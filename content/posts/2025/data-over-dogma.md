@@ -2,11 +2,13 @@
 date = '2025-03-14T01:14:51-06:00'
 draft = false
 title = 'Data over Dogma'
-description = "Embracing a Beginner's Mind in a Data-Driven World"
+description = "There's No Room For Confirmation Bias in Data-Driven Troubleshooting"
 type = 'post'
-tags = ["tech", "troubleshooting", "devops", "philosophy", "thought", "mindfulness", "skill-development", "best-of", "personal-development"]
+tags = ["tech", "troubleshooting", "devops", "philosophy", "thought", "mindfulness", "skill-development", "best-of", "best-practice", "personal-development"]
 +++
-It's often said that our perception shapes our "*reality*"—but what happens when our perceptions are overly rigid or not providing a view to actual *objective reality*? I wrote about this recently, because often [we allow our interpretations or assumptions](https://julianwest.me/Blog/the-map-is-not-the-territory/) to become preciously-held *dogma*.  We have a bias to wanting to be *right* and this dictates how we view and respond to the world. This habit can lead us astray, locking us into patterns of *confirmation bias* which limits our ability to adapt or grow. To truly innovate and excel—both personally and professionally—we must shift our approach from *interpretation-based* experience to one grounded firmly in *data* and ***facts***.
+It's often said that our perception shapes our "*reality*"—but in technology we need to work off of *facts* not our perception or what we *believe* is root-cause of an issue. So what happens when our perceptions are overly rigid or not providing a view to actual *objective reality*?  Just the facts?   What *usually* happens is: we aren't getting the whole picture, something I recently wrote about in the think-piece "[***The Map is Not the Territory***](https://julianwest.me/Blog/the-map-is-not-the-territory/)". When we find ourselves, during downtime troubleshooting or other related activity, *advocating* about what "*we believe*" is root cause, we're not serving our team and we could be engaged in lazy-thinking: holding to a preciously-held *dogma* of "I saw this broken before, I know what this is".  
+
+We have a bias to wanting to be *right* and this dictates how we view and respond to the world. This habit can lead us astray, locking us into patterns of *confirmation bias* which limits our ability to adapt or grow. To truly innovate and excel—both personally and professionally—we must shift our approach from *interpretation-based* experience to one grounded firmly in *data* and ***facts***.
 
 ## Breaking Free from Fixed Perceptions
 
@@ -36,5 +38,5 @@ Confirmation bias—favoring information that supports *existing* experience or 
 
 By placing "***data over dogma***," you unlock clarity, innovation, and genuine growth. When you let-go of rigid interpretations, objectively measure what's meaningful and related to the problem you're trying to solve, and maintain a Beginner’s mind: your decisions become smarter, your responses quicker, and your growth more sustainable. Let the data—*not dogma*—lead your way!  
 
-# I'm rooting for you!
+## *I am rooting for you*!
 

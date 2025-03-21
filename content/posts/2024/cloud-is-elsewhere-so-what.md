@@ -52,4 +52,4 @@ When transitioning file storage to the cloud is done well, companies cam enjoy i
 
 Embracing a hybrid cloud infrastructure means your organization gets the best of both worlds—the secure, scalable, and cost-effective nature of cloud storage combined with the control and customization of an on-prem environment.  
 
-In the end, it's not about whose computer stores your data; it's about trust, reliability, and performance. Today’s cloud storage providers exceed these criteria. So yes, the cloud is just somebody else's computer—but it's a powerful, secure, and economical one that makes strategic sense for your business.
+In the end, it's not about whose computer stores your data; it's about trust, reliability, and performance. Today’s cloud storage providers exceed these criteria. **So yes, while the cloud *is* somebody else's computer**—it's becoming a powerful, secure, and economical "computer" that will make strategic sense for your business.  
