@@ -58,9 +58,9 @@ Elon Musk's journey—from celebrated green-tech visionary to radical conservati
 
 And for owners who originally just *liked* the car?  **Let's just I might intimately understand how a German Volkswagen bug owner must have felt in late 1945**. Brands inevitably carry the weight of human decisions and controversies—yet history shows that even deeply tarnished brands might eventually recover and redefine their identities.  
 
-Perhaps in time, Tesla might also find itself clear of history and political crossfire, but I feel that's a long time away. And only possible once Tesla moves on their current CEO.
+Perhaps in time, Tesla might also find itself clear of history and political crossfire, but I feel that's a long time away. And only possible once Tesla moves on their current CEO.  Time was that JB Straubel, Martin Ebberhard, and Marc Tarpenning fostered a great drivetrain tech in the 2000s. Those were the names ***I*** heard when I discovered a company called "Tesla". You never hear those names anymore—only the one guy who ran them off (though JB hung on for a long, long time...).  
 
-I may be moving on to try other EVs in the future, but I will always think these were decent cars.  It's kind of tragic, the negative effects that their CEO saddled them with. <br /> <br />
+I am moving on to another car in the future, but I will always think these were decent cars.  It's kind of tragic, the negative effects that their CEO saddled them with. <br /> <br />
 
 
 <img src="https://julianwest.me/Blog/posts/images/X-at-beach.jpg" alt="Me and Blueberry" width="650" height="405">
