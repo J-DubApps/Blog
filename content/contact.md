@@ -20,10 +20,10 @@ type = 'page'
 <span data-feather="mail"></span> <a href="mailto:%77%65%73%74%2E%6A%75%6C%69%61%6E%40%67%6D%61%69%6C%2E%63%6F%6D"><span class="e-mail" data-user="nailuj.tsew" data-website="moc.liamg"></span></a><br />
 <span data-feather="mail"></span> <a href="mailto:%6A%64%75%62%70%72%69%76%38%40%70%72%6F%74%6F%6E%6D%61%69%6C%2E%63%6F%6D"><span class="e-mail" data-user="8virpbudj" data-website="moc.liamnotorp"></span></a><br />
 <span data-feather="message-circle"></span> <a href="https://signal.me/#eu/BXKBR9TDC18qm_090AxlIQJuLt4utk5i1C8otSfB381GOKO_T1JHPKXPs_sXdkQA">Signal</a><br />
-  <span data-feather="github"></span> <a href="https://github.com/J-DubApps">GitHub
-                                @J-DubApps
-                            </a><br />
 🦋 <a href="https://bsky.app/profile/julianwest.me">BlueSky
+                            </a><br />
+                              <span data-feather="github"></span> <a href="https://github.com/J-DubApps">GitHub
+                                @J-DubApps
                             </a><br />
  <span data-feather="linkedin"></span> <a href="https://www.linkedin.com/in/julianwest/">LinkedIn
                                 </a><br />
