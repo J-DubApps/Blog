@@ -9,10 +9,10 @@ tags = ["quote", "work-culture", "project-mgmt", "best-of"]
 
 > “***Culture eats strategy for breakfast***.” - [**Peter Drucker**](https://en.wikipedia.org/wiki/Peter_Drucker)
 
-Drucker also said: "***what gets measured gets managed***" --- and if you're measuring and managing the wrong things, your company's Culture suffers.  
+Drucker *also* said: "***what gets measured gets managed***" --- and if you're measuring and managing *the wrong things*, your company Culture can suffer.  
 
-Culture is the LAST thing C-suite ever wants to figure out, but it's the ONE THING that can make your staff just completely killer-effective. Strategy may talk about "mission", but it's CULTURE that gets the mission MOVING.
+Culture is usually the LAST thing C-suite wants to figure out, but it's the ONE THING that can make your staff just completely killer-effective. Strategy may *talk* about "mission", but it's ***CULTURE*** that gets any mission MOVING.  
 
-Know what *also* eats strategy for breakfast? 
+Know what *also* eats strategy for breakfast?  
 
 ***Execution***.
