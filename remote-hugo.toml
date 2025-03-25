@@ -1,33 +1,64 @@
-baseURL = 'http://julianwest.me/Blog/'
+baseURL = 'http://julianwest.me/Blog/' # Your domain name. Must end with "/"
 languageCode = 'en-us'
-title = 'julianwest.me.blog'
-theme = 'ananke'
+title = 'julianwest.me'
+theme = "gokarna"
 weight = 1
 pluralizeListTitles = false
+enableRobotsTXT = false
 
 defaultContentLanguage = "en"
-# sectionPagesMenu = "main"
+#sectionPagesMenu = "main"
 
-[pagination]
-pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+# [pagination]
+# pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+
+# If you don't want to use the default menu, you can define one by yourself
+# [[menu.main]]
+#     name    = "Home"
+#     url     = "/"
+#     weight  = 0
+# [[menu.main]]
+#     name    = "Blog"
+#     url     = "/blog/"
+#     weight  = 1
 
 [menus]
   [[menus.main]]
-    name = 'Blog Home'
-    pageRef = '/'
+    identifier = "main"
+    parent = ""
+    name = ''
+    url = "https://julianwest.me/Blog"
+    Pre = "<span data-feather='home'></span>"
     weight = 10
   [[menus.main]]
-    name = 'Blog Posts'
+    identifier = "posts"
+    parent = ""
+    name = 'Blog'
+    Pre = "<span data-feather='book'></span>"
     pageRef = '/posts'
     weight = 20
+    [[menus.main]]
+    name = 'Best-of'
+    url = 'https://julianwest.me/Blog/best-of/'
+    Pre = "<span data-feather='star'></span>"
+    weight = 25
   [[menus.main]]
     name = 'About'
     pageRef = '/about'
-    weight = 30
+    Pre = "<span data-feather='user'></span>"
+    weight = 45
   [[menus.main]]
-    name = 'Contact'
+    name = ''
     pageRef = '/contact'
-    weight = 40
+    Pre = "<span data-feather='mail'></span>"
+    weight = 46
+  [[menus.main]]
+    identifier = "tags"
+    name = "Tags"
+    parent = ""
+    pre = "<span data-feather='tag'></span>"
+    url = "/tags/"
+     weight = 42
   [[menus.footer]]
     name = 'Colophon'
     pageRef = '/colophon'
@@ -36,18 +67,218 @@ pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a h
     name = 'Terms'
     pageRef = '/site-disclosure'
     weight = 20
+  [[menus.footer]]
+  identifier = "rss"
+    name = ""
+    parent = ""
+    pre = "<span data-feather='rss'></span>"
+    url = "https://julianwest.me/Blog/index.xml"
+    weight = 25
+
+
+# -------------------------------------------------------------------------------------
+# Related content Configuration
+# See: https://gohugo.io/content-management/related/
+# -------------------------------------------------------------------------------------
+
+[related]
+  includeNewer = false
+  threshold = 80
+  toLower = false
+[[related.indices]]
+  applyFilter = false
+  cardinalityThreshold = 0
+  name = 'keywords'
+  pattern = ''
+  toLower = false
+  type = 'basic'
+  weight = 100
+[[related.indices]]
+  applyFilter = false
+  cardinalityThreshold = 0
+  name = 'date'
+  pattern = ''
+  toLower = false
+  type = 'basic'
+  weight = 10
+[[related.indices]]
+  applyFilter = false
+  cardinalityThreshold = 0
+  name = 'tags'
+  pattern = ''
+  toLower = false
+  type = 'basic'
+  weight = 80
+[[related.indices]]
+  applyFilter = false
+  name = 'fragmentrefs'
+  type = 'fragments'
+  weight = 80
+
+# -------------------------------------------------------------------------------------
+# Markup related configuration in Hugo
+# See: https://gohugo.io/getting-started/configuration-markup/
+# -------------------------------------------------------------------------------------
+
+
+[markup]
+  [markup.highlight]
+    ########## necessary configurations ##########
+    # https://github.com/hugo-fixit/FixIt/issues/43
+    codeFences = true
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = false
+    ########## necessary configurations ##########
+    guessSyntax = true
+  # Goldmark is from Hugo 0.60 the default library used for Markdown
+[markup.goldmark]
+[markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = false
+  [markup.goldmark.renderer]
+  # whether to use HTML tags directly in the document
+    unsafe = true # Allow HTML in md files
+# Table Of Contents settings
+[markup.tableOfContents]
+    startLevel = 2
+    endLevel = 6
+    ordered = false
+
+# -------------------------------------------------------------------------------------
+# Sitemap Configuration
+# See: https://gohugo.io/templates/sitemap-template/#configuration
+# -------------------------------------------------------------------------------------
 
 [sitemap]
 changefreq = "monthly"
 priority = 0.5
 filename = "sitemap.xml"
 
+# -------------------------------------------------------------------------------------
+# Permalinks Configuration
+# See: https://gohugo.io/content-management/urls/#permalinks
+# -------------------------------------------------------------------------------------
+
+[Permalinks]
+  # posts = ":year/:month/:filename"
+  posts = ":filename"
+
+# -------------------------------------------------------------------------------------
+# Privacy Configuration
+# See: https://gohugo.io/about/hugo-and-gdpr/
+# -------------------------------------------------------------------------------------
+
+[privacy]
+  [privacy.twitter]
+    enableDNT = true
+  [privacy.youtube]
+    privacyEnhanced = true
+
+# -------------------------------------------------------------------------------------
+# Media Types
+# See: https://gohugo.io/templates/output-formats/#media-types
+# -------------------------------------------------------------------------------------
+
+[mediaTypes]
+  # Options to make output .md files
+  [mediaTypes."text/markdown"]
+    suffixes = ["md"]
+  # Options to make output .txt files
+  [mediaTypes."text/plain"]
+    suffixes = ["txt"]
+
+# -------------------------------------------------------------------------------------
+# Output Format Definitions
+# See: https://gohugo.io/templates/output-formats/#output-format-definitions
+# -------------------------------------------------------------------------------------
+
+[outputFormats]
+  # Options to make output .md files
+  [outputFormats.MarkDown]
+    mediaType = "text/markdown"
+    isPlainText = true
+    isHTML = false
+  # FixIt 0.3.0 | NEW Options to make output /archives/index.html file
+  [outputFormats.archives]
+    path = "archives"
+    baseName = "index"
+    mediaType = "text/html"
+    isPlainText = false
+    isHTML = true
+    permalinkable = true
+  # FixIt 0.3.0 | NEW Options to make output /offline/index.html file
+  [outputFormats.offline]
+    path = "offline"
+    baseName = "index"
+    mediaType = "text/html"
+    isPlainText = false
+    isHTML = true
+    permalinkable = true
+  # FixIt 0.3.0 | NEW Options to make output readme.md file
+  [outputFormats.README]
+    baseName = "readme"
+    mediaType = "text/markdown"
+    isPlainText = true
+    isHTML = false
+  # FixIt 0.3.0 | CHANGED Options to make output baidu_urls.txt file
+  [outputFormats.baidu_urls]
+    baseName = "baidu_urls"
+    mediaType = "text/plain"
+    isPlainText = true
+    isHTML = false
+
+# -------------------------------------------------------------------------------------
+# Customizing Output Formats
+# See: https://gohugo.io/templates/output-formats/#customizing-output-formats
+# -------------------------------------------------------------------------------------
+
+# Options to make hugo output files, the optional values are below:
+# home: ["HTML", "RSS", "JSON", "archives", "offline", "README", "baidu_urls"]
+# page: ["HTML", "MarkDown"]
+# section: ["HTML", "RSS"]
+# taxonomy: ["HTML", "RSS"]
+# term: ["HTML", "RSS"]
+[outputs]
+  home = ["HTML", "RSS", "JSON", "archives"]
+  page = ["HTML", "MarkDown"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML"]
+  term = ["HTML", "RSS"]
+
+# -------------------------------------------------------------------------------------
+# Taxonomies Configuration
+# See: https://gohugo.io/content-management/taxonomies/#configure-taxonomies
+# -------------------------------------------------------------------------------------
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  collection = "collections"
+
+# -------------------------------------------------------------------------------------
+# Theme Core Configuration
+#
+# -------------------------------------------------------------------------------------
+
 [params]
 text_color = ""
 author = "Julian West"
-favicon = ""
+favicon = "/images/favicon/favicon.ico"
 site_logo = ""
-description = "julianwest.me.blog"
+# site description
+description = "tech   |   devops    |   cloud   |   life"
+showMenu = true  # Show navigation menu
+showRSSButton = true # Show rss button in navigation
+# site keywords
+  keywords = []
+# site default theme ["light", "dark", "auto"]
+  defaultTheme = "auto"
 # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
 background_color_class = "bg-black"
 # choose fitting and alignment styles for the featured image using Tachyons classes such as "cover|contain" for fitting and "bg-top|bg-center|bg-bottom" for alignment, or add any other class space-separated to customize further
@@ -55,29 +286,63 @@ featured_image_class = "cover bg-top"
 # choose a color dimming class for the page or site header from any on this page: https://tachyons.io/docs/themes/skins/, preface it with "bg-" and add the value such as "-X0" where X is in [1,9]
 cover_dimming_class = "bg-black-60"
 recent_posts_number = 5
+showPostsOnHomePage = "recent"
+numberPostsOnHomePage = 2
+avatarAltText = "avatar"
+avatarSize = "size-l"
+avatarURL = "/images/avatar.jpeg"
+footer = "julianwest.me"
+metaKeywords = ["blog", "julianwest.me", "julian west"]
+socialIcons = [
+      {name = "GitHub", url = "https://github.com/J-DubApps"},
+      {name = "Resume", url = "https://julianwest.me/Resume"},
+      {name = "linkedin", url = "https://www.linkedin.com/in/julianwest/"},
+      {name = "Instagram", url = "https://www.instagram.com/mrjdub/"},
+      {name = "bluesky", url = "https://bsky.app/profile/julianwest.me"},
+      {name = "Email", url = "http://julianwest.me/Blog/contact"},
+      {name = "Signal", url = "http://julianwest.me/Blog/contact"},
+    ]
 
+# Configure the home page
+[params.home]
+        introHeight              = "fullheight"            # Input either "medium" or "large" or "fullheight"
+        showLatest               = true                    # Show latest blog post summary
+        showAllPosts             = false                   # Set true to list all posts on home page, or set false to link to separate blog list page
+        allPostsArchiveFormat    = true                    # show all posts in an archive format
+        numberOfProjectsToShow   = 3                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
+        localTime                = true                    # Show your current local time in contact section
+        timeZone                 = "America/Chicago"    # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+        timeFormat               = "en-US"                 # Language specific format to use
+ [params.projects]
+        useTwoColumns            = false                   # Use a layout with two columns instead of three
 
-[params.ananke.social.share]
-networks = [
-  "email",
-  "facebook",
-  "bluesky",
-  "linkedin"
-]
+ # Share buttons on blog post pages
+[params.share]
+      Twitter = false
+      Facebook = false
+      Linkedin = false
+ # Social icons appear in introduction and contact section. Add as many more as you like.
+    # Icon pack "fab" includes social network icons, see: https://fontawesome.com/icons?d=gallery&s=brands&m=free
+    # Icon pack "fas" includes solid style icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
+    [[params.social]]
+        url   = "https://twitter.com/"
+        icon  = "twitter" # icon name without the 'fa-'
+        icon_pack = "fab"
+    [[params.social]]
+        url   = "https://facebook.com/"
+        icon  = "facebook-f" # icon name without the 'fa-'
+        icon_pack = "fab"
+    [[params.social]]
+        url   = "https://linkedin.com/"
+        icon  = "linkedin-in" # icon name without the 'fa-'
+        icon_pack = "fab"
+    [[params.social]]
+        url = "mailto:youremail@email.com"  # For a direct email link, use "mailto:test@example.org".
+        icon = "paper-plane" # icon name without the 'fa-'
+        icon_pack = "fas"
+    [[params.social]]
+        url   = "https://mastodon.social/"
+        icon  = "mastodon" # icon name without the 'fa-'
+        icon_pack = "fab"
+        html_attributes = "rel=\"me\"" # Add rel attribute for Mastodon profile link verification
 
-[params.ananke.social.follow]
-networks = [
-  "facebook",
-  "bluesky",
-  "linkedin"
-]
-
-[params.ananke.social.facebook]
-username = "west.julian"
-# profilelink = "https://www.facebook.com/west.julian"
-
-[params.ananke.social.linkedin]
-username = "julianwest"
-
-[params.ananke.social.bluesky]
-username = "julianwest.me"
