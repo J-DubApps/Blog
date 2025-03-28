@@ -55,7 +55,7 @@ Provide structured labs or sandbox environments to try out the SME’s troublesh
 4.	**Mentorship or Pairing** <br />
 Instead of lurking in the background during an outage, partner with your expert outside of crisis situations. Shadow them on routine checks and less critical tasks, where they can afford the time to explain processes and reasoning without the pressure of a ticking clock. <br />
 5.	**Formal Cross-Training Programs** <br />
-Encourage SMEs to create training modules or hold lunch-and-learns. This approach helps shift from a reactive “learn when it breaks” approach to a proactive continuous-learning culture.
+If you have documentation staff or processes available to you, encourage your SMEs to help create training modules or hold lunch-and-learns. This is not always possibel on small teams, or practical, but can be a valuable activity. This approach helps shift your IT group culture away from a reactive “learn when it breaks” approach...and towards a proactive continuous-learning culture.
 
 # Wrapping-Up
 
