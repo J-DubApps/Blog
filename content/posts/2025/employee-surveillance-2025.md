@@ -4,7 +4,7 @@ draft = false
 title = 'Warehouse Staff-Tracking Tech Hits Office Workers'
 description = 'The surveillance tech waiting for workers as they return to the office'
 type = 'post'
-tags = ["tech", "digital-privacy", "career", "best-of", "thought", "news-link", "remote-work", "opinion", "project-mgmt", "leadership", "work-culture"]
+tags = ["tech", "digital-privacy", "career", "thought", "news-link", "remote-work", "opinion", "project-mgmt", "leadership", "work-culture"]
 +++
 <img src="https://julianwest.me/Blog/posts/images/employee-monitoring-legal.jpg" alt="Alt text" width="400" height="220"> 
 
