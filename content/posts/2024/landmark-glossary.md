@@ -253,7 +253,9 @@ Every discipline has its own *lingo* or "*terms of art*"; however, **The Forum**
 
 **To put succinctly**: the *knowing* of this material ("***getting it***", as they say), and practically using these tools, usually requires *attending* The **Landmark Forum** 3-day weekend (and one Tuesday night) sessions.  The phrase "[**If you know, you** ***know***...](https://www.planoly.com/glossary/iykyk)" (IYKYK) applies to so much of this material.  I think someone who pursues a degree in **academic Philosophy**, with emphasis on *both* Eastern and Western Philosophies, would probably get this stuff—but for my money, a weekend at The **Landmark Forum** was a lot quicker (and cheaper 🙃). **The Forum** a repackaging of a lot of major Zen and Philosophical concepts, but it gets pretty deep in a short time. So I think anyone trying to use [my 3-part write-up](#preface) or this rough Glossary, *without* having attended **The Forum**, is *folly*. Hence that is why this page's intended audience are **Forum** grads or non-biased/academic researches.
 
-#### 2. Are you a Landmark Forum fan, enthusiast, or shill?  Otherwise what is the point of this page?
+#### 2. Are you a Landmark Forum fan, enthusiast, or shill?  Otherwise what is the point of this page? 
+
+**A:** <br />
 
 Nope. I am just some guy who got a free ride (company *sponsored*) to attend The **Landmark Forum** in 1995. The *point* of this rough Glossary is *twofold*: <br />
 
@@ -317,7 +319,7 @@ Yes! Below is a list I compiled over the years, of some of the primary philosoph
 
 **A:** <br />
 
-While Werner Erhard was involved with [**Scientology**](https://en.wikipedia.org/wiki/Scientology) for a brief period, the extent of direct influence on **est** is debated. Many see parallels in the intensity, and the focus on *personal* ***responsibility***, and the breakdown of *personal narratives*. Erhard himself has denied using or taking any training materials from Scientology, and his answer has always been that est training should be seen as a compilation (or distillation) of many disciplines (which is, if we're evaluating Scientlogy—is what L.Ron Hubbard *also did*). <br /> 
+While Werner Erhard was involved with [**Scientology**](https://en.wikipedia.org/wiki/Scientology) for a brief period, the extent of direct influence on **est** is debated. Many see parallels in the intensity, and the focus on *personal* ***responsibility***, and the breakdown of *personal narratives*. Erhard himself has denied using or taking any training materials from Scientology, and his answer has always been that est training should be seen as a compilation (or distillation) of many disciplines (which is, if we're evaluating Scientology—is what L.Ron Hubbard *also did*). <br /> 
 
 I have no direct experience with Scientology, only what I've read or heard ex-Scientologists say—and Scientologists on-record clearly see parallels in a lot of **est** and **LF** concepts. But I can't comment on *which specific materials* Erhard *may have* “*borrowed*” for usage in creating est.  I was once told Scientology's “*Reactive Mind*” concept (first mentioned in “Dianetics” and throughout Scientology materials and rundowns) was in-part what gave Erhard concepts of “*Automatic Ways of* ***Being***” — aka “[***Already Always Listening***](#aal)” &trade;.<br />
 
