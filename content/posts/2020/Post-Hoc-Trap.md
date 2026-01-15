@@ -28,7 +28,7 @@ This Latin phrase, "***Post Hoc, Ergo Propter Hoc***" translates to “***after 
 
 “Post Hoc” reasoning occurs when someone concludes that because one thing followed another, the first thing must have caused the second. It’s a hallmark of faulty logic that can appear almost anywhere, from casual water-cooler chat to high-level strategic planning. For example, suppose you finish rolling out a Windows security patch and shortly thereafter notice a spike in CPU usage on your application server. You might be tempted to say, “The patch caused the CPU spike.” While it could be true, making that assumption outright is risky. Without proper analysis, you might overlook other underlying causes: a scheduled background job, a spike in user traffic, a faulty hardware component, or even a different patch installed weeks before that only just revealed its latent impact. <br />
 
-Like any good [conspiracy theory](https://en.wikipedia.org/wiki/Conspiracy_theory), logical fallacies provde a simple and easy explanation almost *never* rooted in truth or accuracy. They are empty calories: the *easy* and, yes, sometimes *lazy* path to trobleshooting root cause of *anything*.
+Like any good [conspiracy theory](https://en.wikipedia.org/wiki/Conspiracy_theory), logical fallacies provide a simple and easy explanation almost *never* rooted in truth or accuracy. They are empty calories: the *easy* and, yes, sometimes *lazy* path to troubleshooting root cause of *anything*.
 
 ## How the Fallacy Arises
 
