@@ -3,18 +3,18 @@ date = '2026-03-26T16:17:00-05:00'
 draft = false
 title = 'Using Obsidian Notes and Claude to Publish to My Blog'
 type = 'post'
-tags = ["tech", "blog", "devops"]
+tags = ["tech", "blog", "ai"]
 +++
 
 I've tried a lot of blogging setups over the years. Dedicated CMS platforms, standalone Markdown editors, even just raw vim sessions committed straight to a repo. They all worked, technically. But all of them had the usual friction, weren't easily automated, and none of them felt like home.
 
-Then I started using Obsidian for everything else in my life, notes, projects, daily journaling, research, and a thought hit me: why am I leaving this app to go write blog posts somewhere else?
+Then last year I started using [Obsidian](https://obsidian.md) for everything else in my life, notes, projects, daily journaling, research, and a thought hit me: why am I leaving this app to go write blog posts somewhere else?
 
 ## One Place for Everything
 
 Obsidian is already where I think. It's where I capture ideas at 2am, process meeting notes, and maintain a personal knowledge base that links everything together with internal wikilinks. The Markdown is clean, the editor is fast, and the vault syncs across all my devices.
 
-Hugo, the static site generator that powers my blog, also runs on Markdown. The connection almost makes itself. Other than frontmatter tweaks (e.g. Obsidian fronmatter is yaml while Hugo uses toml), it's nothing at all to just have my blog posting process and pipeline be right there in Obsidian.
+[Hugo](https://gohugo.io), the static site generator that powers my blog, also runs on Markdown. The connection almost makes itself. Other than frontmatter tweaks (e.g. Obsidian frontmatter is yaml while Hugo uses toml), it's nothing at all to just have my blog posting process and pipeline be right there in Obsidian.
 
 So I configured Obsidian as my primary blogging editor. My blog's content lives inside my Obsidian vault as a symlinked folder pointing to the Hugo site's Git repo.  The symlink to the repo is not indexed or modified by any Plugins (avoids frontmatter corruption), and I keep a separate "`Blog-Posts`"  folder in Obsidian where I can keep a copy (and backup) of blog content -- while live posts just get saved direct to my blog's Git repo.  
 
@@ -22,7 +22,7 @@ So I write, I edit, I organize, all without leaving the app where I already spen
 
 ## Claude Cowork & Claude Code Assisting
 
-Claude Cowork & Code can help me further reduce friction, by helping me automate a pipeline on each phase of my writing.   I still want to be the one doing most of the writing (though I have used Claude to do research/iterate on draft revision ideas), but there's no reason why Claude can't do a quick check on my final drafts for voice/tone issues or misspellings etc.  Then after that, Claude can push the content right into my blog's Git repo and even perform the Git commit. 
+[Claude](https://claude.ai) Cowork & Code can help me further reduce friction, by helping me automate a pipeline on each phase of my writing.   I still want to be the one doing most of the writing (though I have used Claude to do research/iterate on draft revision ideas), but there's no reason why Claude can't do a quick check on my final drafts for voice/tone issues or misspellings etc.  Then after that, Claude can push the content right into my blog's Git repo and even perform the Git commit. 
 
 ## From Obsidian to the Web
 
