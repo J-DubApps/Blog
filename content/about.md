@@ -27,7 +27,7 @@ I grew up in poverty, nothing unique but I wouldn't trade those early experience
 I am a self-made man with the past mistakes to prove it. I keep growing and learning every day.\
 Writing code changed my life, along with tech and curiosity.\
 Myers-Briggs says I am INTP, but I do like people. At least the cool ones.\
-My earliest friends call me “Jules”, late-comers "JDub".  Nobody cares as long as I answer.😉\
+My earliest friends call me “Jules”, late-comers "JDub". Strangers' nicknames redacted. 😉\
 I once met Quentin Tarantino and William Shatner. Not at the same time.\
 Despite managing Cisco/Microsoft/Linux systems, I am a huge Apple geek. Not that uncommon.\
 I was an EV fan & Tesla early-adopter, I claim no fanhood for the immigrant oligarch who lost his mind.\
