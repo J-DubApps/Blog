@@ -5,47 +5,47 @@ title = 'Navigating Blog Posts: Shortcuts'
 type = 'post'
 tags = ["blog", "links"]
 +++
-**Handy *Filters* for when [*Tags*](https://julianwest.me/Blog/tags/) aren't enough**. 
+**Handy *Filters* for when [*Tags*](https://blog.julianwest.me/tags/) aren't enough**. 
 
 <small> <b>Blog "<i>Best-of</i>" / <i>Tags</i> menu options are always at the top <i>right</i> </b> </small> 👆🏻
 
-📖 ["**Blog**"](https://julianwest.me/Blog/posts/) = the ***firehose***: a descending list of *every* post on the blog.<br />
-⭐️ ["***Best-Of***"](https://julianwest.me/Blog/best-of/) = most-read posts, or posts w/ most feedback.<br />
-🏷️  ["***Tags***"](https://julianwest.me/Blog/tags/) = posts organized by category, or ***tag***. <-- <span style="font-size: 10px;">newcomers start here.</span>
+📖 ["**Blog**"](https://blog.julianwest.me/posts/) = the ***firehose***: a descending list of *every* post on the blog.<br />
+⭐️ ["***Best-Of***"](https://blog.julianwest.me/best-of/) = most-read posts, or posts w/ most feedback.<br />
+🏷️  ["***Tags***"](https://blog.julianwest.me/tags/) = posts organized by category, or ***tag***. <-- <span style="font-size: 10px;">newcomers start here.</span>
 
 #### Shortcuts to popular content:
 
-⭐️ [***Best-Of (no Tech)***](https://julianwest.me/Blog/best-of-no-tech/) = "Best-of" *without* any Tech content.<br />
-🌟 [***Tech-Related***](https://julianwest.me/Blog/best-of-tech/) = "Best-of" *tech-related* posts only. <br />
-🔝 [***Top 10***](https://julianwest.me/Blog/top-10/) = Top 10 Posts of *All Time* on [julianwest.me](https://julianwest.me). <br />
-🆕 [***Recent 10***](https://julianwest.me/Blog/recent-10/) = 10 *Most-Recent* Posts. <br />
+⭐️ [***Best-Of (no Tech)***](https://blog.julianwest.me/best-of-no-tech/) = "Best-of" *without* any Tech content.<br />
+🌟 [***Tech-Related***](https://blog.julianwest.me/best-of-tech/) = "Best-of" *tech-related* posts only. <br />
+🔝 [***Top 10***](https://blog.julianwest.me/top-10/) = Top 10 Posts of *All Time* on [julianwest.me](https://blog.julianwest.me). <br />
+🆕 [***Recent 10***](https://blog.julianwest.me/recent-10/) = 10 *Most-Recent* Posts. <br />
 
 #### Shortcuts to popular *Tagged* content:
 
-##### 🗞️ [News Link Items](https://julianwest.me/Blog/tags/news-link/)
+##### 🗞️ [News Link Items](https://blog.julianwest.me/tags/news-link/)
 
-##### 📷 [Photo posts during Travel or Life](https://julianwest.me/Blog/tags/photo/)
+##### 📷 [Photo posts during Travel or Life](https://blog.julianwest.me/tags/photo/)
 
-##### 📺 [Video Content posts](https://julianwest.me/Blog/tags/video-content/)
+##### 📺 [Video Content posts](https://blog.julianwest.me/tags/video-content/)
 
-##### 🔰 [IT Fundamentals](https://julianwest.me/Blog/tags/beginner-fundamentals/)
+##### 🔰 [IT Fundamentals](https://blog.julianwest.me/tags/beginner-fundamentals/)
 
-##### 🎖️ [Tech or IT Best-Practices](https://julianwest.me/Blog/tags/best-practice/)
+##### 🎖️ [Tech or IT Best-Practices](https://blog.julianwest.me/tags/best-practice/)
 
-##### 🧑🏻‍💻 [Enterprise IT or DevOps](https://julianwest.me/Blog/it-devops/)
+##### 🧑🏻‍💻 [Enterprise IT or DevOps](https://blog.julianwest.me/it-devops/)
 
-##### ⌨️  [PowerShell Related Content](https://julianwest.me/Blog/tags/powershell/) / [PowerShell Coding Walk-Thrus](https://julianwest.me/Blog/ps-walkthrus/)
+##### ⌨️  [PowerShell Related Content](https://blog.julianwest.me/tags/powershell/) / [PowerShell Coding Walk-Thrus](https://blog.julianwest.me/ps-walkthrus/)
 
-##### 👨🏻‍💻 [IT or DevOps Walkthroughs](https://julianwest.me/Blog/tags/walk-thru/)
+##### 👨🏻‍💻 [IT or DevOps Walkthroughs](https://blog.julianwest.me/tags/walk-thru/)
 
-##### 👨🏻‍💻 [Tech Cheatsheets](https://julianwest.me/Blog/tags/cheatsheet/)
+##### 👨🏻‍💻 [Tech Cheatsheets](https://blog.julianwest.me/tags/cheatsheet/)
 
-##### 👨🏻‍💻 [Networking](https://julianwest.me/Blog/tags/networking/)
+##### 👨🏻‍💻 [Networking](https://blog.julianwest.me/tags/networking/)
 
-##### 📚 [Books Reviews or Posts about Authors](https://julianwest.me/Blog/tags/books/)
+##### 📚 [Books Reviews or Posts about Authors](https://blog.julianwest.me/tags/books/)
 
-##### 📜 [Notable Quotes](https://julianwest.me/Blog/tags/quote/)
+##### 📜 [Notable Quotes](https://blog.julianwest.me/tags/quote/)
 
-##### 📰 [Commentary / Opinion](https://julianwest.me/Blog/tags/opinion/) <--- <span style="font-size: 10px;">does <i><b><u>NOT</i></b></u> reflect opinions of my employers / clients. See "***Terms***" link at bottom.</span>
+##### 📰 [Commentary / Opinion](https://blog.julianwest.me/tags/opinion/) <--- <span style="font-size: 10px;">does <i><b><u>NOT</i></b></u> reflect opinions of my employers / clients. See "***Terms***" link at bottom.</span>
 
 ###### ...and finally, see "***Colophon***" below for blog stack info, and "***Terms***" for stuff lawyers need me to say.
