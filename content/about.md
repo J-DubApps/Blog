@@ -20,17 +20,17 @@ type = 'page'
 
 
 #### Trivial trivia 👇🏻
-I love technology, art, and good design...and the occasional board game.<br />
-For a living I’m an ops nerd working IT network projects & cloud deployments.<br />   
-I was raised in rural Texas, born to parents who were <i>both</i> born before 1931 (I am late for everything).<br />
-I grew up in poverty, nothing unique but I wouldn't trade those early experiences for anything.<br />
-I am a self-made man with the past mistakes to prove it. I keep growing and learning every day.<br />      
-Writing code changed my life, along with tech and curiosity.<br />   
-Myers-Briggs says I am INTP, but I do like people. At least the cool ones.<br />   
-My earliest friends call me “Jules”, late-comers "JDub".  Nobody cares as long as I answer. 😉<br />
-I once met Quentin Tarantino and William Shatner. Not at the same time.<br />
-Despite managing Cisco/Microsoft/Linux systems, I am a huge Apple geek. Not that uncommon.<br />   
-I am an EV fan and Tesla early-adopter. It's a good car in spite of a certain immigrant oligarch out there wilding.&#129335;<br />   
-For hobbies I write, play guitar/ukulele, and develop messy PowerShell and Python code. <br /><br />
+I love technology, art, and good design...and the occasional board game.
+For a living I’m an ops nerd working IT network projects & cloud deployments. 
+I was raised in rural Texas, born to parents who were *both* born before 1931 (I am late for everything).
+I grew up in poverty, nothing unique but I wouldn't trade those early experiences for anything.
+I am a self-made man with the past mistakes to prove it. I keep growing and learning every day.
+Writing code changed my life, along with tech and curiosity.
+Myers-Briggs says I am INTP, but I do like people. At least the cool ones.
+My earliest friends call me “Jules”, late-comers "JDub".  Nobody cares as long as I answer. 😉
+I once met Quentin Tarantino and William Shatner. Not at the same time.
+Despite managing Cisco/Microsoft/Linux systems, I am a huge Apple geek. Not that uncommon.
+I was an EV fan & Tesla early-adopter, I claim no fanhood for the immigrant oligarch who lost his mind.
+For hobbies I write, play guitar/ukulele, and develop messy PowerShell and Python code.
 
 This is all <i><a href="https://en.wikipedia.org/wiki/Parasocial_interaction">Parasocial</a></i> and there's more to a person than a web site, <a href ="https://julianwest.me/Blog/contact/"><i><b>so reach out if any questions</a></i></b>!
