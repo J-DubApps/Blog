@@ -12,7 +12,7 @@ This is the personal blog of [Julian West](http://julianwest.me/Blog/about/). Si
 <img src="https://julianwest.me/Blog/posts/images/julian.jpeg" alt="Alt text" width="165" height="225">
 
 
-#### Hosting = <a href="https://pages.github.com">Github Pages</a>.
+Hosting = <a href="https://pages.github.com">Github Pages</a>.\
 Blog = <b><a href="https://gohugo.io">Hugo</a></b> static site generator.\
 Posts = git-push markdown.md content --> GitHub Actions workflow.\
 I draft content in [neovim](https://neovim.io) or [Obsidian](https://obsidian.md) in [Markdown](https://en.wikipedia.org/wiki/Markdown">Markdown).\
