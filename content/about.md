@@ -31,6 +31,6 @@ My earliest friends call me “Jules”, late-comers "JDub".  Nobody cares as lo
 I once met Quentin Tarantino and William Shatner. Not at the same time.\
 Despite managing Cisco/Microsoft/Linux systems, I am a huge Apple geek. Not that uncommon.\
 I was an EV fan & Tesla early-adopter, I claim no fanhood for the immigrant oligarch who lost his mind.\
-For hobbies I write, play guitar/ukulele, and develop messy PowerShell and Python code.\
+For hobbies I write, play guitar/ukulele, and develop messy PowerShell and Python code.
 
 About pages are <i><a href="https://en.wikipedia.org/wiki/Parasocial_interaction">Parasocial</a></i> Simulacra. There's more to a person than their web site, <a href ="https://julianwest.me/Blog/contact/"><i><b>so feel free to reach out</a></i></b>!
