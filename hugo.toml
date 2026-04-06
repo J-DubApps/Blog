@@ -1,4 +1,4 @@
-baseURL = 'http://julianwest.me/Blog/' # Your domain name. Must end with "/"
+baseURL = 'http://blog.julianwest.me/' # Your domain name. Must end with "/"
 languageCode = 'en-us'
 title = 'julianwest.me'
 theme = "gokarna"
@@ -27,7 +27,7 @@ defaultContentLanguage = "en"
     identifier = "main"
     parent = ""
     name = ''
-    url = "https://julianwest.me/Blog"
+    url = "https://blog.julianwest.me/"
     Pre = "<span data-feather='home'></span>"
     weight = 10
   [[menus.main]]
@@ -39,7 +39,7 @@ defaultContentLanguage = "en"
     weight = 20
     [[menus.main]]
     name = 'Best-of'
-    url = 'https://julianwest.me/Blog/best-of/'
+    url = 'https://blog.julianwest.me/best-of/'
     Pre = "<span data-feather='star'></span>"
     weight = 25
   [[menus.main]]
@@ -72,7 +72,7 @@ defaultContentLanguage = "en"
     name = ""
     parent = ""
     pre = "<span data-feather='rss'></span>"
-    url = "https://julianwest.me/Blog/index.xml"
+    url = "https://blog.julianwest.me/index.xml"
     weight = 25
 
 
@@ -299,7 +299,7 @@ socialIcons = [
       {name = "linkedin", url = "https://www.linkedin.com/in/julianwest/"},
       {name = "Instagram", url = "https://www.instagram.com/mrjdub/"},
       {name = "bluesky", url = "https://bsky.app/profile/julianwest.me"},
-      {name = "Email", url = "http://julianwest.me/Blog/contact"},
+      {name = "Email", url = "http://blog.julianwest.me/contact"},
     ]
 
 # Configure the home page
