@@ -33,4 +33,4 @@ Despite managing Cisco/Microsoft/Linux systems, I am a huge Apple geek. Not that
 I was an EV fan & Tesla early-adopter, I claim no fanhood for the immigrant oligarch who lost his mind.\
 For hobbies I write, play guitar/ukulele, and develop messy PowerShell and Python code.
 
-About pages, like social media, amount to <i><a href="https://en.wikipedia.org/wiki/Parasocial_interaction">Parasocial</a></i> Simulacra. If you need to ask a question go interactive and <a href ="https://julianwest.me/Blog/contact/"><i><b>feel free to reach out</a></i></b>!
+*About pages*, like social media, amount to [Parasocial]](https://en.wikipedia.org/wiki/Parasocial_interaction">Parasocial) Simulacra. So if you need to ask a question go interactive and <a href ="https://julianwest.me/Blog/contact/"><i><b>feel free to reach out</a></i></b>!
