@@ -1,1 +1,1 @@
-My personal Blog, a Hugo static site generator hosted on GitHub Pages @ [**https://julianwest.me/Blog**](https://blog.julianwest.me).
+My personal Blog, a Hugo static site generator hosted on GitHub Pages @ [**https://blog.julianwest.me**](https://blog.julianwest.me).
