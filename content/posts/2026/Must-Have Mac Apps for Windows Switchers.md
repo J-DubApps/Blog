@@ -3,7 +3,7 @@ date = '2026-04-07T09:00:00-05:00'
 draft = false
 title = 'Must-Have Mac Apps for Windows Switchers'
 type = 'post'
-tags = ["misc"]
+tags = ["tech", "windows", "macos", "apple", "microsoft", "beginner-fundamentals", "skill-development", "code", "opinion"]
 +++
 
 # Must-Have Mac Apps for a Windows-to-macOS Switcher
