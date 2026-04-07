@@ -159,7 +159,8 @@ macOS has a surprisingly good built-in screenshot workflow (⌘⇧5, then Return
 
 The built-in Terminal is fine. I actually like it. But keep these in mind:
 
-- **iTerm** — the definitive macOS Terminal replacement
+- **iTerm** — a popular macOS Terminal replacement
+- Ghostty -- a Zig (C++) popular Terminal I just discovered from another close friend, who just read this article.  Well-worth checking out, seems more responsive than iTerm.
 - **PowerShell** — yes, PowerShell runs on Mac. Your scripts and muscle memory come with you.
 
 ---
