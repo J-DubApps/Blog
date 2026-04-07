@@ -309,10 +309,10 @@ All the usual suspects are here: **Slack**, **MS Teams**, **Zoom**, **Discord**.
 
 ## The tl;dr for Any Switcher
 
-If you scrolled to the bottom, this is the short version:
+If you scrolled to the bottom (I don't blame you), this is the short version:
 
 1. **Window management isn't built-in like Windows** — grab **AltTab** and **Rectangle Pro** (or Magnet) on day one
-2. **Homebrew is non-negotiable** — it's how you install CLI tools and a lot of apps
+2. **Homebrew is *non-negotiable**** — it's how you install CLI tools and a l*ot* of apps
 3. **iTerm replaces Terminal** the way Windows Terminal replaced `cmd.exe`
 4. **Karabiner-Elements** gets your muscle-memory keyboard shortcuts back
 5. **The Unarchiver / Keka** — the built-in Archive Utility is thin, you'll want these
