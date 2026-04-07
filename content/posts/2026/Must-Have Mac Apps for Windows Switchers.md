@@ -3,7 +3,7 @@ date = '2026-04-07T09:00:00-05:00'
 draft = false
 title = 'Must-Have Mac Apps for Windows Switchers'
 type = 'post'
-tags = ["tech", "windows", "macos", "apple", "microsoft", "beginner-fundamentals", "skill-development", "code", "opinion"]
+tags = ["tech", "windows", "macos", "apple", "microsoft", "beginner-fundamentals", "skill-development", "code", "opinion", "apps-that-i-like"]
 +++
 
 # Must-Have Mac Apps for a Windows-to-macOS Switcher
@@ -16,7 +16,7 @@ Windows still pays the bills — that part may never change. But my daily-driver
 
 Here's what I'd tell my friend, or anyone else making the jump: no matter which OS tickles your fancy, Mac and Linux skills are table stakes now. Bash, a decent terminal, package managers — you're going to need them. And yes, iCloud and the App Store are genuinely pleasant once you let them be. More and more nerds I know have made the jump like I did, and nobody I've asked wants to go back.
 
-So this is the list I wish someone had handed me 17 years ago. Productivity, utilities, and power-user tools — no audio/video creative apps, no gaming. Just the things I actually reach for.
+So this is the list I wish someone had handed me 17 years ago -- except some apps/tools in this list didn't exist yet.  Productivity, utilities, and power-user tools — no audio/video creative apps, no gaming (that's another blog article, but creativity -- hooo boy is it fun on Mac).   The long list below just includes the things I actually reach for in my workday in IT Ops work.
 
 > If you only remember one thing from this post: **install [Homebrew](https://brew.sh) first.** Everything else gets easier after that.
 
