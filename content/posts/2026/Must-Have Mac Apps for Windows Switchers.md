@@ -14,7 +14,7 @@ I've been on the other side of that crossing for nearly 17 years now.
 
 Windows still pays the bills — that part may never change. But my daily-driver, the place where _most_ of my actual knowledge work happens, sits firmly in the [\*nix world](https://en.wikipedia.org/wiki/Unix-like). And since [BSD Unix has always been the core of macOS](https://liam-on-linux.livejournal.com/70268.html), I ended up awash in Macs almost by accident. I still run more PCs (Linux and Windows) than Macs in the house — but that ratio is getting closer every year.
 
-Here's what I'd tell my friend, or anyone else making the jump: no matter which OS tickles your fancy, Mac and Linux skills are table stakes now. Bash, a decent terminal, package managers — you're going to need them. And yes, iCloud and the App Store are genuinely pleasant once you let them be. More and more nerds I know have made the jump like I did, and nobody I've asked wants to go back.
+Here's what I'd tell my friend, or anyone else making the jump: no matter which OS tickles your fancy, Mac and Linux skills are table stakes now. Bash, a decent terminal, package managers — you're going to need them. And yes, iCloud and the App Store are genuinely pleasant once you let them be. More and more nerds I know have made this jump, and nobody I've asked wants to go back once it "clicks."
 
 So this is the list I wish someone had handed me 17 years ago -- except some apps/tools in this list didn't exist yet.  Productivity, utilities, and power-user tools — no audio/video creative apps, no gaming (that's another blog article, but creativity -- hooo boy is it fun on Mac).   The long list below just includes the things I actually reach for in my workday in IT Ops work.
 
