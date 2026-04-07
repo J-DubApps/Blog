@@ -3,7 +3,7 @@ date = '2026-03-26T16:17:00-05:00'
 draft = false
 title = 'Using Obsidian Notes and Claude to Publish to My Blog'
 type = 'post'
-tags = ["tech", "blog", "ai"]
+tags = ["tech", "blog", "ai", "obsidian"]
 +++
 
 I've tried a lot of blogging setups over the years. Dedicated CMS platforms, standalone Markdown editors, even just raw vim sessions committed straight to a repo. They all worked, technically. But all of them had the usual friction, weren't easily automated, and none of them felt like home.
