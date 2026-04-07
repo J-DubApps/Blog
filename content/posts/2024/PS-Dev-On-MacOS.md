@@ -3,7 +3,7 @@ date = '2024-09-12T14:14:51-06:00'
 draft = false
 title = 'Setting up VSCode for PowerShell Work - MacOS'
 type = 'post'
-tags = ["tech", "powershell", "devops", "microsoft", "code", "apple", "beginner-fundamentals", "enterprise-it", "best-of", "walk-thru", "macos"]
+tags = ["tech", "powershell", "devops", "microsoft", "code", "apple", "beginner-fundamentals", "enterprise-it", "best-of", "walk-thru", "macos", "apps-that-i-like"]
 +++
 
 <style>

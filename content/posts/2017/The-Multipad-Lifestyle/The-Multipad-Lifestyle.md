@@ -3,7 +3,7 @@ date = '2017-03-22T23:05:44-06:00'
 draft = false
 title = 'The Multipad Lifestyle'
 type = 'post'
-tags = ["tech", "apple", "photo"]
+tags = ["tech", "apple", "photo", "apps-that-i-like"]
 +++
 
 <style>
